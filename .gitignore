@@ -1,0 +1,33 @@
+# Docker data
+db_data/
+test_temp/
+
+# Python cache & env
+__pycache__/
+.env
+
+# Ignore WordPress core files (vì trên VPS đã có sẵn hoặc tự sinh)
+src/wp-admin/
+src/wp-includes/
+src/wp-content/plugins/
+src/wp-content/uploads/
+src/*.php
+src/.htaccess
+src/license.txt
+src/readme.html
+
+# Ignore all themes by default
+src/wp-content/themes/*
+
+# CHỈ GIỮ LẠI theme cào của chúng ta
+!src/wp-content/themes/dienmay8-clone/
+
+# Loại bỏ các file zip của Flatsome
+flatsome.zip
+
+# Ignore downloaded fonts
+src/wp-content/fonts/
+
+# Ignore executables and root HTML leftovers
+*.exe
+xmlrpc.html
