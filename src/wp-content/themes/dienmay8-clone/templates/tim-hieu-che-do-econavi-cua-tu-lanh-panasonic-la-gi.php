@@ -782,17 +782,8 @@ Tra cứu đơn hàng</a>
 	</li>
 <li>
 	
-	<a href="/dan-lanh-multi-lg-18000btu-2-chieu-inverter-amnw18gskb0/">
-		<img width="100" height="100" src="/wp-content/uploads/2022/11/lg-multi-2-chieu-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/lg-multi-2-chieu-100x100.jpg 100w, /wp-content/uploads/2022/11/lg-multi-2-chieu-150x150.jpg 150w, /wp-content/uploads/2022/11/lg-multi-2-chieu-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" />		<span class="product-title">Dàn lạnh điều hòa multi LG 18000BTU AMNW18GSKB0 2 chiều inverter</span>
-	</a>
-
-			<div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 đánh giá</div></div>	
-	<del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>6.980.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>5.970.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins>
-	</li>
-<li>
-	
-	<a href="/dieu-hoa-cay-lg-zpnq48gt3a0/">
-		<img width="100" height="100" src="/wp-content/uploads/2022/11/dieu-hoa-cay-lg-zpnq24gs1a0-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/dieu-hoa-cay-lg-zpnq24gs1a0-100x100.jpg 100w, /wp-content/uploads/2022/11/dieu-hoa-cay-lg-zpnq24gs1a0-150x150.jpg 150w, /wp-content/uploads/2022/11/dieu-hoa-cay-lg-zpnq24gs1a0-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" />		<span class="product-title">Điều hòa cây LG 1 chiều Inverter 46.500Btu ZPNQ48GT3A0 | 2022</span>
+	<a href="/dieu-hoa-am-tran-lg-ztnq36gnla0/">
+		<img width="100" height="100" src="/wp-content/uploads/2022/11/dieu-hoa-am-tran-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/dieu-hoa-am-tran-100x100.jpg 100w, /wp-content/uploads/2022/11/dieu-hoa-am-tran-300x300.jpg 300w, /wp-content/uploads/2022/11/dieu-hoa-am-tran-150x150.jpg 150w, /wp-content/uploads/2022/11/dieu-hoa-am-tran.jpg 600w" sizes="(max-width: 100px) 100vw, 100px" />		<span class="product-title">Điều hòa âm trần LG 1 chiều Inverter 36.000btu ZTNQ36GNLA0 | 2022</span>
 	</a>
 
 			<div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 đánh giá</div></div>	
@@ -800,21 +791,30 @@ Tra cứu đơn hàng</a>
 	</li>
 <li>
 	
-	<a href="/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2/">
-		<img width="100" height="100" src="/wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-100x100.jpg 100w, /wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-150x150.jpg 150w, /wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" />		<span class="product-title">Dàn nóng điều hòa multi LG A4UW24GFA2 24000BTU 2 chiều inverter</span>
+	<a href="/dieu-hoa-lg-b24end1/">
+		<img width="100" height="100" src="/wp-content/uploads/2022/11/thinh-phat-dieu-hoa-lg-b24end1-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/thinh-phat-dieu-hoa-lg-b24end1-100x100.jpg 100w, /wp-content/uploads/2022/11/thinh-phat-dieu-hoa-lg-b24end1-150x150.jpg 150w, /wp-content/uploads/2022/11/thinh-phat-dieu-hoa-lg-b24end1-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" />		<span class="product-title">Điều Hòa LG B24END1 24.000btu 2 Chiều Inverter [2022]</span>
 	</a>
 
 			<div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 đánh giá</div></div>	
-	<del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>28.000.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>24.850.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins>
+	<span class="woocommerce-Price-amount amount"><bdi>20.250.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span>
 	</li>
 <li>
 	
-	<a href="/dieu-hoa-am-tran-lg-ztnq18gpla0/">
-		<img width="100" height="100" src="/wp-content/uploads/2022/11/dieu-hoa-am-tran-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/dieu-hoa-am-tran-100x100.jpg 100w, /wp-content/uploads/2022/11/dieu-hoa-am-tran-300x300.jpg 300w, /wp-content/uploads/2022/11/dieu-hoa-am-tran-150x150.jpg 150w, /wp-content/uploads/2022/11/dieu-hoa-am-tran.jpg 600w" sizes="(max-width: 100px) 100vw, 100px" />		<span class="product-title">Điều hòa âm trần LG 1 chiều Inverter 18.000btu ZTNQ18GPLA0 | 2022</span>
+	<a href="/dieu-hoa-noi-ong-gio-lg-18-000btu-1-chieu-inverter-zbnq18gm1a0-2022/">
+		<img width="100" height="100" src="/wp-content/uploads/2022/11/dieu-hoa-am-tran-lg-ztnq36gnla0-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/dieu-hoa-am-tran-lg-ztnq36gnla0-100x100.jpg 100w, /wp-content/uploads/2022/11/dieu-hoa-am-tran-lg-ztnq36gnla0-150x150.jpg 150w, /wp-content/uploads/2022/11/dieu-hoa-am-tran-lg-ztnq36gnla0-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" />		<span class="product-title">Điều hòa nối ống gió LG 18.000btu 1 chiều Inverter ZBNQ18GM1A0 | 2022</span>
 	</a>
 
 			<div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 đánh giá</div></div>	
 	<span class="amount">Liên hệ</span>
+	</li>
+<li>
+	
+	<a href="/dieu-hoa-lg-b18end1/">
+		<img width="100" height="100" src="/wp-content/uploads/2022/11/dieu-hoa-lg-b18end1-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/dieu-hoa-lg-b18end1-100x100.jpg 100w, /wp-content/uploads/2022/11/dieu-hoa-lg-b18end1-150x150.jpg 150w, /wp-content/uploads/2022/11/dieu-hoa-lg-b18end1-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" />		<span class="product-title">Điều Hòa LG B18END1 18.000btu 2 Chiều Inverter [2022]</span>
+	</a>
+
+			<div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 đánh giá</div></div>	
+	<del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>21.250.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>17.250.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins>
 	</li>
 </ul></aside></div>
 			</div>
@@ -934,7 +934,7 @@ Tra cứu đơn hàng</a>
 
 <footer id="footer" class="footer-wrapper">
 
-		<section class="section" id="section_932835667">
+		<section class="section" id="section_825489817">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -950,10 +950,10 @@ Tra cứu đơn hàng</a>
 
 <span class="scroll-to" data-label="Scroll to: #showroom" data-bullet="false" data-link="#showroom" data-title="Change this"><a name="showroom"></a></span>
 
-<div class="row"  id="row-893339096">
+<div class="row"  id="row-883587490">
 
 
-	<div id="col-1455205554" class="col small-12 large-12"  >
+	<div id="col-2107327540" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			    <h2 class="title_listshowroom">Hệ thống kho hàng</h2>
@@ -1118,16 +1118,16 @@ Tra cứu đơn hàng</a>
 
 		
 <style>
-#section_932835667 {
+#section_825489817 {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: rgb(255, 255, 255);
 }
-#section_932835667 .ux-shape-divider--top svg {
+#section_825489817 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_932835667 .ux-shape-divider--bottom svg {
+#section_825489817 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -1136,7 +1136,7 @@ Tra cứu đơn hàng</a>
 	
 <div class="text-center"><div class="is-divider divider clearfix" style="margin-top:0px;margin-bottom:0px;max-width:1370px;height:2px;background-color:rgb(254, 0, 0);"></div></div>
 
-	<section class="section" id="section_128437803">
+	<section class="section" id="section_1452212316">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -1150,35 +1150,35 @@ Tra cứu đơn hàng</a>
 		<div class="section-content relative">
 			
 
-	<div id="gap-1853080551" class="gap-element clearfix" style="display:block; height:auto;">
+	<div id="gap-1627920960" class="gap-element clearfix" style="display:block; height:auto;">
 		
 <style>
-#gap-1853080551 {
+#gap-1627920960 {
   padding-top: 30px;
 }
 </style>
 	</div>
 	
 
-<div class="row"  id="row-1116947060">
+<div class="row"  id="row-1626053829">
 
 
-	<div id="col-1547216762" class="col medium-12 small-12 large-3"  >
+	<div id="col-2082982997" class="col medium-12 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
 
-	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_158584385">
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_2129783709">
 								<div class="img-inner dark" >
 			<img width="1920" height="925" src="/wp-content/uploads/2022/11/logo.png" class="attachment-original size-original" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/logo.png 1920w, /wp-content/uploads/2022/11/logo-300x145.png 300w, /wp-content/uploads/2022/11/logo-1024x493.png 1024w, /wp-content/uploads/2022/11/logo-600x289.png 600w" sizes="(max-width: 1920px) 100vw, 1920px" />						
 					</div>
 								
 <style>
-#image_158584385 {
+#image_2129783709 {
   width: 40%;
 }
 @media (min-width:850px) {
-  #image_158584385 {
+  #image_2129783709 {
     width: 80%;
   }
 }
@@ -1194,15 +1194,15 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-719247264" class="col medium-12 small-12 large-9"  >
+	<div id="col-594360816" class="col medium-12 small-12 large-9"  >
 				<div class="col-inner"  >
 			
 			
 
-<div class="row hide-for-small"  id="row-28715500">
+<div class="row hide-for-small"  id="row-1405293777">
 
 
-	<div id="col-1158572208" class="col medium-3 small-12 large-3"  >
+	<div id="col-837460487" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -1229,7 +1229,7 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-1468182888" class="col medium-3 small-12 large-3"  >
+	<div id="col-1059808488" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -1258,7 +1258,7 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-1416410592" class="col medium-3 small-12 large-3"  >
+	<div id="col-1732576898" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -1281,7 +1281,7 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-1785312917" class="col medium-3 small-12 large-3"  >
+	<div id="col-2085115018" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -1298,17 +1298,17 @@ Tra cứu đơn hàng</a>
 	
 
 </div>
-<div class="row show-for-small"  id="row-1571869980">
+<div class="row show-for-small"  id="row-656291615">
 
 
-	<div id="col-1239457147" class="col pad_none small-12 large-12"  >
+	<div id="col-1912250328" class="col pad_none small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			
 
 <div class="accordion menu_ft_mb">
 
-<div id="accordion-3330283966" class="accordion-item"><a id="accordion-3330283966-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-3330283966-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Hỗ trợ khách hàng</span></a><div id="accordion-3330283966-content" class="accordion-inner" aria-labelledby="accordion-3330283966-label">
+<div id="accordion-488890742" class="accordion-item"><a id="accordion-488890742-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-488890742-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Hỗ trợ khách hàng</span></a><div id="accordion-488890742-content" class="accordion-inner" aria-labelledby="accordion-488890742-label">
 
 
 
@@ -1324,7 +1324,7 @@ Tra cứu đơn hàng</a>
 
 
 </div></div>
-<div id="accordion-1588074620" class="accordion-item"><a id="accordion-1588074620-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-1588074620-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Danh mục sản phẩm</span></a><div id="accordion-1588074620-content" class="accordion-inner" aria-labelledby="accordion-1588074620-label">
+<div id="accordion-3477112928" class="accordion-item"><a id="accordion-3477112928-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-3477112928-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Danh mục sản phẩm</span></a><div id="accordion-3477112928-content" class="accordion-inner" aria-labelledby="accordion-3477112928-label">
 
 
 
@@ -1342,7 +1342,7 @@ Tra cứu đơn hàng</a>
 
 
 </div></div>
-<div id="accordion-2942627347" class="accordion-item"><a id="accordion-2942627347-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-2942627347-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Doanh nghiệp</span></a><div id="accordion-2942627347-content" class="accordion-inner" aria-labelledby="accordion-2942627347-label">
+<div id="accordion-291020714" class="accordion-item"><a id="accordion-291020714-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-291020714-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Doanh nghiệp</span></a><div id="accordion-291020714-content" class="accordion-inner" aria-labelledby="accordion-291020714-label">
 
 
 
@@ -1362,7 +1362,7 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-600169433" class="col small-12 large-12"  >
+	<div id="col-1993641478" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			   <h3 class="footer_title">Kết nối với chúng tôi</h3>
@@ -1412,16 +1412,16 @@ Tra cứu đơn hàng</a>
 
 		
 <style>
-#section_128437803 {
+#section_1452212316 {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: rgb(255, 255, 255);
 }
-#section_128437803 .ux-shape-divider--top svg {
+#section_1452212316 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_128437803 .ux-shape-divider--bottom svg {
+#section_1452212316 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -1430,7 +1430,7 @@ Tra cứu đơn hàng</a>
 	
 <div class="is-divider divider clearfix" style="margin-top:0px;margin-bottom:0px;max-width:100%;height:1px;background-color:rgb(139, 139, 139);"></div>
 
-	<section class="section" id="section_1010972113">
+	<section class="section" id="section_1633886287">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -1444,35 +1444,35 @@ Tra cứu đơn hàng</a>
 		<div class="section-content relative">
 			
 
-<div class="row"  id="row-958453489">
+<div class="row"  id="row-1579536307">
 
 
-	<div id="col-285614762" class="col small-12 large-12"  >
+	<div id="col-660225163" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			
 
-	<div id="gap-1239171947" class="gap-element clearfix" style="display:block; height:auto;">
+	<div id="gap-440904644" class="gap-element clearfix" style="display:block; height:auto;">
 		
 <style>
-#gap-1239171947 {
+#gap-440904644 {
   padding-top: 30px;
 }
 </style>
 	</div>
 	
 
-	<div id="text-3105563804" class="text">
+	<div id="text-235634825" class="text">
 		
 
 <p><strong>© 2023 CÔNG TY TNHH ĐIỆN LẠNH WEB DEMO</strong><br /><span style="font-size: 12px;">Giấy chứng nhận đăng ký kinh doanh số ..., cấp ngày ... bởi sở kế hoạch và đầu tư Thành phố Hà Nội.</span><br /><span style="font-size: 12px;">Địa chỉ đăng ký trụ sở chính: Số 19A, Đường Bát Khối, Phường Long Biên, Quận Long Biên, Hà Nội</span></p>
 		
 <style>
-#text-3105563804 {
+#text-235634825 {
   text-align: center;
   color: rgb(66, 64, 64);
 }
-#text-3105563804 > * {
+#text-235634825 > * {
   color: rgb(66, 64, 64);
 }
 </style>
@@ -1490,16 +1490,16 @@ Tra cứu đơn hàng</a>
 
 		
 <style>
-#section_1010972113 {
+#section_1633886287 {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: rgb(255, 255, 255);
 }
-#section_1010972113 .ux-shape-divider--top svg {
+#section_1633886287 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_1010972113 .ux-shape-divider--bottom svg {
+#section_1633886287 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -1609,7 +1609,7 @@ Tra cứu đơn hàng</a>
 						<label class="woocommerce-form__label woocommerce-form__label-for-checkbox woocommerce-form-login__rememberme">
 							<input class="woocommerce-form__input woocommerce-form__input-checkbox" name="rememberme" type="checkbox" id="rememberme" value="forever" /> <span>Ghi nhớ mật khẩu</span>
 						</label>
-						<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="8862567bb8" /><input type="hidden" name="_wp_http_referer" value="/tim-hieu-che-do-econavi-cua-tu-lanh-panasonic-la-gi/" />						<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Đăng nhập">Đăng nhập</button>
+						<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="8d4504862d" /><input type="hidden" name="_wp_http_referer" value="/tim-hieu-che-do-econavi-cua-tu-lanh-panasonic-la-gi/" />						<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Đăng nhập">Đăng nhập</button>
 					</p>
 					<p class="woocommerce-LostPassword lost_password">
 						<a href="/tai-khoan/lost-password/">Quên mật khẩu?</a>
@@ -1691,7 +1691,7 @@ var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","
 <script type='text/javascript' src='/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=7.8.2' id='wc-add-to-cart-variation-js'></script>
 <script type='text/javascript' id='yith_wapo_front-js-extra'>
 /* <![CDATA[ */
-var yith_wapo = {"dom":{"single_add_to_cart_button":".single_add_to_cart_button"},"i18n":{"datepickerSetTime":"Set time","datepickerSaveButton":"Save","selectAnOption":"Please, select an option","selectAtLeast":"Please, select at least %d options","selectOptions":"Please, select %d options","maxOptionsSelectedMessage":"More options than allowed have been selected","uploadPercentageDoneString":"done"},"ajaxurl":"\/wp-admin\/admin-ajax.php","addons_nonce":"40e371d9c4","upload_allowed_file_types":".jpg, .jpeg, .pdf, .png, .rar, .zip","upload_max_file_size":"5","total_price_box_option":"all","replace_product_price":"no","woocommerce_currency":"VND","total_thousand_sep":".","decimal_sep":",","priceSuffix":"","replace_image_path":".woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child img.zoomImg,\n            .woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child source,\n            .yith_magnifier_zoom img, .yith_magnifier_zoom_magnifier,\n            .owl-carousel .woocommerce-main-image,\n            .woocommerce-product-gallery__image .wp-post-image,\n            .dt-sc-product-image-gallery-container .wp-post-image","replace_product_price_class":".product .entry-summary .price:first,\n            div.elementor.product .elementor-widget-woocommerce-product-price .price","hide_button_required":"no","messages":{"minErrorMessage":"The sum of the numbers is below the minimum. The minimum value is:","maxErrorMessage":"The sum of the numbers exceeded the maximum. The maximum value is:","checkMinMaxErrorMessage":"Please, select an option","requiredMessage":"This option is required.","maxFilesAllowed":"Maximum uploaded files allowed. The maximum number of files allowed is: ","noSupportedExtension":"Error - not supported extension!","maxFileSize":"Error - file size for %s - max %d MB allowed!"},"productQuantitySelector":"form.cart .quantity input.qty:not(.wapo-product-qty)","enableGetDefaultVariationPrice":"1","currentLanguage":"","conditionalDisplayEffect":"fade"};
+var yith_wapo = {"dom":{"single_add_to_cart_button":".single_add_to_cart_button"},"i18n":{"datepickerSetTime":"Set time","datepickerSaveButton":"Save","selectAnOption":"Please, select an option","selectAtLeast":"Please, select at least %d options","selectOptions":"Please, select %d options","maxOptionsSelectedMessage":"More options than allowed have been selected","uploadPercentageDoneString":"done"},"ajaxurl":"\/wp-admin\/admin-ajax.php","addons_nonce":"1b01bfcf6f","upload_allowed_file_types":".jpg, .jpeg, .pdf, .png, .rar, .zip","upload_max_file_size":"5","total_price_box_option":"all","replace_product_price":"no","woocommerce_currency":"VND","total_thousand_sep":".","decimal_sep":",","priceSuffix":"","replace_image_path":".woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child img.zoomImg,\n            .woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child source,\n            .yith_magnifier_zoom img, .yith_magnifier_zoom_magnifier,\n            .owl-carousel .woocommerce-main-image,\n            .woocommerce-product-gallery__image .wp-post-image,\n            .dt-sc-product-image-gallery-container .wp-post-image","replace_product_price_class":".product .entry-summary .price:first,\n            div.elementor.product .elementor-widget-woocommerce-product-price .price","hide_button_required":"no","messages":{"minErrorMessage":"The sum of the numbers is below the minimum. The minimum value is:","maxErrorMessage":"The sum of the numbers exceeded the maximum. The maximum value is:","checkMinMaxErrorMessage":"Please, select an option","requiredMessage":"This option is required.","maxFilesAllowed":"Maximum uploaded files allowed. The maximum number of files allowed is: ","noSupportedExtension":"Error - not supported extension!","maxFileSize":"Error - file size for %s - max %d MB allowed!"},"productQuantitySelector":"form.cart .quantity input.qty:not(.wapo-product-qty)","enableGetDefaultVariationPrice":"1","currentLanguage":"","conditionalDisplayEffect":"fade"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='/wp-content/plugins/yith-woocommerce-product-add-ons/assets/js/front.min.js?ver=4.7.1' id='yith_wapo_front-js'></script>

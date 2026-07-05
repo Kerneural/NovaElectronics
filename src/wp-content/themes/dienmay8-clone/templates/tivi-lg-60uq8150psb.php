@@ -1,11 +1,19 @@
-
-<!DOCTYPE html>
-<html lang="vi" prefix="og: https://ogp.me/ns#" class="loading-site no-js">
-<head>
-	<meta charset="UTF-8" />
-	<link rel="profile" href="http://gmpg.org/xfn/11" />
-	<link rel="pingback" href="/xmlrpc.php" />
-
+
+
+<!DOCTYPE html>
+
+<html lang="vi" prefix="og: https://ogp.me/ns#" class="loading-site no-js">
+
+<head>
+
+	<meta charset="UTF-8" />
+
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+
+	<link rel="pingback" href="/xmlrpc.php" />
+
+
+
 	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 <!-- Search Engine Optimization by Rank Math - https://rankmath.com/ -->
@@ -127,85 +135,164 @@ img.emoji {
 <link rel='shortlink' href='/?p=1683' />
 <link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdienmay8.mauthemewp.com%2Ftivi-lg-60uq8150psb%2F" />
 <link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdienmay8.mauthemewp.com%2Ftivi-lg-60uq8150psb%2F&#038;format=xml" />
-<style>.bg{opacity: 0; transition: opacity 1s; -webkit-transition: opacity 1s;} .bg-loaded{opacity: 1;}</style><script>
-  (function($) {
-  jQuery(document).ready(function($){
-    $('.main-carousel').lazyFlickity({
-        // options
-        
-        contain: true,
-       imagesLoaded: false, 
-       cellAlign: "right",
-       wrapAround: false,
-       prevNextButtons: false,
-       percentPosition: true,
-       pageDots: false, 
-       rightToLeft: false, 
-        autoPlay : false,
-
-      });
-});
-  })(jQuery);
-</script>
-<script>
-  (function($) {
-	jQuery(document).ready(function(){
-	if(window.location.href.indexOf("price-desc")> -1) {
-	jQuery('#pricedesc input[type="checkbox"]').prop('checked,true);} 
-	else if (window.location.href.indexOf("price")> -1) 
-	{jQuery('#pricemall  input[type="checkbox"]').prop('checked',true);} 
-	else if (window.location.href.indexOf("date")> -1) {
-	jQuery ('#datecheck input [type="checkbox"]').prop('checked',true);} 
-	else if (window.location.href.indexOf("old-product")> -1) {
-	jQuery('#oldproduct input[type ="checkbox"]').prop('checked', true);} 15}); 
-	jQuery("a.deselect").each(function () {this.search = ""; });  
-     })(jQuery);
-</script>
-<script>
-  (function($) {
-  	jQuery(document).ready(function($){
-       $(".btn_downtab").click(function(){
-          $(".chinhsach").toggleClass("show");
-        });
-      $(".khaosat").click(function(){
-        $(".khaosat_wraper").addClass("show");
-      });
-      $(".khaosat_wraper").click(function(){
-        $(".khaosat_wraper").removeClass("show");
-      });
-      $(".khaosat_clode").click(function(){
-        $(".khaosat_wraper").removeClass("show");
-      });
-		});
-    $(window).scroll(function() {    
-        var scroll = $(window).scrollTop();    
-        if (scroll >= 600) {
-          $('.product_scroll').addClass('fixed');
-            } else {
-                $('.product_scroll').removeClass('fixed');
-            }
-			});
-  })(jQuery);
-</script>
-<script>
-  (function($) {
-  jQuery(document).ready(function($){
-    $('.video_slider').lazyFlickity({
-        // options
-        
-        contain: true,
-       imagesLoaded: true, 
-       cellAlign: "left",
-       wrapAround: true,
-       prevNextButtons: true,
-       percentPosition: true,
-       pageDots: false, 
-       rightToLeft: false, 
-        autoPlay : true,
-      });
-});
-  })(jQuery);
-</script>
+<style>.bg{opacity: 0; transition: opacity 1s; -webkit-transition: opacity 1s;} .bg-loaded{opacity: 1;}</style><script>
+
+  (function($) {
+
+  jQuery(document).ready(function($){
+
+    $('.main-carousel').lazyFlickity({
+
+        // options
+
+        
+
+        contain: true,
+
+       imagesLoaded: false, 
+
+       cellAlign: "right",
+
+       wrapAround: false,
+
+       prevNextButtons: false,
+
+       percentPosition: true,
+
+       pageDots: false, 
+
+       rightToLeft: false, 
+
+        autoPlay : false,
+
+
+
+      });
+
+});
+
+  })(jQuery);
+
+</script>
+
+<script>
+
+  (function($) {
+
+	jQuery(document).ready(function(){
+
+	if(window.location.href.indexOf("price-desc")> -1) {
+
+	jQuery('#pricedesc input[type="checkbox"]').prop('checked,true);} 
+
+	else if (window.location.href.indexOf("price")> -1) 
+
+	{jQuery('#pricemall  input[type="checkbox"]').prop('checked',true);} 
+
+	else if (window.location.href.indexOf("date")> -1) {
+
+	jQuery ('#datecheck input [type="checkbox"]').prop('checked',true);} 
+
+	else if (window.location.href.indexOf("old-product")> -1) {
+
+	jQuery('#oldproduct input[type ="checkbox"]').prop('checked', true);} 15}); 
+
+	jQuery("a.deselect").each(function () {this.search = ""; });  
+
+     })(jQuery);
+
+</script>
+
+<script>
+
+  (function($) {
+
+  	jQuery(document).ready(function($){
+
+       $(".btn_downtab").click(function(){
+
+          $(".chinhsach").toggleClass("show");
+
+        });
+
+      $(".khaosat").click(function(){
+
+        $(".khaosat_wraper").addClass("show");
+
+      });
+
+      $(".khaosat_wraper").click(function(){
+
+        $(".khaosat_wraper").removeClass("show");
+
+      });
+
+      $(".khaosat_clode").click(function(){
+
+        $(".khaosat_wraper").removeClass("show");
+
+      });
+
+		});
+
+    $(window).scroll(function() {    
+
+        var scroll = $(window).scrollTop();    
+
+        if (scroll >= 600) {
+
+          $('.product_scroll').addClass('fixed');
+
+            } else {
+
+                $('.product_scroll').removeClass('fixed');
+
+            }
+
+			});
+
+  })(jQuery);
+
+</script>
+
+<script>
+
+  (function($) {
+
+  jQuery(document).ready(function($){
+
+    $('.video_slider').lazyFlickity({
+
+        // options
+
+        
+
+        contain: true,
+
+       imagesLoaded: true, 
+
+       cellAlign: "left",
+
+       wrapAround: true,
+
+       prevNextButtons: true,
+
+       percentPosition: true,
+
+       pageDots: false, 
+
+       rightToLeft: false, 
+
+        autoPlay : true,
+
+      });
+
+});
+
+  })(jQuery);
+
+</script>
+
 	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
 	<style id="custom-css" type="text/css">:root {--primary-color: #cc023f;}.container-width, .full-width .ubermenu-nav, .container, .row{max-width: 1370px}.row.row-collapse{max-width: 1340px}.row.row-small{max-width: 1362.5px}.row.row-large{max-width: 1400px}.sticky-add-to-cart--active, #wrapper,#main,#main.dark{background-color: #f0f0f2}.header-main{height: 64px}#logo img{max-height: 64px}#logo{width:250px;}.header-bottom{min-height: 45px}.header-top{min-height: 48px}.transparent .header-main{height: 90px}.transparent #logo img{max-height: 90px}.has-transparent + .page-title:first-of-type,.has-transparent + #main > .page-title,.has-transparent + #main > div > .page-title,.has-transparent + #main .page-header-wrapper:first-of-type .page-title{padding-top: 170px;}.header.show-on-scroll,.stuck .header-main{height:70px!important}.stuck #logo img{max-height: 70px!important}.search-form{ width: 51%;}.header-bottom {background-color: #ffffff}.top-bar-nav > li > a{line-height: 16px }.header-bottom-nav > li > a{line-height: 16px }@media (max-width: 549px) {.header-main{height: 70px}#logo img{max-height: 70px}}.header-top{background-color:#cc023f!important;}/* Color */.accordion-title.active, .has-icon-bg .icon .icon-inner,.logo a, .primary.is-underline, .primary.is-link, .badge-outline .badge-inner, .nav-outline > li.active> a,.nav-outline >li.active > a, .cart-icon strong,[data-color='primary'], .is-outline.primary{color: #cc023f;}/* Color !important */[data-text-color="primary"]{color: #cc023f!important;}/* Background Color */[data-text-bg="primary"]{background-color: #cc023f;}/* Background */.scroll-to-bullets a,.featured-title, .label-new.menu-item > a:after, .nav-pagination > li > .current,.nav-pagination > li > span:hover,.nav-pagination > li > a:hover,.has-hover:hover .badge-outline .badge-inner,button[type="submit"], .button.wc-forward:not(.checkout):not(.checkout-button), .button.submit-button, .button.primary:not(.is-outline),.featured-table .title,.is-outline:hover, .has-icon:hover .icon-label,.nav-dropdown-bold .nav-column li > a:hover, .nav-dropdown.nav-dropdown-bold > li > a:hover, .nav-dropdown-bold.dark .nav-column li > a:hover, .nav-dropdown.nav-dropdown-bold.dark > li > a:hover, .header-vertical-menu__opener ,.is-outline:hover, .tagcloud a:hover,.grid-tools a, input[type='submit']:not(.is-form), .box-badge:hover .box-text, input.button.alt,.nav-box > li > a:hover,.nav-box > li.active > a,.nav-pills > li.active > a ,.current-dropdown .cart-icon strong, .cart-icon:hover strong, .nav-line-bottom > li > a:before, .nav-line-grow > li > a:before, .nav-line > li > a:before,.banner, .header-top, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .primary.is-outline:hover, .button.primary:not(.is-outline), input[type='submit'].primary, input[type='submit'].primary, input[type='reset'].button, input[type='button'].primary, .badge-inner{background-color: #cc023f;}/* Border */.nav-vertical.nav-tabs > li.active > a,.scroll-to-bullets a.active,.nav-pagination > li > .current,.nav-pagination > li > span:hover,.nav-pagination > li > a:hover,.has-hover:hover .badge-outline .badge-inner,.accordion-title.active,.featured-table,.is-outline:hover, .tagcloud a:hover,blockquote, .has-border, .cart-icon strong:after,.cart-icon strong,.blockUI:before, .processing:before,.loading-spin, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .primary.is-outline:hover{border-color: #cc023f}.nav-tabs > li.active > a{border-top-color: #cc023f}.widget_shopping_cart_content .blockUI.blockOverlay:before { border-left-color: #cc023f }.woocommerce-checkout-review-order .blockUI.blockOverlay:before { border-left-color: #cc023f }/* Fill */.slider .flickity-prev-next-button:hover svg,.slider .flickity-prev-next-button:hover .arrow{fill: #cc023f;}/* Focus */.primary:focus-visible, .submit-button:focus-visible, button[type="submit"]:focus-visible { outline-color: #cc023f!important; }/* Background Color */[data-icon-label]:after, .secondary.is-underline:hover,.secondary.is-outline:hover,.icon-label,.button.secondary:not(.is-outline),.button.alt:not(.is-outline), .badge-inner.on-sale, .button.checkout, .single_add_to_cart_button, .current .breadcrumb-step{ background-color:#d55d70; }[data-text-bg="secondary"]{background-color: #d55d70;}/* Color */.secondary.is-underline,.secondary.is-link, .secondary.is-outline,.stars a.active, .star-rating:before, .woocommerce-page .star-rating:before,.star-rating span:before, .color-secondary{color: #d55d70}/* Color !important */[data-text-color="secondary"]{color: #d55d70!important;}/* Border */.secondary.is-outline:hover{border-color:#d55d70}/* Focus */.secondary:focus-visible, .alt:focus-visible { outline-color: #d55d70!important; }body{color: #020202}h1,h2,h3,h4,h5,h6,.heading-font{color: #020202;}body{font-size: 100%;}@media screen and (max-width: 549px){body{font-size: 100%;}}body{font-family: Roboto, sans-serif;}body {font-weight: 400;font-style: normal;}.nav > li > a {font-family: Roboto, sans-serif;}.mobile-sidebar-levels-2 .nav > li > ul > li > a {font-family: Roboto, sans-serif;}.nav > li > a,.mobile-sidebar-levels-2 .nav > li > ul > li > a {font-weight: 700;font-style: normal;}h1,h2,h3,h4,h5,h6,.heading-font, .off-canvas-center .nav-sidebar.nav-vertical > li > a{font-family: Roboto, sans-serif;}h1,h2,h3,h4,h5,h6,.heading-font,.banner h1,.banner h2 {font-weight: 700;font-style: normal;}.alt-font{font-family: Roboto, sans-serif;}.alt-font {font-weight: 400!important;font-style: normal!important;}.header:not(.transparent) .header-bottom-nav.nav > li > a{color: #020202;}.header:not(.transparent) .header-bottom-nav.nav > li > a:hover,.header:not(.transparent) .header-bottom-nav.nav > li.active > a,.header:not(.transparent) .header-bottom-nav.nav > li.current > a,.header:not(.transparent) .header-bottom-nav.nav > li > a.active,.header:not(.transparent) .header-bottom-nav.nav > li > a.current{color: #cc023f;}.header-bottom-nav.nav-line-bottom > li > a:before,.header-bottom-nav.nav-line-grow > li > a:before,.header-bottom-nav.nav-line > li > a:before,.header-bottom-nav.nav-box > li > a:hover,.header-bottom-nav.nav-box > li.active > a,.header-bottom-nav.nav-pills > li > a:hover,.header-bottom-nav.nav-pills > li.active > a{color:#FFF!important;background-color: #cc023f;}a{color: #020202;}a:hover{color: #cc023f;}.tagcloud a:hover{border-color: #cc023f;background-color: #cc023f;}.has-equal-box-heights .box-image {padding-top: 100%;}.shop-page-title.featured-title .title-bg{ background-image: url(/wp-content/uploads/2022/11/tivi-lg-60uq8150psb.jpg)!important;}@media screen and (min-width: 550px){.products .box-vertical .box-image{min-width: 300px!important;width: 300px!important;}}.header-vertical-menu__opener{height: 45px}.nav-vertical-fly-out > li + li {border-top-width: 1px; border-top-style: solid;}.label-new.menu-item > a:after{content:"Mới";}.label-hot.menu-item > a:after{content:"Hot";}.label-sale.menu-item > a:after{content:"Khuyến mại";}.label-popular.menu-item > a:after{content:"Phổ biến";}</style>		<style type="text/css" id="wp-custom-css">
 			.brand-img img {
@@ -390,18 +477,30 @@ img.emoji {
   font-display: swap;
   src: url(/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiAz0klQm_20.woff) format('woff');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}</style></head>
-
-<body class="product-template-default single single-product postid-1683 theme-flatsome woocommerce woocommerce-page woocommerce-no-js lightbox nav-dropdown-has-arrow nav-dropdown-has-shadow nav-dropdown-has-border">
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
-<a class="skip-link screen-reader-text" href="#main">Chuyển đến nội dung</a>
-
-<div id="wrapper">
-
-	
-	<header id="header" class="header has-sticky sticky-jump">
-		<div class="header-wrapper">
+}</style></head>
+
+
+
+<body class="product-template-default single single-product postid-1683 theme-flatsome woocommerce woocommerce-page woocommerce-no-js lightbox nav-dropdown-has-arrow nav-dropdown-has-shadow nav-dropdown-has-border">
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+
+<a class="skip-link screen-reader-text" href="#main">Chuyển đến nội dung</a>
+
+
+
+<div id="wrapper">
+
+
+
+	
+
+	<header id="header" class="header has-sticky sticky-jump">
+
+		<div class="header-wrapper">
+
 			<div id="top-bar" class="header-top hide-for-sticky nav-dark hide-for-medium">
     <div class="flex-row container">
       <div class="flex-col hide-for-medium flex-left">
@@ -611,14 +710,22 @@ Tra cứu đơn hàng</a>
     </div>
 </div>
 
-<div class="header-bg-container fill"><div class="header-bg-image fill"></div><div class="header-bg-color fill"></div></div>		</div>
-	</header>
-
-	
-	<main id="main" class="">
-    <section class="breadcrumb">
-        <div class="container">
-            <nav aria-label="breadcrumbs" class="rank-math-breadcrumb"><p><a href="/">Trang chủ</a><span class="separator"> &raquo; </span><a href="/tivi-lg/">Tivi</a><span class="separator"> &raquo; </span><span class="last">Smart Tivi LG 4K 60 inch 60UQ8150PSB UHD &#8211; 2022</span></p></nav>        </div>
+<div class="header-bg-container fill"><div class="header-bg-image fill"></div><div class="header-bg-color fill"></div></div>		</div>
+
+	</header>
+
+
+
+	
+
+	<main id="main" class="">
+
+    <section class="breadcrumb">
+
+        <div class="container">
+
+            <nav aria-label="breadcrumbs" class="rank-math-breadcrumb"><p><a href="/">Trang chủ</a><span class="separator"> &raquo; </span><a href="/tivi-lg/">Tivi</a><span class="separator"> &raquo; </span><span class="last">Smart Tivi LG 4K 60 inch 60UQ8150PSB UHD &#8211; 2022</span></p></nav>        </div>
+
     </section>
 	<div class="shop-container">
 <div data-slug="" class="wpf-search-container">
@@ -650,7 +757,7 @@ Tra cứu đơn hàng</a>
 		
 <!-- #yith-wapo-container -->
 <div id="yith-wapo-container" class="yith-wapo-container yith-wapo-form-style-theme" data-product-price="17250000" data-product-id="1683">
-	<input type="hidden" id="yith_wapo_product_id" name="yith_wapo_product_id" value="1683"><input type="hidden" id="yith_wapo_product_img" name="yith_wapo_product_img" value=""><input type="hidden" id="yith_wapo_is_single" name="yith_wapo_is_single" value="1">
+	<input type="hidden" id="yith_wapo_product_id" name="yith_wapo_product_id" value="11"><input type="hidden" id="yith_wapo_product_img" name="yith_wapo_product_img" value=""><input type="hidden" id="yith_wapo_is_single" name="yith_wapo_is_single" value="1">
 <div id="yith-wapo-block-1" class="yith-wapo-block">
 
 	
@@ -741,10 +848,10 @@ Tra cứu đơn hàng</a>
 
 
 			<div class="quantity buttons_added form-normal">
-		<input type="button" value="-" class="minus button is-form">				<label class="screen-reader-text" for="quantity_6a435993433d5">Smart Tivi LG 4K 60 inch 60UQ8150PSB UHD - 2022 số lượng</label>
+		<input type="button" value="-" class="minus button is-form">				<label class="screen-reader-text" for="quantity_6a476f15b46bf">Smart Tivi LG 4K 60 inch 60UQ8150PSB UHD - 2022 số lượng</label>
 		<input
 			type="number"
-			id="quantity_6a435993433d5"
+			id="quantity_6a476f15b46bf"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -757,7 +864,7 @@ Tra cứu đơn hàng</a>
 			inputmode="numeric" />
 				<input type="button" value="+" class="plus button is-form">	</div>
 	
-		<button type="submit" name="add-to-cart" value="1683" class="single_add_to_cart_button button alt">Thêm vào giỏ hàng</button>
+		<button type="submit" name="add-to-cart" value="11" class="single_add_to_cart_button button alt">Thêm vào giỏ hàng</button>
 
 		    <a href="#khaosat-tuvan" class="btn_product khaosat">
         <span class="btn_top"> khảo sát - tư vấn lắp đặt tại nhà</span><span class="btn_bottom">Miễn phí 100%</span>
@@ -803,7 +910,7 @@ Tra cứu đơn hàng</a>
         
     </div>
 
-    	<section class="section content_single_pro" id="section_2004662661">
+    	<section class="section content_single_pro" id="section_2076964280">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -817,18 +924,18 @@ Tra cứu đơn hàng</a>
 		<div class="section-content relative">
 			
 
-<div class="row align-equal"  id="row-793124020">
+<div class="row align-equal"  id="row-2046373456">
 
 
-	<div id="col-1351840841" class="col medium-12 small-12 large-9"  >
+	<div id="col-28433744" class="col medium-12 small-12 large-9"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			
 
-<div class="row"  id="row-1429133122">
+<div class="row"  id="row-1863219875">
 
 
-	<div id="col-1006457131" class="col product_gallery medium-12 small-12 large-5"  >
+	<div id="col-1694857410" class="col product_gallery medium-12 small-12 large-5"  >
 				<div class="col-inner"  >
 			
 			
@@ -869,11 +976,11 @@ Tra cứu đơn hàng</a>
 		</div>
 				
 <style>
-#col-1006457131 > .col-inner {
+#col-1694857410 > .col-inner {
   padding: 22px 8px 0px 8px;
 }
 @media (min-width:550px) {
-  #col-1006457131 > .col-inner {
+  #col-1694857410 > .col-inner {
     padding: 22px 16px 0px 16px;
   }
 }
@@ -882,15 +989,15 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-612879568" class="col product_infor medium-12 small-12 large-7"  >
+	<div id="col-91685856" class="col product_infor medium-12 small-12 large-7"  >
 				<div class="col-inner"  >
 			
 			
 
-<div class="row row-collapse"  id="row-2141245819">
+<div class="row row-collapse"  id="row-1807523401">
 
 
-	<div id="col-935296979" class="col small-12 large-12"  >
+	<div id="col-1206875875" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			
@@ -914,14 +1021,22 @@ Tra cứu đơn hàng</a>
     </span>
 </a></div>
 
-<div class="product-price-container is-normal"><div class="price-wrapper">
-	<p class="price product-page-price price-on-sale">
-  <del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>24.500.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>17.250.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins></p>
-
-
- <div class="tietkiem">Tiết kiệm -30%</div>
-</div>
-
+<div class="product-price-container is-normal"><div class="price-wrapper">
+
+	<p class="price product-page-price price-on-sale">
+
+  <del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>24.500.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>17.250.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins></p>
+
+
+
+
+
+ <div class="tietkiem">Tiết kiệm -30%</div>
+
+</div>
+
+
+
 </div>
 
 
@@ -962,7 +1077,7 @@ Tra cứu đơn hàng</a>
 <input type="hidden" name="_wpcf7_version" value="5.8.7" />
 <input type="hidden" name="_wpcf7_locale" value="vi" />
 <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f1649-p1683-o1" />
-<input type="hidden" name="_wpcf7_container_post" value="1683" />
+<input type="hidden" name="_wpcf7_container_post" value="11" />
 <input type="hidden" name="_wpcf7_posted_data_hash" value="" />
 </div>
 <div class="cf-container form_ks">
@@ -1005,7 +1120,7 @@ Tra cứu đơn hàng</a>
 		
 <!-- #yith-wapo-container -->
 <div id="yith-wapo-container" class="yith-wapo-container yith-wapo-form-style-theme" data-product-price="17250000" data-product-id="1683">
-	<input type="hidden" id="yith_wapo_product_id" name="yith_wapo_product_id" value="1683"><input type="hidden" id="yith_wapo_product_img" name="yith_wapo_product_img" value=""><input type="hidden" id="yith_wapo_is_single" name="yith_wapo_is_single" value="1">
+	<input type="hidden" id="yith_wapo_product_id" name="yith_wapo_product_id" value="11"><input type="hidden" id="yith_wapo_product_img" name="yith_wapo_product_img" value=""><input type="hidden" id="yith_wapo_is_single" name="yith_wapo_is_single" value="1">
 <div id="yith-wapo-block-1" class="yith-wapo-block">
 
 	
@@ -1096,10 +1211,10 @@ Tra cứu đơn hàng</a>
 
 
 			<div class="quantity buttons_added form-normal">
-		<input type="button" value="-" class="minus button is-form">				<label class="screen-reader-text" for="quantity_6a43599336f3b">Smart Tivi LG 4K 60 inch 60UQ8150PSB UHD - 2022 số lượng</label>
+		<input type="button" value="-" class="minus button is-form">				<label class="screen-reader-text" for="quantity_6a476f15a65d2">Smart Tivi LG 4K 60 inch 60UQ8150PSB UHD - 2022 số lượng</label>
 		<input
 			type="number"
-			id="quantity_6a43599336f3b"
+			id="quantity_6a476f15a65d2"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -1112,7 +1227,7 @@ Tra cứu đơn hàng</a>
 			inputmode="numeric" />
 				<input type="button" value="+" class="plus button is-form">	</div>
 	
-		<button type="submit" name="add-to-cart" value="1683" class="single_add_to_cart_button button alt">Thêm vào giỏ hàng</button>
+		<button type="submit" name="add-to-cart" value="11" class="single_add_to_cart_button button alt">Thêm vào giỏ hàng</button>
 
 		    <a href="#khaosat-tuvan" class="btn_product khaosat">
         <span class="btn_top"> khảo sát - tư vấn lắp đặt tại nhà</span><span class="btn_bottom">Miễn phí 100%</span>
@@ -1154,23 +1269,23 @@ Tra cứu đơn hàng</a>
 	
 </div>
 
-	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_650766900">
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_417859516">
 								<div class="img-inner dark" >
 			<img width="570" height="47" src="/wp-content/uploads/2022/11/z3890825499784_ad4b393ed2cf35a4316d82436e46731a.png" class="attachment-original size-original" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/z3890825499784_ad4b393ed2cf35a4316d82436e46731a.png 570w, /wp-content/uploads/2022/11/z3890825499784_ad4b393ed2cf35a4316d82436e46731a-300x25.png 300w" sizes="(max-width: 570px) 100vw, 570px" />						
 					</div>
 								
 <style>
-#image_650766900 {
+#image_417859516 {
   width: 100%;
 }
 </style>
 	</div>
 	
 
-	<div id="gap-2082087779" class="gap-element clearfix" style="display:block; height:auto;">
+	<div id="gap-551478518" class="gap-element clearfix" style="display:block; height:auto;">
 		
 <style>
-#gap-2082087779 {
+#gap-551478518 {
   padding-top: 10px;
 }
 </style>
@@ -1183,7 +1298,7 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-1515986074" class="col small-12 large-12"  >
+	<div id="col-341803012" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			
@@ -1199,7 +1314,7 @@ Tra cứu đơn hàng</a>
 		</div>
 				
 <style>
-#col-1515986074 > .col-inner {
+#col-341803012 > .col-inner {
   margin: 0px 0px 10px 0px;
 }
 </style>
@@ -1207,7 +1322,7 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-1042833407" class="col col_uudai small-12 large-12"  >
+	<div id="col-586023326" class="col col_uudai small-12 large-12"  >
 				<div class="col-inner" style="background-color:rgb(248, 248, 249);" >
 			
 	<div class="is-border"
@@ -1228,7 +1343,7 @@ Tra cứu đơn hàng</a>
 <input type="hidden" name="_wpcf7_version" value="5.8.7" />
 <input type="hidden" name="_wpcf7_locale" value="vi" />
 <input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f1294-p1683-o2" />
-<input type="hidden" name="_wpcf7_container_post" value="1683" />
+<input type="hidden" name="_wpcf7_container_post" value="11" />
 <input type="hidden" name="_wpcf7_posted_data_hash" value="" />
 </div>
 <p><span class="wpcf7-form-control-wrap" data-name="telkm"><input size="40" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel form_km" aria-required="true" aria-invalid="false" placeholder="Nhập số điện thoại nhận thông tin khuyến mãi" value="" type="tel" name="telkm" /></span><br />
@@ -1242,7 +1357,7 @@ Tra cứu đơn hàng</a>
 		</div>
 				
 <style>
-#col-1042833407 > .col-inner {
+#col-586023326 > .col-inner {
   padding: 48px 16px 16px 16px;
   margin: 0px 0px 0px 8px;
 }
@@ -1256,11 +1371,11 @@ Tra cứu đơn hàng</a>
 		</div>
 				
 <style>
-#col-612879568 > .col-inner {
+#col-91685856 > .col-inner {
   padding: 22px 8px 0px 8px;
 }
 @media (min-width:550px) {
-  #col-612879568 > .col-inner {
+  #col-91685856 > .col-inner {
     padding: 22px 16px 0px 0px;
   }
 }
@@ -1276,15 +1391,15 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-310434537" class="col medium-12 small-12 large-3"  >
+	<div id="col-230360502" class="col medium-12 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
 
-<div class="row row-collapse"  id="row-1464886887">
+<div class="row row-collapse"  id="row-675523133">
 
 
-	<div id="col-1875173423" class="col bg_while mr_bt small-12 large-12"  >
+	<div id="col-1012581288" class="col bg_while mr_bt small-12 large-12"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			        <div class="product_icon">
@@ -1372,7 +1487,7 @@ Tra cứu đơn hàng</a>
 		</div>
 				
 <style>
-#col-1875173423 > .col-inner {
+#col-1012581288 > .col-inner {
   margin: 0px 0px 16px 0px;
 }
 </style>
@@ -1380,7 +1495,7 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-578138122" class="col bg_while small-12 large-12"  >
+	<div id="col-1253148629" class="col bg_while small-12 large-12"  >
 				<div class="col-inner" style="background-color:rgb(255, 255, 255);" >
 			
 			        <div class="product_icon">
@@ -1502,7 +1617,7 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-1041187754" class="col col_lap medium-12 small-12 large-7"  >
+	<div id="col-982067226" class="col col_lap medium-12 small-12 large-7"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			
@@ -1553,7 +1668,7 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 	
 
-	<div id="col-1838445449" class="col col_lap medium-12 small-12 large-5"  >
+	<div id="col-2062739138" class="col col_lap medium-12 small-12 large-5"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			
@@ -1586,7 +1701,7 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 	
 
-	<div id="col-879412656" class="col pad_product small-12 large-12"  >
+	<div id="col-1613894148" class="col pad_product small-12 large-12"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			
@@ -1603,7 +1718,7 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 	
 
-	<div id="col-1924166102" class="col pad_product small-12 large-12"  >
+	<div id="col-40373155" class="col pad_product small-12 large-12"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			
@@ -1778,7 +1893,7 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 	
 
-	<div id="col-136749371" class="col medium-7 small-12 large-7"  >
+	<div id="col-1655532022" class="col medium-7 small-12 large-7"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			
@@ -1899,14 +2014,15 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
             </div>
                         <div class="devvn_cmt_submit">
                 <button type="submit" id="devvn_cmt_submit">Gửi</button>
-                <input type="hidden" value="1683" name="post_ID">
+                <input type="hidden" value="11" name="post_ID">
                 <input type="hidden" value="" name="cmt_parent_id">
             </div>
         </div>
         </form>
     </div>
     <div class="devvn_cmt_list">
-                        <p>Chưa có bình luận nào</p>
+                        <p>Chưa có bình luận nào</p>
+
                             </div>
 </div>
   </div>
@@ -1919,7 +2035,7 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 	
 
-	<div id="col-1106890334" class="col medium-5 small-12 large-5"  >
+	<div id="col-878883172" class="col medium-5 small-12 large-5"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			   <h3 class="single_product_title"><span>Hỗ trợ khách hàng</span></h3>
@@ -1983,16 +2099,16 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 		
 <style>
-#section_2004662661 {
+#section_2076964280 {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: rgb(240, 240, 242);
 }
-#section_2004662661 .ux-shape-divider--top svg {
+#section_2076964280 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_2004662661 .ux-shape-divider--bottom svg {
+#section_2076964280 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -2165,7 +2281,7 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 <footer id="footer" class="footer-wrapper">
 
-		<section class="section" id="section_909265290">
+		<section class="section" id="section_938021623">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -2181,10 +2297,10 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 <span class="scroll-to" data-label="Scroll to: #showroom" data-bullet="false" data-link="#showroom" data-title="Change this"><a name="showroom"></a></span>
 
-<div class="row"  id="row-727236110">
+<div class="row"  id="row-483388935">
 
 
-	<div id="col-939106627" class="col small-12 large-12"  >
+	<div id="col-1574141883" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			    <h2 class="title_listshowroom">Hệ thống kho hàng</h2>
@@ -2349,16 +2465,16 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 		
 <style>
-#section_909265290 {
+#section_938021623 {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: rgb(255, 255, 255);
 }
-#section_909265290 .ux-shape-divider--top svg {
+#section_938021623 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_909265290 .ux-shape-divider--bottom svg {
+#section_938021623 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -2367,7 +2483,7 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 	
 <div class="text-center"><div class="is-divider divider clearfix" style="margin-top:0px;margin-bottom:0px;max-width:1370px;height:2px;background-color:rgb(254, 0, 0);"></div></div>
 
-	<section class="section" id="section_2001875751">
+	<section class="section" id="section_1936973720">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -2381,35 +2497,35 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 		<div class="section-content relative">
 			
 
-	<div id="gap-2028396160" class="gap-element clearfix" style="display:block; height:auto;">
+	<div id="gap-813705122" class="gap-element clearfix" style="display:block; height:auto;">
 		
 <style>
-#gap-2028396160 {
+#gap-813705122 {
   padding-top: 30px;
 }
 </style>
 	</div>
 	
 
-<div class="row"  id="row-809166608">
+<div class="row"  id="row-1824251741">
 
 
-	<div id="col-852483088" class="col medium-12 small-12 large-3"  >
+	<div id="col-557439987" class="col medium-12 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
 
-	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1520506321">
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_249147085">
 								<div class="img-inner dark" >
 			<img width="1920" height="925" src="/wp-content/uploads/2022/11/logo.png" class="attachment-original size-original" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/logo.png 1920w, /wp-content/uploads/2022/11/logo-300x145.png 300w, /wp-content/uploads/2022/11/logo-1024x493.png 1024w, /wp-content/uploads/2022/11/logo-600x289.png 600w" sizes="(max-width: 1920px) 100vw, 1920px" />						
 					</div>
 								
 <style>
-#image_1520506321 {
+#image_249147085 {
   width: 40%;
 }
 @media (min-width:850px) {
-  #image_1520506321 {
+  #image_249147085 {
     width: 80%;
   }
 }
@@ -2425,15 +2541,15 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 	
 
-	<div id="col-544042825" class="col medium-12 small-12 large-9"  >
+	<div id="col-599817129" class="col medium-12 small-12 large-9"  >
 				<div class="col-inner"  >
 			
 			
 
-<div class="row hide-for-small"  id="row-424579966">
+<div class="row hide-for-small"  id="row-1573370759">
 
 
-	<div id="col-1452375301" class="col medium-3 small-12 large-3"  >
+	<div id="col-166455980" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -2460,7 +2576,7 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 	
 
-	<div id="col-344322252" class="col medium-3 small-12 large-3"  >
+	<div id="col-1963574144" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -2489,7 +2605,7 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 	
 
-	<div id="col-1063797330" class="col medium-3 small-12 large-3"  >
+	<div id="col-267378532" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -2512,7 +2628,7 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 	
 
-	<div id="col-941001582" class="col medium-3 small-12 large-3"  >
+	<div id="col-1687388684" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -2529,17 +2645,17 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 	
 
 </div>
-<div class="row show-for-small"  id="row-1572543087">
+<div class="row show-for-small"  id="row-703599736">
 
 
-	<div id="col-1383026087" class="col pad_none small-12 large-12"  >
+	<div id="col-1695998379" class="col pad_none small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			
 
 <div class="accordion menu_ft_mb">
 
-<div id="accordion-3111726231" class="accordion-item"><a id="accordion-3111726231-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-3111726231-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Hỗ trợ khách hàng</span></a><div id="accordion-3111726231-content" class="accordion-inner" aria-labelledby="accordion-3111726231-label">
+<div id="accordion-3903209598" class="accordion-item"><a id="accordion-3903209598-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-3903209598-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Hỗ trợ khách hàng</span></a><div id="accordion-3903209598-content" class="accordion-inner" aria-labelledby="accordion-3903209598-label">
 
 
 
@@ -2555,7 +2671,7 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 
 </div></div>
-<div id="accordion-1604869139" class="accordion-item"><a id="accordion-1604869139-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-1604869139-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Danh mục sản phẩm</span></a><div id="accordion-1604869139-content" class="accordion-inner" aria-labelledby="accordion-1604869139-label">
+<div id="accordion-3372177873" class="accordion-item"><a id="accordion-3372177873-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-3372177873-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Danh mục sản phẩm</span></a><div id="accordion-3372177873-content" class="accordion-inner" aria-labelledby="accordion-3372177873-label">
 
 
 
@@ -2573,7 +2689,7 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 
 </div></div>
-<div id="accordion-3886820558" class="accordion-item"><a id="accordion-3886820558-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-3886820558-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Doanh nghiệp</span></a><div id="accordion-3886820558-content" class="accordion-inner" aria-labelledby="accordion-3886820558-label">
+<div id="accordion-732068013" class="accordion-item"><a id="accordion-732068013-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-732068013-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Doanh nghiệp</span></a><div id="accordion-732068013-content" class="accordion-inner" aria-labelledby="accordion-732068013-label">
 
 
 
@@ -2593,7 +2709,7 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 	
 
-	<div id="col-1120967066" class="col small-12 large-12"  >
+	<div id="col-1608629611" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			   <h3 class="footer_title">Kết nối với chúng tôi</h3>
@@ -2643,16 +2759,16 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 		
 <style>
-#section_2001875751 {
+#section_1936973720 {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: rgb(255, 255, 255);
 }
-#section_2001875751 .ux-shape-divider--top svg {
+#section_1936973720 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_2001875751 .ux-shape-divider--bottom svg {
+#section_1936973720 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -2661,7 +2777,7 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 	
 <div class="is-divider divider clearfix" style="margin-top:0px;margin-bottom:0px;max-width:100%;height:1px;background-color:rgb(139, 139, 139);"></div>
 
-	<section class="section" id="section_467107040">
+	<section class="section" id="section_1139404952">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -2675,35 +2791,35 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 		<div class="section-content relative">
 			
 
-<div class="row"  id="row-1956814439">
+<div class="row"  id="row-1847547540">
 
 
-	<div id="col-1003395360" class="col small-12 large-12"  >
+	<div id="col-1010708382" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			
 
-	<div id="gap-1387853433" class="gap-element clearfix" style="display:block; height:auto;">
+	<div id="gap-1932745653" class="gap-element clearfix" style="display:block; height:auto;">
 		
 <style>
-#gap-1387853433 {
+#gap-1932745653 {
   padding-top: 30px;
 }
 </style>
 	</div>
 	
 
-	<div id="text-1770798164" class="text">
+	<div id="text-122082895" class="text">
 		
 
 <p><strong>© 2023 CÔNG TY TNHH ĐIỆN LẠNH WEB DEMO</strong><br /><span style="font-size: 12px;">Giấy chứng nhận đăng ký kinh doanh số ..., cấp ngày ... bởi sở kế hoạch và đầu tư Thành phố Hà Nội.</span><br /><span style="font-size: 12px;">Địa chỉ đăng ký trụ sở chính: Số 19A, Đường Bát Khối, Phường Long Biên, Quận Long Biên, Hà Nội</span></p>
 		
 <style>
-#text-1770798164 {
+#text-122082895 {
   text-align: center;
   color: rgb(66, 64, 64);
 }
-#text-1770798164 > * {
+#text-122082895 > * {
   color: rgb(66, 64, 64);
 }
 </style>
@@ -2721,16 +2837,16 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 		
 <style>
-#section_467107040 {
+#section_1139404952 {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: rgb(255, 255, 255);
 }
-#section_467107040 .ux-shape-divider--top svg {
+#section_1139404952 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_467107040 .ux-shape-divider--bottom svg {
+#section_1139404952 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -2806,14 +2922,22 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 	
 </div>
-<script>
-  (function($) {
-  	jQuery(document).ready(function($){
-       $("a").click(function(){
-          $(".chinhsach").removeClass("show");
-        });
-		});
-  })(jQuery);
+<script>
+
+  (function($) {
+
+  	jQuery(document).ready(function($){
+
+       $("a").click(function(){
+
+          $(".chinhsach").removeClass("show");
+
+        });
+
+		});
+
+  })(jQuery);
+
 </script>    <div id="login-form-popup" class="lightbox-content mfp-hide">
             	<div class="woocommerce">
       		<div class="woocommerce-notices-wrapper"></div>
@@ -2840,7 +2964,7 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 						<label class="woocommerce-form__label woocommerce-form__label-for-checkbox woocommerce-form-login__rememberme">
 							<input class="woocommerce-form__input woocommerce-form__input-checkbox" name="rememberme" type="checkbox" id="rememberme" value="forever" /> <span>Ghi nhớ mật khẩu</span>
 						</label>
-						<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="8862567bb8" /><input type="hidden" name="_wp_http_referer" value="/tivi-lg-60uq8150psb/" />						<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Đăng nhập">Đăng nhập</button>
+						<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="8d4504862d" /><input type="hidden" name="_wp_http_referer" value="/tivi-lg-60uq8150psb/" />						<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Đăng nhập">Đăng nhập</button>
 					</p>
 					<p class="woocommerce-LostPassword lost_password">
 						<a href="/tai-khoan/lost-password/">Quên mật khẩu?</a>
@@ -2992,7 +3116,7 @@ var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","
 <script type='text/javascript' src='/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=7.8.2' id='wc-add-to-cart-variation-js'></script>
 <script type='text/javascript' id='yith_wapo_front-js-extra'>
 /* <![CDATA[ */
-var yith_wapo = {"dom":{"single_add_to_cart_button":".single_add_to_cart_button"},"i18n":{"datepickerSetTime":"Set time","datepickerSaveButton":"Save","selectAnOption":"Please, select an option","selectAtLeast":"Please, select at least %d options","selectOptions":"Please, select %d options","maxOptionsSelectedMessage":"More options than allowed have been selected","uploadPercentageDoneString":"done"},"ajaxurl":"\/wp-admin\/admin-ajax.php","addons_nonce":"40e371d9c4","upload_allowed_file_types":".jpg, .jpeg, .pdf, .png, .rar, .zip","upload_max_file_size":"5","total_price_box_option":"all","replace_product_price":"no","woocommerce_currency":"VND","total_thousand_sep":".","decimal_sep":",","priceSuffix":"","replace_image_path":".woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child img.zoomImg,\n            .woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child source,\n            .yith_magnifier_zoom img, .yith_magnifier_zoom_magnifier,\n            .owl-carousel .woocommerce-main-image,\n            .woocommerce-product-gallery__image .wp-post-image,\n            .dt-sc-product-image-gallery-container .wp-post-image","replace_product_price_class":".product .entry-summary .price:first,\n            div.elementor.product .elementor-widget-woocommerce-product-price .price","hide_button_required":"no","messages":{"minErrorMessage":"The sum of the numbers is below the minimum. The minimum value is:","maxErrorMessage":"The sum of the numbers exceeded the maximum. The maximum value is:","checkMinMaxErrorMessage":"Please, select an option","requiredMessage":"This option is required.","maxFilesAllowed":"Maximum uploaded files allowed. The maximum number of files allowed is: ","noSupportedExtension":"Error - not supported extension!","maxFileSize":"Error - file size for %s - max %d MB allowed!"},"productQuantitySelector":"form.cart .quantity input.qty:not(.wapo-product-qty)","enableGetDefaultVariationPrice":"1","currentLanguage":"","conditionalDisplayEffect":"fade"};
+var yith_wapo = {"dom":{"single_add_to_cart_button":".single_add_to_cart_button"},"i18n":{"datepickerSetTime":"Set time","datepickerSaveButton":"Save","selectAnOption":"Please, select an option","selectAtLeast":"Please, select at least %d options","selectOptions":"Please, select %d options","maxOptionsSelectedMessage":"More options than allowed have been selected","uploadPercentageDoneString":"done"},"ajaxurl":"\/wp-admin\/admin-ajax.php","addons_nonce":"1b01bfcf6f","upload_allowed_file_types":".jpg, .jpeg, .pdf, .png, .rar, .zip","upload_max_file_size":"5","total_price_box_option":"all","replace_product_price":"no","woocommerce_currency":"VND","total_thousand_sep":".","decimal_sep":",","priceSuffix":"","replace_image_path":".woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child img.zoomImg,\n            .woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child source,\n            .yith_magnifier_zoom img, .yith_magnifier_zoom_magnifier,\n            .owl-carousel .woocommerce-main-image,\n            .woocommerce-product-gallery__image .wp-post-image,\n            .dt-sc-product-image-gallery-container .wp-post-image","replace_product_price_class":".product .entry-summary .price:first,\n            div.elementor.product .elementor-widget-woocommerce-product-price .price","hide_button_required":"no","messages":{"minErrorMessage":"The sum of the numbers is below the minimum. The minimum value is:","maxErrorMessage":"The sum of the numbers exceeded the maximum. The maximum value is:","checkMinMaxErrorMessage":"Please, select an option","requiredMessage":"This option is required.","maxFilesAllowed":"Maximum uploaded files allowed. The maximum number of files allowed is: ","noSupportedExtension":"Error - not supported extension!","maxFileSize":"Error - file size for %s - max %d MB allowed!"},"productQuantitySelector":"form.cart .quantity input.qty:not(.wapo-product-qty)","enableGetDefaultVariationPrice":"1","currentLanguage":"","conditionalDisplayEffect":"fade"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='/wp-content/plugins/yith-woocommerce-product-add-ons/assets/js/front.min.js?ver=4.7.1' id='yith_wapo_front-js'></script>
@@ -3011,7 +3135,7 @@ var flatsomeVars = {"theme":{"version":"3.16.1"},"ajaxurl":"\/wp-admin\/admin-aj
 <script type='text/javascript' src='/wp-content/plugins/pwfwoofilter/assets/js/frontend/js-offcanvas.pkgd.min.js?ver=1.2.11' id='offcanvas-js'></script>
 <script type='text/javascript' id='pwf-woo-filter-js-extra'>
 /* <![CDATA[ */
-var pwf_woocommerce_filter = {"ajaxurl":"\/wp-admin\/admin-ajax.php","nonce":"3e2fe6fab4","translated_text":{"apply":"Apply","reset":"Reset","filter":"Filter","price":"Price","search":"Search","rate":"Rated","load_more":"Load more","clearall":"Clear all"},"currency_symbol":"\u20ab","currency_pos":"right","page_url":"\/tivi-lg-60uq8150psb\/","pretty_prefixed":"","customize":{"pageLoader":"","buttonLoader":"","infiniteLoader":""}};
+var pwf_woocommerce_filter = {"ajaxurl":"\/wp-admin\/admin-ajax.php","nonce":"d200652294","translated_text":{"apply":"Apply","reset":"Reset","filter":"Filter","price":"Price","search":"Search","rate":"Rated","load_more":"Load more","clearall":"Clear all"},"currency_symbol":"\u20ab","currency_pos":"right","page_url":"\/tivi-lg-60uq8150psb\/","pretty_prefixed":"","customize":{"pageLoader":"","buttonLoader":"","infiniteLoader":""}};
 /* ]]> */
 </script>
 <script type='text/javascript' id='pwf-woo-filter-js-before'>

@@ -649,7 +649,7 @@ Tra cứu đơn hàng</a>
         
     </div>
 
-    	<section class="section content_single_pro" id="section_80168184">
+    	<section class="section content_single_pro" id="section_411023848">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -663,18 +663,18 @@ Tra cứu đơn hàng</a>
 		<div class="section-content relative">
 			
 
-<div class="row align-equal"  id="row-1214074540">
+<div class="row align-equal"  id="row-690890967">
 
 
-	<div id="col-1092408255" class="col medium-12 small-12 large-9"  >
+	<div id="col-1295788847" class="col medium-12 small-12 large-9"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			
 
-<div class="row"  id="row-94911550">
+<div class="row"  id="row-993053092">
 
 
-	<div id="col-692419220" class="col product_gallery medium-12 small-12 large-5"  >
+	<div id="col-275082137" class="col product_gallery medium-12 small-12 large-5"  >
 				<div class="col-inner"  >
 			
 			
@@ -715,11 +715,11 @@ Tra cứu đơn hàng</a>
 		</div>
 				
 <style>
-#col-692419220 > .col-inner {
+#col-275082137 > .col-inner {
   padding: 22px 8px 0px 8px;
 }
 @media (min-width:550px) {
-  #col-692419220 > .col-inner {
+  #col-275082137 > .col-inner {
     padding: 22px 16px 0px 16px;
   }
 }
@@ -728,15 +728,15 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-1664792326" class="col product_infor medium-12 small-12 large-7"  >
+	<div id="col-1225465861" class="col product_infor medium-12 small-12 large-7"  >
 				<div class="col-inner"  >
 			
 			
 
-<div class="row row-collapse"  id="row-1732278954">
+<div class="row row-collapse"  id="row-178431249">
 
 
-	<div id="col-1643376076" class="col small-12 large-12"  >
+	<div id="col-1673550332" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			
@@ -847,23 +847,23 @@ Tra cứu đơn hàng</a>
 
 <div class="add-to-cart-container form-normal is-normal"></div>
 
-	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1144191327">
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1763331729">
 								<div class="img-inner dark" >
 			<img width="570" height="47" src="/wp-content/uploads/2022/11/z3890825499784_ad4b393ed2cf35a4316d82436e46731a.png" class="attachment-original size-original" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/z3890825499784_ad4b393ed2cf35a4316d82436e46731a.png 570w, /wp-content/uploads/2022/11/z3890825499784_ad4b393ed2cf35a4316d82436e46731a-300x25.png 300w" sizes="(max-width: 570px) 100vw, 570px" />						
 					</div>
 								
 <style>
-#image_1144191327 {
+#image_1763331729 {
   width: 100%;
 }
 </style>
 	</div>
 	
 
-	<div id="gap-732282547" class="gap-element clearfix" style="display:block; height:auto;">
+	<div id="gap-1673483030" class="gap-element clearfix" style="display:block; height:auto;">
 		
 <style>
-#gap-732282547 {
+#gap-1673483030 {
   padding-top: 10px;
 }
 </style>
@@ -876,7 +876,7 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-1077023444" class="col small-12 large-12"  >
+	<div id="col-305390345" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			
@@ -892,7 +892,7 @@ Tra cứu đơn hàng</a>
 		</div>
 				
 <style>
-#col-1077023444 > .col-inner {
+#col-305390345 > .col-inner {
   margin: 0px 0px 10px 0px;
 }
 </style>
@@ -900,7 +900,7 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-1317386426" class="col col_uudai small-12 large-12"  >
+	<div id="col-769000943" class="col col_uudai small-12 large-12"  >
 				<div class="col-inner" style="background-color:rgb(248, 248, 249);" >
 			
 	<div class="is-border"
@@ -935,7 +935,7 @@ Tra cứu đơn hàng</a>
 		</div>
 				
 <style>
-#col-1317386426 > .col-inner {
+#col-769000943 > .col-inner {
   padding: 48px 16px 16px 16px;
   margin: 0px 0px 0px 8px;
 }
@@ -949,11 +949,11 @@ Tra cứu đơn hàng</a>
 		</div>
 				
 <style>
-#col-1664792326 > .col-inner {
+#col-1225465861 > .col-inner {
   padding: 22px 8px 0px 8px;
 }
 @media (min-width:550px) {
-  #col-1664792326 > .col-inner {
+  #col-1225465861 > .col-inner {
     padding: 22px 16px 0px 0px;
   }
 }
@@ -969,15 +969,15 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-1568160489" class="col medium-12 small-12 large-3"  >
+	<div id="col-986373867" class="col medium-12 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
 
-<div class="row row-collapse"  id="row-1144834583">
+<div class="row row-collapse"  id="row-30055037">
 
 
-	<div id="col-1644660654" class="col bg_while mr_bt small-12 large-12"  >
+	<div id="col-1973600216" class="col bg_while mr_bt small-12 large-12"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			        <div class="product_icon">
@@ -1065,7 +1065,7 @@ Tra cứu đơn hàng</a>
 		</div>
 				
 <style>
-#col-1644660654 > .col-inner {
+#col-1973600216 > .col-inner {
   margin: 0px 0px 16px 0px;
 }
 </style>
@@ -1073,7 +1073,7 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-1122820614" class="col bg_while small-12 large-12"  >
+	<div id="col-988992711" class="col bg_while small-12 large-12"  >
 				<div class="col-inner" style="background-color:rgb(255, 255, 255);" >
 			
 			        <div class="product_icon">
@@ -1195,7 +1195,7 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-1129170500" class="col col_lap medium-12 small-12 large-7"  >
+	<div id="col-260227292" class="col col_lap medium-12 small-12 large-7"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			
@@ -1279,7 +1279,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 
 	
 
-	<div id="col-1504036745" class="col col_lap medium-12 small-12 large-5"  >
+	<div id="col-1942628921" class="col col_lap medium-12 small-12 large-5"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			
@@ -1313,7 +1313,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 
 	
 
-	<div id="col-510728968" class="col pad_product small-12 large-12"  >
+	<div id="col-1429322638" class="col pad_product small-12 large-12"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			
@@ -1424,7 +1424,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 
 	
 
-	<div id="col-350393442" class="col pad_product small-12 large-12"  >
+	<div id="col-264092700" class="col pad_product small-12 large-12"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			
@@ -1599,7 +1599,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 
 	
 
-	<div id="col-1831802544" class="col medium-7 small-12 large-7"  >
+	<div id="col-1887294728" class="col medium-7 small-12 large-7"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			
@@ -1740,7 +1740,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 
 	
 
-	<div id="col-444093875" class="col medium-5 small-12 large-5"  >
+	<div id="col-1540749954" class="col medium-5 small-12 large-5"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			   <h3 class="single_product_title"><span>Hỗ trợ khách hàng</span></h3>
@@ -1804,16 +1804,16 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 
 		
 <style>
-#section_80168184 {
+#section_411023848 {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: rgb(240, 240, 242);
 }
-#section_80168184 .ux-shape-divider--top svg {
+#section_411023848 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_80168184 .ux-shape-divider--bottom svg {
+#section_411023848 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -2002,7 +2002,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 
 <footer id="footer" class="footer-wrapper">
 
-		<section class="section" id="section_205282673">
+		<section class="section" id="section_858291876">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -2018,10 +2018,10 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 
 <span class="scroll-to" data-label="Scroll to: #showroom" data-bullet="false" data-link="#showroom" data-title="Change this"><a name="showroom"></a></span>
 
-<div class="row"  id="row-899758209">
+<div class="row"  id="row-1612622540">
 
 
-	<div id="col-1432721156" class="col small-12 large-12"  >
+	<div id="col-1506942953" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			    <h2 class="title_listshowroom">Hệ thống kho hàng</h2>
@@ -2186,16 +2186,16 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 
 		
 <style>
-#section_205282673 {
+#section_858291876 {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: rgb(255, 255, 255);
 }
-#section_205282673 .ux-shape-divider--top svg {
+#section_858291876 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_205282673 .ux-shape-divider--bottom svg {
+#section_858291876 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -2204,7 +2204,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 	
 <div class="text-center"><div class="is-divider divider clearfix" style="margin-top:0px;margin-bottom:0px;max-width:1370px;height:2px;background-color:rgb(254, 0, 0);"></div></div>
 
-	<section class="section" id="section_1240320744">
+	<section class="section" id="section_973968616">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -2218,35 +2218,35 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 		<div class="section-content relative">
 			
 
-	<div id="gap-1451464548" class="gap-element clearfix" style="display:block; height:auto;">
+	<div id="gap-264714698" class="gap-element clearfix" style="display:block; height:auto;">
 		
 <style>
-#gap-1451464548 {
+#gap-264714698 {
   padding-top: 30px;
 }
 </style>
 	</div>
 	
 
-<div class="row"  id="row-1910872511">
+<div class="row"  id="row-113642160">
 
 
-	<div id="col-943778936" class="col medium-12 small-12 large-3"  >
+	<div id="col-164238406" class="col medium-12 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
 
-	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1731561758">
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1898968753">
 								<div class="img-inner dark" >
 			<img width="1920" height="925" src="/wp-content/uploads/2022/11/logo.png" class="attachment-original size-original" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/logo.png 1920w, /wp-content/uploads/2022/11/logo-300x145.png 300w, /wp-content/uploads/2022/11/logo-1024x493.png 1024w, /wp-content/uploads/2022/11/logo-600x289.png 600w" sizes="(max-width: 1920px) 100vw, 1920px" />						
 					</div>
 								
 <style>
-#image_1731561758 {
+#image_1898968753 {
   width: 40%;
 }
 @media (min-width:850px) {
-  #image_1731561758 {
+  #image_1898968753 {
     width: 80%;
   }
 }
@@ -2262,15 +2262,15 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 
 	
 
-	<div id="col-45849148" class="col medium-12 small-12 large-9"  >
+	<div id="col-72123512" class="col medium-12 small-12 large-9"  >
 				<div class="col-inner"  >
 			
 			
 
-<div class="row hide-for-small"  id="row-1825816223">
+<div class="row hide-for-small"  id="row-89030225">
 
 
-	<div id="col-371312350" class="col medium-3 small-12 large-3"  >
+	<div id="col-1067076944" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -2297,7 +2297,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 
 	
 
-	<div id="col-241936521" class="col medium-3 small-12 large-3"  >
+	<div id="col-598168663" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -2326,7 +2326,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 
 	
 
-	<div id="col-645141790" class="col medium-3 small-12 large-3"  >
+	<div id="col-1792756737" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -2349,7 +2349,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 
 	
 
-	<div id="col-1035538589" class="col medium-3 small-12 large-3"  >
+	<div id="col-641331674" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -2366,17 +2366,17 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 	
 
 </div>
-<div class="row show-for-small"  id="row-629617532">
+<div class="row show-for-small"  id="row-335568931">
 
 
-	<div id="col-619136532" class="col pad_none small-12 large-12"  >
+	<div id="col-1042391624" class="col pad_none small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			
 
 <div class="accordion menu_ft_mb">
 
-<div id="accordion-4287853777" class="accordion-item"><a id="accordion-4287853777-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-4287853777-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Hỗ trợ khách hàng</span></a><div id="accordion-4287853777-content" class="accordion-inner" aria-labelledby="accordion-4287853777-label">
+<div id="accordion-2013617673" class="accordion-item"><a id="accordion-2013617673-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-2013617673-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Hỗ trợ khách hàng</span></a><div id="accordion-2013617673-content" class="accordion-inner" aria-labelledby="accordion-2013617673-label">
 
 
 
@@ -2392,7 +2392,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 
 
 </div></div>
-<div id="accordion-1614444597" class="accordion-item"><a id="accordion-1614444597-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-1614444597-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Danh mục sản phẩm</span></a><div id="accordion-1614444597-content" class="accordion-inner" aria-labelledby="accordion-1614444597-label">
+<div id="accordion-302000311" class="accordion-item"><a id="accordion-302000311-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-302000311-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Danh mục sản phẩm</span></a><div id="accordion-302000311-content" class="accordion-inner" aria-labelledby="accordion-302000311-label">
 
 
 
@@ -2410,7 +2410,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 
 
 </div></div>
-<div id="accordion-524754485" class="accordion-item"><a id="accordion-524754485-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-524754485-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Doanh nghiệp</span></a><div id="accordion-524754485-content" class="accordion-inner" aria-labelledby="accordion-524754485-label">
+<div id="accordion-383081157" class="accordion-item"><a id="accordion-383081157-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-383081157-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Doanh nghiệp</span></a><div id="accordion-383081157-content" class="accordion-inner" aria-labelledby="accordion-383081157-label">
 
 
 
@@ -2430,7 +2430,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 
 	
 
-	<div id="col-2137114804" class="col small-12 large-12"  >
+	<div id="col-1021239848" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			   <h3 class="footer_title">Kết nối với chúng tôi</h3>
@@ -2480,16 +2480,16 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 
 		
 <style>
-#section_1240320744 {
+#section_973968616 {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: rgb(255, 255, 255);
 }
-#section_1240320744 .ux-shape-divider--top svg {
+#section_973968616 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_1240320744 .ux-shape-divider--bottom svg {
+#section_973968616 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -2498,7 +2498,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 	
 <div class="is-divider divider clearfix" style="margin-top:0px;margin-bottom:0px;max-width:100%;height:1px;background-color:rgb(139, 139, 139);"></div>
 
-	<section class="section" id="section_1114070798">
+	<section class="section" id="section_1831515126">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -2512,35 +2512,35 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 		<div class="section-content relative">
 			
 
-<div class="row"  id="row-358500470">
+<div class="row"  id="row-833221323">
 
 
-	<div id="col-408283517" class="col small-12 large-12"  >
+	<div id="col-733521158" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			
 
-	<div id="gap-1733922510" class="gap-element clearfix" style="display:block; height:auto;">
+	<div id="gap-308170479" class="gap-element clearfix" style="display:block; height:auto;">
 		
 <style>
-#gap-1733922510 {
+#gap-308170479 {
   padding-top: 30px;
 }
 </style>
 	</div>
 	
 
-	<div id="text-3676078308" class="text">
+	<div id="text-3181213357" class="text">
 		
 
 <p><strong>© 2023 CÔNG TY TNHH ĐIỆN LẠNH WEB DEMO</strong><br /><span style="font-size: 12px;">Giấy chứng nhận đăng ký kinh doanh số ..., cấp ngày ... bởi sở kế hoạch và đầu tư Thành phố Hà Nội.</span><br /><span style="font-size: 12px;">Địa chỉ đăng ký trụ sở chính: Số 19A, Đường Bát Khối, Phường Long Biên, Quận Long Biên, Hà Nội</span></p>
 		
 <style>
-#text-3676078308 {
+#text-3181213357 {
   text-align: center;
   color: rgb(66, 64, 64);
 }
-#text-3676078308 > * {
+#text-3181213357 > * {
   color: rgb(66, 64, 64);
 }
 </style>
@@ -2558,16 +2558,16 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 
 		
 <style>
-#section_1114070798 {
+#section_1831515126 {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: rgb(255, 255, 255);
 }
-#section_1114070798 .ux-shape-divider--top svg {
+#section_1831515126 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_1114070798 .ux-shape-divider--bottom svg {
+#section_1831515126 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -2677,7 +2677,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 						<label class="woocommerce-form__label woocommerce-form__label-for-checkbox woocommerce-form-login__rememberme">
 							<input class="woocommerce-form__input woocommerce-form__input-checkbox" name="rememberme" type="checkbox" id="rememberme" value="forever" /> <span>Ghi nhớ mật khẩu</span>
 						</label>
-						<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="8862567bb8" /><input type="hidden" name="_wp_http_referer" value="/dieu-hoa-am-tran-lg-ztnq24gpla0/" />						<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Đăng nhập">Đăng nhập</button>
+						<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="8d4504862d" /><input type="hidden" name="_wp_http_referer" value="/dieu-hoa-am-tran-lg-ztnq24gpla0/" />						<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Đăng nhập">Đăng nhập</button>
 					</p>
 					<p class="woocommerce-LostPassword lost_password">
 						<a href="/tai-khoan/lost-password/">Quên mật khẩu?</a>
@@ -2829,7 +2829,7 @@ var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","
 <script type='text/javascript' src='/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=7.8.2' id='wc-add-to-cart-variation-js'></script>
 <script type='text/javascript' id='yith_wapo_front-js-extra'>
 /* <![CDATA[ */
-var yith_wapo = {"dom":{"single_add_to_cart_button":".single_add_to_cart_button"},"i18n":{"datepickerSetTime":"Set time","datepickerSaveButton":"Save","selectAnOption":"Please, select an option","selectAtLeast":"Please, select at least %d options","selectOptions":"Please, select %d options","maxOptionsSelectedMessage":"More options than allowed have been selected","uploadPercentageDoneString":"done"},"ajaxurl":"\/wp-admin\/admin-ajax.php","addons_nonce":"40e371d9c4","upload_allowed_file_types":".jpg, .jpeg, .pdf, .png, .rar, .zip","upload_max_file_size":"5","total_price_box_option":"all","replace_product_price":"no","woocommerce_currency":"VND","total_thousand_sep":".","decimal_sep":",","priceSuffix":"","replace_image_path":".woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child img.zoomImg,\n            .woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child source,\n            .yith_magnifier_zoom img, .yith_magnifier_zoom_magnifier,\n            .owl-carousel .woocommerce-main-image,\n            .woocommerce-product-gallery__image .wp-post-image,\n            .dt-sc-product-image-gallery-container .wp-post-image","replace_product_price_class":".product .entry-summary .price:first,\n            div.elementor.product .elementor-widget-woocommerce-product-price .price","hide_button_required":"no","messages":{"minErrorMessage":"The sum of the numbers is below the minimum. The minimum value is:","maxErrorMessage":"The sum of the numbers exceeded the maximum. The maximum value is:","checkMinMaxErrorMessage":"Please, select an option","requiredMessage":"This option is required.","maxFilesAllowed":"Maximum uploaded files allowed. The maximum number of files allowed is: ","noSupportedExtension":"Error - not supported extension!","maxFileSize":"Error - file size for %s - max %d MB allowed!"},"productQuantitySelector":"form.cart .quantity input.qty:not(.wapo-product-qty)","enableGetDefaultVariationPrice":"1","currentLanguage":"","conditionalDisplayEffect":"fade"};
+var yith_wapo = {"dom":{"single_add_to_cart_button":".single_add_to_cart_button"},"i18n":{"datepickerSetTime":"Set time","datepickerSaveButton":"Save","selectAnOption":"Please, select an option","selectAtLeast":"Please, select at least %d options","selectOptions":"Please, select %d options","maxOptionsSelectedMessage":"More options than allowed have been selected","uploadPercentageDoneString":"done"},"ajaxurl":"\/wp-admin\/admin-ajax.php","addons_nonce":"1b01bfcf6f","upload_allowed_file_types":".jpg, .jpeg, .pdf, .png, .rar, .zip","upload_max_file_size":"5","total_price_box_option":"all","replace_product_price":"no","woocommerce_currency":"VND","total_thousand_sep":".","decimal_sep":",","priceSuffix":"","replace_image_path":".woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child img.zoomImg,\n            .woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child source,\n            .yith_magnifier_zoom img, .yith_magnifier_zoom_magnifier,\n            .owl-carousel .woocommerce-main-image,\n            .woocommerce-product-gallery__image .wp-post-image,\n            .dt-sc-product-image-gallery-container .wp-post-image","replace_product_price_class":".product .entry-summary .price:first,\n            div.elementor.product .elementor-widget-woocommerce-product-price .price","hide_button_required":"no","messages":{"minErrorMessage":"The sum of the numbers is below the minimum. The minimum value is:","maxErrorMessage":"The sum of the numbers exceeded the maximum. The maximum value is:","checkMinMaxErrorMessage":"Please, select an option","requiredMessage":"This option is required.","maxFilesAllowed":"Maximum uploaded files allowed. The maximum number of files allowed is: ","noSupportedExtension":"Error - not supported extension!","maxFileSize":"Error - file size for %s - max %d MB allowed!"},"productQuantitySelector":"form.cart .quantity input.qty:not(.wapo-product-qty)","enableGetDefaultVariationPrice":"1","currentLanguage":"","conditionalDisplayEffect":"fade"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='/wp-content/plugins/yith-woocommerce-product-add-ons/assets/js/front.min.js?ver=4.7.1' id='yith_wapo_front-js'></script>
@@ -2848,7 +2848,7 @@ var flatsomeVars = {"theme":{"version":"3.16.1"},"ajaxurl":"\/wp-admin\/admin-aj
 <script type='text/javascript' src='/wp-content/plugins/pwfwoofilter/assets/js/frontend/js-offcanvas.pkgd.min.js?ver=1.2.11' id='offcanvas-js'></script>
 <script type='text/javascript' id='pwf-woo-filter-js-extra'>
 /* <![CDATA[ */
-var pwf_woocommerce_filter = {"ajaxurl":"\/wp-admin\/admin-ajax.php","nonce":"3e2fe6fab4","translated_text":{"apply":"Apply","reset":"Reset","filter":"Filter","price":"Price","search":"Search","rate":"Rated","load_more":"Load more","clearall":"Clear all"},"currency_symbol":"\u20ab","currency_pos":"right","page_url":"\/dieu-hoa-am-tran-lg-ztnq24gpla0\/","pretty_prefixed":"","customize":{"pageLoader":"","buttonLoader":"","infiniteLoader":""}};
+var pwf_woocommerce_filter = {"ajaxurl":"\/wp-admin\/admin-ajax.php","nonce":"d200652294","translated_text":{"apply":"Apply","reset":"Reset","filter":"Filter","price":"Price","search":"Search","rate":"Rated","load_more":"Load more","clearall":"Clear all"},"currency_symbol":"\u20ab","currency_pos":"right","page_url":"\/dieu-hoa-am-tran-lg-ztnq24gpla0\/","pretty_prefixed":"","customize":{"pageLoader":"","buttonLoader":"","infiniteLoader":""}};
 /* ]]> */
 </script>
 <script type='text/javascript' id='pwf-woo-filter-js-before'>
