@@ -13,3 +13,4 @@ Dưới đây là danh sách các thẻ công việc đã được tạo trên h
 3. 🧪 **Tiến (QA & Tester)**:
    * **Mã thẻ Jira**: `KAN-19` - [TESTING] Kiểm Thử Quy Trình Tích Hợp Pretty Links và Đồng Bộ Dữ Liệu Affiliate
    * **Tài liệu chi tiết**: [KAN-7_Tien_Testing.md](file:///d:/ThucTapDN/NovaElectronics/docs/KAN-7_Tien_Testing.md)
+   * **Báo cáo kết quả kiểm thử**: [KAN-7_Test_Report.md](file:///d:/ThucTapDN/NovaElectronics/docs/KAN-7_Test_Report.md)
