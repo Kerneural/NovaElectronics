@@ -92,3 +92,26 @@ add_action('pre_get_posts', function($query) {
         $query->set('orderby', 'meta_value_num');
     }
 });
+
+
+// ==========================================
+// 3. Static Templates Request Router
+// ==========================================
+add_filter('template_include', function($template) {
+    // Extract normalized request path
+    $request_uri = $_SERVER['REQUEST_URI'];
+    $path = trim(parse_url($request_uri, PHP_URL_PATH), '/');
+    
+    // Check if path matches crawled routes
+    $routes_file = get_stylesheet_directory() . '/routes.json';
+    if (file_exists($routes_file)) {
+        $routes = json_decode(file_get_contents($routes_file), true);
+        if (is_array($routes) && isset($routes[$path])) {
+            $template_file = get_stylesheet_directory() . '/' . $routes[$path];
+            if (file_exists($template_file)) {
+                return $template_file;
+            }
+        }
+    }
+    return $template;
+});

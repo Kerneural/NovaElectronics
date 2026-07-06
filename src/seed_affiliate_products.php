@@ -1,6 +1,7 @@
 <?php
 // seed_affiliate_products.php
-// Evaluated by WP-CLI inside the container
+// Evaluated by WP-CLI or direct browser access
+require_once __DIR__ . '/wp-load.php';
 
 // Disable terms caching to prevent issues
 wp_defer_term_counting(true);
