@@ -19,8 +19,9 @@ src/readme.html
 # Ignore all themes by default
 src/wp-content/themes/*
 
-# CHỈ GIỮ LẠI theme cào của chúng ta
+# CHỈ GIỮ LẠI theme cào của chúng ta và script seed
 !src/wp-content/themes/dienmay8-clone/
+!src/seed_affiliate_products.php
 
 # Loại bỏ các file zip của Flatsome
 flatsome.zip
