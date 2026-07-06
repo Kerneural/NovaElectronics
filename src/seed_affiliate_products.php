@@ -190,7 +190,11 @@ foreach ($product_specs as $cat_slug => $specs) {
         $price = $spec[2];
         $img_key = $spec[3];
         $btn_text = $spec[4];
-        $aff_url = "https://www.amazon.com/dp/B0D15" . strtoupper(substr($slug, 0, 5));
+        $clean_slug = str_replace('-', '', $slug);
+        $aff_url = "https://www.amazon.com/dp/B0D15" . strtoupper(substr($clean_slug, 0, 5));
+        if ($slug === 'asus-rog-zephyrus-g14') {
+            $aff_url = 'https://www.amazon.com/dp/B0D15ROG14';
+        }
 
         // Create product using WooCommerce Product class
         $product = new WC_Product_External();
