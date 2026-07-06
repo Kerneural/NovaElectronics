@@ -69,7 +69,8 @@ Do các thư mục chứa tài nguyên ảnh, font và CSS nặng được khai 
 4. **Nạp dữ liệu:** Mở trình duyệt, truy cập đường dẫn seeder để tự động nạp 50 sản phẩm Affiliate:
    👉 `http://<domain>/seed_affiliate_products.php`
 5. Chờ màn hình xuất hiện thông báo: `Seeding completed: 50/50 products created`.
-6. **Bảo mật:** Quay lại **Quản lý tập tin** trên 1Panel, xóa file `/public_html/seed_affiliate_products.php` ngay lập tức để tránh rủi ro bảo mật dữ liệu.
+6. **Cập nhật Đường dẫn tĩnh (Flush Permalinks):** Vào **Cài đặt > Đường dẫn tĩnh** (Settings > Permalinks) trong WordPress Admin, chọn cấu trúc là **Tiêu đề bài viết (Post name)** và bấm **Lưu thay đổi** (Save Changes) ở dưới cùng. Bước này bắt buộc phải thực hiện để WordPress đăng ký các cấu trúc định tuyến mới cho `/go/` hoạt động.
+7. **Bảo mật:** Quay lại **Quản lý tập tin** trên 1Panel, xóa file `/public_html/seed_affiliate_products.php` ngay lập tức để tránh rủi ro bảo mật dữ liệu.
 
 ---
 
