@@ -848,10 +848,10 @@ Tra cứu đơn hàng</a>
 
 
 			<div class="quantity buttons_added form-normal">
-		<input type="button" value="-" class="minus button is-form">				<label class="screen-reader-text" for="quantity_6a476effa50ba">Dàn lạnh điều hòa multi LG 18000BTU AMNW18GSKB0 2 chiều inverter số lượng</label>
+		<input type="button" value="-" class="minus button is-form">				<label class="screen-reader-text" for="quantity_6a4a2aff0e8ab">Dàn lạnh điều hòa multi LG 18000BTU AMNW18GSKB0 2 chiều inverter số lượng</label>
 		<input
 			type="number"
-			id="quantity_6a476effa50ba"
+			id="quantity_6a4a2aff0e8ab"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -910,7 +910,7 @@ Tra cứu đơn hàng</a>
         
     </div>
 
-    	<section class="section content_single_pro" id="section_371601627">
+    	<section class="section content_single_pro" id="section_1239420486">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -924,18 +924,18 @@ Tra cứu đơn hàng</a>
 		<div class="section-content relative">
 			
 
-<div class="row align-equal"  id="row-1491812214">
+<div class="row align-equal"  id="row-2101637623">
 
 
-	<div id="col-1083303159" class="col medium-12 small-12 large-9"  >
+	<div id="col-1879284415" class="col medium-12 small-12 large-9"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			
 
-<div class="row"  id="row-853997189">
+<div class="row"  id="row-460133099">
 
 
-	<div id="col-2085008005" class="col product_gallery medium-12 small-12 large-5"  >
+	<div id="col-588327867" class="col product_gallery medium-12 small-12 large-5"  >
 				<div class="col-inner"  >
 			
 			
@@ -976,11 +976,11 @@ Tra cứu đơn hàng</a>
 		</div>
 				
 <style>
-#col-2085008005 > .col-inner {
+#col-588327867 > .col-inner {
   padding: 22px 8px 0px 8px;
 }
 @media (min-width:550px) {
-  #col-2085008005 > .col-inner {
+  #col-588327867 > .col-inner {
     padding: 22px 16px 0px 16px;
   }
 }
@@ -989,15 +989,15 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-1624860511" class="col product_infor medium-12 small-12 large-7"  >
+	<div id="col-2087916411" class="col product_infor medium-12 small-12 large-7"  >
 				<div class="col-inner"  >
 			
 			
 
-<div class="row row-collapse"  id="row-1818693299">
+<div class="row row-collapse"  id="row-252778625">
 
 
-	<div id="col-1820775237" class="col small-12 large-12"  >
+	<div id="col-1511189842" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			
@@ -1211,10 +1211,10 @@ Tra cứu đơn hàng</a>
 
 
 			<div class="quantity buttons_added form-normal">
-		<input type="button" value="-" class="minus button is-form">				<label class="screen-reader-text" for="quantity_6a476eff92840">Dàn lạnh điều hòa multi LG 18000BTU AMNW18GSKB0 2 chiều inverter số lượng</label>
+		<input type="button" value="-" class="minus button is-form">				<label class="screen-reader-text" for="quantity_6a4a2afeefbaf">Dàn lạnh điều hòa multi LG 18000BTU AMNW18GSKB0 2 chiều inverter số lượng</label>
 		<input
 			type="number"
-			id="quantity_6a476eff92840"
+			id="quantity_6a4a2afeefbaf"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -1269,23 +1269,23 @@ Tra cứu đơn hàng</a>
 	
 </div>
 
-	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_673088531">
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_932464553">
 								<div class="img-inner dark" >
 			<img width="570" height="47" src="/wp-content/uploads/2022/11/z3890825499784_ad4b393ed2cf35a4316d82436e46731a.png" class="attachment-original size-original" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/z3890825499784_ad4b393ed2cf35a4316d82436e46731a.png 570w, /wp-content/uploads/2022/11/z3890825499784_ad4b393ed2cf35a4316d82436e46731a-300x25.png 300w" sizes="(max-width: 570px) 100vw, 570px" />						
 					</div>
 								
 <style>
-#image_673088531 {
+#image_932464553 {
   width: 100%;
 }
 </style>
 	</div>
 	
 
-	<div id="gap-359873391" class="gap-element clearfix" style="display:block; height:auto;">
+	<div id="gap-1510382520" class="gap-element clearfix" style="display:block; height:auto;">
 		
 <style>
-#gap-359873391 {
+#gap-1510382520 {
   padding-top: 10px;
 }
 </style>
@@ -1298,7 +1298,7 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-322606740" class="col small-12 large-12"  >
+	<div id="col-818615359" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			
@@ -1314,7 +1314,7 @@ Tra cứu đơn hàng</a>
 		</div>
 				
 <style>
-#col-322606740 > .col-inner {
+#col-818615359 > .col-inner {
   margin: 0px 0px 10px 0px;
 }
 </style>
@@ -1322,7 +1322,7 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-1829617354" class="col col_uudai small-12 large-12"  >
+	<div id="col-795439526" class="col col_uudai small-12 large-12"  >
 				<div class="col-inner" style="background-color:rgb(248, 248, 249);" >
 			
 	<div class="is-border"
@@ -1357,7 +1357,7 @@ Tra cứu đơn hàng</a>
 		</div>
 				
 <style>
-#col-1829617354 > .col-inner {
+#col-795439526 > .col-inner {
   padding: 48px 16px 16px 16px;
   margin: 0px 0px 0px 8px;
 }
@@ -1371,11 +1371,11 @@ Tra cứu đơn hàng</a>
 		</div>
 				
 <style>
-#col-1624860511 > .col-inner {
+#col-2087916411 > .col-inner {
   padding: 22px 8px 0px 8px;
 }
 @media (min-width:550px) {
-  #col-1624860511 > .col-inner {
+  #col-2087916411 > .col-inner {
     padding: 22px 16px 0px 0px;
   }
 }
@@ -1391,15 +1391,15 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-92430364" class="col medium-12 small-12 large-3"  >
+	<div id="col-881933438" class="col medium-12 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
 
-<div class="row row-collapse"  id="row-631318258">
+<div class="row row-collapse"  id="row-683383784">
 
 
-	<div id="col-2146660368" class="col bg_while mr_bt small-12 large-12"  >
+	<div id="col-1520434300" class="col bg_while mr_bt small-12 large-12"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			        <div class="product_icon">
@@ -1487,7 +1487,7 @@ Tra cứu đơn hàng</a>
 		</div>
 				
 <style>
-#col-2146660368 > .col-inner {
+#col-1520434300 > .col-inner {
   margin: 0px 0px 16px 0px;
 }
 </style>
@@ -1495,7 +1495,7 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-171499929" class="col bg_while small-12 large-12"  >
+	<div id="col-809169080" class="col bg_while small-12 large-12"  >
 				<div class="col-inner" style="background-color:rgb(255, 255, 255);" >
 			
 			        <div class="product_icon">
@@ -1617,7 +1617,7 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-441533470" class="col col_lap medium-12 small-12 large-7"  >
+	<div id="col-1424899981" class="col col_lap medium-12 small-12 large-7"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			
@@ -1695,7 +1695,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 
 	
 
-	<div id="col-1162764891" class="col col_lap medium-12 small-12 large-5"  >
+	<div id="col-1283258303" class="col col_lap medium-12 small-12 large-5"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			
@@ -1837,7 +1837,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 
 	
 
-	<div id="col-1385962602" class="col pad_product small-12 large-12"  >
+	<div id="col-1530066302" class="col pad_product small-12 large-12"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			
@@ -1922,7 +1922,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 
 	
 
-	<div id="col-809913455" class="col pad_product small-12 large-12"  >
+	<div id="col-895347833" class="col pad_product small-12 large-12"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			
@@ -2097,7 +2097,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 
 	
 
-	<div id="col-1942190604" class="col medium-7 small-12 large-7"  >
+	<div id="col-88350475" class="col medium-7 small-12 large-7"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			
@@ -2239,7 +2239,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 
 	
 
-	<div id="col-1613684943" class="col medium-5 small-12 large-5"  >
+	<div id="col-1790051077" class="col medium-5 small-12 large-5"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			   <h3 class="single_product_title"><span>Hỗ trợ khách hàng</span></h3>
@@ -2303,16 +2303,16 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 
 		
 <style>
-#section_371601627 {
+#section_1239420486 {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: rgb(240, 240, 242);
 }
-#section_371601627 .ux-shape-divider--top svg {
+#section_1239420486 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_371601627 .ux-shape-divider--bottom svg {
+#section_1239420486 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -2501,7 +2501,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 
 <footer id="footer" class="footer-wrapper">
 
-		<section class="section" id="section_1698123806">
+		<section class="section" id="section_1070232706">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -2517,10 +2517,10 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 
 <span class="scroll-to" data-label="Scroll to: #showroom" data-bullet="false" data-link="#showroom" data-title="Change this"><a name="showroom"></a></span>
 
-<div class="row"  id="row-1406059278">
+<div class="row"  id="row-1833387091">
 
 
-	<div id="col-1962188592" class="col small-12 large-12"  >
+	<div id="col-639611681" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			    <h2 class="title_listshowroom">Hệ thống kho hàng</h2>
@@ -2685,16 +2685,16 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 
 		
 <style>
-#section_1698123806 {
+#section_1070232706 {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: rgb(255, 255, 255);
 }
-#section_1698123806 .ux-shape-divider--top svg {
+#section_1070232706 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_1698123806 .ux-shape-divider--bottom svg {
+#section_1070232706 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -2703,7 +2703,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 	
 <div class="text-center"><div class="is-divider divider clearfix" style="margin-top:0px;margin-bottom:0px;max-width:1370px;height:2px;background-color:rgb(254, 0, 0);"></div></div>
 
-	<section class="section" id="section_1949328081">
+	<section class="section" id="section_1719306821">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -2717,35 +2717,35 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 		<div class="section-content relative">
 			
 
-	<div id="gap-1079832428" class="gap-element clearfix" style="display:block; height:auto;">
+	<div id="gap-861664846" class="gap-element clearfix" style="display:block; height:auto;">
 		
 <style>
-#gap-1079832428 {
+#gap-861664846 {
   padding-top: 30px;
 }
 </style>
 	</div>
 	
 
-<div class="row"  id="row-450724319">
+<div class="row"  id="row-1103332658">
 
 
-	<div id="col-1950323502" class="col medium-12 small-12 large-3"  >
+	<div id="col-793408681" class="col medium-12 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
 
-	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_508006082">
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_512224733">
 								<div class="img-inner dark" >
 			<img width="1920" height="925" src="/wp-content/uploads/2022/11/logo.png" class="attachment-original size-original" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/logo.png 1920w, /wp-content/uploads/2022/11/logo-300x145.png 300w, /wp-content/uploads/2022/11/logo-1024x493.png 1024w, /wp-content/uploads/2022/11/logo-600x289.png 600w" sizes="(max-width: 1920px) 100vw, 1920px" />						
 					</div>
 								
 <style>
-#image_508006082 {
+#image_512224733 {
   width: 40%;
 }
 @media (min-width:850px) {
-  #image_508006082 {
+  #image_512224733 {
     width: 80%;
   }
 }
@@ -2761,15 +2761,15 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 
 	
 
-	<div id="col-77926496" class="col medium-12 small-12 large-9"  >
+	<div id="col-60069472" class="col medium-12 small-12 large-9"  >
 				<div class="col-inner"  >
 			
 			
 
-<div class="row hide-for-small"  id="row-1729752165">
+<div class="row hide-for-small"  id="row-2080446024">
 
 
-	<div id="col-1220725016" class="col medium-3 small-12 large-3"  >
+	<div id="col-1786078638" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -2796,7 +2796,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 
 	
 
-	<div id="col-2045101281" class="col medium-3 small-12 large-3"  >
+	<div id="col-1221144596" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -2825,7 +2825,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 
 	
 
-	<div id="col-1741877430" class="col medium-3 small-12 large-3"  >
+	<div id="col-710575408" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -2848,7 +2848,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 
 	
 
-	<div id="col-12950890" class="col medium-3 small-12 large-3"  >
+	<div id="col-383127656" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -2865,17 +2865,17 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 	
 
 </div>
-<div class="row show-for-small"  id="row-597220638">
+<div class="row show-for-small"  id="row-1573053331">
 
 
-	<div id="col-666717496" class="col pad_none small-12 large-12"  >
+	<div id="col-29793296" class="col pad_none small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			
 
 <div class="accordion menu_ft_mb">
 
-<div id="accordion-1317351645" class="accordion-item"><a id="accordion-1317351645-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-1317351645-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Hỗ trợ khách hàng</span></a><div id="accordion-1317351645-content" class="accordion-inner" aria-labelledby="accordion-1317351645-label">
+<div id="accordion-2966728335" class="accordion-item"><a id="accordion-2966728335-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-2966728335-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Hỗ trợ khách hàng</span></a><div id="accordion-2966728335-content" class="accordion-inner" aria-labelledby="accordion-2966728335-label">
 
 
 
@@ -2891,7 +2891,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 
 
 </div></div>
-<div id="accordion-1080731890" class="accordion-item"><a id="accordion-1080731890-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-1080731890-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Danh mục sản phẩm</span></a><div id="accordion-1080731890-content" class="accordion-inner" aria-labelledby="accordion-1080731890-label">
+<div id="accordion-1930020709" class="accordion-item"><a id="accordion-1930020709-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-1930020709-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Danh mục sản phẩm</span></a><div id="accordion-1930020709-content" class="accordion-inner" aria-labelledby="accordion-1930020709-label">
 
 
 
@@ -2909,7 +2909,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 
 
 </div></div>
-<div id="accordion-1491056052" class="accordion-item"><a id="accordion-1491056052-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-1491056052-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Doanh nghiệp</span></a><div id="accordion-1491056052-content" class="accordion-inner" aria-labelledby="accordion-1491056052-label">
+<div id="accordion-4113955891" class="accordion-item"><a id="accordion-4113955891-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-4113955891-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Doanh nghiệp</span></a><div id="accordion-4113955891-content" class="accordion-inner" aria-labelledby="accordion-4113955891-label">
 
 
 
@@ -2929,7 +2929,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 
 	
 
-	<div id="col-1630385488" class="col small-12 large-12"  >
+	<div id="col-446585391" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			   <h3 class="footer_title">Kết nối với chúng tôi</h3>
@@ -2979,16 +2979,16 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 
 		
 <style>
-#section_1949328081 {
+#section_1719306821 {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: rgb(255, 255, 255);
 }
-#section_1949328081 .ux-shape-divider--top svg {
+#section_1719306821 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_1949328081 .ux-shape-divider--bottom svg {
+#section_1719306821 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -2997,7 +2997,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 	
 <div class="is-divider divider clearfix" style="margin-top:0px;margin-bottom:0px;max-width:100%;height:1px;background-color:rgb(139, 139, 139);"></div>
 
-	<section class="section" id="section_1397260546">
+	<section class="section" id="section_1554334365">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -3011,35 +3011,35 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 		<div class="section-content relative">
 			
 
-<div class="row"  id="row-1595067180">
+<div class="row"  id="row-272154910">
 
 
-	<div id="col-483398579" class="col small-12 large-12"  >
+	<div id="col-1352280304" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			
 
-	<div id="gap-1749713097" class="gap-element clearfix" style="display:block; height:auto;">
+	<div id="gap-1304869634" class="gap-element clearfix" style="display:block; height:auto;">
 		
 <style>
-#gap-1749713097 {
+#gap-1304869634 {
   padding-top: 30px;
 }
 </style>
 	</div>
 	
 
-	<div id="text-759177935" class="text">
+	<div id="text-2107692930" class="text">
 		
 
 <p><strong>© 2023 CÔNG TY TNHH ĐIỆN LẠNH WEB DEMO</strong><br /><span style="font-size: 12px;">Giấy chứng nhận đăng ký kinh doanh số ..., cấp ngày ... bởi sở kế hoạch và đầu tư Thành phố Hà Nội.</span><br /><span style="font-size: 12px;">Địa chỉ đăng ký trụ sở chính: Số 19A, Đường Bát Khối, Phường Long Biên, Quận Long Biên, Hà Nội</span></p>
 		
 <style>
-#text-759177935 {
+#text-2107692930 {
   text-align: center;
   color: rgb(66, 64, 64);
 }
-#text-759177935 > * {
+#text-2107692930 > * {
   color: rgb(66, 64, 64);
 }
 </style>
@@ -3057,16 +3057,16 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 
 		
 <style>
-#section_1397260546 {
+#section_1554334365 {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: rgb(255, 255, 255);
 }
-#section_1397260546 .ux-shape-divider--top svg {
+#section_1554334365 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_1397260546 .ux-shape-divider--bottom svg {
+#section_1554334365 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -3184,7 +3184,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 						<label class="woocommerce-form__label woocommerce-form__label-for-checkbox woocommerce-form-login__rememberme">
 							<input class="woocommerce-form__input woocommerce-form__input-checkbox" name="rememberme" type="checkbox" id="rememberme" value="forever" /> <span>Ghi nhớ mật khẩu</span>
 						</label>
-						<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="8d4504862d" /><input type="hidden" name="_wp_http_referer" value="/dan-lanh-multi-lg-18000btu-2-chieu-inverter-amnw18gskb0/" />						<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Đăng nhập">Đăng nhập</button>
+						<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="9716763613" /><input type="hidden" name="_wp_http_referer" value="/dan-lanh-multi-lg-18000btu-2-chieu-inverter-amnw18gskb0/" />						<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Đăng nhập">Đăng nhập</button>
 					</p>
 					<p class="woocommerce-LostPassword lost_password">
 						<a href="/tai-khoan/lost-password/">Quên mật khẩu?</a>
@@ -3336,7 +3336,7 @@ var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","
 <script type='text/javascript' src='/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=7.8.2' id='wc-add-to-cart-variation-js'></script>
 <script type='text/javascript' id='yith_wapo_front-js-extra'>
 /* <![CDATA[ */
-var yith_wapo = {"dom":{"single_add_to_cart_button":".single_add_to_cart_button"},"i18n":{"datepickerSetTime":"Set time","datepickerSaveButton":"Save","selectAnOption":"Please, select an option","selectAtLeast":"Please, select at least %d options","selectOptions":"Please, select %d options","maxOptionsSelectedMessage":"More options than allowed have been selected","uploadPercentageDoneString":"done"},"ajaxurl":"\/wp-admin\/admin-ajax.php","addons_nonce":"1b01bfcf6f","upload_allowed_file_types":".jpg, .jpeg, .pdf, .png, .rar, .zip","upload_max_file_size":"5","total_price_box_option":"all","replace_product_price":"no","woocommerce_currency":"VND","total_thousand_sep":".","decimal_sep":",","priceSuffix":"","replace_image_path":".woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child img.zoomImg,\n            .woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child source,\n            .yith_magnifier_zoom img, .yith_magnifier_zoom_magnifier,\n            .owl-carousel .woocommerce-main-image,\n            .woocommerce-product-gallery__image .wp-post-image,\n            .dt-sc-product-image-gallery-container .wp-post-image","replace_product_price_class":".product .entry-summary .price:first,\n            div.elementor.product .elementor-widget-woocommerce-product-price .price","hide_button_required":"no","messages":{"minErrorMessage":"The sum of the numbers is below the minimum. The minimum value is:","maxErrorMessage":"The sum of the numbers exceeded the maximum. The maximum value is:","checkMinMaxErrorMessage":"Please, select an option","requiredMessage":"This option is required.","maxFilesAllowed":"Maximum uploaded files allowed. The maximum number of files allowed is: ","noSupportedExtension":"Error - not supported extension!","maxFileSize":"Error - file size for %s - max %d MB allowed!"},"productQuantitySelector":"form.cart .quantity input.qty:not(.wapo-product-qty)","enableGetDefaultVariationPrice":"1","currentLanguage":"","conditionalDisplayEffect":"fade"};
+var yith_wapo = {"dom":{"single_add_to_cart_button":".single_add_to_cart_button"},"i18n":{"datepickerSetTime":"Set time","datepickerSaveButton":"Save","selectAnOption":"Please, select an option","selectAtLeast":"Please, select at least %d options","selectOptions":"Please, select %d options","maxOptionsSelectedMessage":"More options than allowed have been selected","uploadPercentageDoneString":"done"},"ajaxurl":"\/wp-admin\/admin-ajax.php","addons_nonce":"0518c9c7e5","upload_allowed_file_types":".jpg, .jpeg, .pdf, .png, .rar, .zip","upload_max_file_size":"5","total_price_box_option":"all","replace_product_price":"no","woocommerce_currency":"VND","total_thousand_sep":".","decimal_sep":",","priceSuffix":"","replace_image_path":".woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child img.zoomImg,\n            .woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child source,\n            .yith_magnifier_zoom img, .yith_magnifier_zoom_magnifier,\n            .owl-carousel .woocommerce-main-image,\n            .woocommerce-product-gallery__image .wp-post-image,\n            .dt-sc-product-image-gallery-container .wp-post-image","replace_product_price_class":".product .entry-summary .price:first,\n            div.elementor.product .elementor-widget-woocommerce-product-price .price","hide_button_required":"no","messages":{"minErrorMessage":"The sum of the numbers is below the minimum. The minimum value is:","maxErrorMessage":"The sum of the numbers exceeded the maximum. The maximum value is:","checkMinMaxErrorMessage":"Please, select an option","requiredMessage":"This option is required.","maxFilesAllowed":"Maximum uploaded files allowed. The maximum number of files allowed is: ","noSupportedExtension":"Error - not supported extension!","maxFileSize":"Error - file size for %s - max %d MB allowed!"},"productQuantitySelector":"form.cart .quantity input.qty:not(.wapo-product-qty)","enableGetDefaultVariationPrice":"1","currentLanguage":"","conditionalDisplayEffect":"fade"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='/wp-content/plugins/yith-woocommerce-product-add-ons/assets/js/front.min.js?ver=4.7.1' id='yith_wapo_front-js'></script>
@@ -3355,7 +3355,7 @@ var flatsomeVars = {"theme":{"version":"3.16.1"},"ajaxurl":"\/wp-admin\/admin-aj
 <script type='text/javascript' src='/wp-content/plugins/pwfwoofilter/assets/js/frontend/js-offcanvas.pkgd.min.js?ver=1.2.11' id='offcanvas-js'></script>
 <script type='text/javascript' id='pwf-woo-filter-js-extra'>
 /* <![CDATA[ */
-var pwf_woocommerce_filter = {"ajaxurl":"\/wp-admin\/admin-ajax.php","nonce":"d200652294","translated_text":{"apply":"Apply","reset":"Reset","filter":"Filter","price":"Price","search":"Search","rate":"Rated","load_more":"Load more","clearall":"Clear all"},"currency_symbol":"\u20ab","currency_pos":"right","page_url":"\/dan-lanh-multi-lg-18000btu-2-chieu-inverter-amnw18gskb0\/","pretty_prefixed":"","customize":{"pageLoader":"","buttonLoader":"","infiniteLoader":""}};
+var pwf_woocommerce_filter = {"ajaxurl":"\/wp-admin\/admin-ajax.php","nonce":"7ba9278b95","translated_text":{"apply":"Apply","reset":"Reset","filter":"Filter","price":"Price","search":"Search","rate":"Rated","load_more":"Load more","clearall":"Clear all"},"currency_symbol":"\u20ab","currency_pos":"right","page_url":"\/dan-lanh-multi-lg-18000btu-2-chieu-inverter-amnw18gskb0\/","pretty_prefixed":"","customize":{"pageLoader":"","buttonLoader":"","infiniteLoader":""}};
 /* ]]> */
 </script>
 <script type='text/javascript' id='pwf-woo-filter-js-before'>

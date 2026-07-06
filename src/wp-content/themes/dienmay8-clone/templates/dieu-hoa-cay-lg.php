@@ -944,7 +944,7 @@ Tra cứu đơn hàng</a>
 
 <footer id="footer" class="footer-wrapper">
 
-		<section class="section" id="section_499103609">
+		<section class="section" id="section_292727029">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -960,10 +960,10 @@ Tra cứu đơn hàng</a>
 
 <span class="scroll-to" data-label="Scroll to: #showroom" data-bullet="false" data-link="#showroom" data-title="Change this"><a name="showroom"></a></span>
 
-<div class="row"  id="row-884903781">
+<div class="row"  id="row-987643576">
 
 
-	<div id="col-609151281" class="col small-12 large-12"  >
+	<div id="col-1037882673" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			    <h2 class="title_listshowroom">Hệ thống kho hàng</h2>
@@ -1128,16 +1128,16 @@ Tra cứu đơn hàng</a>
 
 		
 <style>
-#section_499103609 {
+#section_292727029 {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: rgb(255, 255, 255);
 }
-#section_499103609 .ux-shape-divider--top svg {
+#section_292727029 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_499103609 .ux-shape-divider--bottom svg {
+#section_292727029 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -1146,7 +1146,7 @@ Tra cứu đơn hàng</a>
 	
 <div class="text-center"><div class="is-divider divider clearfix" style="margin-top:0px;margin-bottom:0px;max-width:1370px;height:2px;background-color:rgb(254, 0, 0);"></div></div>
 
-	<section class="section" id="section_710206157">
+	<section class="section" id="section_1922942609">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -1160,35 +1160,35 @@ Tra cứu đơn hàng</a>
 		<div class="section-content relative">
 			
 
-	<div id="gap-1189081510" class="gap-element clearfix" style="display:block; height:auto;">
+	<div id="gap-664865929" class="gap-element clearfix" style="display:block; height:auto;">
 		
 <style>
-#gap-1189081510 {
+#gap-664865929 {
   padding-top: 30px;
 }
 </style>
 	</div>
 	
 
-<div class="row"  id="row-1392855544">
+<div class="row"  id="row-1173420060">
 
 
-	<div id="col-1410969625" class="col medium-12 small-12 large-3"  >
+	<div id="col-2000434657" class="col medium-12 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
 
-	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1822047176">
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1844743396">
 								<div class="img-inner dark" >
 			<img width="1920" height="925" src="/wp-content/uploads/2022/11/logo.png" class="attachment-original size-original" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/logo.png 1920w, /wp-content/uploads/2022/11/logo-300x145.png 300w, /wp-content/uploads/2022/11/logo-1024x493.png 1024w, /wp-content/uploads/2022/11/logo-600x289.png 600w" sizes="(max-width: 1920px) 100vw, 1920px" />						
 					</div>
 								
 <style>
-#image_1822047176 {
+#image_1844743396 {
   width: 40%;
 }
 @media (min-width:850px) {
-  #image_1822047176 {
+  #image_1844743396 {
     width: 80%;
   }
 }
@@ -1204,15 +1204,15 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-517726566" class="col medium-12 small-12 large-9"  >
+	<div id="col-1159083972" class="col medium-12 small-12 large-9"  >
 				<div class="col-inner"  >
 			
 			
 
-<div class="row hide-for-small"  id="row-967215204">
+<div class="row hide-for-small"  id="row-149281677">
 
 
-	<div id="col-1208751009" class="col medium-3 small-12 large-3"  >
+	<div id="col-803999731" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -1239,7 +1239,7 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-1950728107" class="col medium-3 small-12 large-3"  >
+	<div id="col-539678368" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -1268,7 +1268,7 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-313673352" class="col medium-3 small-12 large-3"  >
+	<div id="col-1314222942" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -1291,7 +1291,7 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-350296481" class="col medium-3 small-12 large-3"  >
+	<div id="col-637512293" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -1308,17 +1308,17 @@ Tra cứu đơn hàng</a>
 	
 
 </div>
-<div class="row show-for-small"  id="row-889592715">
+<div class="row show-for-small"  id="row-127639419">
 
 
-	<div id="col-1877624943" class="col pad_none small-12 large-12"  >
+	<div id="col-1706734190" class="col pad_none small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			
 
 <div class="accordion menu_ft_mb">
 
-<div id="accordion-3840700658" class="accordion-item"><a id="accordion-3840700658-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-3840700658-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Hỗ trợ khách hàng</span></a><div id="accordion-3840700658-content" class="accordion-inner" aria-labelledby="accordion-3840700658-label">
+<div id="accordion-616798142" class="accordion-item"><a id="accordion-616798142-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-616798142-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Hỗ trợ khách hàng</span></a><div id="accordion-616798142-content" class="accordion-inner" aria-labelledby="accordion-616798142-label">
 
 
 
@@ -1334,7 +1334,7 @@ Tra cứu đơn hàng</a>
 
 
 </div></div>
-<div id="accordion-2629173273" class="accordion-item"><a id="accordion-2629173273-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-2629173273-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Danh mục sản phẩm</span></a><div id="accordion-2629173273-content" class="accordion-inner" aria-labelledby="accordion-2629173273-label">
+<div id="accordion-815624533" class="accordion-item"><a id="accordion-815624533-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-815624533-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Danh mục sản phẩm</span></a><div id="accordion-815624533-content" class="accordion-inner" aria-labelledby="accordion-815624533-label">
 
 
 
@@ -1352,7 +1352,7 @@ Tra cứu đơn hàng</a>
 
 
 </div></div>
-<div id="accordion-4016000106" class="accordion-item"><a id="accordion-4016000106-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-4016000106-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Doanh nghiệp</span></a><div id="accordion-4016000106-content" class="accordion-inner" aria-labelledby="accordion-4016000106-label">
+<div id="accordion-985054387" class="accordion-item"><a id="accordion-985054387-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-985054387-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Doanh nghiệp</span></a><div id="accordion-985054387-content" class="accordion-inner" aria-labelledby="accordion-985054387-label">
 
 
 
@@ -1372,7 +1372,7 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-1662964796" class="col small-12 large-12"  >
+	<div id="col-1395621266" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			   <h3 class="footer_title">Kết nối với chúng tôi</h3>
@@ -1422,16 +1422,16 @@ Tra cứu đơn hàng</a>
 
 		
 <style>
-#section_710206157 {
+#section_1922942609 {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: rgb(255, 255, 255);
 }
-#section_710206157 .ux-shape-divider--top svg {
+#section_1922942609 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_710206157 .ux-shape-divider--bottom svg {
+#section_1922942609 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -1440,7 +1440,7 @@ Tra cứu đơn hàng</a>
 	
 <div class="is-divider divider clearfix" style="margin-top:0px;margin-bottom:0px;max-width:100%;height:1px;background-color:rgb(139, 139, 139);"></div>
 
-	<section class="section" id="section_516014970">
+	<section class="section" id="section_278500135">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -1454,35 +1454,35 @@ Tra cứu đơn hàng</a>
 		<div class="section-content relative">
 			
 
-<div class="row"  id="row-2141089886">
+<div class="row"  id="row-955734607">
 
 
-	<div id="col-1004115257" class="col small-12 large-12"  >
+	<div id="col-767449630" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			
 
-	<div id="gap-1552187394" class="gap-element clearfix" style="display:block; height:auto;">
+	<div id="gap-601452286" class="gap-element clearfix" style="display:block; height:auto;">
 		
 <style>
-#gap-1552187394 {
+#gap-601452286 {
   padding-top: 30px;
 }
 </style>
 	</div>
 	
 
-	<div id="text-792847035" class="text">
+	<div id="text-3325703883" class="text">
 		
 
 <p><strong>© 2023 CÔNG TY TNHH ĐIỆN LẠNH WEB DEMO</strong><br /><span style="font-size: 12px;">Giấy chứng nhận đăng ký kinh doanh số ..., cấp ngày ... bởi sở kế hoạch và đầu tư Thành phố Hà Nội.</span><br /><span style="font-size: 12px;">Địa chỉ đăng ký trụ sở chính: Số 19A, Đường Bát Khối, Phường Long Biên, Quận Long Biên, Hà Nội</span></p>
 		
 <style>
-#text-792847035 {
+#text-3325703883 {
   text-align: center;
   color: rgb(66, 64, 64);
 }
-#text-792847035 > * {
+#text-3325703883 > * {
   color: rgb(66, 64, 64);
 }
 </style>
@@ -1500,16 +1500,16 @@ Tra cứu đơn hàng</a>
 
 		
 <style>
-#section_516014970 {
+#section_278500135 {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: rgb(255, 255, 255);
 }
-#section_516014970 .ux-shape-divider--top svg {
+#section_278500135 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_516014970 .ux-shape-divider--bottom svg {
+#section_278500135 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -1619,7 +1619,7 @@ Tra cứu đơn hàng</a>
 						<label class="woocommerce-form__label woocommerce-form__label-for-checkbox woocommerce-form-login__rememberme">
 							<input class="woocommerce-form__input woocommerce-form__input-checkbox" name="rememberme" type="checkbox" id="rememberme" value="forever" /> <span>Ghi nhớ mật khẩu</span>
 						</label>
-						<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="8d4504862d" /><input type="hidden" name="_wp_http_referer" value="/dieu-hoa-cay-lg/" />						<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Đăng nhập">Đăng nhập</button>
+						<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="9716763613" /><input type="hidden" name="_wp_http_referer" value="/dieu-hoa-cay-lg/" />						<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Đăng nhập">Đăng nhập</button>
 					</p>
 					<p class="woocommerce-LostPassword lost_password">
 						<a href="/tai-khoan/lost-password/">Quên mật khẩu?</a>
@@ -1701,7 +1701,7 @@ var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","
 <script type='text/javascript' src='/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=7.8.2' id='wc-add-to-cart-variation-js'></script>
 <script type='text/javascript' id='yith_wapo_front-js-extra'>
 /* <![CDATA[ */
-var yith_wapo = {"dom":{"single_add_to_cart_button":".single_add_to_cart_button"},"i18n":{"datepickerSetTime":"Set time","datepickerSaveButton":"Save","selectAnOption":"Please, select an option","selectAtLeast":"Please, select at least %d options","selectOptions":"Please, select %d options","maxOptionsSelectedMessage":"More options than allowed have been selected","uploadPercentageDoneString":"done"},"ajaxurl":"\/wp-admin\/admin-ajax.php","addons_nonce":"1b01bfcf6f","upload_allowed_file_types":".jpg, .jpeg, .pdf, .png, .rar, .zip","upload_max_file_size":"5","total_price_box_option":"all","replace_product_price":"no","woocommerce_currency":"VND","total_thousand_sep":".","decimal_sep":",","priceSuffix":"","replace_image_path":".woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child img.zoomImg,\n            .woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child source,\n            .yith_magnifier_zoom img, .yith_magnifier_zoom_magnifier,\n            .owl-carousel .woocommerce-main-image,\n            .woocommerce-product-gallery__image .wp-post-image,\n            .dt-sc-product-image-gallery-container .wp-post-image","replace_product_price_class":".product .entry-summary .price:first,\n            div.elementor.product .elementor-widget-woocommerce-product-price .price","hide_button_required":"no","messages":{"minErrorMessage":"The sum of the numbers is below the minimum. The minimum value is:","maxErrorMessage":"The sum of the numbers exceeded the maximum. The maximum value is:","checkMinMaxErrorMessage":"Please, select an option","requiredMessage":"This option is required.","maxFilesAllowed":"Maximum uploaded files allowed. The maximum number of files allowed is: ","noSupportedExtension":"Error - not supported extension!","maxFileSize":"Error - file size for %s - max %d MB allowed!"},"productQuantitySelector":"form.cart .quantity input.qty:not(.wapo-product-qty)","enableGetDefaultVariationPrice":"1","currentLanguage":"","conditionalDisplayEffect":"fade"};
+var yith_wapo = {"dom":{"single_add_to_cart_button":".single_add_to_cart_button"},"i18n":{"datepickerSetTime":"Set time","datepickerSaveButton":"Save","selectAnOption":"Please, select an option","selectAtLeast":"Please, select at least %d options","selectOptions":"Please, select %d options","maxOptionsSelectedMessage":"More options than allowed have been selected","uploadPercentageDoneString":"done"},"ajaxurl":"\/wp-admin\/admin-ajax.php","addons_nonce":"0518c9c7e5","upload_allowed_file_types":".jpg, .jpeg, .pdf, .png, .rar, .zip","upload_max_file_size":"5","total_price_box_option":"all","replace_product_price":"no","woocommerce_currency":"VND","total_thousand_sep":".","decimal_sep":",","priceSuffix":"","replace_image_path":".woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child img.zoomImg,\n            .woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child source,\n            .yith_magnifier_zoom img, .yith_magnifier_zoom_magnifier,\n            .owl-carousel .woocommerce-main-image,\n            .woocommerce-product-gallery__image .wp-post-image,\n            .dt-sc-product-image-gallery-container .wp-post-image","replace_product_price_class":".product .entry-summary .price:first,\n            div.elementor.product .elementor-widget-woocommerce-product-price .price","hide_button_required":"no","messages":{"minErrorMessage":"The sum of the numbers is below the minimum. The minimum value is:","maxErrorMessage":"The sum of the numbers exceeded the maximum. The maximum value is:","checkMinMaxErrorMessage":"Please, select an option","requiredMessage":"This option is required.","maxFilesAllowed":"Maximum uploaded files allowed. The maximum number of files allowed is: ","noSupportedExtension":"Error - not supported extension!","maxFileSize":"Error - file size for %s - max %d MB allowed!"},"productQuantitySelector":"form.cart .quantity input.qty:not(.wapo-product-qty)","enableGetDefaultVariationPrice":"1","currentLanguage":"","conditionalDisplayEffect":"fade"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='/wp-content/plugins/yith-woocommerce-product-add-ons/assets/js/front.min.js?ver=4.7.1' id='yith_wapo_front-js'></script>
@@ -1719,7 +1719,7 @@ var flatsomeVars = {"theme":{"version":"3.16.1"},"ajaxurl":"\/wp-admin\/admin-aj
 <script type='text/javascript' src='/wp-content/plugins/pwfwoofilter/assets/js/frontend/js-offcanvas.pkgd.min.js?ver=1.2.11' id='offcanvas-js'></script>
 <script type='text/javascript' id='pwf-woo-filter-js-extra'>
 /* <![CDATA[ */
-var pwf_woocommerce_filter = {"ajaxurl":"\/wp-admin\/admin-ajax.php","nonce":"d200652294","translated_text":{"apply":"Apply","reset":"Reset","filter":"Filter","price":"Price","search":"Search","rate":"Rated","load_more":"Load more","clearall":"Clear all"},"currency_symbol":"\u20ab","currency_pos":"right","page_url":"\/dieu-hoa-cay-lg\/","pretty_prefixed":"","customize":{"pageLoader":"","buttonLoader":"","infiniteLoader":""}};
+var pwf_woocommerce_filter = {"ajaxurl":"\/wp-admin\/admin-ajax.php","nonce":"7ba9278b95","translated_text":{"apply":"Apply","reset":"Reset","filter":"Filter","price":"Price","search":"Search","rate":"Rated","load_more":"Load more","clearall":"Clear all"},"currency_symbol":"\u20ab","currency_pos":"right","page_url":"\/dieu-hoa-cay-lg\/","pretty_prefixed":"","customize":{"pageLoader":"","buttonLoader":"","infiniteLoader":""}};
 /* ]]> */
 </script>
 <script type='text/javascript' id='pwf-woo-filter-js-before'>

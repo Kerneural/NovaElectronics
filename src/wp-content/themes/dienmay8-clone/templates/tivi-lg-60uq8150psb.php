@@ -848,10 +848,10 @@ Tra cứu đơn hàng</a>
 
 
 			<div class="quantity buttons_added form-normal">
-		<input type="button" value="-" class="minus button is-form">				<label class="screen-reader-text" for="quantity_6a476f15b46bf">Smart Tivi LG 4K 60 inch 60UQ8150PSB UHD - 2022 số lượng</label>
+		<input type="button" value="-" class="minus button is-form">				<label class="screen-reader-text" for="quantity_6a4a2b16ee6fa">Smart Tivi LG 4K 60 inch 60UQ8150PSB UHD - 2022 số lượng</label>
 		<input
 			type="number"
-			id="quantity_6a476f15b46bf"
+			id="quantity_6a4a2b16ee6fa"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -910,7 +910,7 @@ Tra cứu đơn hàng</a>
         
     </div>
 
-    	<section class="section content_single_pro" id="section_2076964280">
+    	<section class="section content_single_pro" id="section_60521558">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -924,18 +924,18 @@ Tra cứu đơn hàng</a>
 		<div class="section-content relative">
 			
 
-<div class="row align-equal"  id="row-2046373456">
+<div class="row align-equal"  id="row-768452774">
 
 
-	<div id="col-28433744" class="col medium-12 small-12 large-9"  >
+	<div id="col-526595430" class="col medium-12 small-12 large-9"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			
 
-<div class="row"  id="row-1863219875">
+<div class="row"  id="row-947368221">
 
 
-	<div id="col-1694857410" class="col product_gallery medium-12 small-12 large-5"  >
+	<div id="col-535549616" class="col product_gallery medium-12 small-12 large-5"  >
 				<div class="col-inner"  >
 			
 			
@@ -976,11 +976,11 @@ Tra cứu đơn hàng</a>
 		</div>
 				
 <style>
-#col-1694857410 > .col-inner {
+#col-535549616 > .col-inner {
   padding: 22px 8px 0px 8px;
 }
 @media (min-width:550px) {
-  #col-1694857410 > .col-inner {
+  #col-535549616 > .col-inner {
     padding: 22px 16px 0px 16px;
   }
 }
@@ -989,15 +989,15 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-91685856" class="col product_infor medium-12 small-12 large-7"  >
+	<div id="col-1264771070" class="col product_infor medium-12 small-12 large-7"  >
 				<div class="col-inner"  >
 			
 			
 
-<div class="row row-collapse"  id="row-1807523401">
+<div class="row row-collapse"  id="row-1523862523">
 
 
-	<div id="col-1206875875" class="col small-12 large-12"  >
+	<div id="col-1623818935" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			
@@ -1211,10 +1211,10 @@ Tra cứu đơn hàng</a>
 
 
 			<div class="quantity buttons_added form-normal">
-		<input type="button" value="-" class="minus button is-form">				<label class="screen-reader-text" for="quantity_6a476f15a65d2">Smart Tivi LG 4K 60 inch 60UQ8150PSB UHD - 2022 số lượng</label>
+		<input type="button" value="-" class="minus button is-form">				<label class="screen-reader-text" for="quantity_6a4a2b16ddedb">Smart Tivi LG 4K 60 inch 60UQ8150PSB UHD - 2022 số lượng</label>
 		<input
 			type="number"
-			id="quantity_6a476f15a65d2"
+			id="quantity_6a4a2b16ddedb"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -1269,23 +1269,23 @@ Tra cứu đơn hàng</a>
 	
 </div>
 
-	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_417859516">
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_670691351">
 								<div class="img-inner dark" >
 			<img width="570" height="47" src="/wp-content/uploads/2022/11/z3890825499784_ad4b393ed2cf35a4316d82436e46731a.png" class="attachment-original size-original" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/z3890825499784_ad4b393ed2cf35a4316d82436e46731a.png 570w, /wp-content/uploads/2022/11/z3890825499784_ad4b393ed2cf35a4316d82436e46731a-300x25.png 300w" sizes="(max-width: 570px) 100vw, 570px" />						
 					</div>
 								
 <style>
-#image_417859516 {
+#image_670691351 {
   width: 100%;
 }
 </style>
 	</div>
 	
 
-	<div id="gap-551478518" class="gap-element clearfix" style="display:block; height:auto;">
+	<div id="gap-2111031515" class="gap-element clearfix" style="display:block; height:auto;">
 		
 <style>
-#gap-551478518 {
+#gap-2111031515 {
   padding-top: 10px;
 }
 </style>
@@ -1298,7 +1298,7 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-341803012" class="col small-12 large-12"  >
+	<div id="col-1268795592" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			
@@ -1314,7 +1314,7 @@ Tra cứu đơn hàng</a>
 		</div>
 				
 <style>
-#col-341803012 > .col-inner {
+#col-1268795592 > .col-inner {
   margin: 0px 0px 10px 0px;
 }
 </style>
@@ -1322,7 +1322,7 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-586023326" class="col col_uudai small-12 large-12"  >
+	<div id="col-1494341037" class="col col_uudai small-12 large-12"  >
 				<div class="col-inner" style="background-color:rgb(248, 248, 249);" >
 			
 	<div class="is-border"
@@ -1357,7 +1357,7 @@ Tra cứu đơn hàng</a>
 		</div>
 				
 <style>
-#col-586023326 > .col-inner {
+#col-1494341037 > .col-inner {
   padding: 48px 16px 16px 16px;
   margin: 0px 0px 0px 8px;
 }
@@ -1371,11 +1371,11 @@ Tra cứu đơn hàng</a>
 		</div>
 				
 <style>
-#col-91685856 > .col-inner {
+#col-1264771070 > .col-inner {
   padding: 22px 8px 0px 8px;
 }
 @media (min-width:550px) {
-  #col-91685856 > .col-inner {
+  #col-1264771070 > .col-inner {
     padding: 22px 16px 0px 0px;
   }
 }
@@ -1391,15 +1391,15 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-230360502" class="col medium-12 small-12 large-3"  >
+	<div id="col-1526206147" class="col medium-12 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
 
-<div class="row row-collapse"  id="row-675523133">
+<div class="row row-collapse"  id="row-633148594">
 
 
-	<div id="col-1012581288" class="col bg_while mr_bt small-12 large-12"  >
+	<div id="col-1776660626" class="col bg_while mr_bt small-12 large-12"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			        <div class="product_icon">
@@ -1487,7 +1487,7 @@ Tra cứu đơn hàng</a>
 		</div>
 				
 <style>
-#col-1012581288 > .col-inner {
+#col-1776660626 > .col-inner {
   margin: 0px 0px 16px 0px;
 }
 </style>
@@ -1495,7 +1495,7 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-1253148629" class="col bg_while small-12 large-12"  >
+	<div id="col-616478435" class="col bg_while small-12 large-12"  >
 				<div class="col-inner" style="background-color:rgb(255, 255, 255);" >
 			
 			        <div class="product_icon">
@@ -1617,7 +1617,7 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-982067226" class="col col_lap medium-12 small-12 large-7"  >
+	<div id="col-1766669192" class="col col_lap medium-12 small-12 large-7"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			
@@ -1668,7 +1668,7 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 	
 
-	<div id="col-2062739138" class="col col_lap medium-12 small-12 large-5"  >
+	<div id="col-1205461912" class="col col_lap medium-12 small-12 large-5"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			
@@ -1701,7 +1701,7 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 	
 
-	<div id="col-1613894148" class="col pad_product small-12 large-12"  >
+	<div id="col-1808464496" class="col pad_product small-12 large-12"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			
@@ -1718,7 +1718,7 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 	
 
-	<div id="col-40373155" class="col pad_product small-12 large-12"  >
+	<div id="col-1418748236" class="col pad_product small-12 large-12"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			
@@ -1893,7 +1893,7 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 	
 
-	<div id="col-1655532022" class="col medium-7 small-12 large-7"  >
+	<div id="col-1369964747" class="col medium-7 small-12 large-7"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			
@@ -2035,7 +2035,7 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 	
 
-	<div id="col-878883172" class="col medium-5 small-12 large-5"  >
+	<div id="col-1625510566" class="col medium-5 small-12 large-5"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			   <h3 class="single_product_title"><span>Hỗ trợ khách hàng</span></h3>
@@ -2099,16 +2099,16 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 		
 <style>
-#section_2076964280 {
+#section_60521558 {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: rgb(240, 240, 242);
 }
-#section_2076964280 .ux-shape-divider--top svg {
+#section_60521558 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_2076964280 .ux-shape-divider--bottom svg {
+#section_60521558 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -2281,7 +2281,7 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 <footer id="footer" class="footer-wrapper">
 
-		<section class="section" id="section_938021623">
+		<section class="section" id="section_589287325">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -2297,10 +2297,10 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 <span class="scroll-to" data-label="Scroll to: #showroom" data-bullet="false" data-link="#showroom" data-title="Change this"><a name="showroom"></a></span>
 
-<div class="row"  id="row-483388935">
+<div class="row"  id="row-220731519">
 
 
-	<div id="col-1574141883" class="col small-12 large-12"  >
+	<div id="col-1379744231" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			    <h2 class="title_listshowroom">Hệ thống kho hàng</h2>
@@ -2465,16 +2465,16 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 		
 <style>
-#section_938021623 {
+#section_589287325 {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: rgb(255, 255, 255);
 }
-#section_938021623 .ux-shape-divider--top svg {
+#section_589287325 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_938021623 .ux-shape-divider--bottom svg {
+#section_589287325 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -2483,7 +2483,7 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 	
 <div class="text-center"><div class="is-divider divider clearfix" style="margin-top:0px;margin-bottom:0px;max-width:1370px;height:2px;background-color:rgb(254, 0, 0);"></div></div>
 
-	<section class="section" id="section_1936973720">
+	<section class="section" id="section_1997303127">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -2497,35 +2497,35 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 		<div class="section-content relative">
 			
 
-	<div id="gap-813705122" class="gap-element clearfix" style="display:block; height:auto;">
+	<div id="gap-1248486287" class="gap-element clearfix" style="display:block; height:auto;">
 		
 <style>
-#gap-813705122 {
+#gap-1248486287 {
   padding-top: 30px;
 }
 </style>
 	</div>
 	
 
-<div class="row"  id="row-1824251741">
+<div class="row"  id="row-1229601872">
 
 
-	<div id="col-557439987" class="col medium-12 small-12 large-3"  >
+	<div id="col-579535140" class="col medium-12 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
 
-	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_249147085">
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1828003269">
 								<div class="img-inner dark" >
 			<img width="1920" height="925" src="/wp-content/uploads/2022/11/logo.png" class="attachment-original size-original" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/logo.png 1920w, /wp-content/uploads/2022/11/logo-300x145.png 300w, /wp-content/uploads/2022/11/logo-1024x493.png 1024w, /wp-content/uploads/2022/11/logo-600x289.png 600w" sizes="(max-width: 1920px) 100vw, 1920px" />						
 					</div>
 								
 <style>
-#image_249147085 {
+#image_1828003269 {
   width: 40%;
 }
 @media (min-width:850px) {
-  #image_249147085 {
+  #image_1828003269 {
     width: 80%;
   }
 }
@@ -2541,15 +2541,15 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 	
 
-	<div id="col-599817129" class="col medium-12 small-12 large-9"  >
+	<div id="col-1144614576" class="col medium-12 small-12 large-9"  >
 				<div class="col-inner"  >
 			
 			
 
-<div class="row hide-for-small"  id="row-1573370759">
+<div class="row hide-for-small"  id="row-2064070827">
 
 
-	<div id="col-166455980" class="col medium-3 small-12 large-3"  >
+	<div id="col-883884515" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -2576,7 +2576,7 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 	
 
-	<div id="col-1963574144" class="col medium-3 small-12 large-3"  >
+	<div id="col-2067971029" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -2605,7 +2605,7 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 	
 
-	<div id="col-267378532" class="col medium-3 small-12 large-3"  >
+	<div id="col-1101335062" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -2628,7 +2628,7 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 	
 
-	<div id="col-1687388684" class="col medium-3 small-12 large-3"  >
+	<div id="col-2140606960" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -2645,17 +2645,17 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 	
 
 </div>
-<div class="row show-for-small"  id="row-703599736">
+<div class="row show-for-small"  id="row-1455137243">
 
 
-	<div id="col-1695998379" class="col pad_none small-12 large-12"  >
+	<div id="col-844468767" class="col pad_none small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			
 
 <div class="accordion menu_ft_mb">
 
-<div id="accordion-3903209598" class="accordion-item"><a id="accordion-3903209598-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-3903209598-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Hỗ trợ khách hàng</span></a><div id="accordion-3903209598-content" class="accordion-inner" aria-labelledby="accordion-3903209598-label">
+<div id="accordion-2585789442" class="accordion-item"><a id="accordion-2585789442-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-2585789442-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Hỗ trợ khách hàng</span></a><div id="accordion-2585789442-content" class="accordion-inner" aria-labelledby="accordion-2585789442-label">
 
 
 
@@ -2671,7 +2671,7 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 
 </div></div>
-<div id="accordion-3372177873" class="accordion-item"><a id="accordion-3372177873-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-3372177873-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Danh mục sản phẩm</span></a><div id="accordion-3372177873-content" class="accordion-inner" aria-labelledby="accordion-3372177873-label">
+<div id="accordion-3064691249" class="accordion-item"><a id="accordion-3064691249-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-3064691249-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Danh mục sản phẩm</span></a><div id="accordion-3064691249-content" class="accordion-inner" aria-labelledby="accordion-3064691249-label">
 
 
 
@@ -2689,7 +2689,7 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 
 </div></div>
-<div id="accordion-732068013" class="accordion-item"><a id="accordion-732068013-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-732068013-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Doanh nghiệp</span></a><div id="accordion-732068013-content" class="accordion-inner" aria-labelledby="accordion-732068013-label">
+<div id="accordion-155470206" class="accordion-item"><a id="accordion-155470206-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-155470206-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Doanh nghiệp</span></a><div id="accordion-155470206-content" class="accordion-inner" aria-labelledby="accordion-155470206-label">
 
 
 
@@ -2709,7 +2709,7 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 	
 
-	<div id="col-1608629611" class="col small-12 large-12"  >
+	<div id="col-538756833" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			   <h3 class="footer_title">Kết nối với chúng tôi</h3>
@@ -2759,16 +2759,16 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 		
 <style>
-#section_1936973720 {
+#section_1997303127 {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: rgb(255, 255, 255);
 }
-#section_1936973720 .ux-shape-divider--top svg {
+#section_1997303127 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_1936973720 .ux-shape-divider--bottom svg {
+#section_1997303127 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -2777,7 +2777,7 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 	
 <div class="is-divider divider clearfix" style="margin-top:0px;margin-bottom:0px;max-width:100%;height:1px;background-color:rgb(139, 139, 139);"></div>
 
-	<section class="section" id="section_1139404952">
+	<section class="section" id="section_314007543">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -2791,35 +2791,35 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 		<div class="section-content relative">
 			
 
-<div class="row"  id="row-1847547540">
+<div class="row"  id="row-965371610">
 
 
-	<div id="col-1010708382" class="col small-12 large-12"  >
+	<div id="col-1445278826" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			
 
-	<div id="gap-1932745653" class="gap-element clearfix" style="display:block; height:auto;">
+	<div id="gap-91474491" class="gap-element clearfix" style="display:block; height:auto;">
 		
 <style>
-#gap-1932745653 {
+#gap-91474491 {
   padding-top: 30px;
 }
 </style>
 	</div>
 	
 
-	<div id="text-122082895" class="text">
+	<div id="text-2000572278" class="text">
 		
 
 <p><strong>© 2023 CÔNG TY TNHH ĐIỆN LẠNH WEB DEMO</strong><br /><span style="font-size: 12px;">Giấy chứng nhận đăng ký kinh doanh số ..., cấp ngày ... bởi sở kế hoạch và đầu tư Thành phố Hà Nội.</span><br /><span style="font-size: 12px;">Địa chỉ đăng ký trụ sở chính: Số 19A, Đường Bát Khối, Phường Long Biên, Quận Long Biên, Hà Nội</span></p>
 		
 <style>
-#text-122082895 {
+#text-2000572278 {
   text-align: center;
   color: rgb(66, 64, 64);
 }
-#text-122082895 > * {
+#text-2000572278 > * {
   color: rgb(66, 64, 64);
 }
 </style>
@@ -2837,16 +2837,16 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 
 		
 <style>
-#section_1139404952 {
+#section_314007543 {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: rgb(255, 255, 255);
 }
-#section_1139404952 .ux-shape-divider--top svg {
+#section_314007543 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_1139404952 .ux-shape-divider--bottom svg {
+#section_314007543 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -2964,7 +2964,7 @@ Chất âm được tinh chỉnh theo nội dung xem và tối ưu theo không g
 						<label class="woocommerce-form__label woocommerce-form__label-for-checkbox woocommerce-form-login__rememberme">
 							<input class="woocommerce-form__input woocommerce-form__input-checkbox" name="rememberme" type="checkbox" id="rememberme" value="forever" /> <span>Ghi nhớ mật khẩu</span>
 						</label>
-						<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="8d4504862d" /><input type="hidden" name="_wp_http_referer" value="/tivi-lg-60uq8150psb/" />						<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Đăng nhập">Đăng nhập</button>
+						<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="9716763613" /><input type="hidden" name="_wp_http_referer" value="/tivi-lg-60uq8150psb/" />						<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Đăng nhập">Đăng nhập</button>
 					</p>
 					<p class="woocommerce-LostPassword lost_password">
 						<a href="/tai-khoan/lost-password/">Quên mật khẩu?</a>
@@ -3116,7 +3116,7 @@ var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","
 <script type='text/javascript' src='/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=7.8.2' id='wc-add-to-cart-variation-js'></script>
 <script type='text/javascript' id='yith_wapo_front-js-extra'>
 /* <![CDATA[ */
-var yith_wapo = {"dom":{"single_add_to_cart_button":".single_add_to_cart_button"},"i18n":{"datepickerSetTime":"Set time","datepickerSaveButton":"Save","selectAnOption":"Please, select an option","selectAtLeast":"Please, select at least %d options","selectOptions":"Please, select %d options","maxOptionsSelectedMessage":"More options than allowed have been selected","uploadPercentageDoneString":"done"},"ajaxurl":"\/wp-admin\/admin-ajax.php","addons_nonce":"1b01bfcf6f","upload_allowed_file_types":".jpg, .jpeg, .pdf, .png, .rar, .zip","upload_max_file_size":"5","total_price_box_option":"all","replace_product_price":"no","woocommerce_currency":"VND","total_thousand_sep":".","decimal_sep":",","priceSuffix":"","replace_image_path":".woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child img.zoomImg,\n            .woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child source,\n            .yith_magnifier_zoom img, .yith_magnifier_zoom_magnifier,\n            .owl-carousel .woocommerce-main-image,\n            .woocommerce-product-gallery__image .wp-post-image,\n            .dt-sc-product-image-gallery-container .wp-post-image","replace_product_price_class":".product .entry-summary .price:first,\n            div.elementor.product .elementor-widget-woocommerce-product-price .price","hide_button_required":"no","messages":{"minErrorMessage":"The sum of the numbers is below the minimum. The minimum value is:","maxErrorMessage":"The sum of the numbers exceeded the maximum. The maximum value is:","checkMinMaxErrorMessage":"Please, select an option","requiredMessage":"This option is required.","maxFilesAllowed":"Maximum uploaded files allowed. The maximum number of files allowed is: ","noSupportedExtension":"Error - not supported extension!","maxFileSize":"Error - file size for %s - max %d MB allowed!"},"productQuantitySelector":"form.cart .quantity input.qty:not(.wapo-product-qty)","enableGetDefaultVariationPrice":"1","currentLanguage":"","conditionalDisplayEffect":"fade"};
+var yith_wapo = {"dom":{"single_add_to_cart_button":".single_add_to_cart_button"},"i18n":{"datepickerSetTime":"Set time","datepickerSaveButton":"Save","selectAnOption":"Please, select an option","selectAtLeast":"Please, select at least %d options","selectOptions":"Please, select %d options","maxOptionsSelectedMessage":"More options than allowed have been selected","uploadPercentageDoneString":"done"},"ajaxurl":"\/wp-admin\/admin-ajax.php","addons_nonce":"0518c9c7e5","upload_allowed_file_types":".jpg, .jpeg, .pdf, .png, .rar, .zip","upload_max_file_size":"5","total_price_box_option":"all","replace_product_price":"no","woocommerce_currency":"VND","total_thousand_sep":".","decimal_sep":",","priceSuffix":"","replace_image_path":".woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child img.zoomImg,\n            .woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child source,\n            .yith_magnifier_zoom img, .yith_magnifier_zoom_magnifier,\n            .owl-carousel .woocommerce-main-image,\n            .woocommerce-product-gallery__image .wp-post-image,\n            .dt-sc-product-image-gallery-container .wp-post-image","replace_product_price_class":".product .entry-summary .price:first,\n            div.elementor.product .elementor-widget-woocommerce-product-price .price","hide_button_required":"no","messages":{"minErrorMessage":"The sum of the numbers is below the minimum. The minimum value is:","maxErrorMessage":"The sum of the numbers exceeded the maximum. The maximum value is:","checkMinMaxErrorMessage":"Please, select an option","requiredMessage":"This option is required.","maxFilesAllowed":"Maximum uploaded files allowed. The maximum number of files allowed is: ","noSupportedExtension":"Error - not supported extension!","maxFileSize":"Error - file size for %s - max %d MB allowed!"},"productQuantitySelector":"form.cart .quantity input.qty:not(.wapo-product-qty)","enableGetDefaultVariationPrice":"1","currentLanguage":"","conditionalDisplayEffect":"fade"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='/wp-content/plugins/yith-woocommerce-product-add-ons/assets/js/front.min.js?ver=4.7.1' id='yith_wapo_front-js'></script>
@@ -3135,7 +3135,7 @@ var flatsomeVars = {"theme":{"version":"3.16.1"},"ajaxurl":"\/wp-admin\/admin-aj
 <script type='text/javascript' src='/wp-content/plugins/pwfwoofilter/assets/js/frontend/js-offcanvas.pkgd.min.js?ver=1.2.11' id='offcanvas-js'></script>
 <script type='text/javascript' id='pwf-woo-filter-js-extra'>
 /* <![CDATA[ */
-var pwf_woocommerce_filter = {"ajaxurl":"\/wp-admin\/admin-ajax.php","nonce":"d200652294","translated_text":{"apply":"Apply","reset":"Reset","filter":"Filter","price":"Price","search":"Search","rate":"Rated","load_more":"Load more","clearall":"Clear all"},"currency_symbol":"\u20ab","currency_pos":"right","page_url":"\/tivi-lg-60uq8150psb\/","pretty_prefixed":"","customize":{"pageLoader":"","buttonLoader":"","infiniteLoader":""}};
+var pwf_woocommerce_filter = {"ajaxurl":"\/wp-admin\/admin-ajax.php","nonce":"7ba9278b95","translated_text":{"apply":"Apply","reset":"Reset","filter":"Filter","price":"Price","search":"Search","rate":"Rated","load_more":"Load more","clearall":"Clear all"},"currency_symbol":"\u20ab","currency_pos":"right","page_url":"\/tivi-lg-60uq8150psb\/","pretty_prefixed":"","customize":{"pageLoader":"","buttonLoader":"","infiniteLoader":""}};
 /* ]]> */
 </script>
 <script type='text/javascript' id='pwf-woo-filter-js-before'>

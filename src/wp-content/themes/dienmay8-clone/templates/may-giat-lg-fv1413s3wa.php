@@ -848,10 +848,10 @@ Tra cứu đơn hàng</a>
 
 
 			<div class="quantity buttons_added form-normal">
-		<input type="button" value="-" class="minus button is-form">				<label class="screen-reader-text" for="quantity_6a476f0be1450">Máy giặt lồng ngang LG FV1413S3WA Inverter 13kg - 2021 số lượng</label>
+		<input type="button" value="-" class="minus button is-form">				<label class="screen-reader-text" for="quantity_6a4a2b0c6e1c5">Máy giặt lồng ngang LG FV1413S3WA Inverter 13kg - 2021 số lượng</label>
 		<input
 			type="number"
-			id="quantity_6a476f0be1450"
+			id="quantity_6a4a2b0c6e1c5"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -910,7 +910,7 @@ Tra cứu đơn hàng</a>
         
     </div>
 
-    	<section class="section content_single_pro" id="section_1961848177">
+    	<section class="section content_single_pro" id="section_557269655">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -924,18 +924,18 @@ Tra cứu đơn hàng</a>
 		<div class="section-content relative">
 			
 
-<div class="row align-equal"  id="row-1992630622">
+<div class="row align-equal"  id="row-1180777206">
 
 
-	<div id="col-99858575" class="col medium-12 small-12 large-9"  >
+	<div id="col-629626593" class="col medium-12 small-12 large-9"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			
 
-<div class="row"  id="row-1566226576">
+<div class="row"  id="row-919884260">
 
 
-	<div id="col-575897029" class="col product_gallery medium-12 small-12 large-5"  >
+	<div id="col-229266189" class="col product_gallery medium-12 small-12 large-5"  >
 				<div class="col-inner"  >
 			
 			
@@ -976,11 +976,11 @@ Tra cứu đơn hàng</a>
 		</div>
 				
 <style>
-#col-575897029 > .col-inner {
+#col-229266189 > .col-inner {
   padding: 22px 8px 0px 8px;
 }
 @media (min-width:550px) {
-  #col-575897029 > .col-inner {
+  #col-229266189 > .col-inner {
     padding: 22px 16px 0px 16px;
   }
 }
@@ -989,15 +989,15 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-279459344" class="col product_infor medium-12 small-12 large-7"  >
+	<div id="col-1836963528" class="col product_infor medium-12 small-12 large-7"  >
 				<div class="col-inner"  >
 			
 			
 
-<div class="row row-collapse"  id="row-2044095149">
+<div class="row row-collapse"  id="row-1657041077">
 
 
-	<div id="col-1064812878" class="col small-12 large-12"  >
+	<div id="col-394725100" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			
@@ -1205,10 +1205,10 @@ Tra cứu đơn hàng</a>
 
 
 			<div class="quantity buttons_added form-normal">
-		<input type="button" value="-" class="minus button is-form">				<label class="screen-reader-text" for="quantity_6a476f0bd50f5">Máy giặt lồng ngang LG FV1413S3WA Inverter 13kg - 2021 số lượng</label>
+		<input type="button" value="-" class="minus button is-form">				<label class="screen-reader-text" for="quantity_6a4a2b0c620f0">Máy giặt lồng ngang LG FV1413S3WA Inverter 13kg - 2021 số lượng</label>
 		<input
 			type="number"
-			id="quantity_6a476f0bd50f5"
+			id="quantity_6a4a2b0c620f0"
 			class="input-text qty text"
 			step="1"
 			min="1"
@@ -1263,23 +1263,23 @@ Tra cứu đơn hàng</a>
 	
 </div>
 
-	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_123960295">
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1425740535">
 								<div class="img-inner dark" >
 			<img width="570" height="47" src="/wp-content/uploads/2022/11/z3890825499784_ad4b393ed2cf35a4316d82436e46731a.png" class="attachment-original size-original" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/z3890825499784_ad4b393ed2cf35a4316d82436e46731a.png 570w, /wp-content/uploads/2022/11/z3890825499784_ad4b393ed2cf35a4316d82436e46731a-300x25.png 300w" sizes="(max-width: 570px) 100vw, 570px" />						
 					</div>
 								
 <style>
-#image_123960295 {
+#image_1425740535 {
   width: 100%;
 }
 </style>
 	</div>
 	
 
-	<div id="gap-631697570" class="gap-element clearfix" style="display:block; height:auto;">
+	<div id="gap-1508196880" class="gap-element clearfix" style="display:block; height:auto;">
 		
 <style>
-#gap-631697570 {
+#gap-1508196880 {
   padding-top: 10px;
 }
 </style>
@@ -1292,7 +1292,7 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-1161742070" class="col small-12 large-12"  >
+	<div id="col-1145885304" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			
@@ -1308,7 +1308,7 @@ Tra cứu đơn hàng</a>
 		</div>
 				
 <style>
-#col-1161742070 > .col-inner {
+#col-1145885304 > .col-inner {
   margin: 0px 0px 10px 0px;
 }
 </style>
@@ -1316,7 +1316,7 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-675499094" class="col col_uudai small-12 large-12"  >
+	<div id="col-1029658988" class="col col_uudai small-12 large-12"  >
 				<div class="col-inner" style="background-color:rgb(248, 248, 249);" >
 			
 	<div class="is-border"
@@ -1351,7 +1351,7 @@ Tra cứu đơn hàng</a>
 		</div>
 				
 <style>
-#col-675499094 > .col-inner {
+#col-1029658988 > .col-inner {
   padding: 48px 16px 16px 16px;
   margin: 0px 0px 0px 8px;
 }
@@ -1365,11 +1365,11 @@ Tra cứu đơn hàng</a>
 		</div>
 				
 <style>
-#col-279459344 > .col-inner {
+#col-1836963528 > .col-inner {
   padding: 22px 8px 0px 8px;
 }
 @media (min-width:550px) {
-  #col-279459344 > .col-inner {
+  #col-1836963528 > .col-inner {
     padding: 22px 16px 0px 0px;
   }
 }
@@ -1385,15 +1385,15 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-353647185" class="col medium-12 small-12 large-3"  >
+	<div id="col-1869465812" class="col medium-12 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
 
-<div class="row row-collapse"  id="row-220860187">
+<div class="row row-collapse"  id="row-1286645847">
 
 
-	<div id="col-987444397" class="col bg_while mr_bt small-12 large-12"  >
+	<div id="col-1562044900" class="col bg_while mr_bt small-12 large-12"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			        <div class="product_icon">
@@ -1481,7 +1481,7 @@ Tra cứu đơn hàng</a>
 		</div>
 				
 <style>
-#col-987444397 > .col-inner {
+#col-1562044900 > .col-inner {
   margin: 0px 0px 16px 0px;
 }
 </style>
@@ -1489,7 +1489,7 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-1306432471" class="col bg_while small-12 large-12"  >
+	<div id="col-504135503" class="col bg_while small-12 large-12"  >
 				<div class="col-inner" style="background-color:rgb(255, 255, 255);" >
 			
 			        <div class="product_icon">
@@ -1611,7 +1611,7 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-1197685908" class="col col_lap medium-12 small-12 large-7"  >
+	<div id="col-31735766" class="col col_lap medium-12 small-12 large-7"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			
@@ -1672,7 +1672,7 @@ Máy giặt lồng ngang LG Inverter 13kg FV1413S3WA SmartThinQ thiết kế th�
 
 	
 
-	<div id="col-1850328900" class="col col_lap medium-12 small-12 large-5"  >
+	<div id="col-129765358" class="col col_lap medium-12 small-12 large-5"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			
@@ -1705,7 +1705,7 @@ Máy giặt lồng ngang LG Inverter 13kg FV1413S3WA SmartThinQ thiết kế th�
 
 	
 
-	<div id="col-315431401" class="col pad_product small-12 large-12"  >
+	<div id="col-171471617" class="col pad_product small-12 large-12"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			
@@ -1722,7 +1722,7 @@ Máy giặt lồng ngang LG Inverter 13kg FV1413S3WA SmartThinQ thiết kế th�
 
 	
 
-	<div id="col-1729842396" class="col pad_product small-12 large-12"  >
+	<div id="col-1704954071" class="col pad_product small-12 large-12"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			
@@ -1897,7 +1897,7 @@ Máy giặt lồng ngang LG Inverter 13kg FV1413S3WA SmartThinQ thiết kế th�
 
 	
 
-	<div id="col-2065943586" class="col medium-7 small-12 large-7"  >
+	<div id="col-1475090088" class="col medium-7 small-12 large-7"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			
@@ -2039,7 +2039,7 @@ Máy giặt lồng ngang LG Inverter 13kg FV1413S3WA SmartThinQ thiết kế th�
 
 	
 
-	<div id="col-1150189819" class="col medium-5 small-12 large-5"  >
+	<div id="col-1868709505" class="col medium-5 small-12 large-5"  >
 				<div class="col-inner" style="background-color:rgb(255,255,255);" >
 			
 			   <h3 class="single_product_title"><span>Hỗ trợ khách hàng</span></h3>
@@ -2103,16 +2103,16 @@ Máy giặt lồng ngang LG Inverter 13kg FV1413S3WA SmartThinQ thiết kế th�
 
 		
 <style>
-#section_1961848177 {
+#section_557269655 {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: rgb(240, 240, 242);
 }
-#section_1961848177 .ux-shape-divider--top svg {
+#section_557269655 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_1961848177 .ux-shape-divider--bottom svg {
+#section_557269655 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -2285,7 +2285,7 @@ Máy giặt lồng ngang LG Inverter 13kg FV1413S3WA SmartThinQ thiết kế th�
 
 <footer id="footer" class="footer-wrapper">
 
-		<section class="section" id="section_808417035">
+		<section class="section" id="section_2006735820">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -2301,10 +2301,10 @@ Máy giặt lồng ngang LG Inverter 13kg FV1413S3WA SmartThinQ thiết kế th�
 
 <span class="scroll-to" data-label="Scroll to: #showroom" data-bullet="false" data-link="#showroom" data-title="Change this"><a name="showroom"></a></span>
 
-<div class="row"  id="row-978449681">
+<div class="row"  id="row-218388561">
 
 
-	<div id="col-124213983" class="col small-12 large-12"  >
+	<div id="col-1885911474" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			    <h2 class="title_listshowroom">Hệ thống kho hàng</h2>
@@ -2469,16 +2469,16 @@ Máy giặt lồng ngang LG Inverter 13kg FV1413S3WA SmartThinQ thiết kế th�
 
 		
 <style>
-#section_808417035 {
+#section_2006735820 {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: rgb(255, 255, 255);
 }
-#section_808417035 .ux-shape-divider--top svg {
+#section_2006735820 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_808417035 .ux-shape-divider--bottom svg {
+#section_2006735820 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -2487,7 +2487,7 @@ Máy giặt lồng ngang LG Inverter 13kg FV1413S3WA SmartThinQ thiết kế th�
 	
 <div class="text-center"><div class="is-divider divider clearfix" style="margin-top:0px;margin-bottom:0px;max-width:1370px;height:2px;background-color:rgb(254, 0, 0);"></div></div>
 
-	<section class="section" id="section_10485254">
+	<section class="section" id="section_300816429">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -2501,35 +2501,35 @@ Máy giặt lồng ngang LG Inverter 13kg FV1413S3WA SmartThinQ thiết kế th�
 		<div class="section-content relative">
 			
 
-	<div id="gap-1890225455" class="gap-element clearfix" style="display:block; height:auto;">
+	<div id="gap-1721953046" class="gap-element clearfix" style="display:block; height:auto;">
 		
 <style>
-#gap-1890225455 {
+#gap-1721953046 {
   padding-top: 30px;
 }
 </style>
 	</div>
 	
 
-<div class="row"  id="row-875103976">
+<div class="row"  id="row-2029130533">
 
 
-	<div id="col-1166335064" class="col medium-12 small-12 large-3"  >
+	<div id="col-1737213039" class="col medium-12 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
 
-	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_924037995">
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_988161699">
 								<div class="img-inner dark" >
 			<img width="1920" height="925" src="/wp-content/uploads/2022/11/logo.png" class="attachment-original size-original" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/logo.png 1920w, /wp-content/uploads/2022/11/logo-300x145.png 300w, /wp-content/uploads/2022/11/logo-1024x493.png 1024w, /wp-content/uploads/2022/11/logo-600x289.png 600w" sizes="(max-width: 1920px) 100vw, 1920px" />						
 					</div>
 								
 <style>
-#image_924037995 {
+#image_988161699 {
   width: 40%;
 }
 @media (min-width:850px) {
-  #image_924037995 {
+  #image_988161699 {
     width: 80%;
   }
 }
@@ -2545,15 +2545,15 @@ Máy giặt lồng ngang LG Inverter 13kg FV1413S3WA SmartThinQ thiết kế th�
 
 	
 
-	<div id="col-1129658748" class="col medium-12 small-12 large-9"  >
+	<div id="col-1980419502" class="col medium-12 small-12 large-9"  >
 				<div class="col-inner"  >
 			
 			
 
-<div class="row hide-for-small"  id="row-66337980">
+<div class="row hide-for-small"  id="row-1488609626">
 
 
-	<div id="col-655340779" class="col medium-3 small-12 large-3"  >
+	<div id="col-1662389261" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -2580,7 +2580,7 @@ Máy giặt lồng ngang LG Inverter 13kg FV1413S3WA SmartThinQ thiết kế th�
 
 	
 
-	<div id="col-2070475815" class="col medium-3 small-12 large-3"  >
+	<div id="col-1805822958" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -2609,7 +2609,7 @@ Máy giặt lồng ngang LG Inverter 13kg FV1413S3WA SmartThinQ thiết kế th�
 
 	
 
-	<div id="col-2091070423" class="col medium-3 small-12 large-3"  >
+	<div id="col-1607020539" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -2632,7 +2632,7 @@ Máy giặt lồng ngang LG Inverter 13kg FV1413S3WA SmartThinQ thiết kế th�
 
 	
 
-	<div id="col-1913779083" class="col medium-3 small-12 large-3"  >
+	<div id="col-887340953" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -2649,17 +2649,17 @@ Máy giặt lồng ngang LG Inverter 13kg FV1413S3WA SmartThinQ thiết kế th�
 	
 
 </div>
-<div class="row show-for-small"  id="row-1680600232">
+<div class="row show-for-small"  id="row-1639222918">
 
 
-	<div id="col-898022489" class="col pad_none small-12 large-12"  >
+	<div id="col-1340135420" class="col pad_none small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			
 
 <div class="accordion menu_ft_mb">
 
-<div id="accordion-1689482717" class="accordion-item"><a id="accordion-1689482717-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-1689482717-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Hỗ trợ khách hàng</span></a><div id="accordion-1689482717-content" class="accordion-inner" aria-labelledby="accordion-1689482717-label">
+<div id="accordion-664103038" class="accordion-item"><a id="accordion-664103038-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-664103038-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Hỗ trợ khách hàng</span></a><div id="accordion-664103038-content" class="accordion-inner" aria-labelledby="accordion-664103038-label">
 
 
 
@@ -2675,7 +2675,7 @@ Máy giặt lồng ngang LG Inverter 13kg FV1413S3WA SmartThinQ thiết kế th�
 
 
 </div></div>
-<div id="accordion-1805108809" class="accordion-item"><a id="accordion-1805108809-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-1805108809-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Danh mục sản phẩm</span></a><div id="accordion-1805108809-content" class="accordion-inner" aria-labelledby="accordion-1805108809-label">
+<div id="accordion-347269255" class="accordion-item"><a id="accordion-347269255-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-347269255-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Danh mục sản phẩm</span></a><div id="accordion-347269255-content" class="accordion-inner" aria-labelledby="accordion-347269255-label">
 
 
 
@@ -2693,7 +2693,7 @@ Máy giặt lồng ngang LG Inverter 13kg FV1413S3WA SmartThinQ thiết kế th�
 
 
 </div></div>
-<div id="accordion-3060098735" class="accordion-item"><a id="accordion-3060098735-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-3060098735-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Doanh nghiệp</span></a><div id="accordion-3060098735-content" class="accordion-inner" aria-labelledby="accordion-3060098735-label">
+<div id="accordion-865836924" class="accordion-item"><a id="accordion-865836924-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-865836924-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Doanh nghiệp</span></a><div id="accordion-865836924-content" class="accordion-inner" aria-labelledby="accordion-865836924-label">
 
 
 
@@ -2713,7 +2713,7 @@ Máy giặt lồng ngang LG Inverter 13kg FV1413S3WA SmartThinQ thiết kế th�
 
 	
 
-	<div id="col-1168929799" class="col small-12 large-12"  >
+	<div id="col-509963867" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			   <h3 class="footer_title">Kết nối với chúng tôi</h3>
@@ -2763,16 +2763,16 @@ Máy giặt lồng ngang LG Inverter 13kg FV1413S3WA SmartThinQ thiết kế th�
 
 		
 <style>
-#section_10485254 {
+#section_300816429 {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: rgb(255, 255, 255);
 }
-#section_10485254 .ux-shape-divider--top svg {
+#section_300816429 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_10485254 .ux-shape-divider--bottom svg {
+#section_300816429 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -2781,7 +2781,7 @@ Máy giặt lồng ngang LG Inverter 13kg FV1413S3WA SmartThinQ thiết kế th�
 	
 <div class="is-divider divider clearfix" style="margin-top:0px;margin-bottom:0px;max-width:100%;height:1px;background-color:rgb(139, 139, 139);"></div>
 
-	<section class="section" id="section_2041201338">
+	<section class="section" id="section_211974832">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -2795,35 +2795,35 @@ Máy giặt lồng ngang LG Inverter 13kg FV1413S3WA SmartThinQ thiết kế th�
 		<div class="section-content relative">
 			
 
-<div class="row"  id="row-260070529">
+<div class="row"  id="row-20425722">
 
 
-	<div id="col-450039653" class="col small-12 large-12"  >
+	<div id="col-1606325761" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			
 
-	<div id="gap-1807835944" class="gap-element clearfix" style="display:block; height:auto;">
+	<div id="gap-731098706" class="gap-element clearfix" style="display:block; height:auto;">
 		
 <style>
-#gap-1807835944 {
+#gap-731098706 {
   padding-top: 30px;
 }
 </style>
 	</div>
 	
 
-	<div id="text-2296934648" class="text">
+	<div id="text-3166152844" class="text">
 		
 
 <p><strong>© 2023 CÔNG TY TNHH ĐIỆN LẠNH WEB DEMO</strong><br /><span style="font-size: 12px;">Giấy chứng nhận đăng ký kinh doanh số ..., cấp ngày ... bởi sở kế hoạch và đầu tư Thành phố Hà Nội.</span><br /><span style="font-size: 12px;">Địa chỉ đăng ký trụ sở chính: Số 19A, Đường Bát Khối, Phường Long Biên, Quận Long Biên, Hà Nội</span></p>
 		
 <style>
-#text-2296934648 {
+#text-3166152844 {
   text-align: center;
   color: rgb(66, 64, 64);
 }
-#text-2296934648 > * {
+#text-3166152844 > * {
   color: rgb(66, 64, 64);
 }
 </style>
@@ -2841,16 +2841,16 @@ Máy giặt lồng ngang LG Inverter 13kg FV1413S3WA SmartThinQ thiết kế th�
 
 		
 <style>
-#section_2041201338 {
+#section_211974832 {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: rgb(255, 255, 255);
 }
-#section_2041201338 .ux-shape-divider--top svg {
+#section_211974832 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_2041201338 .ux-shape-divider--bottom svg {
+#section_211974832 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -2968,7 +2968,7 @@ Máy giặt lồng ngang LG Inverter 13kg FV1413S3WA SmartThinQ thiết kế th�
 						<label class="woocommerce-form__label woocommerce-form__label-for-checkbox woocommerce-form-login__rememberme">
 							<input class="woocommerce-form__input woocommerce-form__input-checkbox" name="rememberme" type="checkbox" id="rememberme" value="forever" /> <span>Ghi nhớ mật khẩu</span>
 						</label>
-						<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="8d4504862d" /><input type="hidden" name="_wp_http_referer" value="/may-giat-lg-fv1413s3wa/" />						<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Đăng nhập">Đăng nhập</button>
+						<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="9716763613" /><input type="hidden" name="_wp_http_referer" value="/may-giat-lg-fv1413s3wa/" />						<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Đăng nhập">Đăng nhập</button>
 					</p>
 					<p class="woocommerce-LostPassword lost_password">
 						<a href="/tai-khoan/lost-password/">Quên mật khẩu?</a>
@@ -3120,7 +3120,7 @@ var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","
 <script type='text/javascript' src='/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=7.8.2' id='wc-add-to-cart-variation-js'></script>
 <script type='text/javascript' id='yith_wapo_front-js-extra'>
 /* <![CDATA[ */
-var yith_wapo = {"dom":{"single_add_to_cart_button":".single_add_to_cart_button"},"i18n":{"datepickerSetTime":"Set time","datepickerSaveButton":"Save","selectAnOption":"Please, select an option","selectAtLeast":"Please, select at least %d options","selectOptions":"Please, select %d options","maxOptionsSelectedMessage":"More options than allowed have been selected","uploadPercentageDoneString":"done"},"ajaxurl":"\/wp-admin\/admin-ajax.php","addons_nonce":"1b01bfcf6f","upload_allowed_file_types":".jpg, .jpeg, .pdf, .png, .rar, .zip","upload_max_file_size":"5","total_price_box_option":"all","replace_product_price":"no","woocommerce_currency":"VND","total_thousand_sep":".","decimal_sep":",","priceSuffix":"","replace_image_path":".woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child img.zoomImg,\n            .woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child source,\n            .yith_magnifier_zoom img, .yith_magnifier_zoom_magnifier,\n            .owl-carousel .woocommerce-main-image,\n            .woocommerce-product-gallery__image .wp-post-image,\n            .dt-sc-product-image-gallery-container .wp-post-image","replace_product_price_class":".product .entry-summary .price:first,\n            div.elementor.product .elementor-widget-woocommerce-product-price .price","hide_button_required":"no","messages":{"minErrorMessage":"The sum of the numbers is below the minimum. The minimum value is:","maxErrorMessage":"The sum of the numbers exceeded the maximum. The maximum value is:","checkMinMaxErrorMessage":"Please, select an option","requiredMessage":"This option is required.","maxFilesAllowed":"Maximum uploaded files allowed. The maximum number of files allowed is: ","noSupportedExtension":"Error - not supported extension!","maxFileSize":"Error - file size for %s - max %d MB allowed!"},"productQuantitySelector":"form.cart .quantity input.qty:not(.wapo-product-qty)","enableGetDefaultVariationPrice":"1","currentLanguage":"","conditionalDisplayEffect":"fade"};
+var yith_wapo = {"dom":{"single_add_to_cart_button":".single_add_to_cart_button"},"i18n":{"datepickerSetTime":"Set time","datepickerSaveButton":"Save","selectAnOption":"Please, select an option","selectAtLeast":"Please, select at least %d options","selectOptions":"Please, select %d options","maxOptionsSelectedMessage":"More options than allowed have been selected","uploadPercentageDoneString":"done"},"ajaxurl":"\/wp-admin\/admin-ajax.php","addons_nonce":"0518c9c7e5","upload_allowed_file_types":".jpg, .jpeg, .pdf, .png, .rar, .zip","upload_max_file_size":"5","total_price_box_option":"all","replace_product_price":"no","woocommerce_currency":"VND","total_thousand_sep":".","decimal_sep":",","priceSuffix":"","replace_image_path":".woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child img.zoomImg,\n            .woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child source,\n            .yith_magnifier_zoom img, .yith_magnifier_zoom_magnifier,\n            .owl-carousel .woocommerce-main-image,\n            .woocommerce-product-gallery__image .wp-post-image,\n            .dt-sc-product-image-gallery-container .wp-post-image","replace_product_price_class":".product .entry-summary .price:first,\n            div.elementor.product .elementor-widget-woocommerce-product-price .price","hide_button_required":"no","messages":{"minErrorMessage":"The sum of the numbers is below the minimum. The minimum value is:","maxErrorMessage":"The sum of the numbers exceeded the maximum. The maximum value is:","checkMinMaxErrorMessage":"Please, select an option","requiredMessage":"This option is required.","maxFilesAllowed":"Maximum uploaded files allowed. The maximum number of files allowed is: ","noSupportedExtension":"Error - not supported extension!","maxFileSize":"Error - file size for %s - max %d MB allowed!"},"productQuantitySelector":"form.cart .quantity input.qty:not(.wapo-product-qty)","enableGetDefaultVariationPrice":"1","currentLanguage":"","conditionalDisplayEffect":"fade"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='/wp-content/plugins/yith-woocommerce-product-add-ons/assets/js/front.min.js?ver=4.7.1' id='yith_wapo_front-js'></script>
@@ -3139,7 +3139,7 @@ var flatsomeVars = {"theme":{"version":"3.16.1"},"ajaxurl":"\/wp-admin\/admin-aj
 <script type='text/javascript' src='/wp-content/plugins/pwfwoofilter/assets/js/frontend/js-offcanvas.pkgd.min.js?ver=1.2.11' id='offcanvas-js'></script>
 <script type='text/javascript' id='pwf-woo-filter-js-extra'>
 /* <![CDATA[ */
-var pwf_woocommerce_filter = {"ajaxurl":"\/wp-admin\/admin-ajax.php","nonce":"d200652294","translated_text":{"apply":"Apply","reset":"Reset","filter":"Filter","price":"Price","search":"Search","rate":"Rated","load_more":"Load more","clearall":"Clear all"},"currency_symbol":"\u20ab","currency_pos":"right","page_url":"\/may-giat-lg-fv1413s3wa\/","pretty_prefixed":"","customize":{"pageLoader":"","buttonLoader":"","infiniteLoader":""}};
+var pwf_woocommerce_filter = {"ajaxurl":"\/wp-admin\/admin-ajax.php","nonce":"7ba9278b95","translated_text":{"apply":"Apply","reset":"Reset","filter":"Filter","price":"Price","search":"Search","rate":"Rated","load_more":"Load more","clearall":"Clear all"},"currency_symbol":"\u20ab","currency_pos":"right","page_url":"\/may-giat-lg-fv1413s3wa\/","pretty_prefixed":"","customize":{"pageLoader":"","buttonLoader":"","infiniteLoader":""}};
 /* ]]> */
 </script>
 <script type='text/javascript' id='pwf-woo-filter-js-before'>
