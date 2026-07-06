@@ -190,11 +190,8 @@ foreach ($product_specs as $cat_slug => $specs) {
         $price = $spec[2];
         $img_key = $spec[3];
         $btn_text = $spec[4];
-        $clean_slug = str_replace('-', '', $slug);
-        $aff_url = "https://www.amazon.com/dp/B0D15" . strtoupper(substr($clean_slug, 0, 5));
-        if ($slug === 'asus-rog-zephyrus-g14') {
-            $aff_url = 'https://www.amazon.com/dp/B0D15ROG14';
-        }
+        // Create a real, working Amazon search link to prevent 404 error pages
+        $aff_url = "https://www.amazon.com/s?k=" . urlencode($title);
 
         // Create product using WooCommerce Product class
         $product = new WC_Product_External();
