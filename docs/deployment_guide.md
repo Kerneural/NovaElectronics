@@ -15,7 +15,7 @@ Tài liệu này hướng dẫn chi tiết quy trình đưa mã nguồn dự án
 
 ---
 
-## 🛠️ Quy trình triển khai 5 bước tiêu chuẩn
+## 🛠️ Quy trình triển khai 6 bước tiêu chuẩn
 
 ### BƯỚC 1: Khởi tạo website WordPress mới trên VPS
 1. Đăng nhập 1Panel -> Chọn **Quản lý Website** hoặc **Quản lý WordPress**.
@@ -27,7 +27,18 @@ Tài liệu này hướng dẫn chi tiết quy trình đưa mã nguồn dự án
 
 ---
 
-### BƯỚC 2: Đồng bộ Code từ GitHub về VPS (Thông qua Git Manager)
+### BƯỚC 2: Cấu hình quy tắc Rewrite WordPress (Nginx/OpenResty) trên 1Panel
+> [!IMPORTANT]
+> Vì 1Panel sử dụng OpenResty (Nginx) làm web server nên nó không tự nhận diện file `.htaccess` như Apache. Nếu bỏ qua bước này, toàn bộ đường dẫn con hoặc link rút gọn `/go/` sẽ trả về lỗi **404 Not Found** thô của máy chủ Nginx.
+
+1. Tại danh sách tên miền đã tạo trong 1Panel -> Bấm vào biểu tượng **Chỉnh sửa (hình cây bút màu xanh lá)** tại cột *Hành động* bên cạnh tên miền của bạn.
+2. Một popup cấu hình chi tiết sẽ hiện lên. Tìm và chọn mục **Rewrite** (hoặc htaccess).
+3. Tại ô **Chọn Bản mẫu** ở trên cùng, nhấp chọn mẫu **`wordpress`** (mã cấu hình sẽ tự nạp có dòng `try_files $uri $uri/ /index.php?$args;`).
+4. Bấm **Lưu** ở dưới cùng để 1Panel ghi nhận cấu hình và tự động khởi động lại dịch vụ OpenResty (Nginx).
+
+---
+
+### BƯỚC 3: Đồng bộ Code từ GitHub về VPS (Thông qua Git Manager)
 > [!WARNING]
 > **KHÔNG** clone trực tiếp đè vào thư mục `/public_html` kèm tùy chọn **`Override`** vì 1Panel sẽ xóa sạch mã nguồn WordPress vừa cài ở Bước 1.
 
@@ -40,7 +51,7 @@ Tài liệu này hướng dẫn chi tiết quy trình đưa mã nguồn dự án
 
 ---
 
-### BƯỚC 3: Di chuyển Code tùy biến và Script Seeding vào WordPress
+### BƯỚC 4: Di chuyển Code tùy biến và Script Seeding vào WordPress
 1. Vào **Quản lý tập tin** trên 1Panel, di chuyển tới thư mục `/home/<user>/git_source/src/`.
 2. Thực hiện di chuyển các file cốt lõi sang website thật `/public_html`:
    * **Theme tùy biến:** Copy/Cắt thư mục `wp-content/themes/dienmay8-clone` -> Dán vào `/public_html/wp-content/themes/`.
@@ -48,7 +59,7 @@ Tài liệu này hướng dẫn chi tiết quy trình đưa mã nguồn dự án
 
 ---
 
-### BƯỚC 4: Tải lên các thư mục tài nguyên bị Git loại trừ (Ignored Assets)
+### BƯỚC 5: Tải lên các thư mục tài nguyên bị Git loại trừ (Ignored Assets)
 Do các thư mục chứa tài nguyên ảnh, font và CSS nặng được khai báo trong `.gitignore` để tối ưu dung lượng Repo, bạn cần đóng gói zip chúng từ máy local và tải lên VPS:
 
 1. **Nén các thư mục tại máy local** (nằm ở `src/wp-content/`):
@@ -62,7 +73,7 @@ Do các thư mục chứa tài nguyên ảnh, font và CSS nặng được khai 
 
 ---
 
-### BƯỚC 5: Kích hoạt Theme, Plugin & Khởi tạo Dữ liệu (Seeding)
+### BƯỚC 6: Kích hoạt Theme, Plugin & Khởi tạo Dữ liệu (Seeding)
 1. Đăng nhập trang Admin của VPS: `http://<domain>/wp-admin/`.
 2. **Kích hoạt Giao diện:** Vào **Appearance (Giao diện) > Themes** -> Tìm theme con **`Dienmay8 Clone`** và bấm **Kích hoạt (Activate)**.
 3. **Cài đặt WooCommerce:** Vào **Plugins > Add New** -> Tìm kiếm plugin **`WooCommerce`** -> Bấm **Cài đặt ngay** và **Kích hoạt**. Bấm **Skip guided setup** khi màn hình thiết lập xuất hiện.
