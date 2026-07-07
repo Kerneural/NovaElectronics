@@ -507,7 +507,7 @@
         <link
             rel="stylesheet"
             id="flatsome-style-css"
-            href="/wp-content/themes/flatsome-child/style.css?ver=3.0"
+            href="<?php echo get_stylesheet_directory_uri(); ?>/style.css?ver=3.0"
             type="text/css"
             media="all"
         />
