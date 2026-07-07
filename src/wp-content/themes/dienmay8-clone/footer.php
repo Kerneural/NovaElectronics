@@ -485,55 +485,55 @@
                                                                             <li
                                                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1221"
                                                                             >
-                                                                                <a href="/dieu-hoa-lg/">Electronics & Computer</a>
+                                                                                <a href="/product-category/electronics-computer/">Electronics & Computer</a>
                                                                             </li>
                                                                             <li
                                                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1839"
                                                                             >
-                                                                                <a href="/dieu-hoa-cay-lg/"
+                                                                                <a href="/product-category/smart-home-security/"
                                                                                     >Smart Home & Security</a
                                                                                 >
                                                                             </li>
                                                                             <li
                                                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1842"
                                                                             >
-                                                                                <a href="/dieu-hoa-multi-lg/"
+                                                                                <a href="/product-category/home-appliances/"
                                                                                     >Home Appliances</a
                                                                                 >
                                                                             </li>
                                                                             <li
                                                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1841"
                                                                             >
-                                                                                <a href="/dieu-hoa-noi-ong-gio-lg/"
+                                                                                <a href="/product-category/kitchen-dining/"
                                                                                     >Kitchen & Dining</a
                                                                                 >
                                                                             </li>
                                                                             <li
                                                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1840"
                                                                             >
-                                                                                <a href="/dieu-hoa-am-tran-cassette-lg/"
+                                                                                <a href="/product-category/power-charging/"
                                                                                     >Power & Charging</a
                                                                                 >
                                                                             </li>
                                                                             <li
                                                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1222"
                                                                             >
-                                                                                <a href="/may-giat-lg/">Gaming & Entertainment</a>
+                                                                                <a href="/product-category/gaming-entertainment/">Gaming & Entertainment</a>
                                                                             </li>
                                                                             <li
                                                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1223"
                                                                             >
-                                                                                <a href="/may-say-lg/">Automotive & Outdoor</a>
+                                                                                <a href="/product-category/automotive-outdoor/">Automotive & Outdoor</a>
                                                                             </li>
                                                                             <li
                                                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1224"
                                                                             >
-                                                                                <a href="/tivi-lg/">Tivi</a>
+                                                                                <a href="/product-category/health-personal-care/">Health & Personal Care</a>
                                                                             </li>
                                                                             <li
                                                                                 class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1225"
                                                                             >
-                                                                                <a href="/tu-lanh-lg/">Refrigerators</a>
+                                                                                <a href="/product-category/office-electronics/">Office Electronics</a>
                                                                             </li>
                                                                             <li
                                                                                 class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1927"
@@ -786,14 +786,14 @@
                                                                                         <li
                                                                                             class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1221"
                                                                                         >
-                                                                                            <a href="/dieu-hoa-lg/"
+                                                                                            <a href="/product-category/electronics-computer/"
                                                                                                 >Electronics & Computer</a
                                                                                             >
                                                                                         </li>
                                                                                         <li
                                                                                             class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1839"
                                                                                         >
-                                                                                            <a href="/dieu-hoa-cay-lg/"
+                                                                                            <a href="/product-category/smart-home-security/"
                                                                                                 >Smart Home & Security</a
                                                                                             >
                                                                                         </li>
@@ -801,7 +801,7 @@
                                                                                             class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1842"
                                                                                         >
                                                                                             <a
-                                                                                                href="/dieu-hoa-multi-lg/"
+                                                                                                href="/product-category/home-appliances/"
                                                                                                 >Home Appliances</a
                                                                                             >
                                                                                         </li>
@@ -809,7 +809,7 @@
                                                                                             class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1841"
                                                                                         >
                                                                                             <a
-                                                                                                href="/dieu-hoa-noi-ong-gio-lg/"
+                                                                                                href="/product-category/kitchen-dining/"
                                                                                                 >Kitchen & Dining</a
                                                                                             >
                                                                                         </li>
@@ -817,33 +817,33 @@
                                                                                             class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1840"
                                                                                         >
                                                                                             <a
-                                                                                                href="/dieu-hoa-am-tran-cassette-lg/"
+                                                                                                href="/product-category/power-charging/"
                                                                                                 >Smart Home & Security</a
                                                                                             >
                                                                                         </li>
                                                                                         <li
                                                                                             class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1222"
                                                                                         >
-                                                                                            <a href="/may-giat-lg/"
+                                                                                            <a href="/product-category/gaming-entertainment/"
                                                                                                 >Gaming & Entertainment</a
                                                                                             >
                                                                                         </li>
                                                                                         <li
                                                                                             class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1223"
                                                                                         >
-                                                                                            <a href="/may-say-lg/"
+                                                                                            <a href="/product-category/automotive-outdoor/"
                                                                                                 >Automotive & Outdoor</a
                                                                                             >
                                                                                         </li>
                                                                                         <li
                                                                                             class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1224"
                                                                                         >
-                                                                                            <a href="/tivi-lg/">Tivi</a>
+                                                                                            <a href="/product-category/health-personal-care/">Health & Personal Care</a>
                                                                                         </li>
                                                                                         <li
                                                                                             class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1225"
                                                                                         >
-                                                                                            <a href="/tu-lanh-lg/"
+                                                                                            <a href="/product-category/office-electronics/"
                                                                                                 >Refrigerators</a
                                                                                             >
                                                                                         </li>

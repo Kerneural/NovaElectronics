@@ -10,62 +10,6 @@ require_once ABSPATH . 'wp-admin/includes/image.php';
 wp_defer_term_counting(true);
 wp_defer_comment_counting(true);
 
-// 1. Delete all products
-echo "Deleting old products...\n";
-$products = get_posts(array(
-    'post_type' => 'product',
-    'numberposts' => -1,
-    'post_status' => 'any',
-    'fields' => 'ids'
-));
-foreach ($products as $p_id) {
-    wp_delete_post($p_id, true);
-}
-echo "Old products deleted.\n";
-
-// 2. Delete all product categories except 'uncategorized'
-echo "Deleting old product categories...\n";
-$terms = get_terms(array(
-    'taxonomy' => 'product_cat',
-    'hide_empty' => false
-));
-foreach ($terms as $term) {
-    if ($term->slug !== 'uncategorized') {
-        wp_delete_term($term->term_id, 'product_cat');
-    }
-}
-echo "Old categories deleted.\n";
-
-// 3. Create target categories
-$categories = [
-    ["name" => "Electronics & Computer", "slug" => "electronics-computer"],
-    ["name" => "Smart Home & Security", "slug" => "smart-home-security"],
-    ["name" => "Home Appliances", "slug" => "home-appliances"],
-    ["name" => "Kitchen & Dining", "slug" => "kitchen-dining"],
-    ["name" => "Power & Charging", "slug" => "power-charging"],
-    ["name" => "Gaming & Entertainment", "slug" => "gaming-entertainment"],
-    ["name" => "Automotive & Outdoor", "slug" => "automotive-outdoor"],
-    ["name" => "Health & Personal Care", "slug" => "health-personal-care"],
-    ["name" => "Office Electronics", "slug" => "office-electronics"],
-    ["name" => "Smart Lighting & Ambient", "slug" => "smart-lighting"]
-];
-
-$cat_ids = [];
-echo "Creating target categories...\n";
-foreach ($categories as $cat) {
-    $term = wp_insert_term($cat["name"], 'product_cat', array('slug' => $cat["slug"]));
-    if (!is_wp_error($term)) {
-        $cat_ids[$cat["slug"]] = $term['term_id'];
-    } else {
-        $existing = get_term_by('slug', $cat["slug"], 'product_cat');
-        if ($existing) {
-            $cat_ids[$cat["slug"]] = $existing->term_id;
-        }
-    }
-}
-echo "Categories created.\n";
-
-// 4. Seed 50 products with local Unsplash images
 $product_specs = [
     "electronics-computer" => [
         ["ASUS ROG Zephyrus G14 Gaming Laptop", "asus-rog-zephyrus-g14", 1499, "Check Latest Price"],
@@ -139,6 +83,84 @@ $product_specs = [
     ]
 ];
 
+// 1. Delete all products
+echo "Deleting old products...\n";
+$products = get_posts(array(
+    'post_type' => 'product',
+    'numberposts' => -1,
+    'post_status' => 'any',
+    'fields' => 'ids'
+));
+foreach ($products as $p_id) {
+    wp_delete_post($p_id, true);
+}
+echo "Old products deleted.\n";
+
+// 2. Delete all product categories except 'uncategorized'
+echo "Deleting old product categories...\n";
+$terms = get_terms(array(
+    'taxonomy' => 'product_cat',
+    'hide_empty' => false
+));
+foreach ($terms as $term) {
+    if ($term->slug !== 'uncategorized') {
+        wp_delete_term($term->term_id, 'product_cat');
+    }
+}
+echo "Old categories deleted.\n";
+
+// 2b. Delete old attachments matching product slugs to force fresh unique image imports
+echo "Deleting old product attachments...\n";
+foreach ($product_specs as $cat_slug => $specs) {
+    foreach ($specs as $spec) {
+        $slug = $spec[1];
+        $old_attachs = get_posts(array(
+            'post_type' => 'attachment',
+            'name' => $slug,
+            'posts_per_page' => -1,
+            'fields' => 'ids',
+            'post_status' => 'any'
+        ));
+        if (!empty($old_attachs)) {
+            foreach ($old_attachs as $attach_id) {
+                wp_delete_attachment($attach_id, true);
+            }
+        }
+    }
+}
+echo "Old attachments deleted.\n";
+
+
+// 3. Create target categories
+$categories = [
+    ["name" => "Electronics & Computer", "slug" => "electronics-computer"],
+    ["name" => "Smart Home & Security", "slug" => "smart-home-security"],
+    ["name" => "Home Appliances", "slug" => "home-appliances"],
+    ["name" => "Kitchen & Dining", "slug" => "kitchen-dining"],
+    ["name" => "Power & Charging", "slug" => "power-charging"],
+    ["name" => "Gaming & Entertainment", "slug" => "gaming-entertainment"],
+    ["name" => "Automotive & Outdoor", "slug" => "automotive-outdoor"],
+    ["name" => "Health & Personal Care", "slug" => "health-personal-care"],
+    ["name" => "Office Electronics", "slug" => "office-electronics"],
+    ["name" => "Smart Lighting & Ambient", "slug" => "smart-lighting"]
+];
+
+$cat_ids = [];
+echo "Creating target categories...\n";
+foreach ($categories as $cat) {
+    $term = wp_insert_term($cat["name"], 'product_cat', array('slug' => $cat["slug"]));
+    if (!is_wp_error($term)) {
+        $cat_ids[$cat["slug"]] = $term['term_id'];
+    } else {
+        $existing = get_term_by('slug', $cat["slug"], 'product_cat');
+        if ($existing) {
+            $cat_ids[$cat["slug"]] = $existing->term_id;
+        }
+    }
+}
+echo "Categories created.\n";
+
+// 4. Seed 50 products with local Unsplash images
 echo "Seeding products...\n";
 $success_count = 0;
 foreach ($product_specs as $cat_slug => $specs) {

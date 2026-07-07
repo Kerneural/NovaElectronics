@@ -1778,12 +1778,12 @@
                                                         id="menu-item-1393"
                                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1393 menu-item-design-default has-icon-left"
                                                     >
-                                                        <a href="/dieu-hoa-lg/" class="nav-top-link"
+                                                        <a href="/product-category/electronics-computer/" class="nav-top-link"
                                                             ><img
                                                                 class="ux-menu-icon"
                                                                 width="20"
                                                                 height="20"
-                                                                src="/wp-content/uploads/2022/11/air-conditioner.png"
+                                                                src="/wp-content/uploads/2022/11/tv-monitor.png"
                                                                 alt=""
                                                             />Electronics & Computer</a
                                                         >
@@ -1792,12 +1792,12 @@
                                                         id="menu-item-1394"
                                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1394 menu-item-design-default has-icon-left"
                                                     >
-                                                        <a href="/dieu-hoa-am-tran-cassette-lg/" class="nav-top-link"
+                                                        <a href="/product-category/smart-home-security/" class="nav-top-link"
                                                             ><img
                                                                 class="ux-menu-icon"
                                                                 width="20"
                                                                 height="20"
-                                                                src="/wp-content/uploads/2022/11/803869.png"
+                                                                src="/wp-content/uploads/2022/11/fridge.png"
                                                                 alt=""
                                                             />Smart Home & Security</a
                                                         >
@@ -1806,12 +1806,12 @@
                                                         id="menu-item-1395"
                                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1395 menu-item-design-default has-icon-left"
                                                     >
-                                                        <a href="/dieu-hoa-cay-lg/" class="nav-top-link"
+                                                        <a href="/product-category/home-appliances/" class="nav-top-link"
                                                             ><img
                                                                 class="ux-menu-icon"
                                                                 width="20"
                                                                 height="20"
-                                                                src="/wp-content/uploads/2022/11/air-conditioner2.png"
+                                                                src="/wp-content/uploads/2022/11/washer.png"
                                                                 alt=""
                                                             />Home Appliances</a
                                                         >
@@ -1820,12 +1820,12 @@
                                                         id="menu-item-1396"
                                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1396 menu-item-design-default has-icon-left"
                                                     >
-                                                        <a href="/dieu-hoa-multi-lg/" class="nav-top-link"
+                                                        <a href="/product-category/kitchen-dining/" class="nav-top-link"
                                                             ><img
                                                                 class="ux-menu-icon"
                                                                 width="20"
                                                                 height="20"
-                                                                src="/wp-content/uploads/2022/11/air-conditioner.png"
+                                                                src="/wp-content/uploads/2022/11/Screenshot-2022-11-14-at-09-46-15-BEP-AN-TOAN-CHUYEN-THIET-BI-NHA-BEP-PHONG-TAM.png"
                                                                 alt=""
                                                             />Kitchen & Dining</a
                                                         >
@@ -1834,12 +1834,12 @@
                                                         id="menu-item-1397"
                                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1397 menu-item-design-default has-icon-left"
                                                     >
-                                                        <a href="/dieu-hoa-noi-ong-gio-lg/" class="nav-top-link"
+                                                        <a href="/product-category/power-charging/" class="nav-top-link"
                                                             ><img
                                                                 class="ux-menu-icon"
                                                                 width="20"
                                                                 height="20"
-                                                                src="/wp-content/uploads/2022/11/dieu-hoa-noi-ong-gio-1.jpg"
+                                                                src="/wp-content/uploads/2022/11/air-conditioner.png"
                                                                 alt=""
                                                             />Power & Charging</a
                                                         >
@@ -1848,12 +1848,12 @@
                                                         id="menu-item-1398"
                                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1398 menu-item-design-default has-icon-left"
                                                     >
-                                                        <a href="/may-giat-lg/" class="nav-top-link"
+                                                        <a href="/product-category/gaming-entertainment/" class="nav-top-link"
                                                             ><img
                                                                 class="ux-menu-icon"
                                                                 width="20"
                                                                 height="20"
-                                                                src="/wp-content/uploads/2022/11/washer.png"
+                                                                src="/wp-content/uploads/2022/11/tv-monitor.png"
                                                                 alt=""
                                                             />Gaming & Entertainment</a
                                                         >
@@ -1862,12 +1862,12 @@
                                                         id="menu-item-1399"
                                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1399 menu-item-design-default has-icon-left"
                                                     >
-                                                        <a href="/may-say-lg/" class="nav-top-link"
+                                                        <a href="/product-category/automotive-outdoor/" class="nav-top-link"
                                                             ><img
                                                                 class="ux-menu-icon"
                                                                 width="20"
                                                                 height="20"
-                                                                src="/wp-content/uploads/2022/11/washer.png"
+                                                                src="/wp-content/uploads/2022/11/air-conditioner2.png"
                                                                 alt=""
                                                             />Automotive & Outdoor</a
                                                         >
@@ -1876,112 +1876,92 @@
                                                         id="menu-item-1400"
                                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1400 menu-item-design-default has-icon-left"
                                                     >
-                                                        <a href="/tivi-lg/" class="nav-top-link"
+                                                        <a href="/product-category/health-personal-care/" class="nav-top-link"
                                                             ><img
                                                                 class="ux-menu-icon"
                                                                 width="20"
                                                                 height="20"
-                                                                src="/wp-content/uploads/2022/11/tv-monitor.png"
+                                                                src="/wp-content/uploads/2022/11/washer.png"
                                                                 alt=""
-                                                            />Tivi</a
+                                                            />Health & Personal Care</a
                                                         >
                                                     </li>
                                                     <li
                                                         id="menu-item-1401"
                                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1401 menu-item-design-default has-icon-left"
                                                     >
-                                                        <a href="/tu-lanh-lg/" class="nav-top-link"
+                                                        <a href="/product-category/office-electronics/" class="nav-top-link"
                                                             ><img
                                                                 class="ux-menu-icon"
                                                                 width="20"
                                                                 height="20"
-                                                                src="/wp-content/uploads/2022/11/fridge.png"
+                                                                src="/wp-content/uploads/2022/11/tv-monitor.png"
                                                                 alt=""
-                                                            />Refrigerators</a
+                                                            />Office Electronics</a
                                                         >
                                                     </li>
                                                     <li
                                                         id="menu-item-1647"
                                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1647 menu-item-design-default has-icon-left"
                                                     >
-                                                        <a href="/combo-khuyen-mai/" class="nav-top-link"
+                                                        <a href="/product-category/smart-lighting/" class="nav-top-link"
                                                             ><img
                                                                 class="ux-menu-icon"
                                                                 width="20"
                                                                 height="20"
-                                                                src="/wp-content/uploads/2022/11/Screenshot-2022-11-14-at-09-46-15-BEP-AN-TOAN-CHUYEN-THIET-BI-NHA-BEP-PHONG-TAM.png"
+                                                                src="/wp-content/uploads/2022/11/lighting.svg"
                                                                 alt=""
-                                                            />Combo Offers</a
+                                                            />Smart Lighting & Ambient</a
                                                         >
                                                     </li>
                                                 </ul>
                                             </div>
                                         </div>
                                     </li>
-                                    <li
-                                        id="menu-item-1221"
-                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1221 menu-item-design-default"
-                                    >
-                                        <a href="/dieu-hoa-lg/" class="nav-top-link">Electronics & Computer</a>
-                                    </li>
-                                    <li
-                                        id="menu-item-1839"
-                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1839 menu-item-design-default"
-                                    >
-                                        <a href="/dieu-hoa-cay-lg/" class="nav-top-link">Smart Home & Security</a>
-                                    </li>
-                                    <li
-                                        id="menu-item-1842"
-                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1842 menu-item-design-default"
-                                    >
-                                        <a href="/dieu-hoa-multi-lg/" class="nav-top-link">Home Appliances</a>
-                                    </li>
-                                    <li
-                                        id="menu-item-1841"
-                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1841 menu-item-design-default"
-                                    >
-                                        <a href="/dieu-hoa-noi-ong-gio-lg/" class="nav-top-link">Kitchen & Dining</a>
-                                    </li>
-                                    <li
-                                        id="menu-item-1840"
-                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1840 menu-item-design-default"
-                                    >
-                                        <a href="/dieu-hoa-am-tran-cassette-lg/" class="nav-top-link"
-                                            >Power & Charging</a
-                                        >
-                                    </li>
-                                    <li
-                                        id="menu-item-1222"
-                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1222 menu-item-design-default"
-                                    >
-                                        <a href="/may-giat-lg/" class="nav-top-link">Gaming & Entertainment</a>
-                                    </li>
-                                    <li
-                                        id="menu-item-1223"
-                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1223 menu-item-design-default"
-                                    >
-                                        <a href="/may-say-lg/" class="nav-top-link">Automotive & Outdoor</a>
-                                    </li>
-                                    <li
-                                        id="menu-item-1224"
-                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1224 menu-item-design-default"
-                                    >
-                                        <a href="/tivi-lg/" class="nav-top-link"></a>
-                                    </li>
-                                    <li
-                                        id="menu-item-1225"
-                                        class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1225 menu-item-design-default"
-                                    >
-                                        <a href="/tu-lanh-lg/" class="nav-top-link"></a>
-                                    </li>
-                                    <li
-                                        id="menu-item-1927"
-                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1927 menu-item-design-default"
-                                    >
-                                        <a href="/lien-he/" class="nav-top-link">Contact</a>
-                                    </li>
-                                </ul>
-                            </div>
+                                     <li
+                                         id="menu-item-1221"
+                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1221 menu-item-design-default"
+                                     >
+                                         <a href="/product-category/electronics-computer/" class="nav-top-link">Electronics</a>
+                                     </li>
+                                     <li
+                                         id="menu-item-1839"
+                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1839 menu-item-design-default"
+                                     >
+                                         <a href="/product-category/smart-home-security/" class="nav-top-link">Smart Home</a>
+                                     </li>
+                                     <li
+                                         id="menu-item-1842"
+                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1842 menu-item-design-default"
+                                     >
+                                         <a href="/product-category/home-appliances/" class="nav-top-link">Appliances</a>
+                                     </li>
+                                     <li
+                                         id="menu-item-1841"
+                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1841 menu-item-design-default"
+                                     >
+                                         <a href="/product-category/kitchen-dining/" class="nav-top-link">Kitchen</a>
+                                     </li>
+                                     <li
+                                         id="menu-item-1840"
+                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1840 menu-item-design-default"
+                                     >
+                                         <a href="/product-category/gaming-entertainment/" class="nav-top-link">Gaming</a>
+                                     </li>
+                                     <li
+                                         id="menu-item-1222"
+                                         class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1222 menu-item-design-default"
+                                     >
+                                         <a href="/product-category/smart-lighting/" class="nav-top-link">Smart Lighting</a>
+                                     </li>
+                                     <li
+                                         id="menu-item-1927"
+                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1927 menu-item-design-default"
+                                     >
+                                         <a href="/lien-he/" class="nav-top-link">Contact</a>
+                                     </li>
+                                 </ul>
+                             </div>         </div>
 
                             <div class="flex-col hide-for-medium flex-right flex-grow">
                                 <ul

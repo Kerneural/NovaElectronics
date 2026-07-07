@@ -218,707 +218,90 @@
                                             class="row product_giasoc equalize-box large-columns-5 medium-columns-3 small-columns-2 row-small slider row-slider slider-nav-simple slider-nav-push"
                                             data-flickity-options='{"imagesLoaded": true, "groupCells": "100%", "dragThreshold" : 5, "cellAlign": "left","wrapAround": true,"prevNextButtons": true,"percentPosition": true,"pageDots": false, "rightToLeft": false, "autoPlay" : 3000}'
                                         >
-                                            <div class="col">
-                                                <div class="col-inner">
-                                                    <div class="badge-container absolute left top z-1">
-                                                        <div class="callout badge badge-circle">
-                                                            <div class="badge-inner secondary on-sale">
-                                                                <span class="onsale">-27%</span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div
-                                                        class="product-small box product_giasoc has-hover box-normal box-text-bottom"
-                                                    >
-                                                        <div class="box-image">
-                                                            <div class="image-cover" style="padding-top: 100%">
-                                                                <a
-                                                                    href="/refrigerator-lg-gn-d332ps/"
-                                                                    aria-label="Refrigerator LG Inverter 334 Liters GN-D332PS [2021]"
-                                                                >
-                                                                    <img
-                                                                        width="450"
-                                                                        height="335"
-                                                                        src="/wp-content/uploads/2022/11/refrigerator-lg-gn-d332ps.jpg"
-                                                                        class="attachment-original size-original"
-                                                                        alt=""
-                                                                        decoding="async"
-                                                                        loading="lazy"
-                                                                        srcset="
-                                                                            /wp-content/uploads/2022/11/refrigerator-lg-gn-d332ps.jpg         450w,
-                                                                            /wp-content/uploads/2022/11/refrigerator-lg-gn-d332ps-300x223.jpg 300w
-                                                                        "
-                                                                        sizes="(max-width: 450px) 100vw, 450px"
-                                                                    />
-                                                                </a>
-                                                            </div>
-                                                            <div class="image-tools top right show-on-hover"></div>
-                                                            <div
-                                                                class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover"
-                                                            ></div>
-                                                        </div>
-
-                                                        <div class="box-text text-center">
-                                                            <div class="title-wrapper">
-                                                                <p
-                                                                    class="name product-title woocommerce-loop-product__title"
-                                                                >
-                                                                    <a
-                                                                        href="/refrigerator-lg-gn-d332ps/"
-                                                                        class="woocommerce-LoopProduct-link woocommerce-loop-product__link"
-                                                                        >Refrigerator LG Inverter 334 Liters GN-D332PS [2021]</a
-                                                                    >
-                                                                </p>
-                                                            </div>
-                                                            <div class="price-wrapper">
-                                                                <div class="brand-img">
-                                                                    <img src="/wp-content/uploads/2022/11/lg.png" />
-                                                                </div>
-                                                                <div class="content_rating">
-                                                                    <div class="star-rating">
-                                                                        <span style="width: 0%"
-                                                                            >Rated
-                                                                            <strong class="rating">0</strong> 5
-                                                                            sao</span
-                                                                        >
+                                            <?php
+                                            if ( class_exists( 'WooCommerce' ) ) {
+                                                $args = array(
+                                                    'post_type'      => 'product',
+                                                    'posts_per_page' => 10,
+                                                    'status'         => 'publish'
+                                                );
+                                                $loop = new WP_Query( $args );
+                                                if ( $loop->have_posts() ) {
+                                                    while ( $loop->have_posts() ) {
+                                                        $loop->the_post();
+                                                        global $product;
+                                                        if ( empty( $product ) || ! is_a( $product, 'WC_Product' ) ) {
+                                                            $product = wc_get_product( get_the_ID() );
+                                                        }
+                                                        $image_id  = $product ? $product->get_image_id() : 0;
+                                                        $image_url = $image_id ? wp_get_attachment_image_url( $image_id, 'large' ) : '/wp-content/uploads/2022/11/lighting.svg';
+                                                        $slug      = $product ? $product->get_slug() : get_post_field( 'post_name', get_the_ID() );
+                                                        $pretty_link = home_url( '/go/' . sanitize_title( $slug ) );
+                                                        $button_text = $product ? $product->get_button_text() : 'Check Latest Price';
+                                                        if ( empty( $button_text ) ) {
+                                                            $button_text = 'Check Latest Price';
+                                                        }
+                                                        ?>
+                                                        <div class="col">
+                                                            <div class="col-inner">
+                                                                <div class="product-small box product_giasoc has-hover box-normal box-text-bottom">
+                                                                    <div class="box-image">
+                                                                        <div class="image-cover" style="padding-top: 100%">
+                                                                            <a href="<?php the_permalink(); ?>" aria-label="<?php the_title_attribute(); ?>">
+                                                                                <img
+                                                                                    width="450"
+                                                                                    height="335"
+                                                                                    src="<?php echo esc_url( $image_url ); ?>"
+                                                                                    class="attachment-original size-original"
+                                                                                    alt="<?php the_title_attribute(); ?>"
+                                                                                    decoding="async"
+                                                                                    loading="lazy"
+                                                                                />
+                                                                            </a>
+                                                                        </div>
                                                                     </div>
-                                                                    <div class="count-rating">0 reviews</div>
-                                                                </div>
-                                                                <span class="price"
-                                                                    ><del aria-hidden="true"
-                                                                        ><span class="woocommerce-Price-amount amount"
-                                                                            ><bdi
-                                                                                >11.090.000<span
-                                                                                    class="woocommerce-Price-currencySymbol"
-                                                                                    >&#8363;</span
-                                                                                ></bdi
-                                                                            ></span
-                                                                        ></del
-                                                                    >
-                                                                    <ins
-                                                                        ><span class="woocommerce-Price-amount amount"
-                                                                            ><bdi
-                                                                                >8.090.000<span
-                                                                                    class="woocommerce-Price-currencySymbol"
-                                                                                    >&#8363;</span
-                                                                                ></bdi
-                                                                            ></span
-                                                                        ></ins
-                                                                    ></span
-                                                                >
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col">
-                                                <div class="col-inner">
-                                                    <div class="badge-container absolute left top z-1">
-                                                        <div class="callout badge badge-circle">
-                                                            <div class="badge-inner secondary on-sale">
-                                                                <span class="onsale">-30%</span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div
-                                                        class="product-small box product_giasoc has-hover box-normal box-text-bottom"
-                                                    >
-                                                        <div class="box-image">
-                                                            <div class="image-cover" style="padding-top: 100%">
-                                                                <a
-                                                                    href="/tv-lg-60uq8150psb/"
-                                                                    aria-label="Smart TV LG 4K 60 inch 60UQ8150PSB UHD - 2022"
-                                                                >
-                                                                    <img
-                                                                        width="600"
-                                                                        height="370"
-                                                                        src="/wp-content/uploads/2022/11/tv-lg-60uq8150psb.jpg"
-                                                                        class="attachment-original size-original"
-                                                                        alt=""
-                                                                        decoding="async"
-                                                                        loading="lazy"
-                                                                        srcset="
-                                                                            /wp-content/uploads/2022/11/tv-lg-60uq8150psb.jpg         600w,
-                                                                            /wp-content/uploads/2022/11/tv-lg-60uq8150psb-300x185.jpg 300w
-                                                                        "
-                                                                        sizes="(max-width: 600px) 100vw, 600px"
-                                                                    />
-                                                                </a>
-                                                            </div>
-                                                            <div class="image-tools top right show-on-hover"></div>
-                                                            <div
-                                                                class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover"
-                                                            ></div>
-                                                        </div>
 
-                                                        <div class="box-text text-center">
-                                                            <div class="title-wrapper">
-                                                                <p
-                                                                    class="name product-title woocommerce-loop-product__title"
-                                                                >
-                                                                    <a
-                                                                        href="/tv-lg-60uq8150psb/"
-                                                                        class="woocommerce-LoopProduct-link woocommerce-loop-product__link"
-                                                                        >Smart TV LG 4K 60 inch 60UQ8150PSB UHD
-                                                                        &#8211; 2022</a
-                                                                    >
-                                                                </p>
-                                                            </div>
-                                                            <div class="price-wrapper">
-                                                                <div class="brand-img">
-                                                                    <img src="/wp-content/uploads/2022/11/lg.png" />
-                                                                </div>
-                                                                <div class="content_rating">
-                                                                    <div class="star-rating">
-                                                                        <span style="width: 0%"
-                                                                            >Rated
-                                                                            <strong class="rating">0</strong> 5
-                                                                            sao</span
-                                                                        >
+                                                                    <div class="box-text text-center">
+                                                                        <div class="title-wrapper">
+                                                                            <p class="name product-title woocommerce-loop-product__title" style="min-height: 40px;">
+                                                                                <a href="<?php the_permalink(); ?>" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">
+                                                                                    <?php the_title(); ?>
+                                                                                </a>
+                                                                            </p>
+                                                                        </div>
+                                                                        <div class="price-wrapper">
+                                                                            <div class="brand-img">
+                                                                                <img src="/wp-content/uploads/2022/11/lg.png" />
+                                                                            </div>
+                                                                            <div class="content_rating">
+                                                                                <div class="star-rating">
+                                                                                    <span style="width: 0%">Rated <strong class="rating">0</strong> 5 sao</span>
+                                                                                </div>
+                                                                                <div class="count-rating">0 reviews</div>
+                                                                            </div>
+                                                                            <span class="price">
+                                                                                <?php echo $product ? $product->get_price_html() : ''; ?>
+                                                                            </span>
+                                                                        </div>
+                                                                        <div class="add-to-cart-button" style="margin-top: 10px;">
+                                                                            <?php 
+                                                                            echo do_shortcode( sprintf( 
+                                                                                '[affiliate_button url="%s" label="%s" style="primary" size="small" newtab="yes" nofollow="yes"]',
+                                                                                esc_url( $pretty_link ),
+                                                                                esc_attr( $button_text )
+                                                                            ) ); 
+                                                                            ?>
+                                                                        </div>
                                                                     </div>
-                                                                    <div class="count-rating">0 reviews</div>
                                                                 </div>
-                                                                <span class="price"
-                                                                    ><del aria-hidden="true"
-                                                                        ><span class="woocommerce-Price-amount amount"
-                                                                            ><bdi
-                                                                                >24.500.000<span
-                                                                                    class="woocommerce-Price-currencySymbol"
-                                                                                    >&#8363;</span
-                                                                                ></bdi
-                                                                            ></span
-                                                                        ></del
-                                                                    >
-                                                                    <ins
-                                                                        ><span class="woocommerce-Price-amount amount"
-                                                                            ><bdi
-                                                                                >17.250.000<span
-                                                                                    class="woocommerce-Price-currencySymbol"
-                                                                                    >&#8363;</span
-                                                                                ></bdi
-                                                                            ></span
-                                                                        ></ins
-                                                                    ></span
-                                                                >
                                                             </div>
                                                         </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col">
-                                                <div class="col-inner">
-                                                    <div class="badge-container absolute left top z-1">
-                                                        <div class="callout badge badge-circle">
-                                                            <div class="badge-inner secondary on-sale">
-                                                                <span class="onsale">-29%</span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div
-                                                        class="product-small box product_giasoc has-hover box-normal box-text-bottom"
-                                                    >
-                                                        <div class="box-image">
-                                                            <div class="image-cover" style="padding-top: 100%">
-                                                                <a
-                                                                    href="/washing-machine-lg-fv1413s3wa/"
-                                                                    aria-label="Front Load Washing Machine ngang LG FV1413S3WA Inverter 13kg - 2021"
-                                                                >
-                                                                    <img
-                                                                        width="600"
-                                                                        height="400"
-                                                                        src="/wp-content/uploads/2022/11/washing-machine-lg-fv1413s3wa.jpg"
-                                                                        class="attachment-original size-original"
-                                                                        alt=""
-                                                                        decoding="async"
-                                                                        loading="lazy"
-                                                                        srcset="
-                                                                            /wp-content/uploads/2022/11/washing-machine-lg-fv1413s3wa.jpg         600w,
-                                                                            /wp-content/uploads/2022/11/washing-machine-lg-fv1413s3wa-300x200.jpg 300w
-                                                                        "
-                                                                        sizes="(max-width: 600px) 100vw, 600px"
-                                                                    />
-                                                                </a>
-                                                            </div>
-                                                            <div class="image-tools top right show-on-hover"></div>
-                                                            <div
-                                                                class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover"
-                                                            ></div>
-                                                        </div>
-
-                                                        <div class="box-text text-center">
-                                                            <div class="title-wrapper">
-                                                                <p
-                                                                    class="name product-title woocommerce-loop-product__title"
-                                                                >
-                                                                    <a
-                                                                        href="/washing-machine-lg-fv1413s3wa/"
-                                                                        class="woocommerce-LoopProduct-link woocommerce-loop-product__link"
-                                                                        >Front Load Washing Machine ngang LG FV1413S3WA Inverter 13kg
-                                                                        &#8211; 2021</a
-                                                                    >
-                                                                </p>
-                                                            </div>
-                                                            <div class="price-wrapper">
-                                                                <div class="brand-img">
-                                                                    <img src="/wp-content/uploads/2022/11/lg.png" />
-                                                                </div>
-                                                                <div class="content_rating">
-                                                                    <div class="star-rating">
-                                                                        <span style="width: 0%"
-                                                                            >Rated
-                                                                            <strong class="rating">0</strong> 5
-                                                                            sao</span
-                                                                        >
-                                                                    </div>
-                                                                    <div class="count-rating">0 reviews</div>
-                                                                </div>
-                                                                <span class="price"
-                                                                    ><del aria-hidden="true"
-                                                                        ><span class="woocommerce-Price-amount amount"
-                                                                            ><bdi
-                                                                                >18.900.000<span
-                                                                                    class="woocommerce-Price-currencySymbol"
-                                                                                    >&#8363;</span
-                                                                                ></bdi
-                                                                            ></span
-                                                                        ></del
-                                                                    >
-                                                                    <ins
-                                                                        ><span class="woocommerce-Price-amount amount"
-                                                                            ><bdi
-                                                                                >13.470.000<span
-                                                                                    class="woocommerce-Price-currencySymbol"
-                                                                                    >&#8363;</span
-                                                                                ></bdi
-                                                                            ></span
-                                                                        ></ins
-                                                                    ></span
-                                                                >
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col">
-                                                <div class="col-inner">
-                                                    <div class="badge-container absolute left top z-1">
-                                                        <div class="callout badge badge-circle">
-                                                            <div class="badge-inner secondary on-sale">
-                                                                <span class="onsale">-11%</span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div
-                                                        class="product-small box product_giasoc has-hover box-normal box-text-bottom"
-                                                    >
-                                                        <div class="box-image">
-                                                            <div class="image-cover" style="padding-top: 100%">
-                                                                <a
-                                                                    href="/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2/"
-                                                                    aria-label="Dàn nóng điều hòa multi LG A4UW24GFA2 24000BTU 2 way inverter"
-                                                                >
-                                                                    <img
-                                                                        width="600"
-                                                                        height="450"
-                                                                        src="/wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2.jpg"
-                                                                        class="attachment-original size-original"
-                                                                        alt=""
-                                                                        decoding="async"
-                                                                        loading="lazy"
-                                                                        srcset="
-                                                                            /wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2.jpg         600w,
-                                                                            /wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-300x225.jpg 300w
-                                                                        "
-                                                                        sizes="(max-width: 600px) 100vw, 600px"
-                                                                    />
-                                                                </a>
-                                                            </div>
-                                                            <div class="image-tools top right show-on-hover"></div>
-                                                            <div
-                                                                class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover"
-                                                            ></div>
-                                                        </div>
-
-                                                        <div class="box-text text-center">
-                                                            <div class="title-wrapper">
-                                                                <p
-                                                                    class="name product-title woocommerce-loop-product__title"
-                                                                >
-                                                                    <a
-                                                                        href="/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2/"
-                                                                        class="woocommerce-LoopProduct-link woocommerce-loop-product__link"
-                                                                        >Dàn nóng điều hòa multi LG A4UW24GFA2 24000BTU
-                                                                        2 way inverter</a
-                                                                    >
-                                                                </p>
-                                                            </div>
-                                                            <div class="price-wrapper">
-                                                                <div class="brand-img">
-                                                                    <img src="/wp-content/uploads/2022/11/lg.png" />
-                                                                </div>
-                                                                <div class="content_rating">
-                                                                    <div class="star-rating">
-                                                                        <span style="width: 0%"
-                                                                            >Rated
-                                                                            <strong class="rating">0</strong> 5
-                                                                            sao</span
-                                                                        >
-                                                                    </div>
-                                                                    <div class="count-rating">0 reviews</div>
-                                                                </div>
-                                                                <span class="price"
-                                                                    ><del aria-hidden="true"
-                                                                        ><span class="woocommerce-Price-amount amount"
-                                                                            ><bdi
-                                                                                >28.000.000<span
-                                                                                    class="woocommerce-Price-currencySymbol"
-                                                                                    >&#8363;</span
-                                                                                ></bdi
-                                                                            ></span
-                                                                        ></del
-                                                                    >
-                                                                    <ins
-                                                                        ><span class="woocommerce-Price-amount amount"
-                                                                            ><bdi
-                                                                                >24.850.000<span
-                                                                                    class="woocommerce-Price-currencySymbol"
-                                                                                    >&#8363;</span
-                                                                                ></bdi
-                                                                            ></span
-                                                                        ></ins
-                                                                    ></span
-                                                                >
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col">
-                                                <div class="col-inner">
-                                                    <div class="badge-container absolute left top z-1">
-                                                        <div class="callout badge badge-circle">
-                                                            <div class="badge-inner secondary on-sale">
-                                                                <span class="onsale">-14%</span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div
-                                                        class="product-small box product_giasoc has-hover box-normal box-text-bottom"
-                                                    >
-                                                        <div class="box-image">
-                                                            <div class="image-cover" style="padding-top: 100%">
-                                                                <a
-                                                                    href="/dan-lanh-multi-lg-18000btu-2-chieu-inverter-amnw18gskb0/"
-                                                                    aria-label="Dàn lạnh điều hòa multi LG 18000BTU AMNW18GSKB0 2 way inverter"
-                                                                >
-                                                                    <img
-                                                                        width="600"
-                                                                        height="450"
-                                                                        src="/wp-content/uploads/2022/11/lg-multi-2-chieu.jpg"
-                                                                        class="attachment-original size-original"
-                                                                        alt=""
-                                                                        decoding="async"
-                                                                        loading="lazy"
-                                                                        srcset="
-                                                                            /wp-content/uploads/2022/11/lg-multi-2-chieu.jpg         600w,
-                                                                            /wp-content/uploads/2022/11/lg-multi-2-chieu-300x225.jpg 300w
-                                                                        "
-                                                                        sizes="(max-width: 600px) 100vw, 600px"
-                                                                    />
-                                                                </a>
-                                                            </div>
-                                                            <div class="image-tools top right show-on-hover"></div>
-                                                            <div
-                                                                class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover"
-                                                            ></div>
-                                                        </div>
-
-                                                        <div class="box-text text-center">
-                                                            <div class="title-wrapper">
-                                                                <p
-                                                                    class="name product-title woocommerce-loop-product__title"
-                                                                >
-                                                                    <a
-                                                                        href="/dan-lanh-multi-lg-18000btu-2-chieu-inverter-amnw18gskb0/"
-                                                                        class="woocommerce-LoopProduct-link woocommerce-loop-product__link"
-                                                                        >Dàn lạnh điều hòa multi LG 18000BTU AMNW18GSKB0
-                                                                        2 way inverter</a
-                                                                    >
-                                                                </p>
-                                                            </div>
-                                                            <div class="price-wrapper">
-                                                                <div class="brand-img">
-                                                                    <img src="/wp-content/uploads/2022/11/lg.png" />
-                                                                </div>
-                                                                <div class="content_rating">
-                                                                    <div class="star-rating">
-                                                                        <span style="width: 0%"
-                                                                            >Rated
-                                                                            <strong class="rating">0</strong> 5
-                                                                            sao</span
-                                                                        >
-                                                                    </div>
-                                                                    <div class="count-rating">0 reviews</div>
-                                                                </div>
-                                                                <span class="price"
-                                                                    ><del aria-hidden="true"
-                                                                        ><span class="woocommerce-Price-amount amount"
-                                                                            ><bdi
-                                                                                >6.980.000<span
-                                                                                    class="woocommerce-Price-currencySymbol"
-                                                                                    >&#8363;</span
-                                                                                ></bdi
-                                                                            ></span
-                                                                        ></del
-                                                                    >
-                                                                    <ins
-                                                                        ><span class="woocommerce-Price-amount amount"
-                                                                            ><bdi
-                                                                                >5.970.000<span
-                                                                                    class="woocommerce-Price-currencySymbol"
-                                                                                    >&#8363;</span
-                                                                                ></bdi
-                                                                            ></span
-                                                                        ></ins
-                                                                    ></span
-                                                                >
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col">
-                                                <div class="col-inner">
-                                                    <div class="badge-container absolute left top z-1">
-                                                        <div class="callout badge badge-circle">
-                                                            <div class="badge-inner secondary on-sale">
-                                                                <span class="onsale">-21%</span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div
-                                                        class="product-small box product_giasoc has-hover box-normal box-text-bottom"
-                                                    >
-                                                        <div class="box-image">
-                                                            <div class="image-cover" style="padding-top: 100%">
-                                                                <a
-                                                                    href="/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua0/"
-                                                                    aria-label="Dàn lạnh điều hòa multi LG 9.000BTU AMNW09GTUA0 2 way inverter"
-                                                                >
-                                                                    <img
-                                                                        width="600"
-                                                                        height="400"
-                                                                        src="/wp-content/uploads/2022/11/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua00.jpg"
-                                                                        class="attachment-original size-original"
-                                                                        alt=""
-                                                                        decoding="async"
-                                                                        loading="lazy"
-                                                                        srcset="
-                                                                            /wp-content/uploads/2022/11/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua00.jpg         600w,
-                                                                            /wp-content/uploads/2022/11/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua00-300x200.jpg 300w
-                                                                        "
-                                                                        sizes="(max-width: 600px) 100vw, 600px"
-                                                                    />
-                                                                </a>
-                                                            </div>
-                                                            <div class="image-tools top right show-on-hover"></div>
-                                                            <div
-                                                                class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover"
-                                                            ></div>
-                                                        </div>
-
-                                                        <div class="box-text text-center">
-                                                            <div class="title-wrapper">
-                                                                <p
-                                                                    class="name product-title woocommerce-loop-product__title"
-                                                                >
-                                                                    <a
-                                                                        href="/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua0/"
-                                                                        class="woocommerce-LoopProduct-link woocommerce-loop-product__link"
-                                                                        >Dàn lạnh điều hòa multi LG 9.000BTU AMNW09GTUA0
-                                                                        2 way inverter</a
-                                                                    >
-                                                                </p>
-                                                            </div>
-                                                            <div class="price-wrapper">
-                                                                <div class="brand-img">
-                                                                    <img src="/wp-content/uploads/2022/11/lg.png" />
-                                                                </div>
-                                                                <div class="content_rating">
-                                                                    <div class="star-rating">
-                                                                        <span style="width: 100%"
-                                                                            >Rated
-                                                                            <strong class="rating">5.00</strong> 5
-                                                                            sao</span
-                                                                        >
-                                                                    </div>
-                                                                    <div class="count-rating">1 reviews</div>
-                                                                </div>
-                                                                <span class="price"
-                                                                    ><del aria-hidden="true"
-                                                                        ><span class="woocommerce-Price-amount amount"
-                                                                            ><bdi
-                                                                                >9.890.000<span
-                                                                                    class="woocommerce-Price-currencySymbol"
-                                                                                    >&#8363;</span
-                                                                                ></bdi
-                                                                            ></span
-                                                                        ></del
-                                                                    >
-                                                                    <ins
-                                                                        ><span class="woocommerce-Price-amount amount"
-                                                                            ><bdi
-                                                                                >7.830.000<span
-                                                                                    class="woocommerce-Price-currencySymbol"
-                                                                                    >&#8363;</span
-                                                                                ></bdi
-                                                                            ></span
-                                                                        ></ins
-                                                                    ></span
-                                                                >
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col">
-                                                <div class="col-inner">
-                                                    <div class="badge-container absolute left top z-1"></div>
-                                                    <div
-                                                        class="product-small box product_giasoc has-hover box-normal box-text-bottom"
-                                                    >
-                                                        <div class="box-image">
-                                                            <div class="image-cover" style="padding-top: 100%">
-                                                                <a
-                                                                    href="/air-conditioner-noi-ong-gio-lg-zbnq48gm3a0/"
-                                                                    aria-label="Duct Connected Air Conditioner LG 48.000btu 1 way Inverter ZBNQ48GM3A0 | 2022"
-                                                                >
-                                                                    <img
-                                                                        width="600"
-                                                                        height="429"
-                                                                        src="/wp-content/uploads/2022/11/air-conditioner-am-tran-lg-ztnq36gnla0.jpg"
-                                                                        class="attachment-original size-original"
-                                                                        alt=""
-                                                                        decoding="async"
-                                                                        loading="lazy"
-                                                                        srcset="
-                                                                            /wp-content/uploads/2022/11/air-conditioner-am-tran-lg-ztnq36gnla0.jpg         600w,
-                                                                            /wp-content/uploads/2022/11/air-conditioner-am-tran-lg-ztnq36gnla0-300x215.jpg 300w
-                                                                        "
-                                                                        sizes="(max-width: 600px) 100vw, 600px"
-                                                                    />
-                                                                </a>
-                                                            </div>
-                                                            <div class="image-tools top right show-on-hover"></div>
-                                                            <div
-                                                                class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover"
-                                                            ></div>
-                                                        </div>
-
-                                                        <div class="box-text text-center">
-                                                            <div class="title-wrapper">
-                                                                <p
-                                                                    class="name product-title woocommerce-loop-product__title"
-                                                                >
-                                                                    <a
-                                                                        href="/air-conditioner-noi-ong-gio-lg-zbnq48gm3a0/"
-                                                                        class="woocommerce-LoopProduct-link woocommerce-loop-product__link"
-                                                                        >Duct Connected Air Conditioner LG 48.000btu 1 way
-                                                                        Inverter ZBNQ48GM3A0 | 2022</a
-                                                                    >
-                                                                </p>
-                                                            </div>
-                                                            <div class="price-wrapper">
-                                                                <div class="brand-img">
-                                                                    <img src="/wp-content/uploads/2022/11/lg.png" />
-                                                                </div>
-                                                                <div class="content_rating">
-                                                                    <div class="star-rating">
-                                                                        <span style="width: 0%"
-                                                                            >Rated
-                                                                            <strong class="rating">0</strong> 5
-                                                                            sao</span
-                                                                        >
-                                                                    </div>
-                                                                    <div class="count-rating">0 reviews</div>
-                                                                </div>
-                                                                <span class="price"
-                                                                    ><span class="amount">Contact Us</span></span
-                                                                >
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col">
-                                                <div class="col-inner">
-                                                    <div class="badge-container absolute left top z-1"></div>
-                                                    <div
-                                                        class="product-small box product_giasoc has-hover box-normal box-text-bottom"
-                                                    >
-                                                        <div class="box-image">
-                                                            <div class="image-cover" style="padding-top: 100%">
-                                                                <a
-                                                                    href="/air-conditioner-noi-ong-gio-lg-zbnq36gm3a0/"
-                                                                    aria-label="Duct Connected Air Conditioner LG 36.000btu 1 way Inverter ZBNQ36GM3A0 | 2022"
-                                                                >
-                                                                    <img
-                                                                        width="600"
-                                                                        height="429"
-                                                                        src="/wp-content/uploads/2022/11/air-conditioner-am-tran-lg-ztnq36gnla0.jpg"
-                                                                        class="attachment-original size-original"
-                                                                        alt=""
-                                                                        decoding="async"
-                                                                        loading="lazy"
-                                                                        srcset="
-                                                                            /wp-content/uploads/2022/11/air-conditioner-am-tran-lg-ztnq36gnla0.jpg         600w,
-                                                                            /wp-content/uploads/2022/11/air-conditioner-am-tran-lg-ztnq36gnla0-300x215.jpg 300w
-                                                                        "
-                                                                        sizes="(max-width: 600px) 100vw, 600px"
-                                                                    />
-                                                                </a>
-                                                            </div>
-                                                            <div class="image-tools top right show-on-hover"></div>
-                                                            <div
-                                                                class="image-tools grid-tools text-center hide-for-small bottom hover-slide-in show-on-hover"
-                                                            ></div>
-                                                        </div>
-
-                                                        <div class="box-text text-center">
-                                                            <div class="title-wrapper">
-                                                                <p
-                                                                    class="name product-title woocommerce-loop-product__title"
-                                                                >
-                                                                    <a
-                                                                        href="/air-conditioner-noi-ong-gio-lg-zbnq36gm3a0/"
-                                                                        class="woocommerce-LoopProduct-link woocommerce-loop-product__link"
-                                                                        >Duct Connected Air Conditioner LG 36.000btu 1 way
-                                                                        Inverter ZBNQ36GM3A0 | 2022</a
-                                                                    >
-                                                                </p>
-                                                            </div>
-                                                            <div class="price-wrapper">
-                                                                <div class="brand-img">
-                                                                    <img src="/wp-content/uploads/2022/11/lg.png" />
-                                                                </div>
-                                                                <div class="content_rating">
-                                                                    <div class="star-rating">
-                                                                        <span style="width: 0%"
-                                                                            >Rated
-                                                                            <strong class="rating">0</strong> 5
-                                                                            sao</span
-                                                                        >
-                                                                    </div>
-                                                                    <div class="count-rating">0 reviews</div>
-                                                                </div>
-                                                                <span class="price"
-                                                                    ><span class="amount">Contact Us</span></span
-                                                                >
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
+                                                        <?php
+                                                    }
+                                                    wp_reset_postdata();
+                                                }
+                                            }
+                                            ?>
                                         </div>
                                     </div>
 
