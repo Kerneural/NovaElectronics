@@ -49,7 +49,7 @@
                     {
                         "@type": "WebSite",
                         "@id": "/#website",
-                        "url": "https://dienmay8.mauthemewp.com",
+                        "url": "/",
                         "name": "Flatsome",
                         "publisher": { "@id": "/#organization" },
                         "inLanguage": "vi",
@@ -547,12 +547,12 @@
         <link
             rel="alternate"
             type="application/json+oembed"
-            href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdienmay8.mauthemewp.com%2F"
+            href="/wp-json/oembed/1.0/embed?url=%2F"
         />
         <link
             rel="alternate"
             type="text/xml+oembed"
-            href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdienmay8.mauthemewp.com%2F&amp;format=xml"
+            href="/wp-json/oembed/1.0/embed?url=%2F&amp;format=xml"
         />
         <style>
             .bg {

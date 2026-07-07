@@ -279,9 +279,9 @@
 			
 
 <div class="product-short-description">
-	<p><strong><img class="alignnone wp-image-10976 size-full entered lazyloaded" src="https://dienlanhthinhphat.com.vn/wp-content/uploads/2021/01/xem-ngay.gif" alt="xem-ngay" width="25" height="12" data-lazy-src="https://dienlanhthinhphat.com.vn/wp-content/uploads/2021/01/xem-ngay.gif" data-ll-status="loaded" /> Free Shipping nội thành Hà Nội</strong></p>
-<p><strong><img class="alignnone size-full wp-image-10975 entered lazyloaded" src="https://dienlanhthinhphat.com.vn/wp-content/uploads/2021/01/xem-ngay.gif" alt="xem-ngay" width="22" height="15" data-lazy-src="https://dienlanhthinhphat.com.vn/wp-content/uploads/2021/01/xem-ngay.gif" data-ll-status="loaded" /> Bảng báo giá nhân công – vật tư lắp đặt tại Thịnh Phát</strong></p>
-<p><strong><img class="alignnone size-full wp-image-10975 entered lazyloaded" src="https://dienlanhthinhphat.com.vn/wp-content/uploads/2021/01/xem-ngay.gif" alt="xem-ngay" width="22" height="15" data-lazy-src="https://dienlanhthinhphat.com.vn/wp-content/uploads/2021/01/xem-ngay.gif" data-ll-status="loaded" /> Góp ý – phản ánh chất lượng dịch vụ</strong></p>
+	<p><strong><img class="alignnone wp-image-10976 size-full entered lazyloaded" src="/wp-content/uploads/2021/01/xem-ngay.gif" alt="xem-ngay" width="25" height="12" data-lazy-src="/wp-content/uploads/2021/01/xem-ngay.gif" data-ll-status="loaded" /> Free Shipping nội thành Hà Nội</strong></p>
+<p><strong><img class="alignnone size-full wp-image-10975 entered lazyloaded" src="/wp-content/uploads/2021/01/xem-ngay.gif" alt="xem-ngay" width="22" height="15" data-lazy-src="/wp-content/uploads/2021/01/xem-ngay.gif" data-ll-status="loaded" /> Bảng báo giá nhân công – vật tư lắp đặt tại Thịnh Phát</strong></p>
+<p><strong><img class="alignnone size-full wp-image-10975 entered lazyloaded" src="/wp-content/uploads/2021/01/xem-ngay.gif" alt="xem-ngay" width="22" height="15" data-lazy-src="/wp-content/uploads/2021/01/xem-ngay.gif" data-ll-status="loaded" /> Góp ý – phản ánh chất lượng dịch vụ</strong></p>
 </div>
 
 

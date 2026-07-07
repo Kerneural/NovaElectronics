@@ -585,9 +585,9 @@
 			
 
 <div class="product-short-description">
-	<p><strong><img class="alignnone wp-image-10976 size-full entered lazyloaded" src="https://dienlanhthinhphat.com.vn/wp-content/uploads/2021/01/xem-ngay.gif" alt="xem-ngay" width="25" height="12" data-lazy-src="https://dienlanhthinhphat.com.vn/wp-content/uploads/2021/01/xem-ngay.gif" data-ll-status="loaded" /> Free Shipping nội thành Hà Nội</strong></p>
-<p><strong><img class="alignnone size-full wp-image-10975 entered lazyloaded" src="https://dienlanhthinhphat.com.vn/wp-content/uploads/2021/01/xem-ngay.gif" alt="xem-ngay" width="22" height="15" data-lazy-src="https://dienlanhthinhphat.com.vn/wp-content/uploads/2021/01/xem-ngay.gif" data-ll-status="loaded" /> Bảng báo giá nhân công – vật tư lắp đặt tại Thịnh Phát</strong></p>
-<p><strong><img class="alignnone size-full wp-image-10975 entered lazyloaded" src="https://dienlanhthinhphat.com.vn/wp-content/uploads/2021/01/xem-ngay.gif" alt="xem-ngay" width="22" height="15" data-lazy-src="https://dienlanhthinhphat.com.vn/wp-content/uploads/2021/01/xem-ngay.gif" data-ll-status="loaded" /> Góp ý – phản ánh chất lượng dịch vụ</strong></p>
+	<p><strong><img class="alignnone wp-image-10976 size-full entered lazyloaded" src="/wp-content/uploads/2021/01/xem-ngay.gif" alt="xem-ngay" width="25" height="12" data-lazy-src="/wp-content/uploads/2021/01/xem-ngay.gif" data-ll-status="loaded" /> Free Shipping nội thành Hà Nội</strong></p>
+<p><strong><img class="alignnone size-full wp-image-10975 entered lazyloaded" src="/wp-content/uploads/2021/01/xem-ngay.gif" alt="xem-ngay" width="22" height="15" data-lazy-src="/wp-content/uploads/2021/01/xem-ngay.gif" data-ll-status="loaded" /> Bảng báo giá nhân công – vật tư lắp đặt tại Thịnh Phát</strong></p>
+<p><strong><img class="alignnone size-full wp-image-10975 entered lazyloaded" src="/wp-content/uploads/2021/01/xem-ngay.gif" alt="xem-ngay" width="22" height="15" data-lazy-src="/wp-content/uploads/2021/01/xem-ngay.gif" data-ll-status="loaded" /> Góp ý – phản ánh chất lượng dịch vụ</strong></p>
 </div>
 
 
@@ -987,7 +987,7 @@ công nghệ inverter trên chiếc multi LG A4UW24GFA2 24000BTU<br />
 <td colspan="4">
 <h2><span style="font-size: 16px;">điều hòa multi LG dàn lạnh teo tường 2 way</span></h2>
 </td>
-<td style="text-align: center;"><span style="color: #000000;"><a style="color: #000000;" href="https://dienlanhthinhphat.com.vn/san-pham/dan-lanh-multi-lg-18000btu-2-chieu-inverter-amnw18gskb0/"><span style="font-size: 16px;"><strong>AMNW18GSKB0</strong></span></a></span></td>
+<td style="text-align: center;"><span style="color: #000000;"><a style="color: #000000;" href="/san-pham/dan-lanh-multi-lg-18000btu-2-chieu-inverter-amnw18gskb0/"><span style="font-size: 16px;"><strong>AMNW18GSKB0</strong></span></a></span></td>
 </tr>
 <tr>
 <td colspan="3"><span style="font-size: 16px;">Điện nguồn </span></td>

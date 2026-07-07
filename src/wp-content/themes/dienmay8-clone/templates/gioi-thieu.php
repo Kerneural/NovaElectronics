@@ -62,7 +62,7 @@
 </ul>
 <p>Mọi thông tin khách hàng hãy liên hệ với Điện máy Thịnh Phát để được hỗ trợ tốt nhất:</p>
 <p>HOTLINE: 0977.986.xxx</p>
-<p>Website: shoplg.vn</p>
+<p>Website: novaelectronics.local</p>
 <p>Hệ thống kho hàng:</p>
 <ul>
 <li>Địa chỉ văn phòng: Số 19A, Đường Bát Khối, Phường Long Biên, Quận Long Biên, Hà Nội</li>

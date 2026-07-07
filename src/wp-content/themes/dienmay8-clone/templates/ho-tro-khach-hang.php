@@ -37,7 +37,7 @@
             Customer Support          </h1>
         </div>
                     <div class="title-content flex-col">
-        <div class="title-breadcrumbs pb-half pt-half"><nav class="woocommerce-breadcrumb breadcrumbs uppercase"><a href="https://dienmay8.mauthemewp.com">Home</a> <span class="divider">&#47;</span> Customer Support</nav></div>      </div>
+        <div class="title-breadcrumbs pb-half pt-half"><nav class="woocommerce-breadcrumb breadcrumbs uppercase"><a href="/">Home</a> <span class="divider">&#47;</span> Customer Support</nav></div>      </div>
     </div>
 
      
