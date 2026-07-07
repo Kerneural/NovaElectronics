@@ -2,6 +2,8 @@
 <html lang="vi" prefix="og: https://ogp.me/ns#" class="loading-site no-js">
     <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
     <head>
+<?php wp_head(); ?>
+
         <meta charset="UTF-8" />
         <link rel="profile" href="http://gmpg.org/xfn/11" />
         <link rel="pingback" href="xmlrpc.html" />
@@ -1256,7 +1258,7 @@
                     U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
             }
         </style>
-    <?php wp_head(); ?>
+    
 </head>
 
     <body
