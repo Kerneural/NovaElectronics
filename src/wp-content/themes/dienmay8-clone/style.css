@@ -17,6 +17,9 @@ Text Domain: dienmay8-clone
   --primary-color: #cc023f;
   --second-color: #d55d70;
 }
+.header-main {
+  background-color: #cc023f !important;
+}
 .cl{
   color: var(--primary-color);
 }
