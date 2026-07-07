@@ -1767,7 +1767,7 @@
                                             <i class="icon-angle-down"></i>
                                         </div>
                                         <div
-                                            class="header-vertical-menu__fly-out  has-shadow"
+                                            class="header-vertical-menu__fly-out <?php echo (is_front_page() || is_home()) ? 'header-vertical-menu__fly-out--open' : ''; ?> has-shadow"
                                         >
                                             <div class="menu-danh-muc-san-pham-container">
                                                 <ul
