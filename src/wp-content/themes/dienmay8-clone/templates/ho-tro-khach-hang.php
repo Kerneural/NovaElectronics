@@ -1,26 +1,34 @@
-
-<!DOCTYPE html>
-<html lang="vi" prefix="og: https://ogp.me/ns#" class="loading-site no-js">
-<head>
-	<meta charset="UTF-8" />
-	<link rel="profile" href="http://gmpg.org/xfn/11" />
-	<link rel="pingback" href="/xmlrpc.php" />
-
+
+
+<!DOCTYPE html>
+
+<html lang="vi" prefix="og: https://ogp.me/ns#" class="loading-site no-js">
+
+<head>
+
+	<meta charset="UTF-8" />
+
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+
+	<link rel="pingback" href="/xmlrpc.php" />
+
+
+
 	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 <!-- Search Engine Optimization by Rank Math - https://rankmath.com/ -->
-<title>Hỗ trợ khách hàng - CÔNG TY TNHH ĐIỆN LẠNH TH THỊNH PHÁT</title>
+<title>Hỗ trợ khách hàng - DailySmartLife</title>
 <meta name="description" content="CHÍNH SÁCH BẢO MẬT THÔNG TIN"/>
 <meta name="robots" content="nofollow, noindex"/>
 <meta property="og:locale" content="vi_VN" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Hỗ trợ khách hàng - CÔNG TY TNHH ĐIỆN LẠNH TH THỊNH PHÁT" />
+<meta property="og:title" content="Hỗ trợ khách hàng - DailySmartLife" />
 <meta property="og:description" content="CHÍNH SÁCH BẢO MẬT THÔNG TIN" />
 <meta property="og:url" content="/ho-tro-khach-hang/" />
-<meta property="og:site_name" content="CÔNG TY TNHH ĐIỆN LẠNH TH THỊNH PHÁT" />
+<meta property="og:site_name" content="DailySmartLife" />
 <meta property="og:updated_time" content="2022-11-15T08:10:39+07:00" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Hỗ trợ khách hàng - CÔNG TY TNHH ĐIỆN LẠNH TH THỊNH PHÁT" />
+<meta name="twitter:title" content="Hỗ trợ khách hàng - DailySmartLife" />
 <meta name="twitter:description" content="CHÍNH SÁCH BẢO MẬT THÔNG TIN" />
 <meta name="twitter:label1" content="Time to read" />
 <meta name="twitter:data1" content="11 minutes" />
@@ -34,8 +42,8 @@
 <link rel='prefetch' href='/wp-content/themes/flatsome/assets/js/chunk.tooltips.js?ver=3.16.1' />
 <link rel='prefetch' href='/wp-content/themes/flatsome/assets/js/chunk.vendors-popups.js?ver=3.16.1' />
 <link rel='prefetch' href='/wp-content/themes/flatsome/assets/js/chunk.vendors-slider.js?ver=3.16.1' />
-<link rel="alternate" type="application/rss+xml" title="Dòng thông tin CÔNG TY TNHH ĐIỆN LẠNH TH THỊNH PHÁT &raquo;" href="/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Dòng phản hồi CÔNG TY TNHH ĐIỆN LẠNH TH THỊNH PHÁT &raquo;" href="/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Dòng thông tin DailySmartLife &raquo;" href="/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Dòng phản hồi DailySmartLife &raquo;" href="/comments/feed/" />
 <script type="text/javascript">
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2"}};
 /*! This file is auto-generated */
@@ -110,85 +118,164 @@ img.emoji {
 <link rel='shortlink' href='/?p=1210' />
 <link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdienmay8.mauthemewp.com%2Fho-tro-khach-hang%2F" />
 <link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdienmay8.mauthemewp.com%2Fho-tro-khach-hang%2F&#038;format=xml" />
-<style>.bg{opacity: 0; transition: opacity 1s; -webkit-transition: opacity 1s;} .bg-loaded{opacity: 1;}</style><script>
-  (function($) {
-  jQuery(document).ready(function($){
-    $('.main-carousel').lazyFlickity({
-        // options
-        
-        contain: true,
-       imagesLoaded: false, 
-       cellAlign: "right",
-       wrapAround: false,
-       prevNextButtons: false,
-       percentPosition: true,
-       pageDots: false, 
-       rightToLeft: false, 
-        autoPlay : false,
-
-      });
-});
-  })(jQuery);
-</script>
-<script>
-  (function($) {
-	jQuery(document).ready(function(){
-	if(window.location.href.indexOf("price-desc")> -1) {
-	jQuery('#pricedesc input[type="checkbox"]').prop('checked,true);} 
-	else if (window.location.href.indexOf("price")> -1) 
-	{jQuery('#pricemall  input[type="checkbox"]').prop('checked',true);} 
-	else if (window.location.href.indexOf("date")> -1) {
-	jQuery ('#datecheck input [type="checkbox"]').prop('checked',true);} 
-	else if (window.location.href.indexOf("old-product")> -1) {
-	jQuery('#oldproduct input[type ="checkbox"]').prop('checked', true);} 15}); 
-	jQuery("a.deselect").each(function () {this.search = ""; });  
-     })(jQuery);
-</script>
-<script>
-  (function($) {
-  	jQuery(document).ready(function($){
-       $(".btn_downtab").click(function(){
-          $(".chinhsach").toggleClass("show");
-        });
-      $(".khaosat").click(function(){
-        $(".khaosat_wraper").addClass("show");
-      });
-      $(".khaosat_wraper").click(function(){
-        $(".khaosat_wraper").removeClass("show");
-      });
-      $(".khaosat_clode").click(function(){
-        $(".khaosat_wraper").removeClass("show");
-      });
-		});
-    $(window).scroll(function() {    
-        var scroll = $(window).scrollTop();    
-        if (scroll >= 600) {
-          $('.product_scroll').addClass('fixed');
-            } else {
-                $('.product_scroll').removeClass('fixed');
-            }
-			});
-  })(jQuery);
-</script>
-<script>
-  (function($) {
-  jQuery(document).ready(function($){
-    $('.video_slider').lazyFlickity({
-        // options
-        
-        contain: true,
-       imagesLoaded: true, 
-       cellAlign: "left",
-       wrapAround: true,
-       prevNextButtons: true,
-       percentPosition: true,
-       pageDots: false, 
-       rightToLeft: false, 
-        autoPlay : true,
-      });
-});
-  })(jQuery);
-</script>
+<style>.bg{opacity: 0; transition: opacity 1s; -webkit-transition: opacity 1s;} .bg-loaded{opacity: 1;}</style><script>
+
+  (function($) {
+
+  jQuery(document).ready(function($){
+
+    $('.main-carousel').lazyFlickity({
+
+        // options
+
+        
+
+        contain: true,
+
+       imagesLoaded: false, 
+
+       cellAlign: "right",
+
+       wrapAround: false,
+
+       prevNextButtons: false,
+
+       percentPosition: true,
+
+       pageDots: false, 
+
+       rightToLeft: false, 
+
+        autoPlay : false,
+
+
+
+      });
+
+});
+
+  })(jQuery);
+
+</script>
+
+<script>
+
+  (function($) {
+
+	jQuery(document).ready(function(){
+
+	if(window.location.href.indexOf("price-desc")> -1) {
+
+	jQuery('#pricedesc input[type="checkbox"]').prop('checked,true);} 
+
+	else if (window.location.href.indexOf("price")> -1) 
+
+	{jQuery('#pricemall  input[type="checkbox"]').prop('checked',true);} 
+
+	else if (window.location.href.indexOf("date")> -1) {
+
+	jQuery ('#datecheck input [type="checkbox"]').prop('checked',true);} 
+
+	else if (window.location.href.indexOf("old-product")> -1) {
+
+	jQuery('#oldproduct input[type ="checkbox"]').prop('checked', true);} 15}); 
+
+	jQuery("a.deselect").each(function () {this.search = ""; });  
+
+     })(jQuery);
+
+</script>
+
+<script>
+
+  (function($) {
+
+  	jQuery(document).ready(function($){
+
+       $(".btn_downtab").click(function(){
+
+          $(".chinhsach").toggleClass("show");
+
+        });
+
+      $(".khaosat").click(function(){
+
+        $(".khaosat_wraper").addClass("show");
+
+      });
+
+      $(".khaosat_wraper").click(function(){
+
+        $(".khaosat_wraper").removeClass("show");
+
+      });
+
+      $(".khaosat_clode").click(function(){
+
+        $(".khaosat_wraper").removeClass("show");
+
+      });
+
+		});
+
+    $(window).scroll(function() {    
+
+        var scroll = $(window).scrollTop();    
+
+        if (scroll >= 600) {
+
+          $('.product_scroll').addClass('fixed');
+
+            } else {
+
+                $('.product_scroll').removeClass('fixed');
+
+            }
+
+			});
+
+  })(jQuery);
+
+</script>
+
+<script>
+
+  (function($) {
+
+  jQuery(document).ready(function($){
+
+    $('.video_slider').lazyFlickity({
+
+        // options
+
+        
+
+        contain: true,
+
+       imagesLoaded: true, 
+
+       cellAlign: "left",
+
+       wrapAround: true,
+
+       prevNextButtons: true,
+
+       percentPosition: true,
+
+       pageDots: false, 
+
+       rightToLeft: false, 
+
+        autoPlay : true,
+
+      });
+
+});
+
+  })(jQuery);
+
+</script>
+
 	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
 	<style id="custom-css" type="text/css">:root {--primary-color: #cc023f;}.container-width, .full-width .ubermenu-nav, .container, .row{max-width: 1370px}.row.row-collapse{max-width: 1340px}.row.row-small{max-width: 1362.5px}.row.row-large{max-width: 1400px}.sticky-add-to-cart--active, #wrapper,#main,#main.dark{background-color: #f0f0f2}.header-main{height: 64px}#logo img{max-height: 64px}#logo{width:250px;}.header-bottom{min-height: 45px}.header-top{min-height: 48px}.transparent .header-main{height: 90px}.transparent #logo img{max-height: 90px}.has-transparent + .page-title:first-of-type,.has-transparent + #main > .page-title,.has-transparent + #main > div > .page-title,.has-transparent + #main .page-header-wrapper:first-of-type .page-title{padding-top: 170px;}.header.show-on-scroll,.stuck .header-main{height:70px!important}.stuck #logo img{max-height: 70px!important}.search-form{ width: 51%;}.header-bottom {background-color: #ffffff}.top-bar-nav > li > a{line-height: 16px }.header-bottom-nav > li > a{line-height: 16px }@media (max-width: 549px) {.header-main{height: 70px}#logo img{max-height: 70px}}.header-top{background-color:#cc023f!important;}/* Color */.accordion-title.active, .has-icon-bg .icon .icon-inner,.logo a, .primary.is-underline, .primary.is-link, .badge-outline .badge-inner, .nav-outline > li.active> a,.nav-outline >li.active > a, .cart-icon strong,[data-color='primary'], .is-outline.primary{color: #cc023f;}/* Color !important */[data-text-color="primary"]{color: #cc023f!important;}/* Background Color */[data-text-bg="primary"]{background-color: #cc023f;}/* Background */.scroll-to-bullets a,.featured-title, .label-new.menu-item > a:after, .nav-pagination > li > .current,.nav-pagination > li > span:hover,.nav-pagination > li > a:hover,.has-hover:hover .badge-outline .badge-inner,button[type="submit"], .button.wc-forward:not(.checkout):not(.checkout-button), .button.submit-button, .button.primary:not(.is-outline),.featured-table .title,.is-outline:hover, .has-icon:hover .icon-label,.nav-dropdown-bold .nav-column li > a:hover, .nav-dropdown.nav-dropdown-bold > li > a:hover, .nav-dropdown-bold.dark .nav-column li > a:hover, .nav-dropdown.nav-dropdown-bold.dark > li > a:hover, .header-vertical-menu__opener ,.is-outline:hover, .tagcloud a:hover,.grid-tools a, input[type='submit']:not(.is-form), .box-badge:hover .box-text, input.button.alt,.nav-box > li > a:hover,.nav-box > li.active > a,.nav-pills > li.active > a ,.current-dropdown .cart-icon strong, .cart-icon:hover strong, .nav-line-bottom > li > a:before, .nav-line-grow > li > a:before, .nav-line > li > a:before,.banner, .header-top, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .primary.is-outline:hover, .button.primary:not(.is-outline), input[type='submit'].primary, input[type='submit'].primary, input[type='reset'].button, input[type='button'].primary, .badge-inner{background-color: #cc023f;}/* Border */.nav-vertical.nav-tabs > li.active > a,.scroll-to-bullets a.active,.nav-pagination > li > .current,.nav-pagination > li > span:hover,.nav-pagination > li > a:hover,.has-hover:hover .badge-outline .badge-inner,.accordion-title.active,.featured-table,.is-outline:hover, .tagcloud a:hover,blockquote, .has-border, .cart-icon strong:after,.cart-icon strong,.blockUI:before, .processing:before,.loading-spin, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .primary.is-outline:hover{border-color: #cc023f}.nav-tabs > li.active > a{border-top-color: #cc023f}.widget_shopping_cart_content .blockUI.blockOverlay:before { border-left-color: #cc023f }.woocommerce-checkout-review-order .blockUI.blockOverlay:before { border-left-color: #cc023f }/* Fill */.slider .flickity-prev-next-button:hover svg,.slider .flickity-prev-next-button:hover .arrow{fill: #cc023f;}/* Focus */.primary:focus-visible, .submit-button:focus-visible, button[type="submit"]:focus-visible { outline-color: #cc023f!important; }/* Background Color */[data-icon-label]:after, .secondary.is-underline:hover,.secondary.is-outline:hover,.icon-label,.button.secondary:not(.is-outline),.button.alt:not(.is-outline), .badge-inner.on-sale, .button.checkout, .single_add_to_cart_button, .current .breadcrumb-step{ background-color:#d55d70; }[data-text-bg="secondary"]{background-color: #d55d70;}/* Color */.secondary.is-underline,.secondary.is-link, .secondary.is-outline,.stars a.active, .star-rating:before, .woocommerce-page .star-rating:before,.star-rating span:before, .color-secondary{color: #d55d70}/* Color !important */[data-text-color="secondary"]{color: #d55d70!important;}/* Border */.secondary.is-outline:hover{border-color:#d55d70}/* Focus */.secondary:focus-visible, .alt:focus-visible { outline-color: #d55d70!important; }body{color: #020202}h1,h2,h3,h4,h5,h6,.heading-font{color: #020202;}body{font-size: 100%;}@media screen and (max-width: 549px){body{font-size: 100%;}}body{font-family: Roboto, sans-serif;}body {font-weight: 400;font-style: normal;}.nav > li > a {font-family: Roboto, sans-serif;}.mobile-sidebar-levels-2 .nav > li > ul > li > a {font-family: Roboto, sans-serif;}.nav > li > a,.mobile-sidebar-levels-2 .nav > li > ul > li > a {font-weight: 700;font-style: normal;}h1,h2,h3,h4,h5,h6,.heading-font, .off-canvas-center .nav-sidebar.nav-vertical > li > a{font-family: Roboto, sans-serif;}h1,h2,h3,h4,h5,h6,.heading-font,.banner h1,.banner h2 {font-weight: 700;font-style: normal;}.alt-font{font-family: Roboto, sans-serif;}.alt-font {font-weight: 400!important;font-style: normal!important;}.header:not(.transparent) .header-bottom-nav.nav > li > a{color: #020202;}.header:not(.transparent) .header-bottom-nav.nav > li > a:hover,.header:not(.transparent) .header-bottom-nav.nav > li.active > a,.header:not(.transparent) .header-bottom-nav.nav > li.current > a,.header:not(.transparent) .header-bottom-nav.nav > li > a.active,.header:not(.transparent) .header-bottom-nav.nav > li > a.current{color: #cc023f;}.header-bottom-nav.nav-line-bottom > li > a:before,.header-bottom-nav.nav-line-grow > li > a:before,.header-bottom-nav.nav-line > li > a:before,.header-bottom-nav.nav-box > li > a:hover,.header-bottom-nav.nav-box > li.active > a,.header-bottom-nav.nav-pills > li > a:hover,.header-bottom-nav.nav-pills > li.active > a{color:#FFF!important;background-color: #cc023f;}a{color: #020202;}a:hover{color: #cc023f;}.tagcloud a:hover{border-color: #cc023f;background-color: #cc023f;}.has-equal-box-heights .box-image {padding-top: 100%;}@media screen and (min-width: 550px){.products .box-vertical .box-image{min-width: 300px!important;width: 300px!important;}}.header-vertical-menu__opener{height: 45px}.nav-vertical-fly-out > li + li {border-top-width: 1px; border-top-style: solid;}.label-new.menu-item > a:after{content:"Mới";}.label-hot.menu-item > a:after{content:"Hot";}.label-sale.menu-item > a:after{content:"Khuyến mại";}.label-popular.menu-item > a:after{content:"Phổ biến";}</style>		<style type="text/css" id="wp-custom-css">
 			.brand-img img {
@@ -373,18 +460,30 @@ img.emoji {
   font-display: swap;
   src: url(/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiAz0klQm_20.woff) format('woff');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}</style></head>
-
-<body class="page-template page-template-page-blank page-template-page-blank-php page page-id-1210 theme-flatsome woocommerce-no-js lightbox nav-dropdown-has-arrow nav-dropdown-has-shadow nav-dropdown-has-border">
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
-<a class="skip-link screen-reader-text" href="#main">Chuyển đến nội dung</a>
-
-<div id="wrapper">
-
-	
-	<header id="header" class="header has-sticky sticky-jump">
-		<div class="header-wrapper">
+}</style></head>
+
+
+
+<body class="page-template page-template-page-blank page-template-page-blank-php page page-id-1210 theme-flatsome woocommerce-no-js lightbox nav-dropdown-has-arrow nav-dropdown-has-shadow nav-dropdown-has-border">
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+
+<a class="skip-link screen-reader-text" href="#main">Chuyển đến nội dung</a>
+
+
+
+<div id="wrapper">
+
+
+
+	
+
+	<header id="header" class="header has-sticky sticky-jump">
+
+		<div class="header-wrapper">
+
 			<div id="top-bar" class="header-top hide-for-sticky nav-dark hide-for-medium">
     <div class="flex-row container">
       <div class="flex-col hide-for-medium flex-left">
@@ -438,8 +537,8 @@ Tra cứu đơn hàng</a>
           <div id="logo" class="flex-col logo">
             
 <!-- Header logo -->
-<a href="/" title="CÔNG TY TNHH ĐIỆN LẠNH TH THỊNH PHÁT - NÂNG TẦM CHẤT LƯỢNG –  KHẲNG ĐỊNH ĐẲNG CẤP" rel="home">
-		<img width="239" height="39" src="/wp-content/uploads/2023/03/logo.png" class="header_logo header-logo" alt="CÔNG TY TNHH ĐIỆN LẠNH TH THỊNH PHÁT"/><img  width="239" height="39" src="/wp-content/uploads/2023/03/logo.png" class="header-logo-dark" alt="CÔNG TY TNHH ĐIỆN LẠNH TH THỊNH PHÁT"/></a>
+<a href="/" title="DailySmartLife - NÂNG TẦM CHẤT LƯỢNG –  KHẲNG ĐỊNH ĐẲNG CẤP" rel="home">
+		<img width="239" height="39" src="/wp-content/uploads/2023/03/logo.png" class="header_logo header-logo" alt="DailySmartLife"/><img  width="239" height="39" src="/wp-content/uploads/2023/03/logo.png" class="header-logo-dark" alt="DailySmartLife"/></a>
           </div>
 
           <!-- Mobile Left Elements -->
@@ -484,11 +583,11 @@ Tra cứu đơn hàng</a>
             <ul class="header-nav header-nav-main nav nav-right  nav-uppercase">
               <li class="cart-item has-icon">
 
-<a href="/gio-hang/" title="Giỏ hàng" class="header-cart-link is-small">
+<a href="/gio-hang/" title="Cart" class="header-cart-link is-small">
 
 
 <span class="header-cart-title">
-   Giỏ hàng     </span>
+   Cart     </span>
 
     <i class="icon-shopping-cart"
     data-icon-label="0">
@@ -498,7 +597,7 @@ Tra cứu đơn hàng</a>
 
 </li>
 <li class="html custom html_top_right_text"><div class="contact_header">
-<a href="/tin-tuc" >Tin tức</a></div>
+<a href="/tin-tuc" >News</a></div>
 <div class="contact_header">
 <a href="/combo-khuyen-mai/" ><span>Combo - khuyến mãi</span> <span class="animate-hot">HOT</span></a>
 </div></li>            </ul>
@@ -509,7 +608,7 @@ Tra cứu đơn hàng</a>
             <ul class="mobile-nav nav nav-right ">
               <li class="cart-item has-icon">
 
-      <a href="/gio-hang/" title="Giỏ hàng" class="header-cart-link is-small">
+      <a href="/gio-hang/" title="Cart" class="header-cart-link is-small">
   
     <i class="icon-shopping-cart"
     data-icon-label="0">
@@ -558,7 +657,7 @@ Tra cứu đơn hàng</a>
 <li id="menu-item-1223" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1223 menu-item-design-default"><a href="/may-say-lg/" class="nav-top-link">Máy sấy</a></li>
 <li id="menu-item-1224" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1224 menu-item-design-default"><a href="/tivi-lg/" class="nav-top-link">Tivi</a></li>
 <li id="menu-item-1225" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1225 menu-item-design-default"><a href="/tu-lanh-lg/" class="nav-top-link">Tủ lạnh</a></li>
-<li id="menu-item-1927" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1927 menu-item-design-default"><a href="/lien-he/" class="nav-top-link">Liên hệ</a></li>
+<li id="menu-item-1927" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1927 menu-item-design-default"><a href="/lien-he/" class="nav-top-link">Contact Us</a></li>
                 </ul>
             </div>
             
@@ -594,14 +693,22 @@ Tra cứu đơn hàng</a>
     </div>
 </div>
 
-<div class="header-bg-container fill"><div class="header-bg-image fill"></div><div class="header-bg-color fill"></div></div>		</div>
-	</header>
-
-	
-	<main id="main" class="">
-    <section class="breadcrumb">
-        <div class="container">
-            <nav aria-label="breadcrumbs" class="rank-math-breadcrumb"><p><a href="/">Trang chủ</a><span class="separator"> &raquo; </span><span class="last">Hỗ trợ khách hàng</span></p></nav>        </div>
+<div class="header-bg-container fill"><div class="header-bg-image fill"></div><div class="header-bg-color fill"></div></div>		</div>
+
+	</header>
+
+
+
+	
+
+	<main id="main" class="">
+
+    <section class="breadcrumb">
+
+        <div class="container">
+
+            <nav aria-label="breadcrumbs" class="rank-math-breadcrumb"><p><a href="/">Home</a><span class="separator"> &raquo; </span><span class="last">Hỗ trợ khách hàng</span></p></nav>        </div>
+
     </section>
 
 <div id="content" role="main" class="content-area">
@@ -614,7 +721,7 @@ Tra cứu đơn hàng</a>
 }
 </style>
 
-  <div id="page-header-712346765" class="page-header-wrapper">
+  <div id="page-header-801665756" class="page-header-wrapper">
   <div class="page-title dark featured-title">
 
         <div class="page-title-bg">
@@ -632,25 +739,25 @@ Tra cứu đơn hàng</a>
             Hỗ trợ khách hàng          </h1>
         </div>
                     <div class="title-content flex-col">
-        <div class="title-breadcrumbs pb-half pt-half"><nav class="woocommerce-breadcrumb breadcrumbs uppercase"><a href="https://dienmay8.mauthemewp.com">Trang chủ</a> <span class="divider">&#47;</span> Hỗ trợ khách hàng</nav></div>      </div>
+        <div class="title-breadcrumbs pb-half pt-half"><nav class="woocommerce-breadcrumb breadcrumbs uppercase"><a href="https://dienmay8.mauthemewp.com">Home</a> <span class="divider">&#47;</span> Hỗ trợ khách hàng</nav></div>      </div>
     </div>
 
      
 <style>
-#page-header-712346765 .page-title-inner {
+#page-header-801665756 .page-title-inner {
   min-height: 132px;
 }
-#page-header-712346765 .title-bg {
+#page-header-801665756 .title-bg {
   background-image: url(/wp-content/uploads/2022/11/banner-1.png);
 }
-#page-header-712346765 .title-overlay {
+#page-header-801665756 .title-overlay {
   background-color: rgba(255, 255, 255, 0);
 }
-#page-header-712346765 .featured-title {
+#page-header-801665756 .featured-title {
   background-color: rgba(255, 255, 255, 0);
 }
 @media (min-width:550px) {
-  #page-header-712346765 .page-title-inner {
+  #page-header-801665756 .page-title-inner {
     min-height: 232px;
   }
 }
@@ -658,7 +765,7 @@ Tra cứu đơn hàng</a>
   </div>
     </div>
   
-	<section class="section" id="section_849682476">
+	<section class="section" id="section_1074435497">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -671,20 +778,20 @@ Tra cứu đơn hàng</a>
 
 		<div class="section-content relative">
 			
-<div class="row"  id="row-91557877">
+<div class="row"  id="row-1908472526">
 
-	<div id="col-1941035421" class="col small-12 large-12"  >
+	<div id="col-1120062528" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			
-	<div id="gap-474297764" class="gap-element clearfix" style="display:block; height:auto;">
+	<div id="gap-579867277" class="gap-element clearfix" style="display:block; height:auto;">
 		
 <style>
-#gap-474297764 {
+#gap-579867277 {
   padding-top: 48px;
 }
 @media (min-width:550px) {
-  #gap-474297764 {
+  #gap-579867277 {
     padding-top: 30px;
   }
 }
@@ -738,19 +845,19 @@ Chính sách vận chuyển áp dụng cho đơn hàng mua qua hotline, website 
 &#8211; Các sản phẩm mua của Bếp An Toàn sẽ được bảo hành trên toàn quốc.</p>
 <p>2. Điều kiện bảo hành<br />
 2.1 Bảo hành miễn phí<br />
-&#8211; Sản phẩm còn trong thời hạn bảo hành (từ 2-5 năm, tuỳ sản phẩm).<br />
-&#8211; Sản phẩm được sử dụng đúng mục đích, công năng, theo cách thức phù hợp và hướng dẫn của nhà sản xuất.<br />
-&#8211; Sản phẩm có lỗi hư hỏng, lỗi linh kiện do nhà sản xuất.<br />
+&#8211; Products còn trong thời hạn bảo hành (từ 2-5 năm, tuỳ sản phẩm).<br />
+&#8211; Products được sử dụng đúng mục đích, công năng, theo cách thức phù hợp và hướng dẫn của nhà sản xuất.<br />
+&#8211; Products có lỗi hư hỏng, lỗi linh kiện do nhà sản xuất.<br />
 &#8211; Số seri, tem niêm phong tem bảo hành còn nguyên, không bị rách.<br />
-&#8211; Sản phẩm được cung cấp bởi Bếp An Toàn.<br />
-&#8211; Sản phẩm không thuộc nhóm bảo hành tính phí.</p>
+&#8211; Products được cung cấp bởi Bếp An Toàn.<br />
+&#8211; Products không thuộc nhóm bảo hành tính phí.</p>
 <p>2.2 Bảo hành tính phí<br />
-&#8211; Sản phẩm hết thời hạn bảo hành (từ 2-5 năm, tuỳ sản phẩm).<br />
-&#8211; Sản phẩm không được sử dụng đúng mục đích, công năng, theo cách thức phù hợp và hướng dẫn của nhà sản xuất.<br />
-&#8211; Sản phẩm bị lỗi do quá trình lắp đặt, sử dụng không đúng yêu cầu kỹ thuật, thay đổi kết cấu, quy định an toàn của sản phẩm.<br />
-&#8211; Sản phẩm bị rỉ sét, hao mòn tự nhiên của các linh kiện theo thời gian sử dụng.<br />
-&#8211; Sản phẩm sửa chữa trước ở những nơi không nằm trong hệ thống bảo hành của Bếp An Toàn.<br />
-&#8211; Sản phẩm hư hỏng do yếu tố bên ngoài và do bảo quản không tốt gây ra.</p>
+&#8211; Products hết thời hạn bảo hành (từ 2-5 năm, tuỳ sản phẩm).<br />
+&#8211; Products không được sử dụng đúng mục đích, công năng, theo cách thức phù hợp và hướng dẫn của nhà sản xuất.<br />
+&#8211; Products bị lỗi do quá trình lắp đặt, sử dụng không đúng yêu cầu kỹ thuật, thay đổi kết cấu, quy định an toàn của sản phẩm.<br />
+&#8211; Products bị rỉ sét, hao mòn tự nhiên của các linh kiện theo thời gian sử dụng.<br />
+&#8211; Products sửa chữa trước ở những nơi không nằm trong hệ thống bảo hành của Bếp An Toàn.<br />
+&#8211; Products hư hỏng do yếu tố bên ngoài và do bảo quản không tốt gây ra.</p>
 <p>3. Thời hạn bảo hành<br />
 Phụ thuộc vào mặt hàng, thời hạn bảo hành sẽ từ 2 &#8211; 5 năm.</p>
 <p>4. Hạng mục bảo hành<br />
@@ -767,12 +874,12 @@ Trong vòng 10 ngày 	Trừ 10% giá mua 	Trừ 30% giá mua<br />
 Trong vòng 11- 20 ngày 	Trừ 15% giá mua 	Trừ 50% giá mua<br />
 Từ 1 tháng trở lên 	Không giải quyết đổi, trả</p>
 <p>2. Điều kiện đổi trả<br />
-&#8211; Sản phẩm bị lỗi do nhà sản xuất.<br />
-&#8211; Sản phẩm hoặc phụ kiện sản phẩm bị lỗi do đơn vị vận chuyển (bể vỡ, trầy xước, móp méo, bị dính nước,&#8230;)<br />
-&#8211; Sản phẩm không đúng như trên thông tin đơn hàng.</p>
+&#8211; Products bị lỗi do nhà sản xuất.<br />
+&#8211; Products hoặc phụ kiện sản phẩm bị lỗi do đơn vị vận chuyển (bể vỡ, trầy xước, móp méo, bị dính nước,&#8230;)<br />
+&#8211; Products không đúng như trên thông tin đơn hàng.</p>
 <p>3. Hình thức đổi trả<br />
 Để đổi, trả sản phẩm, quý khách có thể thực hiện theo 02 cách:<br />
-&#8211; Liên hệ hotline hoặc qua nhân viên bán hàng để cung cấp thông tin đơn hàng, tên khách hàng, địa chỉ, sản phẩm yêu cầu đổi, trả và lý do.<br />
+&#8211; Contact Us hotline hoặc qua nhân viên bán hàng để cung cấp thông tin đơn hàng, tên khách hàng, địa chỉ, sản phẩm yêu cầu đổi, trả và lý do.<br />
 &#8211; Giữ nguyên hiện trạng và đem sản phẩm đến trực tiếp showroom gần nhất để được hỗ trợ.</p>
 <p>4. Thời gian giải quyết đổi trả<br />
 Chúng tôi giải quyết đổi, trả trong vòng 24- 48h (không bao gồm thứ 7 &#8211; Chủ nhật) từ khi Bếp An Toàn nhận được hàng và Trung tâm bảo hành giám định sản phẩm đủ điều kiện đổi, trả.</p>
@@ -839,15 +946,15 @@ Chúng tôi giải quyết đổi, trả trong vòng 24- 48h (không bao gồm t
 
 		
 <style>
-#section_849682476 {
+#section_1074435497 {
   padding-top: 30px;
   padding-bottom: 30px;
 }
-#section_849682476 .ux-shape-divider--top svg {
+#section_1074435497 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_849682476 .ux-shape-divider--bottom svg {
+#section_1074435497 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -864,7 +971,7 @@ Chúng tôi giải quyết đổi, trả trong vòng 24- 48h (không bao gồm t
 
 <footer id="footer" class="footer-wrapper">
 
-		<section class="section" id="section_1129971899">
+		<section class="section" id="section_1498947603">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -880,10 +987,10 @@ Chúng tôi giải quyết đổi, trả trong vòng 24- 48h (không bao gồm t
 
 <span class="scroll-to" data-label="Scroll to: #showroom" data-bullet="false" data-link="#showroom" data-title="Change this"><a name="showroom"></a></span>
 
-<div class="row"  id="row-1755058684">
+<div class="row"  id="row-1923243638">
 
 
-	<div id="col-952151580" class="col small-12 large-12"  >
+	<div id="col-1649871793" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			    <h2 class="title_listshowroom">Hệ thống kho hàng</h2>
@@ -1048,16 +1155,16 @@ Chúng tôi giải quyết đổi, trả trong vòng 24- 48h (không bao gồm t
 
 		
 <style>
-#section_1129971899 {
+#section_1498947603 {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: rgb(255, 255, 255);
 }
-#section_1129971899 .ux-shape-divider--top svg {
+#section_1498947603 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_1129971899 .ux-shape-divider--bottom svg {
+#section_1498947603 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -1066,7 +1173,7 @@ Chúng tôi giải quyết đổi, trả trong vòng 24- 48h (không bao gồm t
 	
 <div class="text-center"><div class="is-divider divider clearfix" style="margin-top:0px;margin-bottom:0px;max-width:1370px;height:2px;background-color:rgb(254, 0, 0);"></div></div>
 
-	<section class="section" id="section_920032761">
+	<section class="section" id="section_775301940">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -1080,35 +1187,35 @@ Chúng tôi giải quyết đổi, trả trong vòng 24- 48h (không bao gồm t
 		<div class="section-content relative">
 			
 
-	<div id="gap-1250436104" class="gap-element clearfix" style="display:block; height:auto;">
+	<div id="gap-1753967672" class="gap-element clearfix" style="display:block; height:auto;">
 		
 <style>
-#gap-1250436104 {
+#gap-1753967672 {
   padding-top: 30px;
 }
 </style>
 	</div>
 	
 
-<div class="row"  id="row-672659696">
+<div class="row"  id="row-258781766">
 
 
-	<div id="col-514606324" class="col medium-12 small-12 large-3"  >
+	<div id="col-712529774" class="col medium-12 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
 
-	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1638044283">
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1501604306">
 								<div class="img-inner dark" >
 			<img width="1920" height="925" src="/wp-content/uploads/2022/11/logo.png" class="attachment-original size-original" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/logo.png 1920w, /wp-content/uploads/2022/11/logo-300x145.png 300w, /wp-content/uploads/2022/11/logo-1024x493.png 1024w, /wp-content/uploads/2022/11/logo-600x289.png 600w" sizes="(max-width: 1920px) 100vw, 1920px" />						
 					</div>
 								
 <style>
-#image_1638044283 {
+#image_1501604306 {
   width: 40%;
 }
 @media (min-width:850px) {
-  #image_1638044283 {
+  #image_1501604306 {
     width: 80%;
   }
 }
@@ -1117,22 +1224,22 @@ Chúng tôi giải quyết đổi, trả trong vòng 24- 48h (không bao gồm t
 	
 
 <div><strong>ĐIỆN MÁY THỊNH PHÁT- BRANDSHOP LG</strong></div>
-<div><span style="color: #011530;"><strong>Trụ sở tại Hà Nội:</strong></span><br /><span style="color: #011530;">Địa chỉ: 19A đường Bát Khối, Phường Long Biên, Quận Long Biên, Hà Nội</span><br /><span style="color: #011530;">Hotline, zalo: 0977.986.xxx</span><br /><span style="color: #011530;">Email: webdemo@gmail.com</span><br /><span style="color: #011530;"><strong>Chi nhánh Nam Định:</strong></span><br /><span style="color: #011530;">Địa chỉ: QL 21B Tân Đình Liêm Hải Trực Ninh Nam Định</span></div>
+<div><span style="color: #011530;"><strong>Trụ sở tại Hà Nội:</strong></span><br /><span style="color: #011530;">Địa chỉ: 19A đường Bát Khối, Phường Long Biên, Quận Long Biên, Hà Nội</span><br /><span style="color: #011530;">Hotline, zalo: 0977.986.xxx</span><br /><span style="color: #011530;">Email: info@dailysmartlife.com</span><br /><span style="color: #011530;"><strong>Chi nhánh Nam Định:</strong></span><br /><span style="color: #011530;">Địa chỉ: QL 21B Tân Đình Liêm Hải Trực Ninh Nam Định</span></div>
 
 		</div>
 					</div>
 
 	
 
-	<div id="col-1961422778" class="col medium-12 small-12 large-9"  >
+	<div id="col-1507337866" class="col medium-12 small-12 large-9"  >
 				<div class="col-inner"  >
 			
 			
 
-<div class="row hide-for-small"  id="row-1530454013">
+<div class="row hide-for-small"  id="row-1760959004">
 
 
-	<div id="col-177124225" class="col medium-3 small-12 large-3"  >
+	<div id="col-338198434" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -1159,7 +1266,7 @@ Chúng tôi giải quyết đổi, trả trong vòng 24- 48h (không bao gồm t
 
 	
 
-	<div id="col-445604245" class="col medium-3 small-12 large-3"  >
+	<div id="col-116254578" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -1179,7 +1286,7 @@ Chúng tôi giải quyết đổi, trả trong vòng 24- 48h (không bao gồm t
 <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1223"><a href="/may-say-lg/">Máy sấy</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1224"><a href="/tivi-lg/">Tivi</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1225"><a href="/tu-lanh-lg/">Tủ lạnh</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1927"><a href="/lien-he/">Liên hệ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1927"><a href="/lien-he/">Contact Us</a></li>
 </ul></div>
 
 
@@ -1188,7 +1295,7 @@ Chúng tôi giải quyết đổi, trả trong vòng 24- 48h (không bao gồm t
 
 	
 
-	<div id="col-261577622" class="col medium-3 small-12 large-3"  >
+	<div id="col-1031092464" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -1199,10 +1306,10 @@ Chúng tôi giải quyết đổi, trả trong vòng 24- 48h (không bao gồm t
 
 
 
-<div class="menu-main-menu-container"><ul id="menu-main-menu" class="footer-menu"><li id="menu-item-1229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1229"><a href="/gioi-thieu/">Giới thiệu</a></li>
+<div class="menu-main-menu-container"><ul id="menu-main-menu" class="footer-menu"><li id="menu-item-1229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1229"><a href="/gioi-thieu/">About Us</a></li>
 <li id="menu-item-1554" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1554"><a href="#showroom">Hệ thống kho hàng</a></li>
-<li id="menu-item-1233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1233"><a href="/tin-tuc/">Tin tức</a></li>
-<li id="menu-item-1231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1231"><a href="/lien-he/">Liên hệ</a></li>
+<li id="menu-item-1233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1233"><a href="/tin-tuc/">News</a></li>
+<li id="menu-item-1231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1231"><a href="/lien-he/">Contact Us</a></li>
 </ul></div>
 
 
@@ -1211,7 +1318,7 @@ Chúng tôi giải quyết đổi, trả trong vòng 24- 48h (không bao gồm t
 
 	
 
-	<div id="col-1588666205" class="col medium-3 small-12 large-3"  >
+	<div id="col-1900467880" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -1228,17 +1335,17 @@ Chúng tôi giải quyết đổi, trả trong vòng 24- 48h (không bao gồm t
 	
 
 </div>
-<div class="row show-for-small"  id="row-1902878877">
+<div class="row show-for-small"  id="row-1525931413">
 
 
-	<div id="col-1526631383" class="col pad_none small-12 large-12"  >
+	<div id="col-774022946" class="col pad_none small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			
 
 <div class="accordion menu_ft_mb">
 
-<div id="accordion-3457349125" class="accordion-item"><a id="accordion-3457349125-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-3457349125-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Hỗ trợ khách hàng</span></a><div id="accordion-3457349125-content" class="accordion-inner" aria-labelledby="accordion-3457349125-label">
+<div id="accordion-4078828135" class="accordion-item"><a id="accordion-4078828135-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-4078828135-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Hỗ trợ khách hàng</span></a><div id="accordion-4078828135-content" class="accordion-inner" aria-labelledby="accordion-4078828135-label">
 
 
 
@@ -1254,7 +1361,7 @@ Chúng tôi giải quyết đổi, trả trong vòng 24- 48h (không bao gồm t
 
 
 </div></div>
-<div id="accordion-638805988" class="accordion-item"><a id="accordion-638805988-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-638805988-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Danh mục sản phẩm</span></a><div id="accordion-638805988-content" class="accordion-inner" aria-labelledby="accordion-638805988-label">
+<div id="accordion-3171118282" class="accordion-item"><a id="accordion-3171118282-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-3171118282-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Danh mục sản phẩm</span></a><div id="accordion-3171118282-content" class="accordion-inner" aria-labelledby="accordion-3171118282-label">
 
 
 
@@ -1267,19 +1374,19 @@ Chúng tôi giải quyết đổi, trả trong vòng 24- 48h (không bao gồm t
 <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1223"><a href="/may-say-lg/">Máy sấy</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1224"><a href="/tivi-lg/">Tivi</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1225"><a href="/tu-lanh-lg/">Tủ lạnh</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1927"><a href="/lien-he/">Liên hệ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1927"><a href="/lien-he/">Contact Us</a></li>
 </ul></div>
 
 
 </div></div>
-<div id="accordion-356070456" class="accordion-item"><a id="accordion-356070456-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-356070456-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Doanh nghiệp</span></a><div id="accordion-356070456-content" class="accordion-inner" aria-labelledby="accordion-356070456-label">
+<div id="accordion-2206225239" class="accordion-item"><a id="accordion-2206225239-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-2206225239-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Doanh nghiệp</span></a><div id="accordion-2206225239-content" class="accordion-inner" aria-labelledby="accordion-2206225239-label">
 
 
 
-<div class="menu-main-menu-container"><ul id="menu-main-menu-1" class="footer-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1229"><a href="/gioi-thieu/">Giới thiệu</a></li>
+<div class="menu-main-menu-container"><ul id="menu-main-menu-1" class="footer-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1229"><a href="/gioi-thieu/">About Us</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1554"><a href="#showroom">Hệ thống kho hàng</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1233"><a href="/tin-tuc/">Tin tức</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1231"><a href="/lien-he/">Liên hệ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1233"><a href="/tin-tuc/">News</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1231"><a href="/lien-he/">Contact Us</a></li>
 </ul></div>
 
 
@@ -1292,12 +1399,12 @@ Chúng tôi giải quyết đổi, trả trong vòng 24- 48h (không bao gồm t
 
 	
 
-	<div id="col-185807813" class="col small-12 large-12"  >
+	<div id="col-111119021" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			   <h3 class="footer_title">Kết nối với chúng tôi</h3>
    <div class="contact_footer">
-        <a href=" https://www.facebook.com/webdemo/">
+        <a href=" https://www.facebook.com/dailysmartlife/">
             <img src="/wp-content/uploads/2022/11/fb.svg" alt="" srcset="">
         </a>
         <a href="0977986xxx">
@@ -1342,16 +1449,16 @@ Chúng tôi giải quyết đổi, trả trong vòng 24- 48h (không bao gồm t
 
 		
 <style>
-#section_920032761 {
+#section_775301940 {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: rgb(255, 255, 255);
 }
-#section_920032761 .ux-shape-divider--top svg {
+#section_775301940 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_920032761 .ux-shape-divider--bottom svg {
+#section_775301940 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -1360,7 +1467,7 @@ Chúng tôi giải quyết đổi, trả trong vòng 24- 48h (không bao gồm t
 	
 <div class="is-divider divider clearfix" style="margin-top:0px;margin-bottom:0px;max-width:100%;height:1px;background-color:rgb(139, 139, 139);"></div>
 
-	<section class="section" id="section_1770573268">
+	<section class="section" id="section_80403001">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -1374,35 +1481,35 @@ Chúng tôi giải quyết đổi, trả trong vòng 24- 48h (không bao gồm t
 		<div class="section-content relative">
 			
 
-<div class="row"  id="row-786895443">
+<div class="row"  id="row-1596415441">
 
 
-	<div id="col-1405582669" class="col small-12 large-12"  >
+	<div id="col-898445438" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			
 
-	<div id="gap-1777670164" class="gap-element clearfix" style="display:block; height:auto;">
+	<div id="gap-150449795" class="gap-element clearfix" style="display:block; height:auto;">
 		
 <style>
-#gap-1777670164 {
+#gap-150449795 {
   padding-top: 30px;
 }
 </style>
 	</div>
 	
 
-	<div id="text-4194115806" class="text">
+	<div id="text-912574146" class="text">
 		
 
 <p><strong>© 2023 CÔNG TY TNHH ĐIỆN LẠNH WEB DEMO</strong><br /><span style="font-size: 12px;">Giấy chứng nhận đăng ký kinh doanh số ..., cấp ngày ... bởi sở kế hoạch và đầu tư Thành phố Hà Nội.</span><br /><span style="font-size: 12px;">Địa chỉ đăng ký trụ sở chính: Số 19A, Đường Bát Khối, Phường Long Biên, Quận Long Biên, Hà Nội</span></p>
 		
 <style>
-#text-4194115806 {
+#text-912574146 {
   text-align: center;
   color: rgb(66, 64, 64);
 }
-#text-4194115806 > * {
+#text-912574146 > * {
   color: rgb(66, 64, 64);
 }
 </style>
@@ -1420,16 +1527,16 @@ Chúng tôi giải quyết đổi, trả trong vòng 24- 48h (không bao gồm t
 
 		
 <style>
-#section_1770573268 {
+#section_80403001 {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: rgb(255, 255, 255);
 }
-#section_1770573268 .ux-shape-divider--top svg {
+#section_80403001 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_1770573268 .ux-shape-divider--bottom svg {
+#section_80403001 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -1476,7 +1583,7 @@ Chúng tôi giải quyết đổi, trả trong vòng 24- 48h (không bao gồm t
         <img src="/wp-content/uploads/2022/11/adv-phone.svg" >
         <span>0977986xxx</span>
     </a>
-    <a href="https://www.facebook.com/webdemo/">
+    <a href="https://www.facebook.com/dailysmartlife/">
         <img src="/wp-content/uploads/2022/11/adv-facebook.svg" >
         <span>Chat với chúng tôi</span>
     </a>
@@ -1505,14 +1612,22 @@ Chúng tôi giải quyết đổi, trả trong vòng 24- 48h (không bao gồm t
 
 	
 </div>
-<script>
-  (function($) {
-  	jQuery(document).ready(function($){
-       $("a").click(function(){
-          $(".chinhsach").removeClass("show");
-        });
-		});
-  })(jQuery);
+<script>
+
+  (function($) {
+
+  	jQuery(document).ready(function($){
+
+       $("a").click(function(){
+
+          $(".chinhsach").removeClass("show");
+
+        });
+
+		});
+
+  })(jQuery);
+
 </script>    <div id="login-form-popup" class="lightbox-content mfp-hide">
             	<div class="woocommerce">
       		<div class="woocommerce-notices-wrapper"></div>
@@ -1539,7 +1654,7 @@ Chúng tôi giải quyết đổi, trả trong vòng 24- 48h (không bao gồm t
 						<label class="woocommerce-form__label woocommerce-form__label-for-checkbox woocommerce-form-login__rememberme">
 							<input class="woocommerce-form__input woocommerce-form__input-checkbox" name="rememberme" type="checkbox" id="rememberme" value="forever" /> <span>Ghi nhớ mật khẩu</span>
 						</label>
-						<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="8d4504862d" /><input type="hidden" name="_wp_http_referer" value="/ho-tro-khach-hang/" />						<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Đăng nhập">Đăng nhập</button>
+						<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="9716763613" /><input type="hidden" name="_wp_http_referer" value="/ho-tro-khach-hang/" />						<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Đăng nhập">Đăng nhập</button>
 					</p>
 					<p class="woocommerce-LostPassword lost_password">
 						<a href="/tai-khoan/lost-password/">Quên mật khẩu?</a>
@@ -1621,7 +1736,7 @@ var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","
 <script type='text/javascript' src='/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=7.8.2' id='wc-add-to-cart-variation-js'></script>
 <script type='text/javascript' id='yith_wapo_front-js-extra'>
 /* <![CDATA[ */
-var yith_wapo = {"dom":{"single_add_to_cart_button":".single_add_to_cart_button"},"i18n":{"datepickerSetTime":"Set time","datepickerSaveButton":"Save","selectAnOption":"Please, select an option","selectAtLeast":"Please, select at least %d options","selectOptions":"Please, select %d options","maxOptionsSelectedMessage":"More options than allowed have been selected","uploadPercentageDoneString":"done"},"ajaxurl":"\/wp-admin\/admin-ajax.php","addons_nonce":"1b01bfcf6f","upload_allowed_file_types":".jpg, .jpeg, .pdf, .png, .rar, .zip","upload_max_file_size":"5","total_price_box_option":"all","replace_product_price":"no","woocommerce_currency":"VND","total_thousand_sep":".","decimal_sep":",","priceSuffix":"","replace_image_path":".woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child img.zoomImg,\n            .woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child source,\n            .yith_magnifier_zoom img, .yith_magnifier_zoom_magnifier,\n            .owl-carousel .woocommerce-main-image,\n            .woocommerce-product-gallery__image .wp-post-image,\n            .dt-sc-product-image-gallery-container .wp-post-image","replace_product_price_class":".product .entry-summary .price:first,\n            div.elementor.product .elementor-widget-woocommerce-product-price .price","hide_button_required":"no","messages":{"minErrorMessage":"The sum of the numbers is below the minimum. The minimum value is:","maxErrorMessage":"The sum of the numbers exceeded the maximum. The maximum value is:","checkMinMaxErrorMessage":"Please, select an option","requiredMessage":"This option is required.","maxFilesAllowed":"Maximum uploaded files allowed. The maximum number of files allowed is: ","noSupportedExtension":"Error - not supported extension!","maxFileSize":"Error - file size for %s - max %d MB allowed!"},"productQuantitySelector":"form.cart .quantity input.qty:not(.wapo-product-qty)","enableGetDefaultVariationPrice":"1","currentLanguage":"","conditionalDisplayEffect":"fade"};
+var yith_wapo = {"dom":{"single_add_to_cart_button":".single_add_to_cart_button"},"i18n":{"datepickerSetTime":"Set time","datepickerSaveButton":"Save","selectAnOption":"Please, select an option","selectAtLeast":"Please, select at least %d options","selectOptions":"Please, select %d options","maxOptionsSelectedMessage":"More options than allowed have been selected","uploadPercentageDoneString":"done"},"ajaxurl":"\/wp-admin\/admin-ajax.php","addons_nonce":"0518c9c7e5","upload_allowed_file_types":".jpg, .jpeg, .pdf, .png, .rar, .zip","upload_max_file_size":"5","total_price_box_option":"all","replace_product_price":"no","woocommerce_currency":"VND","total_thousand_sep":".","decimal_sep":",","priceSuffix":"","replace_image_path":".woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child img.zoomImg,\n            .woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child source,\n            .yith_magnifier_zoom img, .yith_magnifier_zoom_magnifier,\n            .owl-carousel .woocommerce-main-image,\n            .woocommerce-product-gallery__image .wp-post-image,\n            .dt-sc-product-image-gallery-container .wp-post-image","replace_product_price_class":".product .entry-summary .price:first,\n            div.elementor.product .elementor-widget-woocommerce-product-price .price","hide_button_required":"no","messages":{"minErrorMessage":"The sum of the numbers is below the minimum. The minimum value is:","maxErrorMessage":"The sum of the numbers exceeded the maximum. The maximum value is:","checkMinMaxErrorMessage":"Please, select an option","requiredMessage":"This option is required.","maxFilesAllowed":"Maximum uploaded files allowed. The maximum number of files allowed is: ","noSupportedExtension":"Error - not supported extension!","maxFileSize":"Error - file size for %s - max %d MB allowed!"},"productQuantitySelector":"form.cart .quantity input.qty:not(.wapo-product-qty)","enableGetDefaultVariationPrice":"1","currentLanguage":"","conditionalDisplayEffect":"fade"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='/wp-content/plugins/yith-woocommerce-product-add-ons/assets/js/front.min.js?ver=4.7.1' id='yith_wapo_front-js'></script>

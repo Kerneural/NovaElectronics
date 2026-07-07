@@ -32,3 +32,6 @@ src/wp-content/fonts/
 # Ignore executables and root HTML leftovers
 *.exe
 xmlrpc.html
+
+
+personal/

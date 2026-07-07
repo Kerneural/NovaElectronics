@@ -1,23 +1,31 @@
-
-<!DOCTYPE html>
-<html lang="vi" prefix="og: https://ogp.me/ns#" class="loading-site no-js">
-<head>
-	<meta charset="UTF-8" />
-	<link rel="profile" href="http://gmpg.org/xfn/11" />
-	<link rel="pingback" href="/xmlrpc.php" />
-
+
+
+<!DOCTYPE html>
+
+<html lang="vi" prefix="og: https://ogp.me/ns#" class="loading-site no-js">
+
+<head>
+
+	<meta charset="UTF-8" />
+
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+
+	<link rel="pingback" href="/xmlrpc.php" />
+
+
+
 	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 <!-- Search Engine Optimization by Rank Math - https://rankmath.com/ -->
-<title>Tài khoản - CÔNG TY TNHH ĐIỆN LẠNH TH THỊNH PHÁT</title>
+<title>My Account - DailySmartLife</title>
 <meta name="robots" content="noindex, follow"/>
 <meta property="og:locale" content="vi_VN" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Tài khoản - CÔNG TY TNHH ĐIỆN LẠNH TH THỊNH PHÁT" />
+<meta property="og:title" content="My Account - DailySmartLife" />
 <meta property="og:url" content="/tai-khoan/" />
-<meta property="og:site_name" content="CÔNG TY TNHH ĐIỆN LẠNH TH THỊNH PHÁT" />
+<meta property="og:site_name" content="DailySmartLife" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Tài khoản - CÔNG TY TNHH ĐIỆN LẠNH TH THỊNH PHÁT" />
+<meta name="twitter:title" content="My Account - DailySmartLife" />
 <meta name="twitter:label1" content="Time to read" />
 <meta name="twitter:data1" content="Less than a minute" />
 <script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"BreadcrumbList","@id":"/tai-khoan/#breadcrumb","itemListElement":[{"@type":"ListItem","position":"1","item":{"@id":"/","name":"Trang ch\u1ee7"}},{"@type":"ListItem","position":"2","item":{"@id":"/tai-khoan/","name":"T\u00e0i kho\u1ea3n"}}]}]}</script>
@@ -30,8 +38,8 @@
 <link rel='prefetch' href='/wp-content/themes/flatsome/assets/js/chunk.tooltips.js?ver=3.16.1' />
 <link rel='prefetch' href='/wp-content/themes/flatsome/assets/js/chunk.vendors-popups.js?ver=3.16.1' />
 <link rel='prefetch' href='/wp-content/themes/flatsome/assets/js/chunk.vendors-slider.js?ver=3.16.1' />
-<link rel="alternate" type="application/rss+xml" title="Dòng thông tin CÔNG TY TNHH ĐIỆN LẠNH TH THỊNH PHÁT &raquo;" href="/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Dòng phản hồi CÔNG TY TNHH ĐIỆN LẠNH TH THỊNH PHÁT &raquo;" href="/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Dòng thông tin DailySmartLife &raquo;" href="/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Dòng phản hồi DailySmartLife &raquo;" href="/comments/feed/" />
 <script type="text/javascript">
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2"}};
 /*! This file is auto-generated */
@@ -113,85 +121,164 @@ var _zxcvbnSettings = {"src":"\/wp-includes\/js\/zxcvbn.min.js"};
 <link rel='shortlink' href='/?p=1506' />
 <link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdienmay8.mauthemewp.com%2Ftai-khoan%2F" />
 <link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdienmay8.mauthemewp.com%2Ftai-khoan%2F&#038;format=xml" />
-<style>.bg{opacity: 0; transition: opacity 1s; -webkit-transition: opacity 1s;} .bg-loaded{opacity: 1;}</style><script>
-  (function($) {
-  jQuery(document).ready(function($){
-    $('.main-carousel').lazyFlickity({
-        // options
-        
-        contain: true,
-       imagesLoaded: false, 
-       cellAlign: "right",
-       wrapAround: false,
-       prevNextButtons: false,
-       percentPosition: true,
-       pageDots: false, 
-       rightToLeft: false, 
-        autoPlay : false,
-
-      });
-});
-  })(jQuery);
-</script>
-<script>
-  (function($) {
-	jQuery(document).ready(function(){
-	if(window.location.href.indexOf("price-desc")> -1) {
-	jQuery('#pricedesc input[type="checkbox"]').prop('checked,true);} 
-	else if (window.location.href.indexOf("price")> -1) 
-	{jQuery('#pricemall  input[type="checkbox"]').prop('checked',true);} 
-	else if (window.location.href.indexOf("date")> -1) {
-	jQuery ('#datecheck input [type="checkbox"]').prop('checked',true);} 
-	else if (window.location.href.indexOf("old-product")> -1) {
-	jQuery('#oldproduct input[type ="checkbox"]').prop('checked', true);} 15}); 
-	jQuery("a.deselect").each(function () {this.search = ""; });  
-     })(jQuery);
-</script>
-<script>
-  (function($) {
-  	jQuery(document).ready(function($){
-       $(".btn_downtab").click(function(){
-          $(".chinhsach").toggleClass("show");
-        });
-      $(".khaosat").click(function(){
-        $(".khaosat_wraper").addClass("show");
-      });
-      $(".khaosat_wraper").click(function(){
-        $(".khaosat_wraper").removeClass("show");
-      });
-      $(".khaosat_clode").click(function(){
-        $(".khaosat_wraper").removeClass("show");
-      });
-		});
-    $(window).scroll(function() {    
-        var scroll = $(window).scrollTop();    
-        if (scroll >= 600) {
-          $('.product_scroll').addClass('fixed');
-            } else {
-                $('.product_scroll').removeClass('fixed');
-            }
-			});
-  })(jQuery);
-</script>
-<script>
-  (function($) {
-  jQuery(document).ready(function($){
-    $('.video_slider').lazyFlickity({
-        // options
-        
-        contain: true,
-       imagesLoaded: true, 
-       cellAlign: "left",
-       wrapAround: true,
-       prevNextButtons: true,
-       percentPosition: true,
-       pageDots: false, 
-       rightToLeft: false, 
-        autoPlay : true,
-      });
-});
-  })(jQuery);
-</script>
+<style>.bg{opacity: 0; transition: opacity 1s; -webkit-transition: opacity 1s;} .bg-loaded{opacity: 1;}</style><script>
+
+  (function($) {
+
+  jQuery(document).ready(function($){
+
+    $('.main-carousel').lazyFlickity({
+
+        // options
+
+        
+
+        contain: true,
+
+       imagesLoaded: false, 
+
+       cellAlign: "right",
+
+       wrapAround: false,
+
+       prevNextButtons: false,
+
+       percentPosition: true,
+
+       pageDots: false, 
+
+       rightToLeft: false, 
+
+        autoPlay : false,
+
+
+
+      });
+
+});
+
+  })(jQuery);
+
+</script>
+
+<script>
+
+  (function($) {
+
+	jQuery(document).ready(function(){
+
+	if(window.location.href.indexOf("price-desc")> -1) {
+
+	jQuery('#pricedesc input[type="checkbox"]').prop('checked,true);} 
+
+	else if (window.location.href.indexOf("price")> -1) 
+
+	{jQuery('#pricemall  input[type="checkbox"]').prop('checked',true);} 
+
+	else if (window.location.href.indexOf("date")> -1) {
+
+	jQuery ('#datecheck input [type="checkbox"]').prop('checked',true);} 
+
+	else if (window.location.href.indexOf("old-product")> -1) {
+
+	jQuery('#oldproduct input[type ="checkbox"]').prop('checked', true);} 15}); 
+
+	jQuery("a.deselect").each(function () {this.search = ""; });  
+
+     })(jQuery);
+
+</script>
+
+<script>
+
+  (function($) {
+
+  	jQuery(document).ready(function($){
+
+       $(".btn_downtab").click(function(){
+
+          $(".chinhsach").toggleClass("show");
+
+        });
+
+      $(".khaosat").click(function(){
+
+        $(".khaosat_wraper").addClass("show");
+
+      });
+
+      $(".khaosat_wraper").click(function(){
+
+        $(".khaosat_wraper").removeClass("show");
+
+      });
+
+      $(".khaosat_clode").click(function(){
+
+        $(".khaosat_wraper").removeClass("show");
+
+      });
+
+		});
+
+    $(window).scroll(function() {    
+
+        var scroll = $(window).scrollTop();    
+
+        if (scroll >= 600) {
+
+          $('.product_scroll').addClass('fixed');
+
+            } else {
+
+                $('.product_scroll').removeClass('fixed');
+
+            }
+
+			});
+
+  })(jQuery);
+
+</script>
+
+<script>
+
+  (function($) {
+
+  jQuery(document).ready(function($){
+
+    $('.video_slider').lazyFlickity({
+
+        // options
+
+        
+
+        contain: true,
+
+       imagesLoaded: true, 
+
+       cellAlign: "left",
+
+       wrapAround: true,
+
+       prevNextButtons: true,
+
+       percentPosition: true,
+
+       pageDots: false, 
+
+       rightToLeft: false, 
+
+        autoPlay : true,
+
+      });
+
+});
+
+  })(jQuery);
+
+</script>
+
 	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
 	<style id="custom-css" type="text/css">:root {--primary-color: #cc023f;}.container-width, .full-width .ubermenu-nav, .container, .row{max-width: 1370px}.row.row-collapse{max-width: 1340px}.row.row-small{max-width: 1362.5px}.row.row-large{max-width: 1400px}.sticky-add-to-cart--active, #wrapper,#main,#main.dark{background-color: #f0f0f2}.header-main{height: 64px}#logo img{max-height: 64px}#logo{width:250px;}.header-bottom{min-height: 45px}.header-top{min-height: 48px}.transparent .header-main{height: 90px}.transparent #logo img{max-height: 90px}.has-transparent + .page-title:first-of-type,.has-transparent + #main > .page-title,.has-transparent + #main > div > .page-title,.has-transparent + #main .page-header-wrapper:first-of-type .page-title{padding-top: 170px;}.header.show-on-scroll,.stuck .header-main{height:70px!important}.stuck #logo img{max-height: 70px!important}.search-form{ width: 51%;}.header-bottom {background-color: #ffffff}.top-bar-nav > li > a{line-height: 16px }.header-bottom-nav > li > a{line-height: 16px }@media (max-width: 549px) {.header-main{height: 70px}#logo img{max-height: 70px}}.header-top{background-color:#cc023f!important;}/* Color */.accordion-title.active, .has-icon-bg .icon .icon-inner,.logo a, .primary.is-underline, .primary.is-link, .badge-outline .badge-inner, .nav-outline > li.active> a,.nav-outline >li.active > a, .cart-icon strong,[data-color='primary'], .is-outline.primary{color: #cc023f;}/* Color !important */[data-text-color="primary"]{color: #cc023f!important;}/* Background Color */[data-text-bg="primary"]{background-color: #cc023f;}/* Background */.scroll-to-bullets a,.featured-title, .label-new.menu-item > a:after, .nav-pagination > li > .current,.nav-pagination > li > span:hover,.nav-pagination > li > a:hover,.has-hover:hover .badge-outline .badge-inner,button[type="submit"], .button.wc-forward:not(.checkout):not(.checkout-button), .button.submit-button, .button.primary:not(.is-outline),.featured-table .title,.is-outline:hover, .has-icon:hover .icon-label,.nav-dropdown-bold .nav-column li > a:hover, .nav-dropdown.nav-dropdown-bold > li > a:hover, .nav-dropdown-bold.dark .nav-column li > a:hover, .nav-dropdown.nav-dropdown-bold.dark > li > a:hover, .header-vertical-menu__opener ,.is-outline:hover, .tagcloud a:hover,.grid-tools a, input[type='submit']:not(.is-form), .box-badge:hover .box-text, input.button.alt,.nav-box > li > a:hover,.nav-box > li.active > a,.nav-pills > li.active > a ,.current-dropdown .cart-icon strong, .cart-icon:hover strong, .nav-line-bottom > li > a:before, .nav-line-grow > li > a:before, .nav-line > li > a:before,.banner, .header-top, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .primary.is-outline:hover, .button.primary:not(.is-outline), input[type='submit'].primary, input[type='submit'].primary, input[type='reset'].button, input[type='button'].primary, .badge-inner{background-color: #cc023f;}/* Border */.nav-vertical.nav-tabs > li.active > a,.scroll-to-bullets a.active,.nav-pagination > li > .current,.nav-pagination > li > span:hover,.nav-pagination > li > a:hover,.has-hover:hover .badge-outline .badge-inner,.accordion-title.active,.featured-table,.is-outline:hover, .tagcloud a:hover,blockquote, .has-border, .cart-icon strong:after,.cart-icon strong,.blockUI:before, .processing:before,.loading-spin, .slider-nav-circle .flickity-prev-next-button:hover svg, .slider-nav-circle .flickity-prev-next-button:hover .arrow, .primary.is-outline:hover{border-color: #cc023f}.nav-tabs > li.active > a{border-top-color: #cc023f}.widget_shopping_cart_content .blockUI.blockOverlay:before { border-left-color: #cc023f }.woocommerce-checkout-review-order .blockUI.blockOverlay:before { border-left-color: #cc023f }/* Fill */.slider .flickity-prev-next-button:hover svg,.slider .flickity-prev-next-button:hover .arrow{fill: #cc023f;}/* Focus */.primary:focus-visible, .submit-button:focus-visible, button[type="submit"]:focus-visible { outline-color: #cc023f!important; }/* Background Color */[data-icon-label]:after, .secondary.is-underline:hover,.secondary.is-outline:hover,.icon-label,.button.secondary:not(.is-outline),.button.alt:not(.is-outline), .badge-inner.on-sale, .button.checkout, .single_add_to_cart_button, .current .breadcrumb-step{ background-color:#d55d70; }[data-text-bg="secondary"]{background-color: #d55d70;}/* Color */.secondary.is-underline,.secondary.is-link, .secondary.is-outline,.stars a.active, .star-rating:before, .woocommerce-page .star-rating:before,.star-rating span:before, .color-secondary{color: #d55d70}/* Color !important */[data-text-color="secondary"]{color: #d55d70!important;}/* Border */.secondary.is-outline:hover{border-color:#d55d70}/* Focus */.secondary:focus-visible, .alt:focus-visible { outline-color: #d55d70!important; }body{color: #020202}h1,h2,h3,h4,h5,h6,.heading-font{color: #020202;}body{font-size: 100%;}@media screen and (max-width: 549px){body{font-size: 100%;}}body{font-family: Roboto, sans-serif;}body {font-weight: 400;font-style: normal;}.nav > li > a {font-family: Roboto, sans-serif;}.mobile-sidebar-levels-2 .nav > li > ul > li > a {font-family: Roboto, sans-serif;}.nav > li > a,.mobile-sidebar-levels-2 .nav > li > ul > li > a {font-weight: 700;font-style: normal;}h1,h2,h3,h4,h5,h6,.heading-font, .off-canvas-center .nav-sidebar.nav-vertical > li > a{font-family: Roboto, sans-serif;}h1,h2,h3,h4,h5,h6,.heading-font,.banner h1,.banner h2 {font-weight: 700;font-style: normal;}.alt-font{font-family: Roboto, sans-serif;}.alt-font {font-weight: 400!important;font-style: normal!important;}.header:not(.transparent) .header-bottom-nav.nav > li > a{color: #020202;}.header:not(.transparent) .header-bottom-nav.nav > li > a:hover,.header:not(.transparent) .header-bottom-nav.nav > li.active > a,.header:not(.transparent) .header-bottom-nav.nav > li.current > a,.header:not(.transparent) .header-bottom-nav.nav > li > a.active,.header:not(.transparent) .header-bottom-nav.nav > li > a.current{color: #cc023f;}.header-bottom-nav.nav-line-bottom > li > a:before,.header-bottom-nav.nav-line-grow > li > a:before,.header-bottom-nav.nav-line > li > a:before,.header-bottom-nav.nav-box > li > a:hover,.header-bottom-nav.nav-box > li.active > a,.header-bottom-nav.nav-pills > li > a:hover,.header-bottom-nav.nav-pills > li.active > a{color:#FFF!important;background-color: #cc023f;}a{color: #020202;}a:hover{color: #cc023f;}.tagcloud a:hover{border-color: #cc023f;background-color: #cc023f;}.has-equal-box-heights .box-image {padding-top: 100%;}@media screen and (min-width: 550px){.products .box-vertical .box-image{min-width: 300px!important;width: 300px!important;}}.header-vertical-menu__opener{height: 45px}.nav-vertical-fly-out > li + li {border-top-width: 1px; border-top-style: solid;}.label-new.menu-item > a:after{content:"Mới";}.label-hot.menu-item > a:after{content:"Hot";}.label-sale.menu-item > a:after{content:"Khuyến mại";}.label-popular.menu-item > a:after{content:"Phổ biến";}</style>		<style type="text/css" id="wp-custom-css">
 			.brand-img img {
@@ -376,18 +463,30 @@ var _zxcvbnSettings = {"src":"\/wp-includes\/js\/zxcvbn.min.js"};
   font-display: swap;
   src: url(/wp-content/fonts/roboto/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiAz0klQm_20.woff) format('woff');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}</style></head>
-
-<body class="page-template-default page page-id-1506 theme-flatsome woocommerce-account woocommerce-page woocommerce-lost-password woocommerce-no-js lightbox nav-dropdown-has-arrow nav-dropdown-has-shadow nav-dropdown-has-border">
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
-<a class="skip-link screen-reader-text" href="#main">Chuyển đến nội dung</a>
-
-<div id="wrapper">
-
-	
-	<header id="header" class="header has-sticky sticky-jump">
-		<div class="header-wrapper">
+}</style></head>
+
+
+
+<body class="page-template-default page page-id-1506 theme-flatsome woocommerce-account woocommerce-page woocommerce-lost-password woocommerce-no-js lightbox nav-dropdown-has-arrow nav-dropdown-has-shadow nav-dropdown-has-border">
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+
+<a class="skip-link screen-reader-text" href="#main">Chuyển đến nội dung</a>
+
+
+
+<div id="wrapper">
+
+
+
+	
+
+	<header id="header" class="header has-sticky sticky-jump">
+
+		<div class="header-wrapper">
+
 			<div id="top-bar" class="header-top hide-for-sticky nav-dark hide-for-medium">
     <div class="flex-row container">
       <div class="flex-col hide-for-medium flex-left">
@@ -441,8 +540,8 @@ Tra cứu đơn hàng</a>
           <div id="logo" class="flex-col logo">
             
 <!-- Header logo -->
-<a href="/" title="CÔNG TY TNHH ĐIỆN LẠNH TH THỊNH PHÁT - NÂNG TẦM CHẤT LƯỢNG –  KHẲNG ĐỊNH ĐẲNG CẤP" rel="home">
-		<img width="239" height="39" src="/wp-content/uploads/2023/03/logo.png" class="header_logo header-logo" alt="CÔNG TY TNHH ĐIỆN LẠNH TH THỊNH PHÁT"/><img  width="239" height="39" src="/wp-content/uploads/2023/03/logo.png" class="header-logo-dark" alt="CÔNG TY TNHH ĐIỆN LẠNH TH THỊNH PHÁT"/></a>
+<a href="/" title="DailySmartLife - NÂNG TẦM CHẤT LƯỢNG –  KHẲNG ĐỊNH ĐẲNG CẤP" rel="home">
+		<img width="239" height="39" src="/wp-content/uploads/2023/03/logo.png" class="header_logo header-logo" alt="DailySmartLife"/><img  width="239" height="39" src="/wp-content/uploads/2023/03/logo.png" class="header-logo-dark" alt="DailySmartLife"/></a>
           </div>
 
           <!-- Mobile Left Elements -->
@@ -487,11 +586,11 @@ Tra cứu đơn hàng</a>
             <ul class="header-nav header-nav-main nav nav-right  nav-uppercase">
               <li class="cart-item has-icon">
 
-<a href="/gio-hang/" title="Giỏ hàng" class="header-cart-link is-small">
+<a href="/gio-hang/" title="Cart" class="header-cart-link is-small">
 
 
 <span class="header-cart-title">
-   Giỏ hàng     </span>
+   Cart     </span>
 
     <i class="icon-shopping-cart"
     data-icon-label="0">
@@ -501,7 +600,7 @@ Tra cứu đơn hàng</a>
 
 </li>
 <li class="html custom html_top_right_text"><div class="contact_header">
-<a href="/tin-tuc" >Tin tức</a></div>
+<a href="/tin-tuc" >News</a></div>
 <div class="contact_header">
 <a href="/combo-khuyen-mai/" ><span>Combo - khuyến mãi</span> <span class="animate-hot">HOT</span></a>
 </div></li>            </ul>
@@ -512,7 +611,7 @@ Tra cứu đơn hàng</a>
             <ul class="mobile-nav nav nav-right ">
               <li class="cart-item has-icon">
 
-      <a href="/gio-hang/" title="Giỏ hàng" class="header-cart-link is-small">
+      <a href="/gio-hang/" title="Cart" class="header-cart-link is-small">
   
     <i class="icon-shopping-cart"
     data-icon-label="0">
@@ -561,7 +660,7 @@ Tra cứu đơn hàng</a>
 <li id="menu-item-1223" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1223 menu-item-design-default"><a href="/may-say-lg/" class="nav-top-link">Máy sấy</a></li>
 <li id="menu-item-1224" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1224 menu-item-design-default"><a href="/tivi-lg/" class="nav-top-link">Tivi</a></li>
 <li id="menu-item-1225" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1225 menu-item-design-default"><a href="/tu-lanh-lg/" class="nav-top-link">Tủ lạnh</a></li>
-<li id="menu-item-1927" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1927 menu-item-design-default"><a href="/lien-he/" class="nav-top-link">Liên hệ</a></li>
+<li id="menu-item-1927" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1927 menu-item-design-default"><a href="/lien-he/" class="nav-top-link">Contact Us</a></li>
                 </ul>
             </div>
             
@@ -597,14 +696,22 @@ Tra cứu đơn hàng</a>
     </div>
 </div>
 
-<div class="header-bg-container fill"><div class="header-bg-image fill"></div><div class="header-bg-color fill"></div></div>		</div>
-	</header>
-
-	
-	<main id="main" class="">
-    <section class="breadcrumb">
-        <div class="container">
-            <nav aria-label="breadcrumbs" class="rank-math-breadcrumb"><p><a href="/">Trang chủ</a><span class="separator"> &raquo; </span><span class="last">Tài khoản</span></p></nav>        </div>
+<div class="header-bg-container fill"><div class="header-bg-image fill"></div><div class="header-bg-color fill"></div></div>		</div>
+
+	</header>
+
+
+
+	
+
+	<main id="main" class="">
+
+    <section class="breadcrumb">
+
+        <div class="container">
+
+            <nav aria-label="breadcrumbs" class="rank-math-breadcrumb"><p><a href="/">Home</a><span class="separator"> &raquo; </span><span class="last">My Account</span></p></nav>        </div>
+
     </section><div id="content" class="content-area page-wrapper" role="main">
 	<div class="row row-main">
 		<div class="large-12 col">
@@ -629,7 +736,7 @@ Tra cứu đơn hàng</a>
 		<button type="submit" class="woocommerce-Button button" value="Đặt lại mật khẩu">Đặt lại mật khẩu</button>
 	</p>
 
-	<input type="hidden" id="woocommerce-lost-password-nonce" name="woocommerce-lost-password-nonce" value="2f6cef7e9a" /><input type="hidden" name="_wp_http_referer" value="/tai-khoan/lost-password/" />
+	<input type="hidden" id="woocommerce-lost-password-nonce" name="woocommerce-lost-password-nonce" value="997cf0c463" /><input type="hidden" name="_wp_http_referer" value="/tai-khoan/lost-password/" />
 </form>
 </div>
 
@@ -644,7 +751,7 @@ Tra cứu đơn hàng</a>
 
 <footer id="footer" class="footer-wrapper">
 
-		<section class="section" id="section_1024754773">
+		<section class="section" id="section_1901399184">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -660,10 +767,10 @@ Tra cứu đơn hàng</a>
 
 <span class="scroll-to" data-label="Scroll to: #showroom" data-bullet="false" data-link="#showroom" data-title="Change this"><a name="showroom"></a></span>
 
-<div class="row"  id="row-1849798796">
+<div class="row"  id="row-1837809414">
 
 
-	<div id="col-1053861662" class="col small-12 large-12"  >
+	<div id="col-1758968243" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			    <h2 class="title_listshowroom">Hệ thống kho hàng</h2>
@@ -828,16 +935,16 @@ Tra cứu đơn hàng</a>
 
 		
 <style>
-#section_1024754773 {
+#section_1901399184 {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: rgb(255, 255, 255);
 }
-#section_1024754773 .ux-shape-divider--top svg {
+#section_1901399184 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_1024754773 .ux-shape-divider--bottom svg {
+#section_1901399184 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -846,7 +953,7 @@ Tra cứu đơn hàng</a>
 	
 <div class="text-center"><div class="is-divider divider clearfix" style="margin-top:0px;margin-bottom:0px;max-width:1370px;height:2px;background-color:rgb(254, 0, 0);"></div></div>
 
-	<section class="section" id="section_294563927">
+	<section class="section" id="section_565785589">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -860,35 +967,35 @@ Tra cứu đơn hàng</a>
 		<div class="section-content relative">
 			
 
-	<div id="gap-496226146" class="gap-element clearfix" style="display:block; height:auto;">
+	<div id="gap-1691846348" class="gap-element clearfix" style="display:block; height:auto;">
 		
 <style>
-#gap-496226146 {
+#gap-1691846348 {
   padding-top: 30px;
 }
 </style>
 	</div>
 	
 
-<div class="row"  id="row-715176079">
+<div class="row"  id="row-554852613">
 
 
-	<div id="col-2010547396" class="col medium-12 small-12 large-3"  >
+	<div id="col-7783034" class="col medium-12 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
 
-	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_1306061484">
+	<div class="img has-hover x md-x lg-x y md-y lg-y" id="image_29726169">
 								<div class="img-inner dark" >
 			<img width="1920" height="925" src="/wp-content/uploads/2022/11/logo.png" class="attachment-original size-original" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/logo.png 1920w, /wp-content/uploads/2022/11/logo-300x145.png 300w, /wp-content/uploads/2022/11/logo-1024x493.png 1024w, /wp-content/uploads/2022/11/logo-600x289.png 600w" sizes="(max-width: 1920px) 100vw, 1920px" />						
 					</div>
 								
 <style>
-#image_1306061484 {
+#image_29726169 {
   width: 40%;
 }
 @media (min-width:850px) {
-  #image_1306061484 {
+  #image_29726169 {
     width: 80%;
   }
 }
@@ -897,22 +1004,22 @@ Tra cứu đơn hàng</a>
 	
 
 <div><strong>ĐIỆN MÁY THỊNH PHÁT- BRANDSHOP LG</strong></div>
-<div><span style="color: #011530;"><strong>Trụ sở tại Hà Nội:</strong></span><br /><span style="color: #011530;">Địa chỉ: 19A đường Bát Khối, Phường Long Biên, Quận Long Biên, Hà Nội</span><br /><span style="color: #011530;">Hotline, zalo: 0977.986.xxx</span><br /><span style="color: #011530;">Email: webdemo@gmail.com</span><br /><span style="color: #011530;"><strong>Chi nhánh Nam Định:</strong></span><br /><span style="color: #011530;">Địa chỉ: QL 21B Tân Đình Liêm Hải Trực Ninh Nam Định</span></div>
+<div><span style="color: #011530;"><strong>Trụ sở tại Hà Nội:</strong></span><br /><span style="color: #011530;">Địa chỉ: 19A đường Bát Khối, Phường Long Biên, Quận Long Biên, Hà Nội</span><br /><span style="color: #011530;">Hotline, zalo: 0977.986.xxx</span><br /><span style="color: #011530;">Email: info@dailysmartlife.com</span><br /><span style="color: #011530;"><strong>Chi nhánh Nam Định:</strong></span><br /><span style="color: #011530;">Địa chỉ: QL 21B Tân Đình Liêm Hải Trực Ninh Nam Định</span></div>
 
 		</div>
 					</div>
 
 	
 
-	<div id="col-1468861723" class="col medium-12 small-12 large-9"  >
+	<div id="col-140195533" class="col medium-12 small-12 large-9"  >
 				<div class="col-inner"  >
 			
 			
 
-<div class="row hide-for-small"  id="row-447149432">
+<div class="row hide-for-small"  id="row-1016385240">
 
 
-	<div id="col-1201893890" class="col medium-3 small-12 large-3"  >
+	<div id="col-567716682" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -939,7 +1046,7 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-1735302381" class="col medium-3 small-12 large-3"  >
+	<div id="col-1411764979" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -959,7 +1066,7 @@ Tra cứu đơn hàng</a>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1223"><a href="/may-say-lg/">Máy sấy</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1224"><a href="/tivi-lg/">Tivi</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1225"><a href="/tu-lanh-lg/">Tủ lạnh</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1927"><a href="/lien-he/">Liên hệ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1927"><a href="/lien-he/">Contact Us</a></li>
 </ul></div>
 
 
@@ -968,7 +1075,7 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-817848777" class="col medium-3 small-12 large-3"  >
+	<div id="col-1795609324" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -979,10 +1086,10 @@ Tra cứu đơn hàng</a>
 
 
 
-<div class="menu-main-menu-container"><ul id="menu-main-menu" class="footer-menu"><li id="menu-item-1229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1229"><a href="/gioi-thieu/">Giới thiệu</a></li>
+<div class="menu-main-menu-container"><ul id="menu-main-menu" class="footer-menu"><li id="menu-item-1229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1229"><a href="/gioi-thieu/">About Us</a></li>
 <li id="menu-item-1554" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1554"><a href="#showroom">Hệ thống kho hàng</a></li>
-<li id="menu-item-1233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1233"><a href="/tin-tuc/">Tin tức</a></li>
-<li id="menu-item-1231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1231"><a href="/lien-he/">Liên hệ</a></li>
+<li id="menu-item-1233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1233"><a href="/tin-tuc/">News</a></li>
+<li id="menu-item-1231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1231"><a href="/lien-he/">Contact Us</a></li>
 </ul></div>
 
 
@@ -991,7 +1098,7 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-1488897224" class="col medium-3 small-12 large-3"  >
+	<div id="col-641254417" class="col medium-3 small-12 large-3"  >
 				<div class="col-inner"  >
 			
 			
@@ -1008,17 +1115,17 @@ Tra cứu đơn hàng</a>
 	
 
 </div>
-<div class="row show-for-small"  id="row-979877517">
+<div class="row show-for-small"  id="row-1854950918">
 
 
-	<div id="col-1886903135" class="col pad_none small-12 large-12"  >
+	<div id="col-2115181393" class="col pad_none small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			
 
 <div class="accordion menu_ft_mb">
 
-<div id="accordion-3573641273" class="accordion-item"><a id="accordion-3573641273-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-3573641273-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Hỗ trợ khách hàng</span></a><div id="accordion-3573641273-content" class="accordion-inner" aria-labelledby="accordion-3573641273-label">
+<div id="accordion-1031893272" class="accordion-item"><a id="accordion-1031893272-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-1031893272-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Hỗ trợ khách hàng</span></a><div id="accordion-1031893272-content" class="accordion-inner" aria-labelledby="accordion-1031893272-label">
 
 
 
@@ -1034,7 +1141,7 @@ Tra cứu đơn hàng</a>
 
 
 </div></div>
-<div id="accordion-3055472467" class="accordion-item"><a id="accordion-3055472467-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-3055472467-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Danh mục sản phẩm</span></a><div id="accordion-3055472467-content" class="accordion-inner" aria-labelledby="accordion-3055472467-label">
+<div id="accordion-3966972631" class="accordion-item"><a id="accordion-3966972631-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-3966972631-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Danh mục sản phẩm</span></a><div id="accordion-3966972631-content" class="accordion-inner" aria-labelledby="accordion-3966972631-label">
 
 
 
@@ -1047,19 +1154,19 @@ Tra cứu đơn hàng</a>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1223"><a href="/may-say-lg/">Máy sấy</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1224"><a href="/tivi-lg/">Tivi</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1225"><a href="/tu-lanh-lg/">Tủ lạnh</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1927"><a href="/lien-he/">Liên hệ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1927"><a href="/lien-he/">Contact Us</a></li>
 </ul></div>
 
 
 </div></div>
-<div id="accordion-3465261115" class="accordion-item"><a id="accordion-3465261115-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-3465261115-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Doanh nghiệp</span></a><div id="accordion-3465261115-content" class="accordion-inner" aria-labelledby="accordion-3465261115-label">
+<div id="accordion-1438429999" class="accordion-item"><a id="accordion-1438429999-label" href="#" class="accordion-title plain" aria-expanded="false" aria-controls="accordion-1438429999-content"><button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button><span>Doanh nghiệp</span></a><div id="accordion-1438429999-content" class="accordion-inner" aria-labelledby="accordion-1438429999-label">
 
 
 
-<div class="menu-main-menu-container"><ul id="menu-main-menu-1" class="footer-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1229"><a href="/gioi-thieu/">Giới thiệu</a></li>
+<div class="menu-main-menu-container"><ul id="menu-main-menu-1" class="footer-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1229"><a href="/gioi-thieu/">About Us</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1554"><a href="#showroom">Hệ thống kho hàng</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1233"><a href="/tin-tuc/">Tin tức</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1231"><a href="/lien-he/">Liên hệ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1233"><a href="/tin-tuc/">News</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1231"><a href="/lien-he/">Contact Us</a></li>
 </ul></div>
 
 
@@ -1072,12 +1179,12 @@ Tra cứu đơn hàng</a>
 
 	
 
-	<div id="col-996282787" class="col small-12 large-12"  >
+	<div id="col-206755677" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			   <h3 class="footer_title">Kết nối với chúng tôi</h3>
    <div class="contact_footer">
-        <a href=" https://www.facebook.com/webdemo/">
+        <a href=" https://www.facebook.com/dailysmartlife/">
             <img src="/wp-content/uploads/2022/11/fb.svg" alt="" srcset="">
         </a>
         <a href="0977986xxx">
@@ -1122,16 +1229,16 @@ Tra cứu đơn hàng</a>
 
 		
 <style>
-#section_294563927 {
+#section_565785589 {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: rgb(255, 255, 255);
 }
-#section_294563927 .ux-shape-divider--top svg {
+#section_565785589 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_294563927 .ux-shape-divider--bottom svg {
+#section_565785589 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -1140,7 +1247,7 @@ Tra cứu đơn hàng</a>
 	
 <div class="is-divider divider clearfix" style="margin-top:0px;margin-bottom:0px;max-width:100%;height:1px;background-color:rgb(139, 139, 139);"></div>
 
-	<section class="section" id="section_356442814">
+	<section class="section" id="section_134546433">
 		<div class="bg section-bg fill bg-fill  bg-loaded" >
 
 			
@@ -1154,35 +1261,35 @@ Tra cứu đơn hàng</a>
 		<div class="section-content relative">
 			
 
-<div class="row"  id="row-1242520621">
+<div class="row"  id="row-163492923">
 
 
-	<div id="col-889937052" class="col small-12 large-12"  >
+	<div id="col-1365044869" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
 			
 
-	<div id="gap-1274051346" class="gap-element clearfix" style="display:block; height:auto;">
+	<div id="gap-1338933226" class="gap-element clearfix" style="display:block; height:auto;">
 		
 <style>
-#gap-1274051346 {
+#gap-1338933226 {
   padding-top: 30px;
 }
 </style>
 	</div>
 	
 
-	<div id="text-500893817" class="text">
+	<div id="text-3472815125" class="text">
 		
 
 <p><strong>© 2023 CÔNG TY TNHH ĐIỆN LẠNH WEB DEMO</strong><br /><span style="font-size: 12px;">Giấy chứng nhận đăng ký kinh doanh số ..., cấp ngày ... bởi sở kế hoạch và đầu tư Thành phố Hà Nội.</span><br /><span style="font-size: 12px;">Địa chỉ đăng ký trụ sở chính: Số 19A, Đường Bát Khối, Phường Long Biên, Quận Long Biên, Hà Nội</span></p>
 		
 <style>
-#text-500893817 {
+#text-3472815125 {
   text-align: center;
   color: rgb(66, 64, 64);
 }
-#text-500893817 > * {
+#text-3472815125 > * {
   color: rgb(66, 64, 64);
 }
 </style>
@@ -1200,16 +1307,16 @@ Tra cứu đơn hàng</a>
 
 		
 <style>
-#section_356442814 {
+#section_134546433 {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: rgb(255, 255, 255);
 }
-#section_356442814 .ux-shape-divider--top svg {
+#section_134546433 .ux-shape-divider--top svg {
   height: 150px;
   --divider-top-width: 100%;
 }
-#section_356442814 .ux-shape-divider--bottom svg {
+#section_134546433 .ux-shape-divider--bottom svg {
   height: 150px;
   --divider-width: 100%;
 }
@@ -1256,7 +1363,7 @@ Tra cứu đơn hàng</a>
         <img src="/wp-content/uploads/2022/11/adv-phone.svg" >
         <span>0977986xxx</span>
     </a>
-    <a href="https://www.facebook.com/webdemo/">
+    <a href="https://www.facebook.com/dailysmartlife/">
         <img src="/wp-content/uploads/2022/11/adv-facebook.svg" >
         <span>Chat với chúng tôi</span>
     </a>
@@ -1285,14 +1392,22 @@ Tra cứu đơn hàng</a>
 
 	
 </div>
-<script>
-  (function($) {
-  	jQuery(document).ready(function($){
-       $("a").click(function(){
-          $(".chinhsach").removeClass("show");
-        });
-		});
-  })(jQuery);
+<script>
+
+  (function($) {
+
+  	jQuery(document).ready(function($){
+
+       $("a").click(function(){
+
+          $(".chinhsach").removeClass("show");
+
+        });
+
+		});
+
+  })(jQuery);
+
 </script>	<script type="text/javascript">
 		(function () {
 			var c = document.body.className;
@@ -1388,7 +1503,7 @@ var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","
 <script type='text/javascript' src='/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=7.8.2' id='wc-add-to-cart-variation-js'></script>
 <script type='text/javascript' id='yith_wapo_front-js-extra'>
 /* <![CDATA[ */
-var yith_wapo = {"dom":{"single_add_to_cart_button":".single_add_to_cart_button"},"i18n":{"datepickerSetTime":"Set time","datepickerSaveButton":"Save","selectAnOption":"Please, select an option","selectAtLeast":"Please, select at least %d options","selectOptions":"Please, select %d options","maxOptionsSelectedMessage":"More options than allowed have been selected","uploadPercentageDoneString":"done"},"ajaxurl":"\/wp-admin\/admin-ajax.php","addons_nonce":"1b01bfcf6f","upload_allowed_file_types":".jpg, .jpeg, .pdf, .png, .rar, .zip","upload_max_file_size":"5","total_price_box_option":"all","replace_product_price":"no","woocommerce_currency":"VND","total_thousand_sep":".","decimal_sep":",","priceSuffix":"","replace_image_path":".woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child img.zoomImg,\n            .woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child source,\n            .yith_magnifier_zoom img, .yith_magnifier_zoom_magnifier,\n            .owl-carousel .woocommerce-main-image,\n            .woocommerce-product-gallery__image .wp-post-image,\n            .dt-sc-product-image-gallery-container .wp-post-image","replace_product_price_class":".product .entry-summary .price:first,\n            div.elementor.product .elementor-widget-woocommerce-product-price .price","hide_button_required":"no","messages":{"minErrorMessage":"The sum of the numbers is below the minimum. The minimum value is:","maxErrorMessage":"The sum of the numbers exceeded the maximum. The maximum value is:","checkMinMaxErrorMessage":"Please, select an option","requiredMessage":"This option is required.","maxFilesAllowed":"Maximum uploaded files allowed. The maximum number of files allowed is: ","noSupportedExtension":"Error - not supported extension!","maxFileSize":"Error - file size for %s - max %d MB allowed!"},"productQuantitySelector":"form.cart .quantity input.qty:not(.wapo-product-qty)","enableGetDefaultVariationPrice":"1","currentLanguage":"","conditionalDisplayEffect":"fade"};
+var yith_wapo = {"dom":{"single_add_to_cart_button":".single_add_to_cart_button"},"i18n":{"datepickerSetTime":"Set time","datepickerSaveButton":"Save","selectAnOption":"Please, select an option","selectAtLeast":"Please, select at least %d options","selectOptions":"Please, select %d options","maxOptionsSelectedMessage":"More options than allowed have been selected","uploadPercentageDoneString":"done"},"ajaxurl":"\/wp-admin\/admin-ajax.php","addons_nonce":"0518c9c7e5","upload_allowed_file_types":".jpg, .jpeg, .pdf, .png, .rar, .zip","upload_max_file_size":"5","total_price_box_option":"all","replace_product_price":"no","woocommerce_currency":"VND","total_thousand_sep":".","decimal_sep":",","priceSuffix":"","replace_image_path":".woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child img.zoomImg,\n            .woocommerce-product-gallery .woocommerce-product-gallery__wrapper .woocommerce-product-gallery__image:first-child source,\n            .yith_magnifier_zoom img, .yith_magnifier_zoom_magnifier,\n            .owl-carousel .woocommerce-main-image,\n            .woocommerce-product-gallery__image .wp-post-image,\n            .dt-sc-product-image-gallery-container .wp-post-image","replace_product_price_class":".product .entry-summary .price:first,\n            div.elementor.product .elementor-widget-woocommerce-product-price .price","hide_button_required":"no","messages":{"minErrorMessage":"The sum of the numbers is below the minimum. The minimum value is:","maxErrorMessage":"The sum of the numbers exceeded the maximum. The maximum value is:","checkMinMaxErrorMessage":"Please, select an option","requiredMessage":"This option is required.","maxFilesAllowed":"Maximum uploaded files allowed. The maximum number of files allowed is: ","noSupportedExtension":"Error - not supported extension!","maxFileSize":"Error - file size for %s - max %d MB allowed!"},"productQuantitySelector":"form.cart .quantity input.qty:not(.wapo-product-qty)","enableGetDefaultVariationPrice":"1","currentLanguage":"","conditionalDisplayEffect":"fade"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='/wp-content/plugins/yith-woocommerce-product-add-ons/assets/js/front.min.js?ver=4.7.1' id='yith_wapo_front-js'></script>

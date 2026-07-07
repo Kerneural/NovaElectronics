@@ -12,18 +12,18 @@
 	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 <!-- Search Engine Optimization by Rank Math - https://rankmath.com/ -->
-<title>Trang chủ - CÔNG TY TNHH ĐIỆN LẠNH TH THỊNH PHÁT</title>
+<title>Trang chủ - DailySmartLife</title>
 <meta name="description" content="“Chuỗi dự án của chúng tôi đã sử dụng các sản phẩm của Điện máy thịnh phát. Đến hay đã qua 2 năm sử dụng, hiện tại chất lượng vẫn được đảm bảo, các con vít"/>
 <meta name="robots" content="nofollow, noindex"/>
 <meta property="og:locale" content="vi_VN" />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="Trang chủ - CÔNG TY TNHH ĐIỆN LẠNH TH THỊNH PHÁT" />
+<meta property="og:title" content="Trang chủ - DailySmartLife" />
 <meta property="og:description" content="“Chuỗi dự án của chúng tôi đã sử dụng các sản phẩm của Điện máy thịnh phát. Đến hay đã qua 2 năm sử dụng, hiện tại chất lượng vẫn được đảm bảo, các con vít" />
 <meta property="og:url" content="/" />
-<meta property="og:site_name" content="CÔNG TY TNHH ĐIỆN LẠNH TH THỊNH PHÁT" />
+<meta property="og:site_name" content="DailySmartLife" />
 <meta property="og:updated_time" content="2023-11-26T10:25:02+07:00" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Trang chủ - CÔNG TY TNHH ĐIỆN LẠNH TH THỊNH PHÁT" />
+<meta name="twitter:title" content="Trang chủ - DailySmartLife" />
 <meta name="twitter:description" content="“Chuỗi dự án của chúng tôi đã sử dụng các sản phẩm của Điện máy thịnh phát. Đến hay đã qua 2 năm sử dụng, hiện tại chất lượng vẫn được đảm bảo, các con vít" />
 <meta name="twitter:label1" content="Written by" />
 <meta name="twitter:data1" content="Admin" />
@@ -39,8 +39,8 @@
 <link rel='prefetch' href='/wp-content/themes/flatsome/assets/js/chunk.tooltips.js?ver=3.16.1' />
 <link rel='prefetch' href='/wp-content/themes/flatsome/assets/js/chunk.vendors-popups.js?ver=3.16.1' />
 <link rel='prefetch' href='/wp-content/themes/flatsome/assets/js/chunk.vendors-slider.js?ver=3.16.1' />
-<link rel="alternate" type="application/rss+xml" title="Dòng thông tin CÔNG TY TNHH ĐIỆN LẠNH TH THỊNH PHÁT &raquo;" href="/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Dòng phản hồi CÔNG TY TNHH ĐIỆN LẠNH TH THỊNH PHÁT &raquo;" href="/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Dòng thông tin DailySmartLife &raquo;" href="/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Dòng phản hồi DailySmartLife &raquo;" href="/comments/feed/" />
 <script type="text/javascript">
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2"}};
 /*! This file is auto-generated */
@@ -443,8 +443,8 @@ Tra cứu đơn hàng</a>
           <div id="logo" class="flex-col logo">
             
 <!-- Header logo -->
-<a href="/" title="CÔNG TY TNHH ĐIỆN LẠNH TH THỊNH PHÁT - NÂNG TẦM CHẤT LƯỢNG –  KHẲNG ĐỊNH ĐẲNG CẤP" rel="home">
-		<img width="239" height="39" src="/wp-content/uploads/2023/03/logo.png" class="header_logo header-logo" alt="CÔNG TY TNHH ĐIỆN LẠNH TH THỊNH PHÁT"/><img  width="239" height="39" src="/wp-content/uploads/2023/03/logo.png" class="header-logo-dark" alt="CÔNG TY TNHH ĐIỆN LẠNH TH THỊNH PHÁT"/></a>
+<a href="/" title="DailySmartLife - NÂNG TẦM CHẤT LƯỢNG –  KHẲNG ĐỊNH ĐẲNG CẤP" rel="home">
+		<img width="239" height="39" src="/wp-content/uploads/2023/03/logo.png" class="header_logo header-logo" alt="DailySmartLife"/><img  width="239" height="39" src="/wp-content/uploads/2023/03/logo.png" class="header-logo-dark" alt="DailySmartLife"/></a>
           </div>
 
           <!-- Mobile Left Elements -->
@@ -489,11 +489,11 @@ Tra cứu đơn hàng</a>
             <ul class="header-nav header-nav-main nav nav-right  nav-uppercase">
               <li class="cart-item has-icon">
 
-<a href="/gio-hang/" title="Giỏ hàng" class="header-cart-link is-small">
+<a href="/gio-hang/" title="Cart" class="header-cart-link is-small">
 
 
 <span class="header-cart-title">
-   Giỏ hàng     </span>
+   Cart     </span>
 
     <i class="icon-shopping-cart"
     data-icon-label="0">
@@ -503,7 +503,7 @@ Tra cứu đơn hàng</a>
 
 </li>
 <li class="html custom html_top_right_text"><div class="contact_header">
-<a href="/tin-tuc" >Tin tức</a></div>
+<a href="/tin-tuc" >News</a></div>
 <div class="contact_header">
 <a href="/combo-khuyen-mai/" ><span>Combo - khuyến mãi</span> <span class="animate-hot">HOT</span></a>
 </div></li>            </ul>
@@ -514,7 +514,7 @@ Tra cứu đơn hàng</a>
             <ul class="mobile-nav nav nav-right ">
               <li class="cart-item has-icon">
 
-      <a href="/gio-hang/" title="Giỏ hàng" class="header-cart-link is-small">
+      <a href="/gio-hang/" title="Cart" class="header-cart-link is-small">
   
     <i class="icon-shopping-cart"
     data-icon-label="0">
@@ -563,7 +563,7 @@ Tra cứu đơn hàng</a>
 <li id="menu-item-1223" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1223 menu-item-design-default"><a href="/may-say-lg/" class="nav-top-link">Máy sấy</a></li>
 <li id="menu-item-1224" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1224 menu-item-design-default"><a href="/tivi-lg/" class="nav-top-link">Tivi</a></li>
 <li id="menu-item-1225" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1225 menu-item-design-default"><a href="/tu-lanh-lg/" class="nav-top-link">Tủ lạnh</a></li>
-<li id="menu-item-1927" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1927 menu-item-design-default"><a href="/lien-he/" class="nav-top-link">Liên hệ</a></li>
+<li id="menu-item-1927" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1927 menu-item-design-default"><a href="/lien-he/" class="nav-top-link">Contact Us</a></li>
                 </ul>
             </div>
             
@@ -606,7 +606,7 @@ Tra cứu đơn hàng</a>
 	<main id="main" class="">
     <section class="breadcrumb">
         <div class="container">
-            <nav aria-label="breadcrumbs" class="rank-math-breadcrumb"><p><span class="last">Trang chủ</span></p></nav>        </div>
+            <nav aria-label="breadcrumbs" class="rank-math-breadcrumb"><p><span class="last">Home</span></p></nav>        </div>
     </section>
 
 <div id="content" role="main" class="content-area">
@@ -806,7 +806,7 @@ Tra cứu đơn hàng</a>
 
 <div class="giasoc">
 <div class="title_giasoc"><img decoding="async" src="/wp-content/uploads/2022/11/lighting.svg"><p></p>
-<h1>Sản phẩm giá sốc</h1>
+<h1>Products giá sốc</h1>
 </div>
 </div>
 
@@ -978,7 +978,7 @@ Tra cứu đơn hàng</a>
 
 							<div class="box-text text-center" >
 								<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="/dieu-hoa-noi-ong-gio-lg-zbnq48gm3a0/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Điều hòa nối ống gió LG 48.000btu 1 chiều Inverter ZBNQ48GM3A0 | 2022</a></p></div><div class="price-wrapper"><div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 đánh giá</div></div>
-	<span class="price"><span class="amount">Liên hệ</span></span>
+	<span class="price"><span class="amount">Contact Us</span></span>
 </div>							</div>
 						</div>
 						</div>
@@ -1002,7 +1002,7 @@ Tra cứu đơn hàng</a>
 
 							<div class="box-text text-center" >
 								<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="/dieu-hoa-noi-ong-gio-lg-zbnq36gm3a0/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Điều hòa nối ống gió LG 36.000btu 1 chiều Inverter ZBNQ36GM3A0 | 2022</a></p></div><div class="price-wrapper"><div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 đánh giá</div></div>
-	<span class="price"><span class="amount">Liên hệ</span></span>
+	<span class="price"><span class="amount">Contact Us</span></span>
 </div>							</div>
 						</div>
 						</div>
@@ -1374,7 +1374,7 @@ Tra cứu đơn hàng</a>
 
 							<div class="box-text text-center" >
 								<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="/dieu-hoa-noi-ong-gio-lg-zbnq48gm3a0/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Điều hòa nối ống gió LG 48.000btu 1 chiều Inverter ZBNQ48GM3A0 | 2022</a></p></div><div class="price-wrapper"><div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 đánh giá</div></div>
-	<span class="price"><span class="amount">Liên hệ</span></span>
+	<span class="price"><span class="amount">Contact Us</span></span>
 </div>							</div>
 						</div>
 						</div>
@@ -1398,7 +1398,7 @@ Tra cứu đơn hàng</a>
 
 							<div class="box-text text-center" >
 								<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="/dieu-hoa-noi-ong-gio-lg-zbnq36gm3a0/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Điều hòa nối ống gió LG 36.000btu 1 chiều Inverter ZBNQ36GM3A0 | 2022</a></p></div><div class="price-wrapper"><div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 đánh giá</div></div>
-	<span class="price"><span class="amount">Liên hệ</span></span>
+	<span class="price"><span class="amount">Contact Us</span></span>
 </div>							</div>
 						</div>
 						</div>
@@ -1422,7 +1422,7 @@ Tra cứu đơn hàng</a>
 
 							<div class="box-text text-center" >
 								<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="/dieu-hoa-noi-ong-gio-lg-zbnq24gm1a0/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Điều hòa nối ống gió LG 24.000btu 1 chiều Inverter ZBNQ24GM1A0 | 2022</a></p></div><div class="price-wrapper"><div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 đánh giá</div></div>
-	<span class="price"><span class="amount">Liên hệ</span></span>
+	<span class="price"><span class="amount">Contact Us</span></span>
 </div>							</div>
 						</div>
 						</div>
@@ -1446,7 +1446,7 @@ Tra cứu đơn hàng</a>
 
 							<div class="box-text text-center" >
 								<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="/dieu-hoa-noi-ong-gio-lg-18-000btu-1-chieu-inverter-zbnq18gm1a0-2022/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Điều hòa nối ống gió LG 18.000btu 1 chiều Inverter ZBNQ18GM1A0 | 2022</a></p></div><div class="price-wrapper"><div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 đánh giá</div></div>
-	<span class="price"><span class="amount">Liên hệ</span></span>
+	<span class="price"><span class="amount">Contact Us</span></span>
 </div>							</div>
 						</div>
 						</div>
@@ -1470,7 +1470,7 @@ Tra cứu đơn hàng</a>
 
 							<div class="box-text text-center" >
 								<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="/dieu-hoa-am-tran-lg-ztnq36gnla0/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Điều hòa âm trần LG 1 chiều Inverter 36.000btu ZTNQ36GNLA0 | 2022</a></p></div><div class="price-wrapper"><div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 đánh giá</div></div>
-	<span class="price"><span class="amount">Liên hệ</span></span>
+	<span class="price"><span class="amount">Contact Us</span></span>
 </div>							</div>
 						</div>
 						</div>
@@ -1494,7 +1494,7 @@ Tra cứu đơn hàng</a>
 
 							<div class="box-text text-center" >
 								<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="/dieu-hoa-am-tran-lg-ztnq30gnle0/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Điều hòa âm trần LG 1 chiều Inverter 32.000btu ZTNQ30GNLE0 | 2022</a></p></div><div class="price-wrapper"><div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 đánh giá</div></div>
-	<span class="price"><span class="amount">Liên hệ</span></span>
+	<span class="price"><span class="amount">Contact Us</span></span>
 </div>							</div>
 						</div>
 						</div>
@@ -1518,7 +1518,7 @@ Tra cứu đơn hàng</a>
 
 							<div class="box-text text-center" >
 								<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="/dieu-hoa-am-tran-lg-ztnq24gpla0/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Điều hòa âm trần LG 1 chiều Inverter 24.000btu ZTNQ24GPLA0 | 2022</a></p></div><div class="price-wrapper"><div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Được xếp hạng <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 đánh giá</div></div>
-	<span class="price"><span class="amount">Liên hệ</span></span>
+	<span class="price"><span class="amount">Contact Us</span></span>
 </div>							</div>
 						</div>
 						</div>
@@ -2758,7 +2758,7 @@ Tra cứu đơn hàng</a>
 	
 
 <div><strong>ĐIỆN MÁY THỊNH PHÁT- BRANDSHOP LG</strong></div>
-<div><span style="color: #011530;"><strong>Trụ sở tại Hà Nội:</strong></span><br /><span style="color: #011530;">Địa chỉ: 19A đường Bát Khối, Phường Long Biên, Quận Long Biên, Hà Nội</span><br /><span style="color: #011530;">Hotline, zalo: 0977.986.xxx</span><br /><span style="color: #011530;">Email: webdemo@gmail.com</span><br /><span style="color: #011530;"><strong>Chi nhánh Nam Định:</strong></span><br /><span style="color: #011530;">Địa chỉ: QL 21B Tân Đình Liêm Hải Trực Ninh Nam Định</span></div>
+<div><span style="color: #011530;"><strong>Trụ sở tại Hà Nội:</strong></span><br /><span style="color: #011530;">Địa chỉ: 19A đường Bát Khối, Phường Long Biên, Quận Long Biên, Hà Nội</span><br /><span style="color: #011530;">Hotline, zalo: 0977.986.xxx</span><br /><span style="color: #011530;">Email: info@dailysmartlife.com</span><br /><span style="color: #011530;"><strong>Chi nhánh Nam Định:</strong></span><br /><span style="color: #011530;">Địa chỉ: QL 21B Tân Đình Liêm Hải Trực Ninh Nam Định</span></div>
 
 		</div>
 					</div>
@@ -2820,7 +2820,7 @@ Tra cứu đơn hàng</a>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1223"><a href="/may-say-lg/">Máy sấy</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1224"><a href="/tivi-lg/">Tivi</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1225"><a href="/tu-lanh-lg/">Tủ lạnh</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1927"><a href="/lien-he/">Liên hệ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1927"><a href="/lien-he/">Contact Us</a></li>
 </ul></div>
 
 
@@ -2840,10 +2840,10 @@ Tra cứu đơn hàng</a>
 
 
 
-<div class="menu-main-menu-container"><ul id="menu-main-menu" class="footer-menu"><li id="menu-item-1229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1229"><a href="/gioi-thieu/">Giới thiệu</a></li>
+<div class="menu-main-menu-container"><ul id="menu-main-menu" class="footer-menu"><li id="menu-item-1229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1229"><a href="/gioi-thieu/">About Us</a></li>
 <li id="menu-item-1554" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1554"><a href="#showroom">Hệ thống kho hàng</a></li>
-<li id="menu-item-1233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1233"><a href="/tin-tuc/">Tin tức</a></li>
-<li id="menu-item-1231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1231"><a href="/lien-he/">Liên hệ</a></li>
+<li id="menu-item-1233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1233"><a href="/tin-tuc/">News</a></li>
+<li id="menu-item-1231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1231"><a href="/lien-he/">Contact Us</a></li>
 </ul></div>
 
 
@@ -2908,7 +2908,7 @@ Tra cứu đơn hàng</a>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1223"><a href="/may-say-lg/">Máy sấy</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1224"><a href="/tivi-lg/">Tivi</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-1225"><a href="/tu-lanh-lg/">Tủ lạnh</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1927"><a href="/lien-he/">Liên hệ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1927"><a href="/lien-he/">Contact Us</a></li>
 </ul></div>
 
 
@@ -2917,10 +2917,10 @@ Tra cứu đơn hàng</a>
 
 
 
-<div class="menu-main-menu-container"><ul id="menu-main-menu-1" class="footer-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1229"><a href="/gioi-thieu/">Giới thiệu</a></li>
+<div class="menu-main-menu-container"><ul id="menu-main-menu-1" class="footer-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1229"><a href="/gioi-thieu/">About Us</a></li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1554"><a href="#showroom">Hệ thống kho hàng</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1233"><a href="/tin-tuc/">Tin tức</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1231"><a href="/lien-he/">Liên hệ</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1233"><a href="/tin-tuc/">News</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1231"><a href="/lien-he/">Contact Us</a></li>
 </ul></div>
 
 
@@ -2938,7 +2938,7 @@ Tra cứu đơn hàng</a>
 			
 			   <h3 class="footer_title">Kết nối với chúng tôi</h3>
    <div class="contact_footer">
-        <a href="https://www.facebook.com/webdemo/">
+        <a href="https://www.facebook.com/dailysmartlife/">
             <img src="/wp-content/uploads/2022/11/fb.svg" alt="" srcset="">
         </a>
         <a href="/0977986xxx">
@@ -3117,7 +3117,7 @@ Tra cứu đơn hàng</a>
         <img src="/wp-content/uploads/2022/11/adv-phone.svg" >
         <span>0977986xxx</span>
     </a>
-    <a href="https://www.facebook.com/webdemo/">
+    <a href="https://www.facebook.com/dailysmartlife/">
         <img src="/wp-content/uploads/2022/11/adv-facebook.svg" >
         <span>Chat với chúng tôi</span>
     </a>
