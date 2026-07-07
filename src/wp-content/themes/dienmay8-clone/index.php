@@ -3265,7 +3265,7 @@
                                                         class="row product_home equalize-box large-columns-5 medium-columns-3 small-columns-2 row-small"
                                                     >
 														<!--slug placholder-->
-                                                        <?php echo dienmay8_get_product_grid("dieu-hoa-lg", 5 ); ?>
+                                                        <?php echo dienmay8_get_product_grid("home-appliances", 5 ); ?>
                                                     </div>
                                                 </div>
 
@@ -3318,7 +3318,7 @@
                                                     <div
                                                         class="row product_home equalize-box large-columns-5 medium-columns-3 small-columns-2 row-small"
                                                     >
-                                                        <?php echo dienmay8_get_product_grid("may-giat-lg", 5 ); ?>
+                                                        <?php echo dienmay8_get_product_grid("kitchen-dining", 5 ); ?>
                                                     </div>
                                                     <style>
                                                         #col-313402131 > .col-inner {
@@ -3369,7 +3369,7 @@
 													<div
 														class="row product_home equalize-box large-columns-5 medium-columns-3 small-columns-2 row-small"
 													>
-														<?php echo dienmay8_get_product_grid("tivi-lg", 5 ); ?>
+														<?php echo dienmay8_get_product_grid("electronics-computer", 5 ); ?>
 													</div>
 													<style>
 														#col-174823578 > .col-inner {
@@ -3425,7 +3425,7 @@
 													<div
 														class="row product_home equalize-box large-columns-5 medium-columns-3 small-columns-2 row-small"
 													>
-														<?php echo dienmay8_get_product_grid("tu-lanh-lg", 5 );
+														<?php echo dienmay8_get_product_grid("smart-home-security", 5 );
 														?>
 													</div>
 													<style>
