@@ -585,17 +585,19 @@
         </script>
         <script>
              (function($) {
-            jQuery(document).ready(function(){
-            if(window.location.href.indexOf("price-desc")> -1) {
-            jQuery('#pricedesc input[type="checkbox"]').prop('checked,true);}
-            else if (window.location.href.indexOf("price")> -1)
-            {jQuery('#pricemall  input[type="checkbox"]').prop('checked',true);}
-            else if (window.location.href.indexOf("date")> -1) {
-            jQuery ('#datecheck input [type="checkbox"]').prop('checked',true);}
-            else if (window.location.href.indexOf("old-product")> -1) {
-            jQuery('#oldproduct input[type ="checkbox"]').prop('checked', true);} 15});
-            jQuery("a.deselect").each(function () {this.search = ""; });
-                })(jQuery);
+                jQuery(document).ready(function(){
+                    if(window.location.href.indexOf("price-desc") > -1) {
+                        jQuery('#pricedesc input[type="checkbox"]').prop('checked', true);
+                    } else if (window.location.href.indexOf("price") > -1) {
+                        jQuery('#pricemall input[type="checkbox"]').prop('checked', true);
+                    } else if (window.location.href.indexOf("date") > -1) {
+                        jQuery('#datecheck input[type="checkbox"]').prop('checked', true);
+                    } else if (window.location.href.indexOf("old-product") > -1) {
+                        jQuery('#oldproduct input[type="checkbox"]').prop('checked', true);
+                    }
+                });
+                jQuery("a.deselect").each(function () {this.search = ""; });
+            })(jQuery);
         </script>
         <script>
             (function ($) {
@@ -2039,5 +2041,3 @@
                     </div>
                 </div>
             </header>
-
-            <main id="main" class="">
