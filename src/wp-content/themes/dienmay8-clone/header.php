@@ -18,7 +18,7 @@
         <title>Trang chủ - DailySmartLife</title>
         <meta
             name="description"
-            content="“Chuỗi dự án của chúng tôi đã sử dụng các sản phẩm của Điện máy thịnh phát. Đến hay đã qua 2 năm sử dụng, hiện tại chất lượng vẫn được đảm bảo, các con vít"
+            content="“Our project chain has used the products of DailySmartLife. After 2 years of use, the quality is still guaranteed, and the screws"
         />
         <meta name="robots" content="nofollow, noindex" />
         <meta property="og:locale" content="vi_VN" />
@@ -26,7 +26,7 @@
         <meta property="og:title" content="Trang chủ - DailySmartLife" />
         <meta
             property="og:description"
-            content="“Chuỗi dự án của chúng tôi đã sử dụng các sản phẩm của Điện máy thịnh phát. Đến hay đã qua 2 năm sử dụng, hiện tại chất lượng vẫn được đảm bảo, các con vít"
+            content="“Our project chain has used the products of DailySmartLife. After 2 years of use, the quality is still guaranteed, and the screws"
         />
         <meta property="og:url" content="/" />
         <meta property="og:site_name" content="DailySmartLife" />
@@ -35,7 +35,7 @@
         <meta name="twitter:title" content="Trang chủ - DailySmartLife" />
         <meta
             name="twitter:description"
-            content="“Chuỗi dự án của chúng tôi đã sử dụng các sản phẩm của Điện máy thịnh phát. Đến hay đã qua 2 năm sử dụng, hiện tại chất lượng vẫn được đảm bảo, các con vít"
+            content="“Our project chain has used the products of DailySmartLife. After 2 years of use, the quality is still guaranteed, and the screws"
         />
         <meta name="twitter:label1" content="Written by" />
         <meta name="twitter:data1" content="Admin" />
@@ -94,13 +94,13 @@
         <link
             rel="alternate"
             type="application/rss+xml"
-            title="Dòng thông tin DailySmartLife &raquo;"
+            title="DailySmartLife Information Feed &raquo;"
             href="/feed/"
         />
         <link
             rel="alternate"
             type="application/rss+xml"
-            title="Dòng phản hồi DailySmartLife &raquo;"
+            title="DailySmartLife Feedback Feed &raquo;"
             href="/comments/feed/"
         />
         <script type="text/javascript">
@@ -526,7 +526,7 @@
             <div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
         </script>
         <script type="text/template" id="tmpl-unavailable-variation-template">
-            <p>Rất tiếc, sản phẩm này hiện không tồn tại. Hãy chọn một phương thức kết hợp khác.</p>
+            <p>We are sorry, but this product does not exist. Please choose another combination.</p>
         </script>
         <script
             type="text/javascript"
@@ -985,16 +985,16 @@
                 border-top-style: solid;
             }
             .label-new.menu-item > a:after {
-                content: "Mới";
+                content: "New";
             }
             .label-hot.menu-item > a:after {
                 content: "Hot";
             }
             .label-sale.menu-item > a:after {
-                content: "Khuyến mại";
+                content: "Sale";
             }
             .label-popular.menu-item > a:after {
-                content: "Phổ biến";
+                content: "Popular";
             }
         </style>
         <style type="text/css" id="wp-custom-css">
@@ -1467,7 +1467,7 @@
                 </filter>
             </defs>
         </svg>
-        <a class="skip-link screen-reader-text" href="#main">Chuyển đến nội dung</a>
+        <a class="skip-link screen-reader-text" href="#main">Skip to content</a>
 
         <div id="wrapper">
             <header id="header" class="header has-sticky sticky-jump">
@@ -1553,7 +1553,7 @@
                                                     stroke-linejoin="round"
                                                 ></path>
                                             </svg>
-                                            <a href="#showroom">Hệ thống Kho Hàng</a>
+                                            <a href="#showroom">Warehouse System</a>
                                         </div>
                                     </li>
                                 </ul>
@@ -1581,7 +1581,7 @@
                                                     fill="white"
                                                 ></path>
                                             </svg>
-                                            <a href="/ho-tro-khach-hang/">Hỗ trợ chính sách</a>
+                                            <a href="/ho-tro-khach-hang/">Policy Support</a>
                                         </div>
                                         <div class="contact_header">
                                             <svg
@@ -1620,7 +1620,7 @@
                                                     stroke-linejoin="round"
                                                 ></path>
                                             </svg>
-                                            <a href="/tai-khoan/"> Tra cứu đơn hàng</a>
+                                            <a href="/tai-khoan/"> Track Order</a>
                                         </div>
                                     </li>
                                 </ul>
@@ -1634,7 +1634,7 @@
                                 <!-- Header logo -->
                                 <a
                                     href="/"
-                                    title="DailySmartLife - NÂNG TẦM CHẤT LƯỢNG –  KHẲNG ĐỊNH ĐẲNG CẤP"
+                                    title="DailySmartLife - ELEVATING QUALITY - ASSERTING CLASS"
                                     rel="home"
                                 >
                                     <img

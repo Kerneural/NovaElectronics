@@ -178,7 +178,7 @@ if ( ! function_exists( 'dienmay8_get_product_grid' ) ) {
                                 </div>
                                 <div class="add-to-cart-button" style="margin-top: 10px;">
                                     <?php 
-                                    // Sử dụng shortcode đã khai báo để render nút
+                                    // Use the registered shortcode to render the button
                                     echo do_shortcode( sprintf( 
                                         '[affiliate_button url="%s" label="%s" style="primary" size="small" newtab="yes" nofollow="yes"]', 
                                         esc_url( $pretty_link ), 

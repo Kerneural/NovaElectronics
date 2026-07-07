@@ -24,14 +24,14 @@
                                                                 <li class="tab has-icon active" role="presentation">
                                                                     <a href="#tab_1">
                                                                         <div class="showroom_product_item">
-                                                                            <h4>Trụ sở chính</h4>
+                                                                            <h4>Headquarters</h4>
                                                                             <div class="showroom_tt">
                                                                                 <img
                                                                                     src="/wp-content/uploads/2022/11/pin.svg"
                                                                                 />
                                                                                 <span
-                                                                                    >Số 19A, Đường Bát Khối, Phường Long
-                                                                                    Biên, Quận Long Biên, Hà Nội</span
+                                                                                    >No. 19A, Bat Khoi Road, Long
+                                                                                    Bien, Long Bien District, Hanoi</span
                                                                                 >
                                                                             </div>
                                                                             <div class="showroom_tt">
@@ -46,7 +46,7 @@
                                                                         class="btn-map"
                                                                         onclick="location.href='https://goo.gl/maps/vzT775vRZNqS44Qk8'"
                                                                     >
-                                                                        <span class="text">Dẫn đường</span>
+                                                                        <span class="text">Directions</span>
                                                                         <i class="fas fa-chevron-right"></i>
                                                                     </button>
                                                                 </li>
@@ -54,12 +54,12 @@
                                                                 <li class="tab has-icon" role="presentation">
                                                                     <a href="#tab_2">
                                                                         <div class="showroom_product_item">
-                                                                            <h4>Kho 1: Cảng Hà Nội</h4>
+                                                                            <h4>Warehouse 1: Hanoi Port</h4>
                                                                             <div class="showroom_tt">
                                                                                 <img
                                                                                     src="/wp-content/uploads/2022/11/pin.svg"
                                                                                 />
-                                                                                <span>Cảng Hà Nội</span>
+                                                                                <span>Hanoi Port</span>
                                                                             </div>
                                                                             <div class="showroom_tt">
                                                                                 <img
@@ -73,7 +73,7 @@
                                                                         class="btn-map"
                                                                         onclick="location.href='https://goo.gl/maps/wimyZXgivqZ7tcLW9'"
                                                                     >
-                                                                        <span class="text">Dẫn đường</span>
+                                                                        <span class="text">Directions</span>
                                                                         <i class="fas fa-chevron-right"></i>
                                                                     </button>
                                                                 </li>
@@ -82,14 +82,14 @@
                                                                     <a href="#tab_3">
                                                                         <div class="showroom_product_item">
                                                                             <h4>
-                                                                                Kho 2: Xuân Thủy - Cầu Giấy - Hà Nội
+                                                                                Warehouse 2: Xuan Thuy - Cau Giay - Hanoi
                                                                             </h4>
                                                                             <div class="showroom_tt">
                                                                                 <img
                                                                                     src="/wp-content/uploads/2022/11/pin.svg"
                                                                                 />
                                                                                 <span
-                                                                                    >Xuân Thủy - Cầu Giấy - Hà Nội</span
+                                                                                    >Xuan Thuy - Cau Giay - Hanoi</span
                                                                                 >
                                                                             </div>
                                                                             <div class="showroom_tt">
@@ -104,7 +104,7 @@
                                                                         class="btn-map"
                                                                         onclick="location.href='https://goo.gl/maps/Kn8odUGREtQuUwPm6'"
                                                                     >
-                                                                        <span class="text">Dẫn đường</span>
+                                                                        <span class="text">Directions</span>
                                                                         <i class="fas fa-chevron-right"></i>
                                                                     </button>
                                                                 </li>
@@ -112,12 +112,12 @@
                                                                 <li class="tab has-icon" role="presentation">
                                                                     <a href="#tab_4">
                                                                         <div class="showroom_product_item">
-                                                                            <h4>Kho 3: Nguyễn Trãi - Thanh Xuân</h4>
+                                                                            <h4>Warehouse 3: Nguyen Trai - Thanh Xuan</h4>
                                                                             <div class="showroom_tt">
                                                                                 <img
                                                                                     src="/wp-content/uploads/2022/11/pin.svg"
                                                                                 />
-                                                                                <span>Nguyễn Trãi - Thanh Xuân</span>
+                                                                                <span>Nguyen Trai - Thanh Xuan</span>
                                                                             </div>
                                                                             <div class="showroom_tt">
                                                                                 <img
@@ -131,7 +131,7 @@
                                                                         class="btn-map"
                                                                         onclick="location.href='https://goo.gl/maps/gYb26xstGTgXkkNbA'"
                                                                     >
-                                                                        <span class="text">Dẫn đường</span>
+                                                                        <span class="text">Directions</span>
                                                                         <i class="fas fa-chevron-right"></i>
                                                                     </button>
                                                                 </li>
@@ -140,16 +140,16 @@
                                                                     <a href="#tab_5">
                                                                         <div class="showroom_product_item">
                                                                             <h4>
-                                                                                Kho 4: Tháp Đồng hồ Văn Phú - Hà Đông -
-                                                                                Hà Nội
+                                                                                Warehouse 4: Van Phu Clock Tower - Ha Dong -
+                                                                                Hanoi
                                                                             </h4>
                                                                             <div class="showroom_tt">
                                                                                 <img
                                                                                     src="/wp-content/uploads/2022/11/pin.svg"
                                                                                 />
                                                                                 <span
-                                                                                    >Tháp Đồng hồ Văn Phú - Hà Đông - Hà
-                                                                                    Nội</span
+                                                                                    >Van Phu Clock Tower - Ha Dong -
+                                                                                    Hanoi</span
                                                                                 >
                                                                             </div>
                                                                             <div class="showroom_tt">
@@ -164,7 +164,7 @@
                                                                         class="btn-map"
                                                                         onclick="location.href='https://goo.gl/maps/nu4tayZ3yhhV3CYs6'"
                                                                     >
-                                                                        <span class="text">Dẫn đường</span>
+                                                                        <span class="text">Directions</span>
                                                                         <i class="fas fa-chevron-right"></i>
                                                                     </button>
                                                                 </li>
@@ -172,14 +172,14 @@
                                                                 <li class="tab has-icon" role="presentation">
                                                                     <a href="#tab_6">
                                                                         <div class="showroom_product_item">
-                                                                            <h4>Chi nhánh Nam Định</h4>
+                                                                            <h4>Nam Dinh Branch</h4>
                                                                             <div class="showroom_tt">
                                                                                 <img
                                                                                     src="/wp-content/uploads/2022/11/pin.svg"
                                                                                 />
                                                                                 <span
-                                                                                    >QL 21B Tân Đình Liêm Hải Trực Ninh
-                                                                                    Nam Định</span
+                                                                                    >Highway 21B Tan Dinh, Liem Hai, Truc Ninh,
+                                                                                    Nam Dinh</span
                                                                                 >
                                                                             </div>
                                                                             <div class="showroom_tt">
@@ -194,7 +194,7 @@
                                                                         class="btn-map"
                                                                         onclick="location.href='https://goo.gl/maps/uXb4Ez2Riv4qktpXA'"
                                                                     >
-                                                                        <span class="text">Dẫn đường</span>
+                                                                        <span class="text">Directions</span>
                                                                         <i class="fas fa-chevron-right"></i>
                                                                     </button>
                                                                 </li>
@@ -365,22 +365,22 @@
                                                             </style>
                                                         </div>
 
-                                                        <div><strong>ĐIỆN MÁY THỊNH PHÁT- BRANDSHOP LG</strong></div>
+                                                        <div><strong>DailySmartLife - LG BRANDSHOP</strong></div>
                                                         <div>
                                                             <span style="color: #011530"
-                                                                ><strong>Trụ sở tại Hà Nội:</strong></span
+                                                                ><strong>Headquarters in Hanoi:</strong></span
                                                             ><br /><span style="color: #011530"
-                                                                >Địa chỉ: 19A đường Bát Khối, Phường Long Biên, Quận
-                                                                Long Biên, Hà Nội</span
+                                                                >Address: 19A Bat Khoi Road, Long Bien Ward, District
+                                                                Long Bien, Hanoi</span
                                                             ><br /><span style="color: #011530"
                                                                 >Hotline, zalo: 0977.986.xxx</span
                                                             ><br /><span style="color: #011530"
                                                                 >Email: info@dailysmartlife.com.</span
                                                             ><br /><span style="color: #011530"
-                                                                ><strong>Chi nhánh Nam Định:</strong></span
+                                                                ><strong>Nam Dinh Branch:</strong></span
                                                             ><br /><span style="color: #011530"
-                                                                >Địa chỉ: QL 21B Tân Đình Liêm Hải Trực Ninh Nam
-                                                                Định</span
+                                                                >Address: Highway 21B Tan Dinh, Liem Hai, Truc Ninh, Nam
+                                                                Dinh</span
                                                             >
                                                         </div>
                                                     </div>
@@ -875,7 +875,7 @@
                                                                                     <i
                                                                                         class="icon-angle-down"
                                                                                     ></i></button
-                                                                                ><span>Doanh nghiệp</span></a
+                                                                                ><span>Enterprise</span></a
                                                                             >
                                                                             <div
                                                                                 id="accordion-72650850-content"
@@ -898,7 +898,7 @@
                                                                                             class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1554"
                                                                                         >
                                                                                             <a href="#showroom"
-                                                                                                >Hệ thống kho hàng</a
+                                                                                                >Warehouse System</a
                                                                                             >
                                                                                         </li>
                                                                                         <li
@@ -925,7 +925,7 @@
 
                                                             <div id="col-1308474919" class="col small-12 large-12">
                                                                 <div class="col-inner">
-                                                                    <h3 class="footer_title">Kết nối với chúng tôi</h3>
+                                                                    <h3 class="footer_title">Connect with us</h3>
                                                                     <div class="contact_footer">
                                                                         <a href="https://www.facebook.com/dailysmartlife/">
                                                                             <img
@@ -1035,14 +1035,14 @@
 
                                                         <div id="text-3742551155" class="text">
                                                             <p>
-                                                                <strong>© 2023 CÔNG TY TNHH ĐIỆN LẠNH WEB DEMO</strong
+                                                                <strong>© 2023 DailySmartLife</strong
                                                                 ><br /><span style="font-size: 12px"
-                                                                    >Giấy chứng nhận đăng ký kinh doanh số ..., cấp ngày
-                                                                    ... bởi sở kế hoạch và đầu tư Thành phố Hà
-                                                                    Nội.</span
+                                                                    >Business Registration Certificate No. ..., issued on
+                                                                    ... by Hanoi Department of Planning and
+                                                                    Investment.</span
                                                                 ><br /><span style="font-size: 12px"
-                                                                    >Địa chỉ đăng ký trụ sở chính: Số 19A, Đường Bát
-                                                                    Khối, Phường Long Biên, Quận Long Biên, Hà Nội</span
+                                                                    >Registered Headquarters Address: No. 19A, Bat
+                                                                    Khoi, Long Bien Ward, Long Bien District, Hanoi</span
                                                                 >
                                                             </p>
 
@@ -1165,7 +1165,7 @@
                                 </a>
                                 <a href="https://www.facebook.com/dailysmartlife/">
                                     <img src="/wp-content/uploads/2022/11/adv-facebook.svg" />
-                                    <span>Chat với chúng tôi</span>
+                                    <span>Chat with us</span>
                                 </a>
                             </div>
                             <div id="main-menu" class="mobile-sidebar no-scrollbar mfp-hide">
@@ -1318,14 +1318,14 @@
                                     <div class="woocommerce-notices-wrapper"></div>
                                     <div class="account-container lightbox-inner">
                                         <div class="account-login-inner">
-                                            <h3 class="uppercase">Đăng nhập</h3>
+                                            <h3 class="uppercase">Login</h3>
 
                                             <form class="woocommerce-form woocommerce-form-login login" method="post">
                                                 <p
                                                     class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide"
                                                 >
                                                     <label for="username"
-                                                        >Tên tài khoản hoặc địa chỉ email&nbsp;<span class="required"
+                                                        >Username or email address&nbsp;<span class="required"
                                                             >*</span
                                                         ></label
                                                     >
@@ -1342,7 +1342,7 @@
                                                     class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide"
                                                 >
                                                     <label for="password"
-                                                        >Mật khẩu&nbsp;<span class="required">*</span></label
+                                                        >Password&nbsp;<span class="required">*</span></label
                                                     >
                                                     <input
                                                         class="woocommerce-Input woocommerce-Input--text input-text"
@@ -1364,7 +1364,7 @@
                                                             id="rememberme"
                                                             value="forever"
                                                         />
-                                                        <span>Ghi nhớ mật khẩu</span>
+                                                        <span>Remember me</span>
                                                     </label>
                                                     <input
                                                         type="hidden"
@@ -1376,13 +1376,13 @@
                                                         type="submit"
                                                         class="woocommerce-button button woocommerce-form-login__submit"
                                                         name="login"
-                                                        value="Đăng nhập"
+                                                        value="Login"
                                                     >
-                                                        Đăng nhập
+                                                        Login
                                                     </button>
                                                 </p>
                                                 <p class="woocommerce-LostPassword lost_password">
-                                                    <a href="/tai-khoan/lost-password/">Quên mật khẩu?</a>
+                                                    <a href="/tai-khoan/lost-password/">Lost your password?</a>
                                                 </p>
                                             </form>
                                         </div>
