@@ -1763,7 +1763,7 @@
                                             <i class="icon-angle-down"></i>
                                         </div>
                                         <div
-                                            class="header-vertical-menu__fly-out header-vertical-menu__fly-out--open has-shadow"
+                                            class="header-vertical-menu__fly-out  has-shadow"
                                         >
                                             <div class="menu-danh-muc-san-pham-container">
                                                 <ul
