@@ -23,6 +23,10 @@
 - [x] Integrate click tracking logging to increment `_affiliate_clicks` postmeta on redirect trigger.
 - [x] Verify redirection rules (HTTP 307) and backend click meta tracking end-to-end.
 
+### Phase 4: Layout & Asset Hotfixes (Completed)
+- [x] Restored layout integrity by correcting orphaned closing `</div>` tags, resolving the 1/3-width collapsing bug on VPS homepage sections.
+- [x] Replaced 50+ hardcoded local upload media assets (sliders, category icons, customer avatars, backgrounds, play overlays) with CDN/Unsplash URLs.
+
 ---
 
 ## 🚀 VPS Deployment Steps
@@ -30,7 +34,6 @@
 To release these changes to the live VPS:
 1. Log in to the 1Panel terminal on the VPS.
 2. Run `git pull origin main` in the web directory `/home/agvhrrhghosting/git_source/`.
-3. Copy the updated child theme:
-   - Copy folder `/git_source/src/wp-content/themes/dienmay8-clone/` -> overwrite `/public_html/wp-content/themes/dienmay8-clone/`.
-4. Run Seeder on VPS to recreate clean dynamic products database with unique images.
-5. Purge LiteSpeed Cache or CDN proxy outputs.
+3. Copy the updated child theme changes:
+   - Copy folder `/git_source/src/wp-content/themes/dienmay8-clone/` -> overwrite `/public_html/wp-content/themes/dienmay8-clone/` (or copy `/git_source/src/wp-content/themes/dienmay8-clone/index.php` -> `/public_html/wp-content/themes/dienmay8-clone/index.php`).
+4. Purge LiteSpeed Cache or 1Panel page caches to clear old templates.
