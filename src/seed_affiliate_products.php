@@ -196,7 +196,7 @@ foreach ($product_specs as $cat_slug => $specs) {
             update_post_meta($product_id, '_affiliate_clicks', 0);
             
             // Look for the local image file inside container
-            $local_file = "/var/www/html/wp-content/uploads/2022/11/" . $slug . ".jpg";
+            $local_file = ABSPATH . "wp-content/uploads/2022/11/" . $slug . ".jpg";
             if (file_exists($local_file)) {
                 // Check if attachment with this name already exists
                 $existing_attach = get_posts(array(
