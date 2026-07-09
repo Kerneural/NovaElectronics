@@ -44,18 +44,11 @@
                                                         <img
                                                             width="1280"
                                                             height="700"
-                                                            src="/wp-content/uploads/2022/11/thinh-phat-uu-dai-mua-tv-lg.jpg"
+                                                            src="https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=1280&h=700&auto=format&fit=crop"
                                                             class="attachment-original size-original"
-                                                            alt=""
+                                                            alt="Electronics Sale Event"
                                                             decoding="async"
-                                                            loading="lazy"
-                                                            srcset="
-                                                                /wp-content/uploads/2022/11/thinh-phat-uu-dai-mua-tv-lg.jpg          1280w,
-                                                                /wp-content/uploads/2022/11/thinh-phat-uu-dai-mua-tv-lg-300x164.jpg   300w,
-                                                                /wp-content/uploads/2022/11/thinh-phat-uu-dai-mua-tv-lg-1024x560.jpg 1024w,
-                                                                /wp-content/uploads/2022/11/thinh-phat-uu-dai-mua-tv-lg-600x328.jpg   600w
-                                                            "
-                                                            sizes="(max-width: 1280px) 100vw, 1280px"
+                                                            loading="eager"
                                                         />
                                                     </div>
 
@@ -74,18 +67,11 @@
                                                         <img
                                                             width="1280"
                                                             height="700"
-                                                            src="/wp-content/uploads/2022/11/thinh-phat-world-cup.jpg"
+                                                            src="https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=1280&h=700&auto=format&fit=crop"
                                                             class="attachment-original size-original"
-                                                            alt=""
+                                                            alt="Smart Home Deals"
                                                             decoding="async"
-                                                            loading="lazy"
-                                                            srcset="
-                                                                /wp-content/uploads/2022/11/thinh-phat-world-cup.jpg          1280w,
-                                                                /wp-content/uploads/2022/11/thinh-phat-world-cup-300x164.jpg   300w,
-                                                                /wp-content/uploads/2022/11/thinh-phat-world-cup-1024x560.jpg 1024w,
-                                                                /wp-content/uploads/2022/11/thinh-phat-world-cup-600x328.jpg   600w
-                                                            "
-                                                            sizes="(max-width: 1280px) 100vw, 1280px"
+                                                            loading="eager"
                                                         />
                                                     </div>
 
@@ -104,18 +90,11 @@
                                                         <img
                                                             width="1280"
                                                             height="700"
-                                                            src="/wp-content/uploads/2022/11/thinh-phat-mien-phi-lap-dat.jpg"
+                                                            src="https://images.unsplash.com/photo-1498049794561-7780e7231661?w=1280&h=700&auto=format&fit=crop"
                                                             class="attachment-original size-original"
-                                                            alt=""
+                                                            alt="Free Installation Service"
                                                             decoding="async"
-                                                            loading="lazy"
-                                                            srcset="
-                                                                /wp-content/uploads/2022/11/thinh-phat-mien-phi-lap-dat.jpg          1280w,
-                                                                /wp-content/uploads/2022/11/thinh-phat-mien-phi-lap-dat-300x164.jpg   300w,
-                                                                /wp-content/uploads/2022/11/thinh-phat-mien-phi-lap-dat-1024x560.jpg 1024w,
-                                                                /wp-content/uploads/2022/11/thinh-phat-mien-phi-lap-dat-600x328.jpg   600w
-                                                            "
-                                                            sizes="(max-width: 1280px) 100vw, 1280px"
+                                                            loading="eager"
                                                         />
                                                     </div>
 
@@ -148,18 +127,11 @@
                                                 <img
                                                     width="1440"
                                                     height="73"
-                                                    src="/wp-content/uploads/2022/11/banner-ngang.webp"
-                                                    class="attachment-original size-original"
-                                                    alt=""
-                                                    decoding="async"
-                                                    loading="lazy"
-                                                    srcset="
-                                                        /wp-content/uploads/2022/11/banner-ngang.webp         1440w,
-                                                        /wp-content/uploads/2022/11/banner-ngang-300x15.webp   300w,
-                                                        /wp-content/uploads/2022/11/banner-ngang-1024x52.webp 1024w,
-                                                        /wp-content/uploads/2022/11/banner-ngang-600x30.webp   600w
-                                                    "
-                                                    sizes="(max-width: 1440px) 100vw, 1440px"
+                                                    src="https://images.unsplash.com/photo-1556761175-4b46a572b786?w=1440&h=73&auto=format&fit=crop"
+                                                            class="attachment-original size-original"
+                                                            alt="Nova Electronics Special Promotions"
+                                                            decoding="async"
+                                                            loading="eager"
                                                 />
                                             </div>
 
@@ -208,7 +180,7 @@
                                     <div class="col-inner text-center">
                                         <div class="giasoc">
                                             <div class="title_giasoc">
-                                                <img decoding="async" src="/wp-content/uploads/2022/11/lighting.svg" />
+                                                <img decoding="async" src="https://api.iconify.design/mdi:lightning-bolt.svg" />
                                                 <p></p>
                                                 <h1>SALES PRODUCTS</h1>
                                             </div>
@@ -234,7 +206,7 @@
                                                             $product = wc_get_product( get_the_ID() );
                                                         }
                                                         $image_id  = $product ? $product->get_image_id() : 0;
-                                                        $image_url = $image_id ? wp_get_attachment_image_url( $image_id, 'large' ) : '/wp-content/uploads/2022/11/lighting.svg';
+                                                        $image_url = $image_id ? wp_get_attachment_image_url( $image_id, 'large' ) : 'https://api.iconify.design/mdi:lightning-bolt.svg';
                                                         $slug      = $product ? $product->get_slug() : get_post_field( 'post_name', get_the_ID() );
                                                         $pretty_link = home_url( '/go/' . sanitize_title( $slug ) );
                                                         $button_text = ( $product instanceof \WC_Product_External ) ? $product->get_button_text() : 'Check Latest Price';
@@ -271,7 +243,7 @@
                                                                         </div>
                                                                         <div class="price-wrapper">
                                                                             <div class="brand-img">
-                                                                                <img src="/wp-content/uploads/2022/11/lg.png" />
+                                                                                <img src="https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=200&h=200&auto=format&fit=crop" />
                                                                             </div>
                                                                             <div class="content_rating">
                                                                                 <div class="star-rating">
@@ -370,7 +342,7 @@
                                                             <div class="box-image">
                                                                 <div class="">
                                                                     <img
-                                                                        src="/wp-content/uploads/2022/11/dh.jpg"
+                                                                        src="https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=200&h=200&auto=format&fit=crop"
                                                                         alt="Air Conditioner"
                                                                         width="300"
                                                                         height="300"
@@ -396,7 +368,7 @@
                                                             <div class="box-image">
                                                                 <div class="">
                                                                     <img
-                                                                        src="/wp-content/uploads/2022/11/dh1.jpg"
+                                                                        src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=200&h=200&auto=format&fit=crop"
                                                                         alt="Cassette Air Conditioner cassette"
                                                                         width="300"
                                                                         height="300"
@@ -424,7 +396,7 @@
                                                             <div class="box-image">
                                                                 <div class="">
                                                                     <img
-                                                                        src="/wp-content/uploads/2022/11/dhc.jpg"
+                                                                        src="https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=200&h=200&auto=format&fit=crop"
                                                                         alt="Floor Standing Air Conditioner"
                                                                         width="300"
                                                                         height="300"
@@ -450,7 +422,7 @@
                                                             <div class="box-image">
                                                                 <div class="">
                                                                     <img
-                                                                        src="/wp-content/uploads/2022/11/images.jpg"
+                                                                        src="https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?w=200&h=200&auto=format&fit=crop"
                                                                         alt="Air Conditioner Multi"
                                                                         width="300"
                                                                         height="300"
@@ -478,7 +450,7 @@
                                                             <div class="box-image">
                                                                 <div class="">
                                                                     <img
-                                                                        src="/wp-content/uploads/2022/11/washing-machine-electrolux-ewf1042bdwa-10-kg-inverter.jpg"
+                                                                        src="https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=200&h=200&auto=format&fit=crop"
                                                                         alt="Washing Machine"
                                                                         width="300"
                                                                         height="300"
@@ -504,7 +476,7 @@
                                                             <div class="box-image">
                                                                 <div class="">
                                                                     <img
-                                                                        src="/wp-content/uploads/2022/11/dhng.jpg"
+                                                                        src="https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=200&h=200&auto=format&fit=crop"
                                                                         alt="Duct Connected Air Conditioner"
                                                                         width="300"
                                                                         height="300"
@@ -529,7 +501,7 @@
                                                             <div class="box-image">
                                                                 <div class="">
                                                                     <img
-                                                                        src="/wp-content/uploads/2022/11/tv.jpg"
+                                                                        src="https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=200&h=200&auto=format&fit=crop"
                                                                         alt="TV"
                                                                         width="300"
                                                                         height="300"
@@ -552,7 +524,7 @@
                                                             <div class="box-image">
                                                                 <div class="">
                                                                     <img
-                                                                        src="/wp-content/uploads/2022/11/large_refrigerator-bosch-kad90vi20x500x500x4.webp"
+                                                                        src="https://images.unsplash.com/photo-1571175443880-49e1d25b2bc5?w=200&h=200&auto=format&fit=crop"
                                                                         alt="Refrigerators"
                                                                         width="300"
                                                                         height="300"
@@ -790,639 +762,179 @@
 							<div class="row" id="row-236408439">
 								<div class="row" id="row-236408439">
 									<div class="row" id="row-236408439">
-                                        <div class="row" id="row-236408439">
+										<div class="row" id="row-articles-section">
                                             <div id="col-589062485" class="col small-12 large-12">
                                                 <div class="col-inner">
                                                     <div class="container section-title-container">
                                                         <h2 class="section-title section-title-center">
-                                                            <b></b
-                                                            ><span
-                                                                class="section-title-main"
-                                                                style="color: rgb(162, 0, 68)"
-                                                                >NEW ARTICLES</span
-                                                            ><b></b>
+                                                            <b></b><span class="section-title-main" style="color: rgb(162, 0, 68)">NEW ARTICLES</span><b></b>
                                                         </h2>
                                                     </div>
-
-                                                    <div
-                                                        class="row large-columns-3 medium-columns-2 small-columns-1 slider row-slider slider-nav-simple slider-nav-push"
-                                                        data-flickity-options='{"imagesLoaded": true, "groupCells": "100%", "dragThreshold" : 5, "cellAlign": "left","wrapAround": true,"prevNextButtons": true,"percentPosition": true,"pageDots": false, "rightToLeft": false, "autoPlay" : 3000}'
-                                                    >
+                                                    <div class="row large-columns-3 medium-columns-2 small-columns-1 slider row-slider slider-nav-simple slider-nav-push"
+                                                        data-flickity-options='{"imagesLoaded": true, "groupCells": "100%", "dragThreshold" : 5, "cellAlign": "left","wrapAround": true,"prevNextButtons": true,"percentPosition": true,"pageDots": false, "rightToLeft": false, "autoPlay" : 3000}'>
+                                                        <?php
+                                                        $article_fallbacks = [
+                                                            'https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&auto=format&fit=crop',
+                                                            'https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=800&auto=format&fit=crop',
+                                                            'https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=800&auto=format&fit=crop',
+                                                            'https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&auto=format&fit=crop',
+                                                            'https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&auto=format&fit=crop',
+                                                            'https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&auto=format&fit=crop',
+                                                        ];
+                                                        $articles = get_posts([
+                                                            'post_type'      => 'post',
+                                                            'posts_per_page' => 6,
+                                                            'post_status'    => 'publish',
+                                                            'orderby'        => 'date',
+                                                            'order'          => 'DESC',
+                                                        ]);
+                                                        $art_idx = 0;
+                                                        if (!empty($articles)):
+                                                            foreach ($articles as $art):
+                                                                $thumb_id  = get_post_thumbnail_id($art->ID);
+                                                                $thumb_url = $thumb_id ? wp_get_attachment_image_url($thumb_id, 'large') : '';
+                                                                if (!$thumb_url) {
+                                                                    $thumb_url = $article_fallbacks[$art_idx % count($article_fallbacks)];
+                                                                }
+                                                                $excerpt = wp_trim_words(strip_tags(get_post_field('post_content', $art->ID)), 18, '...');
+                                                                $art_idx++;
+                                                        ?>
                                                         <div class="col post-item">
                                                             <div class="col-inner">
-                                                                <a
-                                                                    href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-6/"
-                                                                    class="plain"
-                                                                >
-                                                                    <div
-                                                                        class="box box-normal box-text-bottom box-blog-post has-hover"
-                                                                    >
+                                                                <a href="<?php echo get_permalink($art->ID); ?>" class="plain">
+                                                                    <div class="box box-normal box-text-bottom box-blog-post has-hover">
                                                                         <div class="box-image">
-                                                                            <div
-                                                                                class="image-cover"
-                                                                                style="padding-top: 56.25%"
-                                                                            >
-                                                                                <img
-                                                                                    width="800"
-                                                                                    height="533"
-                                                                                    src="/wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic.jpg"
+                                                                            <div class="image-cover" style="padding-top: 56.25%">
+                                                                                <img width="800" height="450"
+                                                                                    src="<?php echo esc_url($thumb_url); ?>"
                                                                                     class="attachment-original size-original wp-post-image"
-                                                                                    alt=""
-                                                                                    decoding="async"
-                                                                                    loading="lazy"
-                                                                                    srcset="
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic.jpg         800w,
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic-300x200.jpg 300w,
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic-600x400.jpg 600w
-                                                                                    "
-                                                                                    sizes="(max-width: 800px) 100vw, 800px"
-                                                                                />
+                                                                                    alt="<?php echo esc_attr($art->post_title); ?>"
+                                                                                    decoding="async" loading="lazy" />
                                                                             </div>
                                                                         </div>
                                                                         <div class="box-text text-left">
                                                                             <div class="box-text-inner blog-post-inner">
-                                                                                <h5 class="post-title is-large">
-                                                                                    Learn about the refrigerator's Econavi mode
-                                                                                    What is Panasonic?
-                                                                                </h5>
+                                                                                <h5 class="post-title is-large"><?php echo esc_html($art->post_title); ?></h5>
                                                                                 <div class="is-divider"></div>
-                                                                                <p class="from_the_blog_excerpt">
-                                                                                    Econavi mode of Panasonic refrigerator
-                                                                                    What is that? Econavi mode of the refrigerator
-                                                                                    Panasonic is a sensor technology...
-                                                                                </p>
+                                                                                <p class="from_the_blog_excerpt"><?php echo esc_html($excerpt); ?></p>
                                                                             </div>
                                                                         </div>
                                                                     </div>
                                                                 </a>
                                                             </div>
                                                         </div>
+                                                        <?php endforeach; else: ?>
                                                         <div class="col post-item">
                                                             <div class="col-inner">
-                                                                <a
-                                                                    href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-5/"
-                                                                    class="plain"
-                                                                >
-                                                                    <div
-                                                                        class="box box-normal box-text-bottom box-blog-post has-hover"
-                                                                    >
-                                                                        <div class="box-image">
-                                                                            <div
-                                                                                class="image-cover"
-                                                                                style="padding-top: 56.25%"
-                                                                            >
-                                                                                <img
-                                                                                    width="800"
-                                                                                    height="533"
-                                                                                    src="/wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic.jpg"
-                                                                                    class="attachment-original size-original wp-post-image"
-                                                                                    alt=""
-                                                                                    decoding="async"
-                                                                                    loading="lazy"
-                                                                                    srcset="
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic.jpg         800w,
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic-300x200.jpg 300w,
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic-600x400.jpg 600w
-                                                                                    "
-                                                                                    sizes="(max-width: 800px) 100vw, 800px"
-                                                                                />
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="box-text text-left">
-                                                                            <div class="box-text-inner blog-post-inner">
-                                                                                <h5 class="post-title is-large">
-                                                                                    Learn about the refrigerator's Econavi mode
-                                                                                    What is Panasonic?
-                                                                                </h5>
-                                                                                <div class="is-divider"></div>
-                                                                                <p class="from_the_blog_excerpt">
-                                                                                    Econavi mode of Panasonic refrigerator
-                                                                                    What is that? Econavi mode of the refrigerator
-                                                                                    Panasonic is a sensor technology...
-                                                                                </p>
-                                                                            </div>
+                                                                <div class="box box-normal box-text-bottom box-blog-post">
+                                                                    <div class="box-image">
+                                                                        <div class="image-cover" style="padding-top:56.25%">
+                                                                            <img src="<?php echo esc_url($article_fallbacks[0]); ?>" width="800" height="450" alt="Tech Article" loading="lazy"/>
                                                                         </div>
                                                                     </div>
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col post-item">
-                                                            <div class="col-inner">
-                                                                <a
-                                                                    href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-4/"
-                                                                    class="plain"
-                                                                >
-                                                                    <div
-                                                                        class="box box-normal box-text-bottom box-blog-post has-hover"
-                                                                    >
-                                                                        <div class="box-image">
-                                                                            <div
-                                                                                class="image-cover"
-                                                                                style="padding-top: 56.25%"
-                                                                            >
-                                                                                <img
-                                                                                    width="800"
-                                                                                    height="533"
-                                                                                    src="/wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic.jpg"
-                                                                                    class="attachment-original size-original wp-post-image"
-                                                                                    alt=""
-                                                                                    decoding="async"
-                                                                                    loading="lazy"
-                                                                                    srcset="
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic.jpg         800w,
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic-300x200.jpg 300w,
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic-600x400.jpg 600w
-                                                                                    "
-                                                                                    sizes="(max-width: 800px) 100vw, 800px"
-                                                                                />
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="box-text text-left">
-                                                                            <div class="box-text-inner blog-post-inner">
-                                                                                <h5 class="post-title is-large">
-                                                                                    Learn about the refrigerator's Econavi mode
-                                                                                    What is Panasonic?
-                                                                                </h5>
-                                                                                <div class="is-divider"></div>
-                                                                                <p class="from_the_blog_excerpt">
-                                                                                    Econavi mode of Panasonic refrigerator
-                                                                                    What is that? Econavi mode of the refrigerator
-                                                                                    Panasonic is a sensor technology...
-                                                                                </p>
-                                                                            </div>
+                                                                    <div class="box-text text-left">
+                                                                        <div class="box-text-inner blog-post-inner">
+                                                                            <h5 class="post-title is-large">Latest Tech Reviews &amp; Guides</h5>
+                                                                            <div class="is-divider"></div>
+                                                                            <p class="from_the_blog_excerpt">Stay up to date with the latest smart home tech, electronics reviews and buying guides.</p>
                                                                         </div>
                                                                     </div>
-                                                                </a>
+                                                                </div>
                                                             </div>
                                                         </div>
-                                                        <div class="col post-item">
-                                                            <div class="col-inner">
-                                                                <a
-                                                                    href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-3/"
-                                                                    class="plain"
-                                                                >
-                                                                    <div
-                                                                        class="box box-normal box-text-bottom box-blog-post has-hover"
-                                                                    >
-                                                                        <div class="box-image">
-                                                                            <div
-                                                                                class="image-cover"
-                                                                                style="padding-top: 56.25%"
-                                                                            >
-                                                                                <img
-                                                                                    width="800"
-                                                                                    height="533"
-                                                                                    src="/wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic.jpg"
-                                                                                    class="attachment-original size-original wp-post-image"
-                                                                                    alt=""
-                                                                                    decoding="async"
-                                                                                    loading="lazy"
-                                                                                    srcset="
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic.jpg         800w,
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic-300x200.jpg 300w,
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic-600x400.jpg 600w
-                                                                                    "
-                                                                                    sizes="(max-width: 800px) 100vw, 800px"
-                                                                                />
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="box-text text-left">
-                                                                            <div class="box-text-inner blog-post-inner">
-                                                                                <h5 class="post-title is-large">
-                                                                                    Learn about the refrigerator's Econavi mode
-                                                                                    What is Panasonic?
-                                                                                </h5>
-                                                                                <div class="is-divider"></div>
-                                                                                <p class="from_the_blog_excerpt">
-                                                                                    Econavi mode of Panasonic refrigerator
-                                                                                    What is that? Econavi mode of the refrigerator
-                                                                                    Panasonic is a sensor technology...
-                                                                                </p>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col post-item">
-                                                            <div class="col-inner">
-                                                                <a
-                                                                    href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-2/"
-                                                                    class="plain"
-                                                                >
-                                                                    <div
-                                                                        class="box box-normal box-text-bottom box-blog-post has-hover"
-                                                                    >
-                                                                        <div class="box-image">
-                                                                            <div
-                                                                                class="image-cover"
-                                                                                style="padding-top: 56.25%"
-                                                                            >
-                                                                                <img
-                                                                                    width="800"
-                                                                                    height="533"
-                                                                                    src="/wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic.jpg"
-                                                                                    class="attachment-original size-original wp-post-image"
-                                                                                    alt=""
-                                                                                    decoding="async"
-                                                                                    loading="lazy"
-                                                                                    srcset="
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic.jpg         800w,
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic-300x200.jpg 300w,
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic-600x400.jpg 600w
-                                                                                    "
-                                                                                    sizes="(max-width: 800px) 100vw, 800px"
-                                                                                />
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="box-text text-left">
-                                                                            <div class="box-text-inner blog-post-inner">
-                                                                                <h5 class="post-title is-large">
-                                                                                    Learn about the refrigerator's Econavi mode
-                                                                                    What is Panasonic?
-                                                                                </h5>
-                                                                                <div class="is-divider"></div>
-                                                                                <p class="from_the_blog_excerpt">
-                                                                                    Econavi mode of Panasonic refrigerator
-                                                                                    What is that? Econavi mode of the refrigerator
-                                                                                    Panasonic is a sensor technology...
-                                                                                </p>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col post-item">
-                                                            <div class="col-inner">
-                                                                <a
-                                                                    href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy/"
-                                                                    class="plain"
-                                                                >
-                                                                    <div
-                                                                        class="box box-normal box-text-bottom box-blog-post has-hover"
-                                                                    >
-                                                                        <div class="box-image">
-                                                                            <div
-                                                                                class="image-cover"
-                                                                                style="padding-top: 56.25%"
-                                                                            >
-                                                                                <img
-                                                                                    width="800"
-                                                                                    height="533"
-                                                                                    src="/wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic.jpg"
-                                                                                    class="attachment-original size-original wp-post-image"
-                                                                                    alt=""
-                                                                                    decoding="async"
-                                                                                    loading="lazy"
-                                                                                    srcset="
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic.jpg         800w,
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic-300x200.jpg 300w,
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic-600x400.jpg 600w
-                                                                                    "
-                                                                                    sizes="(max-width: 800px) 100vw, 800px"
-                                                                                />
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="box-text text-left">
-                                                                            <div class="box-text-inner blog-post-inner">
-                                                                                <h5 class="post-title is-large">
-                                                                                    Learn about the refrigerator's Econavi mode
-                                                                                    What is Panasonic?
-                                                                                </h5>
-                                                                                <div class="is-divider"></div>
-                                                                                <p class="from_the_blog_excerpt">
-                                                                                    Econavi mode of Panasonic refrigerator
-                                                                                    What is that? Econavi mode of the refrigerator
-                                                                                    Panasonic is a sensor technology...
-                                                                                </p>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col post-item">
-                                                            <div class="col-inner">
-                                                                <a
-                                                                    href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi/"
-                                                                    class="plain"
-                                                                >
-                                                                    <div
-                                                                        class="box box-normal box-text-bottom box-blog-post has-hover"
-                                                                    >
-                                                                        <div class="box-image">
-                                                                            <div
-                                                                                class="image-cover"
-                                                                                style="padding-top: 56.25%"
-                                                                            >
-                                                                                <img
-                                                                                    width="800"
-                                                                                    height="533"
-                                                                                    src="/wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic.jpg"
-                                                                                    class="attachment-original size-original wp-post-image"
-                                                                                    alt=""
-                                                                                    decoding="async"
-                                                                                    loading="lazy"
-                                                                                    srcset="
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic.jpg         800w,
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic-300x200.jpg 300w,
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic-600x400.jpg 600w
-                                                                                    "
-                                                                                    sizes="(max-width: 800px) 100vw, 800px"
-                                                                                />
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="box-text text-left">
-                                                                            <div class="box-text-inner blog-post-inner">
-                                                                                <h5 class="post-title is-large">
-                                                                                    Learn about the refrigerator's Econavi mode
-                                                                                    What is Panasonic?
-                                                                                </h5>
-                                                                                <div class="is-divider"></div>
-                                                                                <p class="from_the_blog_excerpt">
-                                                                                    Econavi mode of Panasonic refrigerator
-                                                                                    What is that? Econavi mode of the refrigerator
-                                                                                    Panasonic is a sensor technology...
-                                                                                </p>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </a>
-                                                            </div>
-                                                        </div>
+                                                        <?php endif; ?>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="row" id="row-170284080">
+
+                                        <div class="row" id="row-projects-section">
                                             <div id="col-751430880" class="col small-12 large-12">
                                                 <div class="col-inner">
                                                     <div class="container section-title-container">
                                                         <h2 class="section-title section-title-center">
-                                                            <b></b
-                                                            ><span
-                                                                class="section-title-main"
-                                                                style="color: rgb(162, 0, 68)"
-                                                                >PROJECTS</span
-                                                            ><b></b>
+                                                            <b></b><span class="section-title-main" style="color: rgb(162, 0, 68)">PROJECTS</span><b></b>
                                                         </h2>
                                                     </div>
-
-                                                    <div
-                                                        class="row large-columns-3 medium-columns-2 small-columns-1 slider row-slider slider-nav-simple slider-nav-push"
-                                                        data-flickity-options='{"imagesLoaded": true, "groupCells": "100%", "dragThreshold" : 5, "cellAlign": "left","wrapAround": true,"prevNextButtons": true,"percentPosition": true,"pageDots": false, "rightToLeft": false, "autoPlay" : 3000}'
-                                                    >
+                                                    <div class="row large-columns-3 medium-columns-2 small-columns-1 slider row-slider slider-nav-simple slider-nav-push"
+                                                        data-flickity-options='{"imagesLoaded": true, "groupCells": "100%", "dragThreshold" : 5, "cellAlign": "left","wrapAround": true,"prevNextButtons": true,"percentPosition": true,"pageDots": false, "rightToLeft": false, "autoPlay" : 3000}'>
+                                                        <?php
+                                                        $project_fallbacks = [
+                                                            'https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&auto=format&fit=crop',
+                                                            'https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=800&auto=format&fit=crop',
+                                                            'https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=800&auto=format&fit=crop',
+                                                            'https://images.unsplash.com/photo-1531403009284-440f080d1e12?w=800&auto=format&fit=crop',
+                                                            'https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=800&auto=format&fit=crop',
+                                                            'https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=800&auto=format&fit=crop',
+                                                        ];
+                                                        $projects = get_posts([
+                                                            'post_type'      => 'post',
+                                                            'posts_per_page' => 6,
+                                                            'post_status'    => 'publish',
+                                                            'orderby'        => 'rand',
+                                                        ]);
+                                                        $proj_idx = 0;
+                                                        if (!empty($projects)):
+                                                            foreach ($projects as $proj):
+                                                                $thumb_id  = get_post_thumbnail_id($proj->ID);
+                                                                $thumb_url = $thumb_id ? wp_get_attachment_image_url($thumb_id, 'large') : '';
+                                                                if (!$thumb_url) {
+                                                                    $thumb_url = $project_fallbacks[$proj_idx % count($project_fallbacks)];
+                                                                }
+                                                                $excerpt = wp_trim_words(strip_tags(get_post_field('post_content', $proj->ID)), 18, '...');
+                                                                $proj_idx++;
+                                                        ?>
                                                         <div class="col post-item">
                                                             <div class="col-inner">
-                                                                <a
-                                                                    href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-6/"
-                                                                    class="plain"
-                                                                >
-                                                                    <div
-                                                                        class="box box-normal box-text-bottom box-blog-post has-hover"
-                                                                    >
+                                                                <a href="<?php echo get_permalink($proj->ID); ?>" class="plain">
+                                                                    <div class="box box-normal box-text-bottom box-blog-post has-hover">
                                                                         <div class="box-image">
-                                                                            <div
-                                                                                class="image-cover"
-                                                                                style="padding-top: 56.25%"
-                                                                            >
-                                                                                <img
-                                                                                    width="800"
-                                                                                    height="533"
-                                                                                    src="/wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic.jpg"
+                                                                            <div class="image-cover" style="padding-top: 56.25%">
+                                                                                <img width="800" height="450"
+                                                                                    src="<?php echo esc_url($thumb_url); ?>"
                                                                                     class="attachment-original size-original wp-post-image"
-                                                                                    alt=""
-                                                                                    decoding="async"
-                                                                                    loading="lazy"
-                                                                                    srcset="
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic.jpg         800w,
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic-300x200.jpg 300w,
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic-600x400.jpg 600w
-                                                                                    "
-                                                                                    sizes="(max-width: 800px) 100vw, 800px"
-                                                                                />
+                                                                                    alt="<?php echo esc_attr($proj->post_title); ?>"
+                                                                                    decoding="async" loading="lazy" />
                                                                             </div>
                                                                         </div>
                                                                         <div class="box-text text-left">
                                                                             <div class="box-text-inner blog-post-inner">
-                                                                                <h5 class="post-title is-large">
-                                                                                    Learn about the refrigerator's Econavi mode
-                                                                                    What is Panasonic?
-                                                                                </h5>
+                                                                                <h5 class="post-title is-large"><?php echo esc_html($proj->post_title); ?></h5>
                                                                                 <div class="is-divider"></div>
-                                                                                <p class="from_the_blog_excerpt">
-                                                                                    Econavi mode of Panasonic refrigerator
-                                                                                    What is that? Econavi mode of the refrigerator
-                                                                                    Panasonic is a sensor technology...
-                                                                                </p>
+                                                                                <p class="from_the_blog_excerpt"><?php echo esc_html($excerpt); ?></p>
                                                                             </div>
                                                                         </div>
                                                                     </div>
                                                                 </a>
                                                             </div>
                                                         </div>
+                                                        <?php endforeach; else: ?>
                                                         <div class="col post-item">
                                                             <div class="col-inner">
-                                                                <a
-                                                                    href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-5/"
-                                                                    class="plain"
-                                                                >
-                                                                    <div
-                                                                        class="box box-normal box-text-bottom box-blog-post has-hover"
-                                                                    >
-                                                                        <div class="box-image">
-                                                                            <div
-                                                                                class="image-cover"
-                                                                                style="padding-top: 56.25%"
-                                                                            >
-                                                                                <img
-                                                                                    width="800"
-                                                                                    height="533"
-                                                                                    src="/wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic.jpg"
-                                                                                    class="attachment-original size-original wp-post-image"
-                                                                                    alt=""
-                                                                                    decoding="async"
-                                                                                    loading="lazy"
-                                                                                    srcset="
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic.jpg         800w,
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic-300x200.jpg 300w,
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic-600x400.jpg 600w
-                                                                                    "
-                                                                                    sizes="(max-width: 800px) 100vw, 800px"
-                                                                                />
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="box-text text-left">
-                                                                            <div class="box-text-inner blog-post-inner">
-                                                                                <h5 class="post-title is-large">
-                                                                                    Learn about the refrigerator's Econavi mode
-                                                                                    What is Panasonic?
-                                                                                </h5>
-                                                                                <div class="is-divider"></div>
-                                                                                <p class="from_the_blog_excerpt">
-                                                                                    Econavi mode of Panasonic refrigerator
-                                                                                    What is that? Econavi mode of the refrigerator
-                                                                                    Panasonic is a sensor technology...
-                                                                                </p>
-                                                                            </div>
+                                                                <div class="box box-normal box-text-bottom box-blog-post">
+                                                                    <div class="box-image">
+                                                                        <div class="image-cover" style="padding-top:56.25%">
+                                                                            <img src="<?php echo esc_url($project_fallbacks[0]); ?>" width="800" height="450" alt="Smart Projects" loading="lazy"/>
                                                                         </div>
                                                                     </div>
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col post-item">
-                                                            <div class="col-inner">
-                                                                <a
-                                                                    href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-3/"
-                                                                    class="plain"
-                                                                >
-                                                                    <div
-                                                                        class="box box-normal box-text-bottom box-blog-post has-hover"
-                                                                    >
-                                                                        <div class="box-image">
-                                                                            <div
-                                                                                class="image-cover"
-                                                                                style="padding-top: 56.25%"
-                                                                            >
-                                                                                <img
-                                                                                    width="800"
-                                                                                    height="533"
-                                                                                    src="/wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic.jpg"
-                                                                                    class="attachment-original size-original wp-post-image"
-                                                                                    alt=""
-                                                                                    decoding="async"
-                                                                                    loading="lazy"
-                                                                                    srcset="
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic.jpg         800w,
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic-300x200.jpg 300w,
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic-600x400.jpg 600w
-                                                                                    "
-                                                                                    sizes="(max-width: 800px) 100vw, 800px"
-                                                                                />
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="box-text text-left">
-                                                                            <div class="box-text-inner blog-post-inner">
-                                                                                <h5 class="post-title is-large">
-                                                                                    Learn about the refrigerator's Econavi mode
-                                                                                    What is Panasonic?
-                                                                                </h5>
-                                                                                <div class="is-divider"></div>
-                                                                                <p class="from_the_blog_excerpt">
-                                                                                    Econavi mode of Panasonic refrigerator
-                                                                                    What is that? Econavi mode of the refrigerator
-                                                                                    Panasonic is a sensor technology...
-                                                                                </p>
-                                                                            </div>
+                                                                    <div class="box-text text-left">
+                                                                        <div class="box-text-inner blog-post-inner">
+                                                                            <h5 class="post-title is-large">Smart Home Setup Projects</h5>
+                                                                            <div class="is-divider"></div>
+                                                                            <p class="from_the_blog_excerpt">Explore smart home automation projects and IoT integrations for a connected lifestyle.</p>
                                                                         </div>
                                                                     </div>
-                                                                </a>
+                                                                </div>
                                                             </div>
                                                         </div>
-                                                        <div class="col post-item">
-                                                            <div class="col-inner">
-                                                                <a
-                                                                    href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-4/"
-                                                                    class="plain"
-                                                                >
-                                                                    <div
-                                                                        class="box box-normal box-text-bottom box-blog-post has-hover"
-                                                                    >
-                                                                        <div class="box-image">
-                                                                            <div
-                                                                                class="image-cover"
-                                                                                style="padding-top: 56.25%"
-                                                                            >
-                                                                                <img
-                                                                                    width="800"
-                                                                                    height="533"
-                                                                                    src="/wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic.jpg"
-                                                                                    class="attachment-original size-original wp-post-image"
-                                                                                    alt=""
-                                                                                    decoding="async"
-                                                                                    loading="lazy"
-                                                                                    srcset="
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic.jpg         800w,
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic-300x200.jpg 300w,
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic-600x400.jpg 600w
-                                                                                    "
-                                                                                    sizes="(max-width: 800px) 100vw, 800px"
-                                                                                />
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="box-text text-left">
-                                                                            <div class="box-text-inner blog-post-inner">
-                                                                                <h5 class="post-title is-large">
-                                                                                    Learn about the refrigerator's Econavi mode
-                                                                                    What is Panasonic?
-                                                                                </h5>
-                                                                                <div class="is-divider"></div>
-                                                                                <p class="from_the_blog_excerpt">
-                                                                                    Econavi mode of Panasonic refrigerator
-                                                                                    What is that? Econavi mode of the refrigerator
-                                                                                    Panasonic is a sensor technology...
-                                                                                </p>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                        <div class="col post-item">
-                                                            <div class="col-inner">
-                                                                <a
-                                                                    href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-2/"
-                                                                    class="plain"
-                                                                >
-                                                                    <div
-                                                                        class="box box-normal box-text-bottom box-blog-post has-hover"
-                                                                    >
-                                                                        <div class="box-image">
-                                                                            <div
-                                                                                class="image-cover"
-                                                                                style="padding-top: 56.25%"
-                                                                            >
-                                                                                <img
-                                                                                    width="800"
-                                                                                    height="533"
-                                                                                    src="/wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic.jpg"
-                                                                                    class="attachment-original size-original wp-post-image"
-                                                                                    alt=""
-                                                                                    decoding="async"
-                                                                                    loading="lazy"
-                                                                                    srcset="
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic.jpg         800w,
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic-300x200.jpg 300w,
-                                                                                        /wp-content/uploads/2022/11/thinh-phat-bat-che-do-econavi-cua-refrigerator-panasonic-600x400.jpg 600w
-                                                                                    "
-                                                                                    sizes="(max-width: 800px) 100vw, 800px"
-                                                                                />
-                                                                            </div>
-                                                                        </div>
-                                                                        <div class="box-text text-left">
-                                                                            <div class="box-text-inner blog-post-inner">
-                                                                                <h5 class="post-title is-large">
-                                                                                    Learn about the refrigerator's Econavi mode
-                                                                                    What is Panasonic?
-                                                                                </h5>
-                                                                                <div class="is-divider"></div>
-                                                                                <p class="from_the_blog_excerpt">
-                                                                                    Econavi mode of Panasonic refrigerator
-                                                                                    What is that? Econavi mode of the refrigerator
-                                                                                    Panasonic is a sensor technology...
-                                                                                </p>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </a>
-                                                            </div>
-                                                        </div>
+                                                        <?php endif; ?>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
+									</div>
+								</div>
+							</div>
 
                                     <style>
                                         #section_873236097 {
@@ -1479,16 +991,12 @@
                                                                     <img
                                                                         width="253"
                                                                         height="253"
-                                                                        src="/wp-content/uploads/2022/11/hoang-thuy-trang.jpg"
+                                                                        src="https://ui-avatars.com/api/?name=Hoang+Thuy+Trang&background=c41230&color=fff&size=253"
                                                                         class="attachment- size-"
                                                                         alt=""
                                                                         decoding="async"
                                                                         loading="lazy"
-                                                                        srcset="
-                                                                            /wp-content/uploads/2022/11/hoang-thuy-trang.jpg         253w,
-                                                                            /wp-content/uploads/2022/11/hoang-thuy-trang-150x150.jpg 150w,
-                                                                            /wp-content/uploads/2022/11/hoang-thuy-trang-100x100.jpg 100w
-                                                                        "
+                                                                        
                                                                         sizes="(max-width: 253px) 100vw, 253px"
                                                                     />
                                                                     <div
@@ -1541,16 +1049,12 @@
                                                                     <img
                                                                         width="253"
                                                                         height="253"
-                                                                        src="/wp-content/uploads/2022/11/nguyen-hoang-anh.jpg"
+                                                                        src="https://ui-avatars.com/api/?name=Nguyen+Hoang+Anh&background=1a73e8&color=fff&size=253"
                                                                         class="attachment- size-"
                                                                         alt=""
                                                                         decoding="async"
                                                                         loading="lazy"
-                                                                        srcset="
-                                                                            /wp-content/uploads/2022/11/nguyen-hoang-anh.jpg         253w,
-                                                                            /wp-content/uploads/2022/11/nguyen-hoang-anh-150x150.jpg 150w,
-                                                                            /wp-content/uploads/2022/11/nguyen-hoang-anh-100x100.jpg 100w
-                                                                        "
+                                                                        
                                                                         sizes="(max-width: 253px) 100vw, 253px"
                                                                     />
                                                                     <div
@@ -1603,16 +1107,12 @@
                                                                     <img
                                                                         width="253"
                                                                         height="253"
-                                                                        src="/wp-content/uploads/2022/11/pham-anh-nguyet.jpg"
+                                                                        src="https://ui-avatars.com/api/?name=Pham+Anh+Nguyet&background=0f9d58&color=fff&size=253"
                                                                         class="attachment- size-"
                                                                         alt=""
                                                                         decoding="async"
                                                                         loading="lazy"
-                                                                        srcset="
-                                                                            /wp-content/uploads/2022/11/pham-anh-nguyet.jpg         253w,
-                                                                            /wp-content/uploads/2022/11/pham-anh-nguyet-150x150.jpg 150w,
-                                                                            /wp-content/uploads/2022/11/pham-anh-nguyet-100x100.jpg 100w
-                                                                        "
+                                                                        
                                                                         sizes="(max-width: 253px) 100vw, 253px"
                                                                     />
                                                                     <div
@@ -1657,7 +1157,7 @@
                                                 padding-bottom: 30px;
                                             }
                                             #section_628288226 .section-bg.bg-loaded {
-                                                background-image: url(/wp-content/uploads/2022/11/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall_1258-28312.webp);
+                                                background-image: url(https://images.unsplash.com/photo-1557683316-973673baf926?w=1920&auto=format&fit=crop);
                                             }
                                             #section_628288226 .ux-shape-divider--top svg {
                                                 height: 150px;
@@ -1703,11 +1203,11 @@
                                                                             rel="noopener"
                                                                         >
                                                                             <img
-                                                                                src="/wp-content/uploads/2022/11/hqdefault.webp"
+                                                                                src="https://images.unsplash.com/photo-1593508512255-86ab42a8e620?w=480&h=360&auto=format&fit=crop"
                                                                             />
                                                                             <button>
                                                                                 <img
-                                                                                    src="/wp-content/uploads/2022/11/play.png"
+                                                                                    src="https://img.icons8.com/material-rounded/96/ffffff/play--v1.png"
                                                                                     alt=""
                                                                                 />
                                                                             </button>
@@ -1727,11 +1227,11 @@
                                                                             rel="noopener"
                                                                         >
                                                                             <img
-                                                                                src="/wp-content/uploads/2022/11/hqdefaul12t.webp"
+                                                                                src="https://images.unsplash.com/photo-1498049794561-7780e7231661?w=480&h=360&auto=format&fit=crop"
                                                                             />
                                                                             <button>
                                                                                 <img
-                                                                                    src="/wp-content/uploads/2022/11/play.png"
+                                                                                    src="https://img.icons8.com/material-rounded/96/ffffff/play--v1.png"
                                                                                     alt=""
                                                                                 />
                                                                             </button>
@@ -1751,11 +1251,11 @@
                                                                             rel="noopener"
                                                                         >
                                                                             <img
-                                                                                src="/wp-content/uploads/2022/11/hqdefaul121t.webp"
+                                                                                src="https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=480&h=360&auto=format&fit=crop"
                                                                             />
                                                                             <button>
                                                                                 <img
-                                                                                    src="/wp-content/uploads/2022/11/play.png"
+                                                                                    src="https://img.icons8.com/material-rounded/96/ffffff/play--v1.png"
                                                                                     alt=""
                                                                                 />
                                                                             </button>
@@ -1775,11 +1275,11 @@
                                                                             rel="noopener"
                                                                         >
                                                                             <img
-                                                                                src="/wp-content/uploads/2022/11/hqdefault.webp"
+                                                                                src="https://images.unsplash.com/photo-1593508512255-86ab42a8e620?w=480&h=360&auto=format&fit=crop"
                                                                             />
                                                                             <button>
                                                                                 <img
-                                                                                    src="/wp-content/uploads/2022/11/play.png"
+                                                                                    src="https://img.icons8.com/material-rounded/96/ffffff/play--v1.png"
                                                                                     alt=""
                                                                                 />
                                                                             </button>
@@ -1807,8 +1307,10 @@
                                                 --divider-width: 100%;
                                             }
                                         </style>
-                                    </section>
-                                </div>
+                                     </section>
+                                 </div>
+                            </div>
+                    </section>
+                </div>
 
-                                
 <?php get_footer(); ?>
