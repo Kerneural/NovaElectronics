@@ -291,7 +291,7 @@
 						<div class="product-small box product_giasoc has-hover box-normal box-text-bottom">
 							<div class="box-image" >
 								<div class="image-cover" style="padding-top:100%;">
-									<a href="/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2/" aria-label="Dàn nóng điều hòa multi LG A4UW24GFA2 24000BTU 2 way inverter">
+									<a href="/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2/" aria-label="Multi air conditioner outdoor unit LG A4UW24GFA2 24000BTU 2 way inverter">
 										<img width="600" height="450" src="/wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2.jpg" class="attachment-original size-original" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2.jpg 600w, /wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-300x225.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />									</a>
 																		 								</div>
 								<div class="image-tools top right show-on-hover">
@@ -301,7 +301,7 @@
 																							</div>
 
 							<div class="box-text text-center" >
-								<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Dàn nóng điều hòa multi LG A4UW24GFA2 24000BTU 2 way inverter</a></p></div><div class="price-wrapper"><div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Rated <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 reviews</div></div>
+								<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Multi air conditioner outdoor unit LG A4UW24GFA2 24000BTU 2 way inverter</a></p></div><div class="price-wrapper"><div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Rated <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 reviews</div></div>
 	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>28.000.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>24.850.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins></span>
 </div>							</div>
 						</div>
@@ -315,7 +315,7 @@
 						<div class="product-small box product_giasoc has-hover box-normal box-text-bottom">
 							<div class="box-image" >
 								<div class="image-cover" style="padding-top:100%;">
-									<a href="/dan-lanh-multi-lg-18000btu-2-chieu-inverter-amnw18gskb0/" aria-label="Dàn lạnh điều hòa multi LG 18000BTU AMNW18GSKB0 2 way inverter">
+									<a href="/dan-lanh-multi-lg-18000btu-2-chieu-inverter-amnw18gskb0/" aria-label="LG multi air conditioner indoor unit 18000BTU AMNW18GSKB0 2 way inverter">
 										<img width="600" height="450" src="/wp-content/uploads/2022/11/lg-multi-2-chieu.jpg" class="attachment-original size-original" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/lg-multi-2-chieu.jpg 600w, /wp-content/uploads/2022/11/lg-multi-2-chieu-300x225.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />									</a>
 																		 								</div>
 								<div class="image-tools top right show-on-hover">
@@ -325,7 +325,7 @@
 																							</div>
 
 							<div class="box-text text-center" >
-								<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="/dan-lanh-multi-lg-18000btu-2-chieu-inverter-amnw18gskb0/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Dàn lạnh điều hòa multi LG 18000BTU AMNW18GSKB0 2 way inverter</a></p></div><div class="price-wrapper"><div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Rated <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 reviews</div></div>
+								<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="/dan-lanh-multi-lg-18000btu-2-chieu-inverter-amnw18gskb0/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">LG multi air conditioner indoor unit 18000BTU AMNW18GSKB0 2 way inverter</a></p></div><div class="price-wrapper"><div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Rated <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 reviews</div></div>
 	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>6.980.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>5.970.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins></span>
 </div>							</div>
 						</div>
@@ -339,7 +339,7 @@
 						<div class="product-small box product_giasoc has-hover box-normal box-text-bottom">
 							<div class="box-image" >
 								<div class="image-cover" style="padding-top:100%;">
-									<a href="/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua0/" aria-label="Dàn lạnh điều hòa multi LG 9.000BTU AMNW09GTUA0 2 way inverter">
+									<a href="/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua0/" aria-label="LG multi air conditioner indoor unit 9,000BTU AMNW09GTUA0 2 way inverter">
 										<img width="600" height="400" src="/wp-content/uploads/2022/11/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua00.jpg" class="attachment-original size-original" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua00.jpg 600w, /wp-content/uploads/2022/11/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua00-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />									</a>
 																		 								</div>
 								<div class="image-tools top right show-on-hover">
@@ -349,7 +349,7 @@
 																							</div>
 
 							<div class="box-text text-center" >
-								<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua0/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Dàn lạnh điều hòa multi LG 9.000BTU AMNW09GTUA0 2 way inverter</a></p></div><div class="price-wrapper"><div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:100%">Rated <strong class="rating">5.00</strong> 5 sao</span></div><div class="count-rating">1 reviews</div></div>
+								<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua0/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">LG multi air conditioner indoor unit 9,000BTU AMNW09GTUA0 2 way inverter</a></p></div><div class="price-wrapper"><div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:100%">Rated <strong class="rating">5.00</strong> 5 sao</span></div><div class="count-rating">1 reviews</div></div>
 	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>9.890.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>7.830.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins></span>
 </div>							</div>
 						</div>
@@ -422,7 +422,7 @@
 			
 
 <a href="/san-pham/" target="_self" class="button primary btn_home"  >
-    <span>Xem tất cả</span>
+    <span>See all</span>
   </a>
 
 
@@ -486,7 +486,7 @@
 			
 			
 
-<h3 class="title_ar_product">Danh mục nổi bật</h3>
+<h3 class="title_ar_product">Featured categories</h3>
 
   
     <div class="row large-columns-6 medium-columns-3 small-columns-2 row-small slider row-slider slider-nav-simple slider-nav-push"  data-flickity-options='{"imagesLoaded": true, "groupCells": "100%", "dragThreshold" : 5, "cellAlign": "left","wrapAround": true,"prevNextButtons": true,"percentPosition": true,"pageDots": false, "rightToLeft": false, "autoPlay" : 4000}'>
@@ -645,7 +645,7 @@
                         
                       <div class="view-all">
                              <a class="title-link" href="/air-conditioner/">
-                                  <span class="xemthem">Xem tất cả</span>
+                                  <span class="xemthem">See all</span>
                              </a>
                          </div>
                    </ul>
@@ -687,7 +687,7 @@
 						<div class="product-small box product_home has-hover box-normal box-text-bottom">
 							<div class="box-image" >
 								<div class="image-cover" style="padding-top:100%;">
-									<a href="/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2/" aria-label="Dàn nóng điều hòa multi LG A4UW24GFA2 24000BTU 2 way inverter">
+									<a href="/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2/" aria-label="Multi air conditioner outdoor unit LG A4UW24GFA2 24000BTU 2 way inverter">
 										<img width="600" height="450" src="/wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2.jpg" class="attachment-original size-original" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2.jpg 600w, /wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-300x225.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />									</a>
 																		 								</div>
 								<div class="image-tools top right show-on-hover">
@@ -697,7 +697,7 @@
 																							</div>
 
 							<div class="box-text text-center" >
-								<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Dàn nóng điều hòa multi LG A4UW24GFA2 24000BTU 2 way inverter</a></p></div><div class="price-wrapper"><div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Rated <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 reviews</div></div>
+								<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Multi air conditioner outdoor unit LG A4UW24GFA2 24000BTU 2 way inverter</a></p></div><div class="price-wrapper"><div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Rated <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 reviews</div></div>
 	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>28.000.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>24.850.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins></span>
 </div>							</div>
 						</div>
@@ -711,7 +711,7 @@
 						<div class="product-small box product_home has-hover box-normal box-text-bottom">
 							<div class="box-image" >
 								<div class="image-cover" style="padding-top:100%;">
-									<a href="/dan-lanh-multi-lg-18000btu-2-chieu-inverter-amnw18gskb0/" aria-label="Dàn lạnh điều hòa multi LG 18000BTU AMNW18GSKB0 2 way inverter">
+									<a href="/dan-lanh-multi-lg-18000btu-2-chieu-inverter-amnw18gskb0/" aria-label="LG multi air conditioner indoor unit 18000BTU AMNW18GSKB0 2 way inverter">
 										<img width="600" height="450" src="/wp-content/uploads/2022/11/lg-multi-2-chieu.jpg" class="attachment-original size-original" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/lg-multi-2-chieu.jpg 600w, /wp-content/uploads/2022/11/lg-multi-2-chieu-300x225.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />									</a>
 																		 								</div>
 								<div class="image-tools top right show-on-hover">
@@ -721,7 +721,7 @@
 																							</div>
 
 							<div class="box-text text-center" >
-								<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="/dan-lanh-multi-lg-18000btu-2-chieu-inverter-amnw18gskb0/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Dàn lạnh điều hòa multi LG 18000BTU AMNW18GSKB0 2 way inverter</a></p></div><div class="price-wrapper"><div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Rated <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 reviews</div></div>
+								<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="/dan-lanh-multi-lg-18000btu-2-chieu-inverter-amnw18gskb0/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">LG multi air conditioner indoor unit 18000BTU AMNW18GSKB0 2 way inverter</a></p></div><div class="price-wrapper"><div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Rated <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 reviews</div></div>
 	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>6.980.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>5.970.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins></span>
 </div>							</div>
 						</div>
@@ -735,7 +735,7 @@
 						<div class="product-small box product_home has-hover box-normal box-text-bottom">
 							<div class="box-image" >
 								<div class="image-cover" style="padding-top:100%;">
-									<a href="/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua0/" aria-label="Dàn lạnh điều hòa multi LG 9.000BTU AMNW09GTUA0 2 way inverter">
+									<a href="/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua0/" aria-label="LG multi air conditioner indoor unit 9,000BTU AMNW09GTUA0 2 way inverter">
 										<img width="600" height="400" src="/wp-content/uploads/2022/11/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua00.jpg" class="attachment-original size-original" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua00.jpg 600w, /wp-content/uploads/2022/11/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua00-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />									</a>
 																		 								</div>
 								<div class="image-tools top right show-on-hover">
@@ -745,7 +745,7 @@
 																							</div>
 
 							<div class="box-text text-center" >
-								<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua0/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Dàn lạnh điều hòa multi LG 9.000BTU AMNW09GTUA0 2 way inverter</a></p></div><div class="price-wrapper"><div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:100%">Rated <strong class="rating">5.00</strong> 5 sao</span></div><div class="count-rating">1 reviews</div></div>
+								<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua0/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">LG multi air conditioner indoor unit 9,000BTU AMNW09GTUA0 2 way inverter</a></p></div><div class="price-wrapper"><div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:100%">Rated <strong class="rating">5.00</strong> 5 sao</span></div><div class="count-rating">1 reviews</div></div>
 	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>9.890.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>7.830.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins></span>
 </div>							</div>
 						</div>
@@ -957,7 +957,7 @@
                         
                       <div class="view-all">
                              <a class="title-link" href="/washing-machine/">
-                                  <span class="xemthem">Xem tất cả</span>
+                                  <span class="xemthem">See all</span>
                              </a>
                          </div>
                    </ul>
@@ -1054,7 +1054,7 @@
                         
                       <div class="view-all">
                              <a class="title-link" href="/tv/">
-                                  <span class="xemthem">Xem tất cả</span>
+                                  <span class="xemthem">See all</span>
                              </a>
                          </div>
                    </ul>
@@ -1150,7 +1150,7 @@
                         
                       <div class="view-all">
                              <a class="title-link" href="/refrigerator/">
-                                  <span class="xemthem">Xem tất cả</span>
+                                  <span class="xemthem">See all</span>
                              </a>
                          </div>
                    </ul>
@@ -1255,9 +1255,9 @@
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
-										<p class="from_the_blog_excerpt ">Chế độ Econavi của tủ lạnh Panasonic là gì? Chế độ Econavi của tủ lạnh Panasonic là công nghệ cảm...					</p>
+										<p class="from_the_blog_excerpt ">What is the Econavi mode of Panasonic refrigerators? Panasonic refrigerator's Econavi mode is a sensor technology...					</p>
 					                    
 					
 					
@@ -1278,9 +1278,9 @@
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
-										<p class="from_the_blog_excerpt ">Chế độ Econavi của tủ lạnh Panasonic là gì? Chế độ Econavi của tủ lạnh Panasonic là công nghệ cảm...					</p>
+										<p class="from_the_blog_excerpt ">What is the Econavi mode of Panasonic refrigerators? Panasonic refrigerator's Econavi mode is a sensor technology...					</p>
 					                    
 					
 					
@@ -1301,9 +1301,9 @@
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
-										<p class="from_the_blog_excerpt ">Chế độ Econavi của tủ lạnh Panasonic là gì? Chế độ Econavi của tủ lạnh Panasonic là công nghệ cảm...					</p>
+										<p class="from_the_blog_excerpt ">What is the Econavi mode of Panasonic refrigerators? Panasonic refrigerator's Econavi mode is a sensor technology...					</p>
 					                    
 					
 					
@@ -1324,9 +1324,9 @@
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
-										<p class="from_the_blog_excerpt ">Chế độ Econavi của tủ lạnh Panasonic là gì? Chế độ Econavi của tủ lạnh Panasonic là công nghệ cảm...					</p>
+										<p class="from_the_blog_excerpt ">What is the Econavi mode of Panasonic refrigerators? Panasonic refrigerator's Econavi mode is a sensor technology...					</p>
 					                    
 					
 					
@@ -1347,9 +1347,9 @@
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
-										<p class="from_the_blog_excerpt ">Chế độ Econavi của tủ lạnh Panasonic là gì? Chế độ Econavi của tủ lạnh Panasonic là công nghệ cảm...					</p>
+										<p class="from_the_blog_excerpt ">What is the Econavi mode of Panasonic refrigerators? Panasonic refrigerator's Econavi mode is a sensor technology...					</p>
 					                    
 					
 					
@@ -1370,9 +1370,9 @@
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
-										<p class="from_the_blog_excerpt ">Chế độ Econavi của tủ lạnh Panasonic là gì? Chế độ Econavi của tủ lạnh Panasonic là công nghệ cảm...					</p>
+										<p class="from_the_blog_excerpt ">What is the Econavi mode of Panasonic refrigerators? Panasonic refrigerator's Econavi mode is a sensor technology...					</p>
 					                    
 					
 					
@@ -1393,9 +1393,9 @@
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
-										<p class="from_the_blog_excerpt ">Chế độ Econavi của tủ lạnh Panasonic là gì? Chế độ Econavi của tủ lạnh Panasonic là công nghệ cảm...					</p>
+										<p class="from_the_blog_excerpt ">What is the Econavi mode of Panasonic refrigerators? Panasonic refrigerator's Econavi mode is a sensor technology...					</p>
 					                    
 					
 					
@@ -1439,9 +1439,9 @@
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
-										<p class="from_the_blog_excerpt ">Chế độ Econavi của tủ lạnh Panasonic là gì? Chế độ Econavi của tủ lạnh Panasonic là công nghệ cảm...					</p>
+										<p class="from_the_blog_excerpt ">What is the Econavi mode of Panasonic refrigerators? Panasonic refrigerator's Econavi mode is a sensor technology...					</p>
 					                    
 					
 					
@@ -1462,9 +1462,9 @@
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
-										<p class="from_the_blog_excerpt ">Chế độ Econavi của tủ lạnh Panasonic là gì? Chế độ Econavi của tủ lạnh Panasonic là công nghệ cảm...					</p>
+										<p class="from_the_blog_excerpt ">What is the Econavi mode of Panasonic refrigerators? Panasonic refrigerator's Econavi mode is a sensor technology...					</p>
 					                    
 					
 					
@@ -1485,9 +1485,9 @@
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
-										<p class="from_the_blog_excerpt ">Chế độ Econavi của tủ lạnh Panasonic là gì? Chế độ Econavi của tủ lạnh Panasonic là công nghệ cảm...					</p>
+										<p class="from_the_blog_excerpt ">What is the Econavi mode of Panasonic refrigerators? Panasonic refrigerator's Econavi mode is a sensor technology...					</p>
 					                    
 					
 					
@@ -1508,9 +1508,9 @@
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
-										<p class="from_the_blog_excerpt ">Chế độ Econavi của tủ lạnh Panasonic là gì? Chế độ Econavi của tủ lạnh Panasonic là công nghệ cảm...					</p>
+										<p class="from_the_blog_excerpt ">What is the Econavi mode of Panasonic refrigerators? Panasonic refrigerator's Econavi mode is a sensor technology...					</p>
 					                    
 					
 					
@@ -1531,9 +1531,9 @@
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
-										<p class="from_the_blog_excerpt ">Chế độ Econavi của tủ lạnh Panasonic là gì? Chế độ Econavi của tủ lạnh Panasonic là công nghệ cảm...					</p>
+										<p class="from_the_blog_excerpt ">What is the Econavi mode of Panasonic refrigerators? Panasonic refrigerator's Econavi mode is a sensor technology...					</p>
 					                    
 					
 					
@@ -1596,7 +1596,7 @@
 	<div id="text-2511233975" class="text">
 		
 
-<h2 class="title_listshowroom">Đánh giá của khách hàng</h2>
+<h2 class="title_listshowroom">Customer reviews</h2>
 		
 <style>
 #text-2511233975 {
@@ -1638,8 +1638,8 @@
 	<div id="text-1823471518" class="text">
 		
 
-<h3>Nguyễn Thị lệ</h3>
-<p>“Chuỗi dự án của chúng tôi đã sử dụng các sản phẩm của Điện máy thịnh phát. Đến hay đã qua 2 năm sử dụng, hiện tại chất lượng vẫn được đảm bảo, các con vít vẫn rất chắc chắn. Rất hài lòng”</p>
+<h3>Nguyen Thi Le</h3>
+<p>"Our project chain has used Dien May Thinh Phat products. Whether or not it has been 2 years of use, the quality is still guaranteed, the screws are still very sturdy. Very satisfied"</p>
 		
 <style>
 #text-1823471518 {
@@ -1681,8 +1681,8 @@
 	<div id="text-598755621" class="text">
 		
 
-<h3>Hoàng thanh vương</h3>
-<p>“Chuỗi dự án của chúng tôi đã sử dụng các sản phẩm của Điện máy thịnh phát. Đến hay đã qua 2 năm sử dụng, hiện tại chất lượng vẫn được đảm bảo, các con vít vẫn rất chắc chắn. Rất hài lòng”</p>
+<h3>Hoang Thanh King</h3>
+<p>"Our project chain has used Dien May Thinh Phat products. Whether or not it has been 2 years of use, the quality is still guaranteed, the screws are still very sturdy. Very satisfied"</p>
 		
 <style>
 #text-598755621 {
@@ -1724,8 +1724,8 @@
 	<div id="text-3155147691" class="text">
 		
 
-<h3>TRẦN thị hoan</h3>
-<p>“Chuỗi dự án của chúng tôi đã sử dụng các sản phẩm của Điện máy thịnh phát. Đến hay đã qua 2 năm sử dụng, hiện tại chất lượng vẫn được đảm bảo, các con vít vẫn rất chắc chắn. Rất hài lòng”</p>
+<h3>TRAN is happy</h3>
+<p>"Our project chain has used Dien May Thinh Phat products. Whether or not it has been 2 years of use, the quality is still guaranteed, the screws are still very sturdy. Very satisfied"</p>
 		
 <style>
 #text-3155147691 {
@@ -1802,7 +1802,7 @@
 	<div id="col-894804237" class="col small-12 large-12"  >
 				<div class="col-inner"  >
 			
-				    <h2 class="title_listshowroom">Video Nổi Bật</h2>
+				    <h2 class="title_listshowroom">Featured Videos</h2>
     <div class="row row-small video_slider">
                 <div class="col medium-4 small-12 large-4 carousel-cell video_item">
             <div class="col-inner">

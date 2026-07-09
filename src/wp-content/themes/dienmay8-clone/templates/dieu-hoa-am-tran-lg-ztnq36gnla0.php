@@ -93,7 +93,7 @@
     <div data-thumb="/wp-content/uploads/2022/11/air-conditioner-am-tran-100x100.jpg" data-thumb-alt="" class="woocommerce-product-gallery__image slide first"><a href="/wp-content/uploads/2022/11/air-conditioner-am-tran.jpg"><img width="600" height="600" src="/wp-content/uploads/2022/11/air-conditioner-am-tran.jpg" class="wp-post-image skip-lazy" alt="" decoding="async" loading="lazy" title="dieu hoa am tran" data-caption="" data-src="/wp-content/uploads/2022/11/air-conditioner-am-tran.jpg" data-large_image="/wp-content/uploads/2022/11/air-conditioner-am-tran.jpg" data-large_image_width="600" data-large_image_height="600" srcset="/wp-content/uploads/2022/11/air-conditioner-am-tran.jpg 600w, /wp-content/uploads/2022/11/air-conditioner-am-tran-300x300.jpg 300w, /wp-content/uploads/2022/11/air-conditioner-am-tran-150x150.jpg 150w, /wp-content/uploads/2022/11/air-conditioner-am-tran-100x100.jpg 100w" sizes="(max-width: 600px) 100vw, 600px" /></a></div>  </figure>
 
   <div class="image-tools absolute bottom left z-3">
-        <a href="#product-zoom" class="zoom-button button is-outline circle icon tooltip hide-for-small" title="Phóng to">
+        <a href="#product-zoom" class="zoom-button button is-outline circle icon tooltip hide-for-small" title="Enlarge">
       <i class="icon-expand" ></i>    </a>
    </div>
 </div>
@@ -136,7 +136,7 @@
 
  
             <div class="title_item">
-        <span>Origin&nbsp;</span> <span class="cl"><b>Thái Lan</b></span>
+        <span>Origin&nbsp;</span> <span class="cl"><b>Thailand</b></span>
     </div>
         <div class="title_item">
         <span>Product Code&nbsp;</span> <span class="cl"><b>	
@@ -176,7 +176,7 @@
 
 <div class="khaosat_content">
 				<div class="khaosat_header">
-					<h3>Register for installation đặt tại nhà</h3>
+					<h3>Register for installation at home</h3>
 				</div>	
 
 				<div class="khaosat_product">
@@ -186,7 +186,7 @@
                                 Cassette Air Conditioner LG 1 way Inverter 36.000btu ZTNQ36GNLA0 | 2022                            </h1>
                             <div class="bottom_title">
                                                                                                                                                                 <div class="title_item">
-                                    <span>Origin&nbsp;</span> <span class="cl"><b>Thái Lan</b></span>
+                                    <span>Origin&nbsp;</span> <span class="cl"><b>Thailand</b></span>
                                 </div>
                                                                 <div class="title_item">
                                     <span>Product Code&nbsp;</span> <span class="cl"><b>	
@@ -199,7 +199,7 @@
                         
 <div class="wpcf7 no-js" id="wpcf7-f1649-p1614-o1" lang="vi" dir="ltr">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-<form action="/air-conditioner-am-tran-lg-ztnq36gnla0/#wpcf7-f1649-p1614-o1" method="post" class="wpcf7-form init" aria-label="Form liên hệ" novalidate="novalidate" data-status="init">
+<form action="/air-conditioner-am-tran-lg-ztnq36gnla0/#wpcf7-f1649-p1614-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1649" />
 <input type="hidden" name="_wpcf7_version" value="5.8.7" />
@@ -210,23 +210,23 @@
 </div>
 <div class="cf-container form_ks">
 	<div class="cf-col-6">
-		<p><label> Họ và tên *<br />
-<span class="wpcf7-form-control-wrap" data-name="ks_ht"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Nhập họ và tên" value="" type="text" name="ks_ht" /></span></label>
+		<p><label> Full name *<br />
+<span class="wpcf7-form-control-wrap" data-name="ks_ht"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Enter first and last name" value="" type="text" name="ks_ht" /></span></label>
 		</p>
 	</div>
 	<div class="cf-col-6">
-		<p><label> Số điện thoại<br />
-<span class="wpcf7-form-control-wrap" data-name="ks_tel"><input size="40" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Nhập số điện thoại" value="" type="tel" name="ks_tel" /></span></label>
+		<p><label> Phone number<br />
+<span class="wpcf7-form-control-wrap" data-name="ks_tel"><input size="40" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Enter phone number" value="" type="tel" name="ks_tel" /></span></label>
 		</p>
 	</div>
 	<div class="cf-col-12 ">
-		<p><label> Địa chỉ *<br />
-<span class="wpcf7-form-control-wrap" data-name="ks_addres"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Nhập địa chỉ" value="" type="text" name="ks_addres" /></span></label><br />
-<label> Lời nhắn cần lưu ý cho Thịnh Phát<br />
-<span class="wpcf7-form-control-wrap" data-name="ks_ly"><textarea cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Nhập lưu ý" name="ks_ly"></textarea></span></label>
+		<p><label> Address *<br />
+<span class="wpcf7-form-control-wrap" data-name="ks_addres"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Enter the address" value="" type="text" name="ks_addres" /></span></label><br />
+<label> Message to note for Thinh Phat<br />
+<span class="wpcf7-form-control-wrap" data-name="ks_ly"><textarea cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Enter note" name="ks_ly"></textarea></span></label>
 		</p>
 		<div class="text-center">
-			<p><input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Nhận tư vấn" />
+			<p><input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Get advice" />
 			</p>
 		</div>
 	</div>
@@ -279,9 +279,9 @@
 			
 
 <div class="product-short-description">
-	<p><strong><img class="alignnone wp-image-10976 size-full entered lazyloaded" src="/wp-content/uploads/2021/01/xem-ngay.gif" alt="xem-ngay" width="25" height="12" data-lazy-src="/wp-content/uploads/2021/01/xem-ngay.gif" data-ll-status="loaded" /> Free Shipping nội thành Hà Nội</strong></p>
-<p><strong><img class="alignnone size-full wp-image-10975 entered lazyloaded" src="/wp-content/uploads/2021/01/xem-ngay.gif" alt="xem-ngay" width="22" height="15" data-lazy-src="/wp-content/uploads/2021/01/xem-ngay.gif" data-ll-status="loaded" /> Bảng báo giá nhân công – vật tư lắp đặt tại Thịnh Phát</strong></p>
-<p><strong><img class="alignnone size-full wp-image-10975 entered lazyloaded" src="/wp-content/uploads/2021/01/xem-ngay.gif" alt="xem-ngay" width="22" height="15" data-lazy-src="/wp-content/uploads/2021/01/xem-ngay.gif" data-ll-status="loaded" /> Góp ý – phản ánh chất lượng dịch vụ</strong></p>
+	<p><strong><img class="alignnone wp-image-10976 size-full entered lazyloaded" src="/wp-content/uploads/2021/01/xem-ngay.gif" alt="xem-ngay" width="25" height="12" data-lazy-src="/wp-content/uploads/2021/01/xem-ngay.gif" data-ll-status="loaded" /> Free Shipping within Hanoi</strong></p>
+<p><strong><img class="alignnone size-full wp-image-10975 entered lazyloaded" src="/wp-content/uploads/2021/01/xem-ngay.gif" alt="xem-ngay" width="22" height="15" data-lazy-src="/wp-content/uploads/2021/01/xem-ngay.gif" data-ll-status="loaded" /> Price list for labor and installation materials at Thinh Phat</strong></p>
+<p><strong><img class="alignnone size-full wp-image-10975 entered lazyloaded" src="/wp-content/uploads/2021/01/xem-ngay.gif" alt="xem-ngay" width="22" height="15" data-lazy-src="/wp-content/uploads/2021/01/xem-ngay.gif" data-ll-status="loaded" /> Feedback - reflects service quality</strong></p>
 </div>
 
 
@@ -307,12 +307,12 @@
 
 
 
-<h4 class="title-ribbon">ưu đãi chỉ có tại Brandshop Thịnh Phát</h4>
+<h4 class="title-ribbon">Offer only available at Brandshop Thinh Phat</h4>
 
 
 <div class="wpcf7 no-js" id="wpcf7-f1294-p1614-o2" lang="vi" dir="ltr">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-<form action="/air-conditioner-am-tran-lg-ztnq36gnla0/#wpcf7-f1294-p1614-o2" method="post" class="wpcf7-form init" aria-label="Form liên hệ" novalidate="novalidate" data-status="init">
+<form action="/air-conditioner-am-tran-lg-ztnq36gnla0/#wpcf7-f1294-p1614-o2" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1294" />
 <input type="hidden" name="_wpcf7_version" value="5.8.7" />
@@ -321,8 +321,8 @@
 <input type="hidden" name="_wpcf7_container_post" value="1614" />
 <input type="hidden" name="_wpcf7_posted_data_hash" value="" />
 </div>
-<p><span class="wpcf7-form-control-wrap" data-name="telkm"><input size="40" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel form_km" aria-required="true" aria-invalid="false" placeholder="Nhập số điện thoại nhận thông tin promotions" value="" type="tel" name="telkm" /></span><br />
-<input class="wpcf7-form-control wpcf7-submit has-spinner form_km" type="submit" value="Đăng ký ngay" />
+<p><span class="wpcf7-form-control-wrap" data-name="telkm"><input size="40" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel form_km" aria-required="true" aria-invalid="false" placeholder="Enter phone number to receive promotion information" value="" type="tel" name="telkm" /></span><br />
+<input class="wpcf7-form-control wpcf7-submit has-spinner form_km" type="submit" value="Register now" />
 </p><div class="wpcf7-response-output" aria-hidden="true"></div>
 </form>
 </div>
@@ -406,7 +406,7 @@
                     </svg>
 
                 </div> 
-            <h3 class="product_icon_title"><span class="relative">tại sao mua hàng ở Thịnh phát</span></h3>
+            <h3 class="product_icon_title"><span class="relative">Why buy at Thinh Phat?</span></h3>
         </div>
                 <ul class="why_product">
                         <li class="why_item">
@@ -421,35 +421,35 @@
                     <img src="/wp-content/uploads/2022/11/item2.png" alt="" srcset="">
                 </div>
                 <div class="why_text">
-                    Nhân viên tư vấn nhiệt tình                </div>
+                    Enthusiastic consulting staff                </div>
             </li>
                         <li class="why_item">
                 <div>
                     <img src="/wp-content/uploads/2022/11/item3.png" alt="" srcset="">
                 </div>
                 <div class="why_text">
-                    Đội ngũ lắp đặt chuyên nghiệp                </div>
+                    Professional installation team                </div>
             </li>
                         <li class="why_item">
                 <div>
                     <img src="/wp-content/uploads/2022/11/item4.png" alt="" srcset="">
                 </div>
                 <div class="why_text">
-                    Policy đổi trả linh hoạt                </div>
+                    Flexible return policy                </div>
             </li>
                         <li class="why_item">
                 <div>
                     <img src="/wp-content/uploads/2022/11/item5.png" alt="" srcset="">
                 </div>
                 <div class="why_text">
-                    Miễn phí vận chuyển nội thành Hà Nội                </div>
+                    Free shipping within Hanoi                </div>
             </li>
                         <li class="why_item">
                 <div>
                     <img src="/wp-content/uploads/2022/11/item7.png" alt="" srcset="">
                 </div>
                 <div class="why_text">
-                    Thanh toán thuận tiện                </div>
+                    Convenient payment                </div>
             </li>
                     </ul>
     
@@ -503,14 +503,14 @@
                 </defs>
                 </svg>
                 </div> 
-            <h3 class="product_icon_title"><span class="relative">Hệ thống kho hàng</span></h3>
+            <h3 class="product_icon_title"><span class="relative">Warehouse system</span></h3>
         </div>
                     <div class="showroom_product">
                                                                                         <div class="showroom_product_item">
-                                <h4 >Trụ sở chính</h4>
+                                <h4 >Headquarters</h4>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/pin.svg" > 
-                                    <span>Số 19A, Đường Bát Khối, Phường Long Biên, Quận Long Biên, Hà Nội</span>
+                                    <span>No. 19A, Bat Khoi Street, Long Bien Ward, Long Bien District, Hanoi</span>
                                 </div>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/phone.svg" > 
@@ -518,10 +518,10 @@
                                 </div>
                             </div>
                                                                                                                 <div class="showroom_product_item">
-                                <h4 >Kho 1:  Cảng Hà Nội</h4>
+                                <h4 >Kho 1:  Hanoi Port</h4>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/pin.svg" > 
-                                    <span>Cảng Hà Nội</span>
+                                    <span>Hanoi Port</span>
                                 </div>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/phone.svg" > 
@@ -529,10 +529,10 @@
                                 </div>
                             </div>
                                                                                                                 <div class="showroom_product_item">
-                                <h4 >Kho 2: Xuân Thủy - Cầu Giấy - Hà Nội</h4>
+                                <h4 >Warehouse 2: Xuan Thuy - Cau Giay - Hanoi</h4>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/pin.svg" > 
-                                    <span>Xuân Thủy - Cầu Giấy - Hà Nội</span>
+                                    <span>Xuan Thuy - Cau Giay - Hanoi</span>
                                 </div>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/phone.svg" > 
@@ -540,10 +540,10 @@
                                 </div>
                             </div>
                                                                                                                 <div class="showroom_product_item">
-                                <h4 >Kho 3: Nguyễn Trãi - Thanh Xuân</h4>
+                                <h4 >Warehouse 3: Nguyen Trai - Thanh Xuan</h4>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/pin.svg" > 
-                                    <span>Nguyễn Trãi - Thanh Xuân</span>
+                                    <span>Nguyen Trai - Thanh Xuan</span>
                                 </div>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/phone.svg" > 
@@ -551,10 +551,10 @@
                                 </div>
                             </div>
                                                                                                                 <div class="showroom_product_item">
-                                <h4 >Kho 4: Tháp Đồng hồ Văn Phú - Hà Đông - Hà Nội</h4>
+                                <h4 >Warehouse 4: Van Phu Clock Tower - Ha Dong - Hanoi</h4>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/pin.svg" > 
-                                    <span>Tháp Đồng hồ Văn Phú - Hà Đông - Hà Nội</span>
+                                    <span>Van Phu Clock Tower - Ha Dong - Hanoi</span>
                                 </div>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/phone.svg" > 
@@ -562,10 +562,10 @@
                                 </div>
                             </div>
                                                                                                                 <div class="showroom_product_item">
-                                <h4 >Chi nhánh Nam Định</h4>
+                                <h4 >Nam Dinh Branch</h4>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/pin.svg" > 
-                                    <span>QL 21B Tân Đình Liêm Hải Trực Ninh Nam Định</span>
+                                    <span>Highway 21B Tan Dinh Liem Hai Truc Ninh Nam Dinh</span>
                                 </div>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/phone.svg" > 
@@ -599,64 +599,64 @@
 
 
 
-<h3 class="single_product_title"><img src="/wp-content/uploads/2022/11/package-info.svg" ><span>Mô tả sản phẩm</span></h3>
+<h3 class="single_product_title"><img src="/wp-content/uploads/2022/11/package-info.svg" ><span>Product description</span></h3>
 
     <div class="content_product content_pr">
-        <p>Cassette Air Conditioner LG 1 way Inverter 36.000btu ZTNQ36GNLA0 là một trong số model điều hòa âm trần LG mới nhất ra mắt thị trường năm 2023 với thiết kế tinh tế hiện đại , cùng nhiều tính năng nổi bật mang đến không gian mát mẻ , dễ chịu cho người sử dụng</p>
+        <p>Cassette Air Conditioner LG 1 way Inverter 36,000btu ZTNQ36GNLA0 is one of the latest LG ceiling air conditioner models launched in 2023 with modern, sophisticated design and many outstanding features that bring a cool, comfortable space to the user.</p>
 <p><span style="font-size: 20px; color: #0000ff;">About Us Cassette Air Conditioner LG 1 way Inverter 36.000btu ZTNQ36GNLA0</span></p>
 <p><a href="//wp-content/uploads/2022/11/air-conditioner-am-tran-1.jpg" target="_blank" rel="noopener"><img decoding="async" loading="lazy" class="aligncenter wp-image-1606 size-full" src="//wp-content/uploads/2022/11/air-conditioner-am-tran-1.jpg" alt="" width="452" height="393" srcset="/wp-content/uploads/2022/11/air-conditioner-am-tran-1.jpg 452w, /wp-content/uploads/2022/11/air-conditioner-am-tran-1-300x261.jpg 300w" sizes="(max-width: 452px) 100vw, 452px" /></a></p>
-<p><span style="color: #0000ff; font-size: 20px;">Thiết kế mặt nạ độc đáo, sang trọng</span><br />
-Mặt nạ cassette 4 hướng thổi có cấu trúc nguyên khối, hài hòa với trần nhà cho không gian nhà bạn thêm sang trọng</p>
-<p><span style="color: #0000ff; font-size: 20px;">Kích thước nhỏ gọn</span><br />
-Thiết kế thanh mảnh và nhỏ gọn không chỉ tiết kiệm không gian mà còn giảm bớt chi phí lắp đặt</p>
-<p>Products được thiết kế phù hợp với mọi cấu trúc tòa nhà và vừa vặn với nhiều không gian khác nhau</p>
-<p>Với công suấtCassette Air Conditioner LG 1 way Inverter 36.000btu ZTNQ36GNLA0 phù hợp lắp đặt cho phòng có diện tích dưới 30m2 như : phòng khách, văn phòng, cửa hàng, nhà hàng….</p>
-<p><span style="font-size: 20px; color: #0000ff;">Save điện vượt trội với công nghệ Dual inverter</span><br />
-Đây là công nghệ tiên tiến nhất hiện nay không chỉ giúp tiết kiệm điện năng từ 30%-60% so với máy điều hòa thông thường mà máy còn hoạt động êm ái, không gây sốc nhiệt mang đến sự thoải mái dễ chịu cho người sử dụng</p>
-<p><span style="color: #0000ff; font-size: 20px;">Công nghệ làm lạnh nhanh</span><br />
+<p><span style="color: #0000ff; font-size: 20px;">Unique and luxurious mask design</span><br />
+The 4-way blowing cassette mask has a monolithic structure, in harmony with the ceiling, making your home space more luxurious</p>
+<p><span style="color: #0000ff; font-size: 20px;">Compact size</span><br />
+The slim and compact design not only saves space but also reduces installation costs</p>
+<p>Products are designed to suit all building structures and fit into many different spaces</p>
+<p>With the capacity of Cassette Air Conditioner LG 1 way Inverter 36,000btu ZTNQ36GNLA0 is suitable for installation in rooms with an area of ​​less than 30m2 such as: living room, office, store, restaurant...</p>
+<p><span style="font-size: 20px; color: #0000ff;">Save outstanding electricity with Dual inverter technology</span><br />
+This is the most advanced technology today that not only saves energy from 30% - 60% compared to conventional air conditioners, but also operates smoothly, without causing thermal shock, bringing comfort to the user.</p>
+<p><span style="color: #0000ff; font-size: 20px;">Fast cooling technology</span><br />
 <a href="//wp-content/uploads/2022/11/kha-nang-lam-mat.jpg" target="_blank" rel="noopener"><img decoding="async" loading="lazy" class="size-full wp-image-1607 aligncenter" src="//wp-content/uploads/2022/11/kha-nang-lam-mat.jpg" alt="" width="800" height="500" srcset="/wp-content/uploads/2022/11/kha-nang-lam-mat.jpg 800w, /wp-content/uploads/2022/11/kha-nang-lam-mat-300x188.jpg 300w, /wp-content/uploads/2022/11/kha-nang-lam-mat-600x375.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><br />
-Máy Cassette Air Conditioner LG 1 way Inverter 36.000btu ZTNQ36GNLA0 có công nghệ làm lạnh nhanh, luồng gió thổi gió 360 độ giúp phân bổ nhiệt độ đồng đều trong căn phòng mang lại không gian sống tươi mát, thoải mái dễ chịu.</p>
-<p><span style="color: #0000ff; font-size: 20px;">Mang đến không khí trong lành</span><br />
+LG Cassette Air Conditioner 1 way Inverter 36,000btu ZTNQ36GNLA0 has fast cooling technology, 360-degree airflow helps distribute temperature evenly in the room, bringing a fresh, comfortable living space.</p>
+<p><span style="color: #0000ff; font-size: 20px;">Brings fresh air</span><br />
 Cassette Air Conditioner LG 1 way Inverter 36.000btu ZTNQ36GNLA0  với chức năng lọc không khí 4 cấp thuận tiện và tiết kiệm mang đến luồng không khí mát lạnh, trong lành sảng khoái, bảo vệ tốt sức khỏe của người dùng</p>
-<p><span style="color: #0000ff; font-size: 20px;">Bền bỉ với thời gian</span><br />
-Cassette Air Conditioner âm trần LG 1 way Inverter 36.000btu ZTNQ36GNLA0 trang bị dàn đồng, cánh tản nhiệt được phủ một lớp màu vàng giúp ngăn ngừa tình trạng ăn mòn, kéo dài tuổi thọ của thiết bị</p>
-<p>Ngoài ra ,vỉ mạch / bo mạch của máy điều hòa âm trần được thiết kế đặc biệt nhằm bảo vệ máy hoạt động ổn định bền bỉ, chống cháy nổ trong môi trường điện áp không ổn định</p>
-<p><span style="font-size: 20px; color: #0000ff;">Products được sử dụng Gas R32 tiên tiến nhất</span><br />
-Máy Cassette Air Conditioner LG 1 way 36.000btu ZTNQ36GNLA0 sử dụng môi chất làm lạnh tối ưu mới nhất, tiên tiến nhất hiện nay gas R32 .Đây là dòng ga có hiệu suất làm lạnh cao, thân thiện với môi trường .</p>
-<p><span style="color: #0000ff; font-size: 20px;">Điều khiển điều hòa từ xa qua wifi</span><br />
+<p><span style="color: #0000ff; font-size: 20px;">Durable over time</span><br />
+Cassette Air Conditioner LG 1 way Inverter 36,000btu ZTNQ36GNLA0 is equipped with a copper frame and the heatsink is covered with a yellow layer to help prevent corrosion and prolong the life of the device.</p>
+<p>In addition, the circuit board / circuit board of the ceiling air conditioner is specially designed to protect the machine from operating stably and durable, preventing fire and explosion in unstable voltage environments.</p>
+<p><span style="font-size: 20px; color: #0000ff;">Products use the most advanced Gas R32</span><br />
+LG 1 way 36,000btu Cassette Air Conditioner ZTNQ36GNLA0 uses the newest and most advanced optimal refrigerant, R32 gas. This is a gas line with high cooling efficiency and is environmentally friendly.</p>
+<p><span style="color: #0000ff; font-size: 20px;">Remote control of air conditioner via wifi</span><br />
 <a href="//wp-content/uploads/2022/11/dieu-khien-tu-xa-air-conditioner.jpg" target="_blank" rel="noopener"><img decoding="async" loading="lazy" class="size-full wp-image-1608 aligncenter" src="//wp-content/uploads/2022/11/dieu-khien-tu-xa-air-conditioner.jpg" alt="" width="800" height="272" srcset="/wp-content/uploads/2022/11/dieu-khien-tu-xa-air-conditioner.jpg 800w, /wp-content/uploads/2022/11/dieu-khien-tu-xa-air-conditioner-300x102.jpg 300w, /wp-content/uploads/2022/11/dieu-khien-tu-xa-air-conditioner-600x204.jpg 600w" sizes="(max-width: 800px) 100vw, 800px" /></a><br />
-Máy Cassette Air Conditioner LG 1 way 36.000btu ZTNQ36GNLA0 được trang bị điều khiển từ xa kèm có màn hình LCD to hiển thị rõ ràng sắc nét các chế độ cài đặt, cùng các nút bấm tiện lợi…giúp bạn dễ dàng quan sát và sử dụng.</p>
-<p>Ngoài ra, máy điều hòa âm trần LG 1 way Inverter 36.000btu ZTNQ36GNLA0 còn được trang bị thêm công nghệ điều khiển qua wifi giúp bạn điều khiển máy điều hòa LG ở mọi lúc mọi nơi , dễ dàng cài đặt điều khiển mọi chế độ của máy (Bật / Tắt, điều chỉnh nhiệt độ, tốc độ quạt, chế độ làm lạnh / Hút ẩm / Auto…)</p>
-<p><span style="color: #0000ff; font-size: 20px;">Lắp đặt, vệ sinh bảo dưỡng điều hòa âm trần dễ dàng</span><br />
-Bơm nước ngưng được tích hợp sẵn trong máy Cassette Air Conditioner LG 1 way Inverter 32.000btu ZTNQ30GNLE0 hỗ trợ đẩy nước lên đầu ống thoát ở độ cao 700mm, giúp việc thoát nước được tốt hơn, tránh tình trạng rò rỉ nước chảy nước ở dàn lạnh cũng như hạn chế vi khuẩn nấm mốc, mùi hôi khó chịu.</p>
-<p><span style="color: #0000ff; font-size: 20px;">Dễ dàng lắp đặt, vệ sinh sửa chữa</span><br />
-Thiết kế phần góc có thể tháo rời giúp dễ dàng điều chỉnh ti treo trong quá trình lắp đặt và kiểm rò rỉ trong đường ống xả. Ngoài ra người dùng có thể dễ dàng lắp đặt mặt nạ vào phần thân bằng cách sử dụng thiết kế mặt nạ kiểu nút bấm.</p>
-<p><span style="color: #0000ff; font-size: 20px;">Địa chỉ mua điều hòa âm trần LG 1 way Inverter 36.000btu ZTNQ36GNLA0</span><br />
-Trên thị trường có rất nhiều đơn vị cung cấp điều hòa âm trần LG nhưng vì sao bạn nên lựa chọn Điện máy Thịnh Phát?</p>
-<p>Điện máy Thịnh Phát tự hào là Brandshop của điều hòa LG, vì vậy quý khách hàng hoàn toàn có thể yên tâm khi mua hàng tại đây.<br />
-Cam kết hàng chính hãng 100%, hàng nguyên đai nguyên kiện<br />
-Tất cả sản phẩm đều được kích hoạt warranty điện tử<br />
-Thịnh Phát bán hàng tại kho nên giá cả vô cùng cạnh tranh<br />
-Free Shipping nội thành Hà Nội<br />
-Hỗ trợ vận chuyển đi các tỉnh<br />
-Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tới hotline để được giải đáp nhanh nhất.</p>
-<p>Thông tin liên hệ:</p>
-<p>—Thông tin liên hệ—<br />
+LG 1 way 36,000btu Cassette Air Conditioner ZTNQ36GNLA0 is equipped with a remote control with a large LCD screen that clearly displays the installation modes, along with convenient buttons... making it easy to observe and use.</p>
+<p>In addition, the LG 1 way Inverter 36,000btu ceiling air conditioner ZTNQ36GNLA0 is also equipped with wifi control technology to help you control the LG air conditioner anytime, anywhere, easily set up and control all modes of the machine (On / Off, adjust temperature, fan speed, cooling mode / Dehumidification / Auto...)</p>
+<p><span style="color: #0000ff; font-size: 20px;">Installation, cleaning and maintenance of ceiling air conditioners are easy</span><br />
+The condensate pump built into the Cassette Air Conditioner LG 1 way Inverter 32,000btu ZTNQ30GNLE0 supports pushing water to the top of the drain pipe at a height of 700mm, helping to drain water better, avoiding water leaks in the condenser as well as limiting bacteria, mold, and unpleasant odors.</p>
+<p><span style="color: #0000ff; font-size: 20px;">Easy to install, clean and repair</span><br />
+The detachable corner design makes it easy to adjust the suspension bracket during installation and check for leaks in the exhaust pipe. In addition, users can easily install the mask to the body using the button-type mask design.</p>
+<p><span style="color: #0000ff; font-size: 20px;">Address to buy LG 1 way Inverter 36,000btu ceiling air conditioner ZTNQ36GNLA0</span><br />
+There are many LG ceiling air conditioner suppliers on the market, but why should you choose Thinh Phat Dien May?</p>
+<p>Thinh Phat Electronics is proud to be the Brandshop of LG air conditioners, so customers can completely rest assured when purchasing here.<br />
+Commitment to 100% genuine products, in original packaging<br />
+All products have electronic warranty activation<br />
+Thinh Phat sells goods at the warehouse so the prices are extremely competitive<br />
+Free Shipping within Hanoi<br />
+Support transportation to provinces<br />
+If you need advice about the product, please contact the hotline for the fastest response.</p>
+<p>Contact information:</p>
+<p>—Contact information—<br />
 ☎️Hotline: 0977.986.xxx<br />
 ???? Website: /<br />
 ???? Email : info@dailysmartlife.com<br />
-???? Hệ thống kho hàng:<br />
-✜ Kho 1: Cảng Hà Nội<br />
-✜ Kho 2: Xuân Thủy – Cầu Giấy – Hà Nội<br />
-✜ Kho 3: Nguyễn Trãi – Thanh Xuân<br />
-✜ Kho 4: Tháp Đồng hồ Văn Phú – Hà Đông – Hà Nội<br />
-✜ Chi nhánh Nam Định: QL 21B Tân Đình Liêm Hải Trực Ninh Nam Định<br />
-✜ Trụ sở chính: Số 19A, Đường Bát Khối, Phường Long Biên, Quận Long Biên, Hà Nội</p>
+???? Warehouse system:<br />
+✜ Warehouse 1: Hanoi Port<br />
+✜ Warehouse 2: Xuan Thuy – Cau Giay – Hanoi<br />
+✜ Warehouse 3: Nguyen Trai – Thanh Xuan<br />
+✜ Warehouse 4: Van Phu Clock Tower - Ha Dong - Hanoi<br />
+✜ Nam Dinh Branch: Highway 21B Tan Dinh Liem Hai Truc Ninh Nam Dinh<br />
+✜ Head office: No. 19A, Bat Khoi Street, Long Bien Ward, Long Bien District, Hanoi</p>
   
     </div>
     <div class="btn_loadmore btn_content">
-            <a href="javascript:void(0)">Read More nội dung</a>
-            <a href="javascript:void(0)">Collapse nội dung</a>
+            <a href="javascript:void(0)">Read More content</a>
+            <a href="javascript:void(0)">Collapse content</a>
         </div> 
         <script>
             (function($) {
@@ -689,8 +689,8 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
     <p>Specifications: Cassette Air Conditioner LG 1 way Inverter 36.000btu ZTNQ36GNLA0</p>
     </div>
         <div class="btn_loadmore btn_tskt">
-            <a href="javascript:void(0)">Read More nội dung</a>
-            <a href="javascript:void(0)">Collapse nội dung</a>
+            <a href="javascript:void(0)">Read More content</a>
+            <a href="javascript:void(0)">Collapse content</a>
         </div> 
         <script>
             (function($) {
@@ -717,13 +717,13 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 
 
 
-<h3 class="single_product_title"><img src="/wp-content/uploads/2022/11/package-info.svg" ><span>Products tương tự</span></h3>
+<h3 class="single_product_title"><img src="/wp-content/uploads/2022/11/package-info.svg" ><span>Similar products</span></h3>
 
 
 	<div class="related related-products-wrapper product-section">
 
 					<h3 class="product-section-title container-width product-section-title-related pt-half pb-half uppercase">
-				Products tương tự			</h3>
+				Similar products			</h3>
 		
 
 	
@@ -828,7 +828,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 
 
 
-<h3 class="single_product_title"><img src="/wp-content/uploads/2022/11/tag-name-2.svg" ><span>Chương trình giảm giá sale up to 50%</span></h3>
+<h3 class="single_product_title"><img src="/wp-content/uploads/2022/11/tag-name-2.svg" ><span>Sale up to 50% discount program</span></h3>
 
 
   
@@ -846,7 +846,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
 					                    
 					
@@ -868,7 +868,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
 					                    
 					
@@ -890,7 +890,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
 					                    
 					
@@ -912,7 +912,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
 					                    
 					
@@ -934,7 +934,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
 					                    
 					
@@ -956,7 +956,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
 					                    
 					
@@ -978,7 +978,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
 					                    
 					
@@ -1003,7 +1003,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 
   <div class="product-reviews">
   <h3 class="single_product_title"><img src="/wp-content/uploads/2022/11/review.svg" >
-  <span>Đánh giá (0)</span></h3>
+  <span>Reviews (0)</span></h3>
     <div id="reviews" class="woocommerce-Reviews">
 	<div id="comments">
 		<h2 class="woocommerce-Reviews-title">
@@ -1062,32 +1062,32 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
                                     </div>
             </div>
                         <div class="star_box_right">
-                <a href="javascript:void(0)" title="Đánh giá ngay" class="btn-reviews-now">Đánh giá ngay</a>
+                <a href="javascript:void(0)" title="Rate now" class="btn-reviews-now">Rate now</a>
             </div>
                     </div>
 
                     <div id="review_form_wrapper" class="mfp-hide">
                 <div id="review_form">
                     	<div id="respond" class="comment-respond">
-		<span id="reply-title" class="comment-reply-title">Đánh giá Cassette Air Conditioner LG 1 way Inverter 36.000btu ZTNQ36GNLA0 | 2022 <small><a rel="nofollow" id="cancel-comment-reply-link" href="/air-conditioner-am-tran-lg-ztnq36gnla0/#respond" style="display:none;">Hủy</a></small></span><form action="/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><div class="comment-form-comment"><textarea id="comment" name="comment" cols="45" rows="8" minlength="10" required placeholder="Mời bạn chia sẻ thêm một số cảm nhận..."></textarea></div><div class="wrap-attaddsend"><div class="review-attach"><span class="btn-attach devvn_insert_attach">Gửi ảnh thực tế</span></div><span id="countContent">0 ký tự (Tối thiểu 10)</span></div><div class="list_attach"><ul class="devvn_attach_view"></ul><span class="devvn_insert_attach"><i class="devvn-plus">+</i></span></div><div class="comment-form-rating"><label for="rating">Bạn cảm thấy thế nào về sản phẩm? (Chọn sao)</label><select name="rating" id="rating" required>
-						<option value="">Xếp hạng&hellip;</option>
-						<option value="5">Rất tốt</option>
-						<option value="4">Tốt</option>
-						<option value="3">Trung bình</option>
-						<option value="2">Không tệ</option>
-						<option value="1">Rất tệ</option>
-					</select></div><div class="form_row_reviews"><p class="comment-form-author"><input id="author" name="author" type="text" value="" size="30" required placeholder="Họ tên (bắt buộc)"/></p>
-<p class="comment-form-phone"><input id="phone" name="phone" type="text" size="30" required placeholder="Số điện thoại (Bắt buộc)"/></p>
+		<span id="reply-title" class="comment-reply-title">Review of Cassette Air Conditioner LG 1 way Inverter 36,000btu ZTNQ36GNLA0 | 2022 <small><a rel="nofollow" id="cancel-comment-reply-link" href="/air-conditioner-am-tran-lg-ztnq36gnla0/#respond" style="display:none;">Cancel</a></small></span><form action="/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><div class="comment-form-comment"><textarea id="comment" name="comment" cols="45" rows="8" minlength="10" required placeholder="Mời bạn chia sẻ thêm một số cảm nhận..."></textarea></div><div class="wrap-attaddsend"><div class="review-attach"><span class="btn-attach devvn_insert_attach">Send actual photos</span></div><span id="countContent">0 characters (Minimum 10)</span></div><div class="list_attach"><ul class="devvn_attach_view"></ul><span class="devvn_insert_attach"><i class="devvn-plus">+</i></span></div><div class="comment-form-rating"><label for="rating">How do you feel about the product? (Choose star)</label><select name="rating" id="rating" required>
+						<option value="">Rating&hellip;</option>
+						<option value="5">Very good</option>
+						<option value="4">Good</option>
+						<option value="3">Medium</option>
+						<option value="2">Not bad</option>
+						<option value="1">Very bad</option>
+					</select></div><div class="form_row_reviews"><p class="comment-form-author"><input id="author" name="author" type="text" value="" size="30" required placeholder="Full name (required)"/></p>
+<p class="comment-form-phone"><input id="phone" name="phone" type="text" size="30" required placeholder="Phone number (Required)"/></p>
 <p class="comment-form-email"><input id="email" name="email" type="email" value="" size="30" placeholder="Email"/></p></div>
-<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">Lưu tên của tôi, email, và trang web trong trình duyệt này cho lần bình luận kế tiếp của tôi.</label></p>
-<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Gửi reviews" /> <input type='hidden' name='comment_post_ID' value='1614' id='comment_post_ID' />
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Send reviews" /> <input type='hidden' name='comment_post_ID' value='1614' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='0' />
 </p></form>	</div><!-- #respond -->
-	<div class="note_review"><u>Lưu ý:</u> để reviews được phê duyệt, vui lòng tham khảo <a href="" title="" target="_blank"></a></div>                </div>
+	<div class="note_review"><u>Note:</u> For approved reviews, please refer <a href="" title="" target="_blank"></a></div>                </div>
                 <button type="button" data-fancybox-close="" class="fancybox-button fancybox-close-small" title="Close"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 12l5-5-1-1-5 5-5-5-1 1 5 5-5 5 1 1 5-5 5 5 1-1z"></path></svg></button>
             </div>
         
-					<p class="woocommerce-noreviews">Chưa có reviews nào.</p>
+					<p class="woocommerce-noreviews">There are no reviews yet.</p>
 			</div>
 
 	<div class="clear"></div>
@@ -1096,7 +1096,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
     <div class="devvn_cmt_form">
         <form action="" method="post" id="devvn_cmt">
         <div class="devvn_cmt_input">
-            <textarea placeholder="Mời bạn tham gia thảo luận, vui lòng nhập tiếng Việt có dấu." name="devvn_cmt_content" id="devvn_cmt_content" minlength="20"></textarea>
+            <textarea placeholder="Please join the discussion, please enter accented Vietnamese." name="devvn_cmt_content" id="devvn_cmt_content" minlength="20"></textarea>
         </div>
         <div class="devvn_cmt_form_bottom ">
                         <div class="devvn_cmt_radio">
@@ -1106,17 +1106,17 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
                 </label>
                 <label>
                     <input name="devvn_cmt_gender" type="radio" value="female"/>
-                    <span>Chị</span>
+                    <span>Older sister</span>
                 </label>
             </div>
             <div class="devvn_cmt_input">
-                <input name="devvn_cmt_name" type="text" id="devvn_cmt_name" placeholder="Họ tên (bắt buộc)"/>
+                <input name="devvn_cmt_name" type="text" id="devvn_cmt_name" placeholder="Full name (required)"/>
             </div>
             <div class="devvn_cmt_input">
                 <input name="devvn_cmt_email" type="text" id="devvn_cmt_email" placeholder="Email"/>
             </div>
                         <div class="devvn_cmt_submit">
-                <button type="submit" id="devvn_cmt_submit">Gửi</button>
+                <button type="submit" id="devvn_cmt_submit">Send</button>
                 <input type="hidden" value="1614" name="post_ID">
                 <input type="hidden" value="" name="cmt_parent_id">
             </div>
@@ -1124,7 +1124,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
         </form>
     </div>
     <div class="devvn_cmt_list">
-                        <p>Chưa có bình luận nào</p>
+                        <p>There are no comments yet</p>
 
                             </div>
 </div>
@@ -1146,7 +1146,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
                     <div class="suport_kh_item">
                 <img src="/wp-content/uploads/2022/11/phone-2.svg"> 
                 <div class="suport_kh_item_content">
-                    <span>Mua hàng</span> 
+                    <span>Sales</span> 
                     <div class="flex items-center">
                         <a href="tel:0989072072">0989072072</a> 
                         <span >&nbsp;(7:00 - 20:00)</span>
@@ -1156,7 +1156,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
                         <div class="suport_kh_item">
                 <img src="/wp-content/uploads/2022/11/phone-2.svg"> 
                 <div class="suport_kh_item_content">
-                    <span>Bảo hành</span> 
+                    <span>Warranty</span> 
                     <div class="flex items-center">
                         <a href="tel:0989072072">0989072072</a> 
                         <span >&nbsp;(8:00 - 20:00)</span>
@@ -1166,7 +1166,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
                         <div class="suport_kh_item">
                 <img src="/wp-content/uploads/2022/11/phone-2.svg"> 
                 <div class="suport_kh_item_content">
-                    <span>Công trình/Đại Lý</span> 
+                    <span>Projects/Dealers</span> 
                     <div class="flex items-center">
                         <a href="tel:0989072072">0989072072</a> 
                         <span >&nbsp;(24/7)</span>
@@ -1251,7 +1251,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 </ul>
 </div>
 </div>
-		</aside><aside id="pwf-woo-filter-2" class="widget pwf-filter"><span class="widget-title shop-sidebar">Filters</span><div class="is-divider small"></div><div class="pwf-filter-container"><div id="filter-id-1904" class="pwf-woo-filter filter-id-1904"><div class="pwf-woo-filter-notes pwf-filter-notes-1904"><div class="pwf-note-list"></div></div><div class="pwf-woo-filter-inner title-toggle-icon-arrow term-toggle-icon-arrow"><div class="pwf-field-item pwf-item-id-0 pwf-field-item-checkboxlist" data-item-key="loai-may"><div class="pwf-field-inner"><div class="pwf-field-item-title"><span class="text-title">Loại Máy</span></div><div class="pwf-field-item-container"><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="1-chieu-inverter" name="loai-may" value="79"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">1 way Inverter</span><span class="pwf-product-counts"><span class="pwf-wrap-count">8</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="2-chieu-inverter" name="loai-may" value="80"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">2 way Inverter</span><span class="pwf-product-counts"><span class="pwf-wrap-count">8</span></span></div></div></div></div></div></div></div><div class="pwf-field-item pwf-item-id-1 pwf-field-item-checkboxlist pwf-items-hierarchical" data-item-key="cong-suat"><div class="pwf-field-inner"><div class="pwf-field-item-title"><span class="text-title">CÔNG SUẤT ĐIỀU HÒA DÂN DỤNG</span></div><div class="pwf-field-item-container"><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="12000btu" name="cong-suat" value="83"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">12000BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="18000btu" name="cong-suat" value="84"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">18000BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">4</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="24000btu" name="cong-suat" value="110"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">24000BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">4</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="30000btu" name="cong-suat" value="117"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">30000BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="32000btu" name="cong-suat" value="157"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">32000BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="36000btu" name="cong-suat" value="107"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">36000BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">3</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="46500btu" name="cong-suat" value="118"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">46500BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="48000btu" name="cong-suat" value="106"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">48000BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="9000btu" name="cong-suat" value="82"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">9000BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div></div></div></div><div class="pwf-field-item pwf-item-id-2 pwf-field-item-checkboxlist pwf-items-hierarchical" data-item-key="cong-nghe"><div class="pwf-field-inner"><div class="pwf-field-item-title"><span class="text-title">CÔNG NGHỆ INVERTER</span></div><div class="pwf-field-item-container"><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="lam-da-tu-dong" name="cong-nghe" value="144"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">Làm đá tự động</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="ngan-da-tren" name="cong-nghe" value="145"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">Ngăn đá trên</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div></div></div></div></div></div></div></aside>		<aside id="flatsome_recent_posts-3" class="widget flatsome_recent_posts">		<span class="widget-title shop-sidebar">Recent Posts</span><div class="is-divider small"></div>		<ul>		
+		</aside><aside id="pwf-woo-filter-2" class="widget pwf-filter"><span class="widget-title shop-sidebar">Filters</span><div class="is-divider small"></div><div class="pwf-filter-container"><div id="filter-id-1904" class="pwf-woo-filter filter-id-1904"><div class="pwf-woo-filter-notes pwf-filter-notes-1904"><div class="pwf-note-list"></div></div><div class="pwf-woo-filter-inner title-toggle-icon-arrow term-toggle-icon-arrow"><div class="pwf-field-item pwf-item-id-0 pwf-field-item-checkboxlist" data-item-key="loai-may"><div class="pwf-field-inner"><div class="pwf-field-item-title"><span class="text-title">Machine Type</span></div><div class="pwf-field-item-container"><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="1-chieu-inverter" name="loai-may" value="79"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">1 way Inverter</span><span class="pwf-product-counts"><span class="pwf-wrap-count">8</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="2-chieu-inverter" name="loai-may" value="80"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">2 way Inverter</span><span class="pwf-product-counts"><span class="pwf-wrap-count">8</span></span></div></div></div></div></div></div></div><div class="pwf-field-item pwf-item-id-1 pwf-field-item-checkboxlist pwf-items-hierarchical" data-item-key="cong-suat"><div class="pwf-field-inner"><div class="pwf-field-item-title"><span class="text-title">CÔNG SUẤT ĐIỀU HÒA DÂN DỤNG</span></div><div class="pwf-field-item-container"><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="12000btu" name="cong-suat" value="83"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">12000BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="18000btu" name="cong-suat" value="84"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">18000BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">4</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="24000btu" name="cong-suat" value="110"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">24000BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">4</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="30000btu" name="cong-suat" value="117"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">30000BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="32000btu" name="cong-suat" value="157"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">32000BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="36000btu" name="cong-suat" value="107"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">36000BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">3</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="46500btu" name="cong-suat" value="118"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">46500BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="48000btu" name="cong-suat" value="106"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">48000BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="9000btu" name="cong-suat" value="82"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">9000BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div></div></div></div><div class="pwf-field-item pwf-item-id-2 pwf-field-item-checkboxlist pwf-items-hierarchical" data-item-key="cong-nghe"><div class="pwf-field-inner"><div class="pwf-field-item-title"><span class="text-title">CÔNG NGHỆ INVERTER</span></div><div class="pwf-field-item-container"><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="lam-da-tu-dong" name="cong-nghe" value="144"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">Make ice automatically</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="ngan-da-tren" name="cong-nghe" value="145"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">Upper ice compartment</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div></div></div></div></div></div></div></aside>		<aside id="flatsome_recent_posts-3" class="widget flatsome_recent_posts">		<span class="widget-title shop-sidebar">Recent Posts</span><div class="is-divider small"></div>		<ul>		
 		
 		<li class="recent-blog-posts-li">
 			<div class="flex-row recent-blog-posts align-top pt-half pb-half">
@@ -1262,7 +1262,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 					</div>
 				</div>
 				<div class="flex-col flex-grow">
-					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-6/" title="Learn about Panasonic Refrigerator Econavi Mode là gì?">Learn about Panasonic Refrigerator Econavi Mode là gì?</a>
+					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-6/" title="Learn about Panasonic Refrigerator What is Econavi Mode?">Learn about Panasonic Refrigerator What is Econavi Mode?</a>
 				   	  <span class="post_comments op-7 block is-xsmall"><a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-6/#respond"></a></span>
 				</div>
 			</div>
@@ -1278,7 +1278,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 					</div>
 				</div>
 				<div class="flex-col flex-grow">
-					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-5/" title="Learn about Panasonic Refrigerator Econavi Mode là gì?">Learn about Panasonic Refrigerator Econavi Mode là gì?</a>
+					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-5/" title="Learn about Panasonic Refrigerator What is Econavi Mode?">Learn about Panasonic Refrigerator What is Econavi Mode?</a>
 				   	  <span class="post_comments op-7 block is-xsmall"><a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-5/#respond"></a></span>
 				</div>
 			</div>
@@ -1294,7 +1294,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 					</div>
 				</div>
 				<div class="flex-col flex-grow">
-					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-4/" title="Learn about Panasonic Refrigerator Econavi Mode là gì?">Learn about Panasonic Refrigerator Econavi Mode là gì?</a>
+					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-4/" title="Learn about Panasonic Refrigerator What is Econavi Mode?">Learn about Panasonic Refrigerator What is Econavi Mode?</a>
 				   	  <span class="post_comments op-7 block is-xsmall"><a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-4/#respond"></a></span>
 				</div>
 			</div>
@@ -1310,7 +1310,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 					</div>
 				</div>
 				<div class="flex-col flex-grow">
-					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-3/" title="Learn about Panasonic Refrigerator Econavi Mode là gì?">Learn about Panasonic Refrigerator Econavi Mode là gì?</a>
+					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-3/" title="Learn about Panasonic Refrigerator What is Econavi Mode?">Learn about Panasonic Refrigerator What is Econavi Mode?</a>
 				   	  <span class="post_comments op-7 block is-xsmall"><a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-3/#respond"></a></span>
 				</div>
 			</div>
@@ -1326,7 +1326,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 					</div>
 				</div>
 				<div class="flex-col flex-grow">
-					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-2/" title="Learn about Panasonic Refrigerator Econavi Mode là gì?">Learn about Panasonic Refrigerator Econavi Mode là gì?</a>
+					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-2/" title="Learn about Panasonic Refrigerator What is Econavi Mode?">Learn about Panasonic Refrigerator What is Econavi Mode?</a>
 				   	  <span class="post_comments op-7 block is-xsmall"><a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-2/#respond"></a></span>
 				</div>
 			</div>
@@ -1361,7 +1361,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 <li>
 	
 	<a href="/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2/">
-		<img width="100" height="100" src="/wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-100x100.jpg 100w, /wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-150x150.jpg 150w, /wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" />		<span class="product-title">Dàn nóng điều hòa multi LG A4UW24GFA2 24000BTU 2 way inverter</span>
+		<img width="100" height="100" src="/wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-100x100.jpg 100w, /wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-150x150.jpg 150w, /wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" />		<span class="product-title">Multi air conditioner outdoor unit LG A4UW24GFA2 24000BTU 2 way inverter</span>
 	</a>
 
 			<div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Rated <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 reviews</div></div>	
@@ -1370,7 +1370,7 @@ Quý khách có nhu cầu tư vấn về sản phẩm, vui lòng liên hệ tớ
 <li>
 	
 	<a href="/dan-lanh-multi-lg-18000btu-2-chieu-inverter-amnw18gskb0/">
-		<img width="100" height="100" src="/wp-content/uploads/2022/11/lg-multi-2-chieu-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/lg-multi-2-chieu-100x100.jpg 100w, /wp-content/uploads/2022/11/lg-multi-2-chieu-150x150.jpg 150w, /wp-content/uploads/2022/11/lg-multi-2-chieu-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" />		<span class="product-title">Dàn lạnh điều hòa multi LG 18000BTU AMNW18GSKB0 2 way inverter</span>
+		<img width="100" height="100" src="/wp-content/uploads/2022/11/lg-multi-2-chieu-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/lg-multi-2-chieu-100x100.jpg 100w, /wp-content/uploads/2022/11/lg-multi-2-chieu-150x150.jpg 150w, /wp-content/uploads/2022/11/lg-multi-2-chieu-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" />		<span class="product-title">LG multi air conditioner indoor unit 18000BTU AMNW18GSKB0 2 way inverter</span>
 	</a>
 
 			<div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Rated <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 reviews</div></div>	

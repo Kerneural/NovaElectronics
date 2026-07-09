@@ -45,7 +45,7 @@
 			<!-- Widget 1: Why Buy -->
 			<div class="col-inner mb-4" style="background-color: #fff; padding: 15px; border-radius: 4px; border: 1px solid #e5e7eb; margin-bottom: 20px;">
 				<div class="product_icon" style="margin-left: 0; padding: 0 0 10px 0;">
-					<h3 class="product_icon_title" style="margin-bottom: 10px;"><span class="relative">Tại sao mua hàng ở DailySmartLife</span></h3>
+					<h3 class="product_icon_title" style="margin-bottom: 10px;"><span class="relative">Why buy at DailySmartLife</span></h3>
 				</div>
 				<ul class="why_product">
 					<li class="why_item">
@@ -54,23 +54,23 @@
 					</li>
 					<li class="why_item">
 						<div><img src="/wp-content/uploads/2022/11/item2.png" alt=""></div>
-						<div class="why_text">Nhân viên tư vấn nhiệt tình</div>
+						<div class="why_text">Enthusiastic consulting staff</div>
 					</li>
 					<li class="why_item">
 						<div><img src="/wp-content/uploads/2022/11/item3.png" alt=""></div>
-						<div class="why_text">Đội ngũ lắp đặt chuyên nghiệp</div>
+						<div class="why_text">Professional installation team</div>
 					</li>
 					<li class="why_item">
 						<div><img src="/wp-content/uploads/2022/11/item4.png" alt=""></div>
-						<div class="why_text">Chính sách đổi trả linh hoạt</div>
+						<div class="why_text">Flexible return policy</div>
 					</li>
 					<li class="why_item">
 						<div><img src="/wp-content/uploads/2022/11/item5.png" alt=""></div>
-						<div class="why_text">Miễn phí vận chuyển HN</div>
+						<div class="why_text">Free shipping to Hanoi</div>
 					</li>
 					<li class="why_item">
 						<div><img src="/wp-content/uploads/2022/11/item7.png" alt=""></div>
-						<div class="why_text">Thanh toán thuận tiện</div>
+						<div class="why_text">Convenient payment</div>
 					</li>
 				</ul>
 			</div>
@@ -78,14 +78,14 @@
 			<!-- Widget 2: Warehouse System -->
 			<div class="col-inner mb-4" style="background-color: #fff; padding: 15px; border-radius: 4px; border: 1px solid #e5e7eb; margin-bottom: 20px;">
 				<div class="product_icon" style="margin-left: 0; padding: 0 0 10px 0;">
-					<h3 class="product_icon_title" style="margin-bottom: 10px;"><span class="relative">Hệ thống kho hàng</span></h3>
+					<h3 class="product_icon_title" style="margin-bottom: 10px;"><span class="relative">Warehouse system</span></h3>
 				</div>
 				<div class="showroom_product">
 					<div class="showroom_product_item">
-						<h4>Trụ sở chính</h4>
+						<h4>Headquarters</h4>
 						<div class="showroom_tt">
 							<img src="/wp-content/uploads/2022/11/pin.svg"> 
-							<span>Số 19A, Đường Bát Khối, Phường Long Biên, Quận Long Biên, Hà Nội</span>
+							<span>No. 19A, Bat Khoi Street, Long Bien Ward, Long Bien District, Hanoi</span>
 						</div>
 						<div class="showroom_tt">
 							<img src="/wp-content/uploads/2022/11/phone.svg"> 
@@ -93,10 +93,10 @@
 						</div>
 					</div>
 					<div class="showroom_product_item">
-						<h4>Kho 1: Cảng Hà Nội</h4>
+						<h4>Warehouse 1: Hanoi Port</h4>
 						<div class="showroom_tt">
 							<img src="/wp-content/uploads/2022/11/pin.svg"> 
-							<span>Cảng Hà Nội</span>
+							<span>Hanoi Port</span>
 						</div>
 						<div class="showroom_tt">
 							<img src="/wp-content/uploads/2022/11/phone.svg"> 
@@ -104,10 +104,10 @@
 						</div>
 					</div>
 					<div class="showroom_product_item">
-						<h4>Kho 2: Xuân Thủy - Cầu Giấy - Hà Nội</h4>
+						<h4>Warehouse 2: Xuan Thuy - Cau Giay - Hanoi</h4>
 						<div class="showroom_tt">
 							<img src="/wp-content/uploads/2022/11/pin.svg"> 
-							<span>Xuân Thủy - Cầu Giấy - Hà Nội</span>
+							<span>Xuan Thuy - Cau Giay - Hanoi</span>
 						</div>
 						<div class="showroom_tt">
 							<img src="/wp-content/uploads/2022/11/phone.svg"> 
@@ -119,12 +119,12 @@
 
 			<!-- Widget 3: Customer Support -->
 			<div class="col-inner mb-4" style="background-color: #fff; padding: 15px; border-radius: 4px; border: 1px solid #e5e7eb;">
-				<h3 class="single_product_title" style="margin-bottom: 10px; padding: 0 0 10px 0;"><span style="margin-left: 0;">Hỗ trợ khách hàng</span></h3>
+				<h3 class="single_product_title" style="margin-bottom: 10px; padding: 0 0 10px 0;"><span style="margin-left: 0;">Customer Support</span></h3>
 				<div class="suport_kh" style="padding: 0;">
 					<div class="suport_kh_item">
 						<img src="/wp-content/uploads/2022/11/phone-2.svg" style="width: 24px; margin-right: 8px;"> 
 						<div class="suport_kh_item_content" style="margin-left: 0;">
-							<span style="font-size: 14px; font-weight: bold; color: rgb(71, 74, 80);">Mua hàng</span> 
+							<span style="font-size: 14px; font-weight: bold; color: rgb(71, 74, 80);">Sales</span> 
 							<div class="flex items-center" style="font-size: 14px;">
 								<a href="tel:0989072072" style="font-size: 16px; font-weight: bold; color: var(--primary-color);">0989072072</a> 
 								<span style="font-size: 12px; color: #6a6a6a;">&nbsp;(7:00 - 20:00)</span>
@@ -134,7 +134,7 @@
 					<div class="suport_kh_item">
 						<img src="/wp-content/uploads/2022/11/phone-2.svg" style="width: 24px; margin-right: 8px;"> 
 						<div class="suport_kh_item_content" style="margin-left: 0;">
-							<span style="font-size: 14px; font-weight: bold; color: rgb(71, 74, 80);">Bảo hành</span> 
+							<span style="font-size: 14px; font-weight: bold; color: rgb(71, 74, 80);">Warranty</span> 
 							<div class="flex items-center" style="font-size: 14px;">
 								<a href="tel:0989072072" style="font-size: 16px; font-weight: bold; color: var(--primary-color);">0989072072</a> 
 								<span style="font-size: 12px; color: #6a6a6a;">&nbsp;(8:00 - 20:00)</span>
@@ -144,7 +144,7 @@
 					<div class="suport_kh_item">
 						<img src="/wp-content/uploads/2022/11/phone-2.svg" style="width: 24px; margin-right: 8px;"> 
 						<div class="suport_kh_item_content" style="margin-left: 0;">
-							<span style="font-size: 14px; font-weight: bold; color: rgb(71, 74, 80);">Công trình/Đại Lý</span> 
+							<span style="font-size: 14px; font-weight: bold; color: rgb(71, 74, 80);">Projects/Dealers</span> 
 							<div class="flex items-center" style="font-size: 14px;">
 								<a href="tel:0989072072" style="font-size: 16px; font-weight: bold; color: var(--primary-color);">0989072072</a> 
 								<span style="font-size: 12px; color: #6a6a6a;">&nbsp;(24/7)</span>

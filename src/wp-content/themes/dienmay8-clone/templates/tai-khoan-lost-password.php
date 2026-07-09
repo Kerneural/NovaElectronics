@@ -17,7 +17,7 @@
 						<div class="woocommerce"><div class="woocommerce-notices-wrapper"></div>
 <form method="post" class="woocommerce-ResetPassword lost_reset_password">
 
-	<p>Lost your password? Vui lòng nhập tên đăng nhập hoặc địa chỉ email. Bạn sẽ nhận được một liên kết tạo mật khẩu mới qua email.</p>
+	<p>Lost your password? Please enter your username or email address. You will receive a link to create a new password via email.</p>
 	<p class="woocommerce-form-row woocommerce-form-row--first form-row form-row-first">
 		<label for="user_login">Username or email</label>
 		<input class="woocommerce-Input woocommerce-Input--text input-text" type="text" name="user_login" id="user_login" autocomplete="username" />

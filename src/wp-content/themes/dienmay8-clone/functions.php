@@ -26,7 +26,7 @@ add_action('template_redirect', function() {
         if ($product_post) {
             $product_id = $product_post->ID;
             $product = wc_get_product($product_id);
-            if ($product && $product->is_type('external')) {
+            if ($product instanceof \WC_Product_External) {
                 $target_url = $product->get_product_url(); // Retrieve _product_url meta
                 
                 // Increment click count postmeta
@@ -147,7 +147,7 @@ if ( ! function_exists( 'dienmay8_get_product_grid' ) ) {
                 }
 
                 $button_text = '';
-                if ( $product && is_callable( array( $product, 'get_button_text' ) ) ) {
+                if ( $product instanceof \WC_Product_External ) {
                     $button_text = $product->get_button_text();
                 }
                 if ( empty( $button_text ) ) {

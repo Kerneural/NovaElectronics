@@ -36,13 +36,13 @@
       <path d="M17.0288086 4.01391602L11 9v7.0072021l-4 2.008545V9L1.01306152 4.01391602V1H17.0288086z" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="square"></path>
     </svg><span>Filter</span> </a>
 					<form class="woocommerce-ordering" method="get">
-	<select name="orderby" class="orderby" aria-label="Đơn hàng của cửa hàng">
+	<select name="orderby" class="orderby" aria-label="Store orders">
 					<option value="menu_order"  selected='selected'>Default sorting</option>
-					<option value="popularity" >Thứ tự theo mức độ phổ biến</option>
-					<option value="rating" >Thứ tự theo điểm reviews</option>
-					<option value="date" >Mới nhất</option>
-					<option value="price" >Thứ tự theo giá: thấp đến cao</option>
-					<option value="price-desc" >Thứ tự theo giá: cao xuống thấp</option>
+					<option value="popularity" >Ordered by popularity</option>
+					<option value="rating" >Ordered by reviews</option>
+					<option value="date" >Latest</option>
+					<option value="price" >Order by price: low to high</option>
+					<option value="price-desc" >Order by price: high to low</option>
 			</select>
 	<input type="hidden" name="paged" value="1" />
 	</form>
@@ -104,7 +104,7 @@
 </ul>
 </div>
 </div>
-		</aside><aside id="pwf-woo-filter-2" class="widget pwf-filter"><span class="widget-title shop-sidebar">Filters</span><div class="is-divider small"></div><div class="pwf-filter-container"><div id="filter-id-1904" class="pwf-woo-filter filter-id-1904"><div class="pwf-woo-filter-notes pwf-filter-notes-1904"><div class="pwf-note-list"></div></div><div class="pwf-woo-filter-inner title-toggle-icon-arrow term-toggle-icon-arrow"><div class="pwf-field-item pwf-item-id-2 pwf-field-item-checkboxlist pwf-items-hierarchical" data-item-key="cong-nghe"><div class="pwf-field-inner"><div class="pwf-field-item-title"><span class="text-title">CÔNG NGHỆ INVERTER</span></div><div class="pwf-field-item-container"><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="lam-da-tu-dong" name="cong-nghe" value="144"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">Làm đá tự động</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="ngan-da-tren" name="cong-nghe" value="145"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">Ngăn đá trên</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div></div></div></div></div></div></div></aside>		<aside id="flatsome_recent_posts-3" class="widget flatsome_recent_posts">		<span class="widget-title shop-sidebar">Recent Posts</span><div class="is-divider small"></div>		<ul>		
+		</aside><aside id="pwf-woo-filter-2" class="widget pwf-filter"><span class="widget-title shop-sidebar">Filters</span><div class="is-divider small"></div><div class="pwf-filter-container"><div id="filter-id-1904" class="pwf-woo-filter filter-id-1904"><div class="pwf-woo-filter-notes pwf-filter-notes-1904"><div class="pwf-note-list"></div></div><div class="pwf-woo-filter-inner title-toggle-icon-arrow term-toggle-icon-arrow"><div class="pwf-field-item pwf-item-id-2 pwf-field-item-checkboxlist pwf-items-hierarchical" data-item-key="cong-nghe"><div class="pwf-field-inner"><div class="pwf-field-item-title"><span class="text-title">CÔNG NGHỆ INVERTER</span></div><div class="pwf-field-item-container"><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="lam-da-tu-dong" name="cong-nghe" value="144"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">Make ice automatically</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="ngan-da-tren" name="cong-nghe" value="145"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">Upper ice compartment</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div></div></div></div></div></div></div></aside>		<aside id="flatsome_recent_posts-3" class="widget flatsome_recent_posts">		<span class="widget-title shop-sidebar">Recent Posts</span><div class="is-divider small"></div>		<ul>		
 		
 		<li class="recent-blog-posts-li">
 			<div class="flex-row recent-blog-posts align-top pt-half pb-half">
@@ -115,7 +115,7 @@
 					</div>
 				</div>
 				<div class="flex-col flex-grow">
-					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-6/" title="Learn about Panasonic Refrigerator Econavi Mode là gì?">Learn about Panasonic Refrigerator Econavi Mode là gì?</a>
+					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-6/" title="Learn about Panasonic Refrigerator What is Econavi Mode?">Learn about Panasonic Refrigerator What is Econavi Mode?</a>
 				   	  <span class="post_comments op-7 block is-xsmall"><a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-6/#respond"></a></span>
 				</div>
 			</div>
@@ -131,7 +131,7 @@
 					</div>
 				</div>
 				<div class="flex-col flex-grow">
-					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-5/" title="Learn about Panasonic Refrigerator Econavi Mode là gì?">Learn about Panasonic Refrigerator Econavi Mode là gì?</a>
+					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-5/" title="Learn about Panasonic Refrigerator What is Econavi Mode?">Learn about Panasonic Refrigerator What is Econavi Mode?</a>
 				   	  <span class="post_comments op-7 block is-xsmall"><a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-5/#respond"></a></span>
 				</div>
 			</div>
@@ -147,7 +147,7 @@
 					</div>
 				</div>
 				<div class="flex-col flex-grow">
-					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-4/" title="Learn about Panasonic Refrigerator Econavi Mode là gì?">Learn about Panasonic Refrigerator Econavi Mode là gì?</a>
+					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-4/" title="Learn about Panasonic Refrigerator What is Econavi Mode?">Learn about Panasonic Refrigerator What is Econavi Mode?</a>
 				   	  <span class="post_comments op-7 block is-xsmall"><a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-4/#respond"></a></span>
 				</div>
 			</div>
@@ -163,7 +163,7 @@
 					</div>
 				</div>
 				<div class="flex-col flex-grow">
-					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-3/" title="Learn about Panasonic Refrigerator Econavi Mode là gì?">Learn about Panasonic Refrigerator Econavi Mode là gì?</a>
+					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-3/" title="Learn about Panasonic Refrigerator What is Econavi Mode?">Learn about Panasonic Refrigerator What is Econavi Mode?</a>
 				   	  <span class="post_comments op-7 block is-xsmall"><a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-3/#respond"></a></span>
 				</div>
 			</div>
@@ -179,7 +179,7 @@
 					</div>
 				</div>
 				<div class="flex-col flex-grow">
-					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-2/" title="Learn about Panasonic Refrigerator Econavi Mode là gì?">Learn about Panasonic Refrigerator Econavi Mode là gì?</a>
+					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-2/" title="Learn about Panasonic Refrigerator What is Econavi Mode?">Learn about Panasonic Refrigerator What is Econavi Mode?</a>
 				   	  <span class="post_comments op-7 block is-xsmall"><a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-2/#respond"></a></span>
 				</div>
 			</div>
@@ -214,7 +214,7 @@
 <li>
 	
 	<a href="/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2/">
-		<img width="100" height="100" src="/wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-100x100.jpg 100w, /wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-150x150.jpg 150w, /wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" />		<span class="product-title">Dàn nóng điều hòa multi LG A4UW24GFA2 24000BTU 2 way inverter</span>
+		<img width="100" height="100" src="/wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-100x100.jpg 100w, /wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-150x150.jpg 150w, /wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" />		<span class="product-title">Multi air conditioner outdoor unit LG A4UW24GFA2 24000BTU 2 way inverter</span>
 	</a>
 
 			<div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Rated <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 reviews</div></div>	
@@ -223,7 +223,7 @@
 <li>
 	
 	<a href="/dan-lanh-multi-lg-18000btu-2-chieu-inverter-amnw18gskb0/">
-		<img width="100" height="100" src="/wp-content/uploads/2022/11/lg-multi-2-chieu-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/lg-multi-2-chieu-100x100.jpg 100w, /wp-content/uploads/2022/11/lg-multi-2-chieu-150x150.jpg 150w, /wp-content/uploads/2022/11/lg-multi-2-chieu-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" />		<span class="product-title">Dàn lạnh điều hòa multi LG 18000BTU AMNW18GSKB0 2 way inverter</span>
+		<img width="100" height="100" src="/wp-content/uploads/2022/11/lg-multi-2-chieu-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/lg-multi-2-chieu-100x100.jpg 100w, /wp-content/uploads/2022/11/lg-multi-2-chieu-150x150.jpg 150w, /wp-content/uploads/2022/11/lg-multi-2-chieu-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" />		<span class="product-title">LG multi air conditioner indoor unit 18000BTU AMNW18GSKB0 2 way inverter</span>
 	</a>
 
 			<div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Rated <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 reviews</div></div>	

@@ -237,7 +237,7 @@
                                                         $image_url = $image_id ? wp_get_attachment_image_url( $image_id, 'large' ) : '/wp-content/uploads/2022/11/lighting.svg';
                                                         $slug      = $product ? $product->get_slug() : get_post_field( 'post_name', get_the_ID() );
                                                         $pretty_link = home_url( '/go/' . sanitize_title( $slug ) );
-                                                        $button_text = $product ? $product->get_button_text() : 'Check Latest Price';
+                                                        $button_text = ( $product instanceof \WC_Product_External ) ? $product->get_button_text() : 'Check Latest Price';
                                                         if ( empty( $button_text ) ) {
                                                             $button_text = 'Check Latest Price';
                                                         }
@@ -842,14 +842,14 @@
                                                                         <div class="box-text text-left">
                                                                             <div class="box-text-inner blog-post-inner">
                                                                                 <h5 class="post-title is-large">
-                                                                                    Tìm hiểu chế độ Econavi của tủ lạnh
-                                                                                    Panasonic là gì?
+                                                                                    Learn about the refrigerator's Econavi mode
+                                                                                    What is Panasonic?
                                                                                 </h5>
                                                                                 <div class="is-divider"></div>
                                                                                 <p class="from_the_blog_excerpt">
-                                                                                    Chế độ Econavi của tủ lạnh Panasonic
-                                                                                    là gì? Chế độ Econavi của tủ lạnh
-                                                                                    Panasonic là công nghệ cảm...
+                                                                                    Econavi mode of Panasonic refrigerator
+                                                                                    What is that? Econavi mode of the refrigerator
+                                                                                    Panasonic is a sensor technology...
                                                                                 </p>
                                                                             </div>
                                                                         </div>
@@ -891,14 +891,14 @@
                                                                         <div class="box-text text-left">
                                                                             <div class="box-text-inner blog-post-inner">
                                                                                 <h5 class="post-title is-large">
-                                                                                    Tìm hiểu chế độ Econavi của tủ lạnh
-                                                                                    Panasonic là gì?
+                                                                                    Learn about the refrigerator's Econavi mode
+                                                                                    What is Panasonic?
                                                                                 </h5>
                                                                                 <div class="is-divider"></div>
                                                                                 <p class="from_the_blog_excerpt">
-                                                                                    Chế độ Econavi của tủ lạnh Panasonic
-                                                                                    là gì? Chế độ Econavi của tủ lạnh
-                                                                                    Panasonic là công nghệ cảm...
+                                                                                    Econavi mode of Panasonic refrigerator
+                                                                                    What is that? Econavi mode of the refrigerator
+                                                                                    Panasonic is a sensor technology...
                                                                                 </p>
                                                                             </div>
                                                                         </div>
@@ -940,14 +940,14 @@
                                                                         <div class="box-text text-left">
                                                                             <div class="box-text-inner blog-post-inner">
                                                                                 <h5 class="post-title is-large">
-                                                                                    Tìm hiểu chế độ Econavi của tủ lạnh
-                                                                                    Panasonic là gì?
+                                                                                    Learn about the refrigerator's Econavi mode
+                                                                                    What is Panasonic?
                                                                                 </h5>
                                                                                 <div class="is-divider"></div>
                                                                                 <p class="from_the_blog_excerpt">
-                                                                                    Chế độ Econavi của tủ lạnh Panasonic
-                                                                                    là gì? Chế độ Econavi của tủ lạnh
-                                                                                    Panasonic là công nghệ cảm...
+                                                                                    Econavi mode of Panasonic refrigerator
+                                                                                    What is that? Econavi mode of the refrigerator
+                                                                                    Panasonic is a sensor technology...
                                                                                 </p>
                                                                             </div>
                                                                         </div>
@@ -989,14 +989,14 @@
                                                                         <div class="box-text text-left">
                                                                             <div class="box-text-inner blog-post-inner">
                                                                                 <h5 class="post-title is-large">
-                                                                                    Tìm hiểu chế độ Econavi của tủ lạnh
-                                                                                    Panasonic là gì?
+                                                                                    Learn about the refrigerator's Econavi mode
+                                                                                    What is Panasonic?
                                                                                 </h5>
                                                                                 <div class="is-divider"></div>
                                                                                 <p class="from_the_blog_excerpt">
-                                                                                    Chế độ Econavi của tủ lạnh Panasonic
-                                                                                    là gì? Chế độ Econavi của tủ lạnh
-                                                                                    Panasonic là công nghệ cảm...
+                                                                                    Econavi mode of Panasonic refrigerator
+                                                                                    What is that? Econavi mode of the refrigerator
+                                                                                    Panasonic is a sensor technology...
                                                                                 </p>
                                                                             </div>
                                                                         </div>
@@ -1038,14 +1038,14 @@
                                                                         <div class="box-text text-left">
                                                                             <div class="box-text-inner blog-post-inner">
                                                                                 <h5 class="post-title is-large">
-                                                                                    Tìm hiểu chế độ Econavi của tủ lạnh
-                                                                                    Panasonic là gì?
+                                                                                    Learn about the refrigerator's Econavi mode
+                                                                                    What is Panasonic?
                                                                                 </h5>
                                                                                 <div class="is-divider"></div>
                                                                                 <p class="from_the_blog_excerpt">
-                                                                                    Chế độ Econavi của tủ lạnh Panasonic
-                                                                                    là gì? Chế độ Econavi của tủ lạnh
-                                                                                    Panasonic là công nghệ cảm...
+                                                                                    Econavi mode of Panasonic refrigerator
+                                                                                    What is that? Econavi mode of the refrigerator
+                                                                                    Panasonic is a sensor technology...
                                                                                 </p>
                                                                             </div>
                                                                         </div>
@@ -1087,14 +1087,14 @@
                                                                         <div class="box-text text-left">
                                                                             <div class="box-text-inner blog-post-inner">
                                                                                 <h5 class="post-title is-large">
-                                                                                    Tìm hiểu chế độ Econavi của tủ lạnh
-                                                                                    Panasonic là gì?
+                                                                                    Learn about the refrigerator's Econavi mode
+                                                                                    What is Panasonic?
                                                                                 </h5>
                                                                                 <div class="is-divider"></div>
                                                                                 <p class="from_the_blog_excerpt">
-                                                                                    Chế độ Econavi của tủ lạnh Panasonic
-                                                                                    là gì? Chế độ Econavi của tủ lạnh
-                                                                                    Panasonic là công nghệ cảm...
+                                                                                    Econavi mode of Panasonic refrigerator
+                                                                                    What is that? Econavi mode of the refrigerator
+                                                                                    Panasonic is a sensor technology...
                                                                                 </p>
                                                                             </div>
                                                                         </div>
@@ -1136,14 +1136,14 @@
                                                                         <div class="box-text text-left">
                                                                             <div class="box-text-inner blog-post-inner">
                                                                                 <h5 class="post-title is-large">
-                                                                                    Tìm hiểu chế độ Econavi của tủ lạnh
-                                                                                    Panasonic là gì?
+                                                                                    Learn about the refrigerator's Econavi mode
+                                                                                    What is Panasonic?
                                                                                 </h5>
                                                                                 <div class="is-divider"></div>
                                                                                 <p class="from_the_blog_excerpt">
-                                                                                    Chế độ Econavi của tủ lạnh Panasonic
-                                                                                    là gì? Chế độ Econavi của tủ lạnh
-                                                                                    Panasonic là công nghệ cảm...
+                                                                                    Econavi mode of Panasonic refrigerator
+                                                                                    What is that? Econavi mode of the refrigerator
+                                                                                    Panasonic is a sensor technology...
                                                                                 </p>
                                                                             </div>
                                                                         </div>
@@ -1207,14 +1207,14 @@
                                                                         <div class="box-text text-left">
                                                                             <div class="box-text-inner blog-post-inner">
                                                                                 <h5 class="post-title is-large">
-                                                                                    Tìm hiểu chế độ Econavi của tủ lạnh
-                                                                                    Panasonic là gì?
+                                                                                    Learn about the refrigerator's Econavi mode
+                                                                                    What is Panasonic?
                                                                                 </h5>
                                                                                 <div class="is-divider"></div>
                                                                                 <p class="from_the_blog_excerpt">
-                                                                                    Chế độ Econavi của tủ lạnh Panasonic
-                                                                                    là gì? Chế độ Econavi của tủ lạnh
-                                                                                    Panasonic là công nghệ cảm...
+                                                                                    Econavi mode of Panasonic refrigerator
+                                                                                    What is that? Econavi mode of the refrigerator
+                                                                                    Panasonic is a sensor technology...
                                                                                 </p>
                                                                             </div>
                                                                         </div>
@@ -1256,14 +1256,14 @@
                                                                         <div class="box-text text-left">
                                                                             <div class="box-text-inner blog-post-inner">
                                                                                 <h5 class="post-title is-large">
-                                                                                    Tìm hiểu chế độ Econavi của tủ lạnh
-                                                                                    Panasonic là gì?
+                                                                                    Learn about the refrigerator's Econavi mode
+                                                                                    What is Panasonic?
                                                                                 </h5>
                                                                                 <div class="is-divider"></div>
                                                                                 <p class="from_the_blog_excerpt">
-                                                                                    Chế độ Econavi của tủ lạnh Panasonic
-                                                                                    là gì? Chế độ Econavi của tủ lạnh
-                                                                                    Panasonic là công nghệ cảm...
+                                                                                    Econavi mode of Panasonic refrigerator
+                                                                                    What is that? Econavi mode of the refrigerator
+                                                                                    Panasonic is a sensor technology...
                                                                                 </p>
                                                                             </div>
                                                                         </div>
@@ -1305,14 +1305,14 @@
                                                                         <div class="box-text text-left">
                                                                             <div class="box-text-inner blog-post-inner">
                                                                                 <h5 class="post-title is-large">
-                                                                                    Tìm hiểu chế độ Econavi của tủ lạnh
-                                                                                    Panasonic là gì?
+                                                                                    Learn about the refrigerator's Econavi mode
+                                                                                    What is Panasonic?
                                                                                 </h5>
                                                                                 <div class="is-divider"></div>
                                                                                 <p class="from_the_blog_excerpt">
-                                                                                    Chế độ Econavi của tủ lạnh Panasonic
-                                                                                    là gì? Chế độ Econavi của tủ lạnh
-                                                                                    Panasonic là công nghệ cảm...
+                                                                                    Econavi mode of Panasonic refrigerator
+                                                                                    What is that? Econavi mode of the refrigerator
+                                                                                    Panasonic is a sensor technology...
                                                                                 </p>
                                                                             </div>
                                                                         </div>
@@ -1354,14 +1354,14 @@
                                                                         <div class="box-text text-left">
                                                                             <div class="box-text-inner blog-post-inner">
                                                                                 <h5 class="post-title is-large">
-                                                                                    Tìm hiểu chế độ Econavi của tủ lạnh
-                                                                                    Panasonic là gì?
+                                                                                    Learn about the refrigerator's Econavi mode
+                                                                                    What is Panasonic?
                                                                                 </h5>
                                                                                 <div class="is-divider"></div>
                                                                                 <p class="from_the_blog_excerpt">
-                                                                                    Chế độ Econavi của tủ lạnh Panasonic
-                                                                                    là gì? Chế độ Econavi của tủ lạnh
-                                                                                    Panasonic là công nghệ cảm...
+                                                                                    Econavi mode of Panasonic refrigerator
+                                                                                    What is that? Econavi mode of the refrigerator
+                                                                                    Panasonic is a sensor technology...
                                                                                 </p>
                                                                             </div>
                                                                         </div>
@@ -1403,14 +1403,14 @@
                                                                         <div class="box-text text-left">
                                                                             <div class="box-text-inner blog-post-inner">
                                                                                 <h5 class="post-title is-large">
-                                                                                    Tìm hiểu chế độ Econavi của tủ lạnh
-                                                                                    Panasonic là gì?
+                                                                                    Learn about the refrigerator's Econavi mode
+                                                                                    What is Panasonic?
                                                                                 </h5>
                                                                                 <div class="is-divider"></div>
                                                                                 <p class="from_the_blog_excerpt">
-                                                                                    Chế độ Econavi của tủ lạnh Panasonic
-                                                                                    là gì? Chế độ Econavi của tủ lạnh
-                                                                                    Panasonic là công nghệ cảm...
+                                                                                    Econavi mode of Panasonic refrigerator
+                                                                                    What is that? Econavi mode of the refrigerator
+                                                                                    Panasonic is a sensor technology...
                                                                                 </p>
                                                                             </div>
                                                                         </div>
@@ -1501,13 +1501,13 @@
                                                             <div class="box-text text-center">
                                                                 <div class="box-text-inner">
                                                                     <div id="text-1823471518" class="text">
-                                                                        <h3>Nguyễn Thị lệ</h3>
+                                                                        <h3>Nguyen Thi Le</h3>
                                                                         <p>
-                                                                            “Chuỗi dự án của chúng tôi đã sử dụng các
-                                                                            sản phẩm của Điện máy thịnh phát. Đến hay đã
-                                                                            qua 2 năm sử dụng, hiện tại chất lượng vẫn
-                                                                            được đảm bảo, các con vít vẫn rất chắc chắn.
-                                                                            Rất hài lòng”
+                                                                            “Our series of projects have used these
+                                                                            products of Thinh Phat Electronics. Come or come
+                                                                            After 2 years of use, the quality is still the same
+                                                                            guaranteed, the screws are still very sturdy.
+                                                                            Very satisfied”
                                                                         </p>
 
                                                                         <style>
@@ -1563,13 +1563,13 @@
                                                             <div class="box-text text-center">
                                                                 <div class="box-text-inner">
                                                                     <div id="text-598755621" class="text">
-                                                                        <h3>Hoàng thanh vương</h3>
+                                                                        <h3>Hoang Thanh King</h3>
                                                                         <p>
-                                                                            “Chuỗi dự án của chúng tôi đã sử dụng các
-                                                                            sản phẩm của Điện máy thịnh phát. Đến hay đã
-                                                                            qua 2 năm sử dụng, hiện tại chất lượng vẫn
-                                                                            được đảm bảo, các con vít vẫn rất chắc chắn.
-                                                                            Rất hài lòng”
+                                                                            “Our series of projects have used these
+                                                                            products of Thinh Phat Electronics. Come or come
+                                                                            After 2 years of use, the quality is still the same
+                                                                            guaranteed, the screws are still very sturdy.
+                                                                            Very satisfied”
                                                                         </p>
 
                                                                         <style>
@@ -1625,13 +1625,13 @@
                                                             <div class="box-text text-center">
                                                                 <div class="box-text-inner">
                                                                     <div id="text-3155147691" class="text">
-                                                                        <h3>TRẦN thị hoan</h3>
+                                                                        <h3>TRAN is happy</h3>
                                                                         <p>
-                                                                            “Chuỗi dự án của chúng tôi đã sử dụng các
-                                                                            sản phẩm của Điện máy thịnh phát. Đến hay đã
-                                                                            qua 2 năm sử dụng, hiện tại chất lượng vẫn
-                                                                            được đảm bảo, các con vít vẫn rất chắc chắn.
-                                                                            Rất hài lòng”
+                                                                            “Our series of projects have used these
+                                                                            products of Thinh Phat Electronics. Come or come
+                                                                            After 2 years of use, the quality is still the same
+                                                                            guaranteed, the screws are still very sturdy.
+                                                                            Very satisfied”
                                                                         </p>
 
                                                                         <style>

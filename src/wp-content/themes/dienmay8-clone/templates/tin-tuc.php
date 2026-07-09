@@ -17,10 +17,10 @@
 		<aside id="search-2" class="widget widget_search"><form method="get" class="searchform" action="/" role="search">
 		<div class="flex-row relative">
 			<div class="flex-col flex-grow">
-	   	   <input type="search" class="search-field mb-0" name="s" value="" id="s" placeholder="Tìm sản phẩm bạn mong muốn ..." />
+	   	   <input type="search" class="search-field mb-0" name="s" value="" id="s" placeholder="Find the product you want..." />
 			</div>
 			<div class="flex-col">
-				<button type="submit" class="ux-search-submit submit-button secondary button icon mb-0" aria-label="Gửi đi">
+				<button type="submit" class="ux-search-submit submit-button secondary button icon mb-0" aria-label="Send it">
 					<i class="icon-search" ></i>				</button>
 			</div>
 		</div>
@@ -30,17 +30,17 @@
 			<ul>
 					<li class="cat-item cat-item-49"><a href="/du-an-noi-bat/">Featured Projects</a>
 </li>
-	<li class="cat-item cat-item-1"><a href="/kinh-nghiem-hay/">Kinh nghiệm hay</a>
+	<li class="cat-item cat-item-1"><a href="/kinh-nghiem-hay/">Good experience</a>
 </li>
 	<li class="cat-item cat-item-36"><a href="/tin-khuyen-mai/">Tin promotions</a>
 </li>
-	<li class="cat-item cat-item-38"><a href="/tin-tuyen-dung/">Tin tuyển dụng</a>
+	<li class="cat-item cat-item-38"><a href="/tin-tuyen-dung/">Recruitment news</a>
 </li>
-	<li class="cat-item cat-item-37"><a href="/tu-van-san-pham/">Tư vấn sản phẩm</a>
+	<li class="cat-item cat-item-37"><a href="/tu-van-san-pham/">Product consulting</a>
 </li>
 			</ul>
 
-			</aside>		<aside id="flatsome_recent_posts-2" class="widget flatsome_recent_posts">		<span class="widget-title "><span>bài viết mới</span></span><div class="is-divider small"></div>		<ul>		
+			</aside>		<aside id="flatsome_recent_posts-2" class="widget flatsome_recent_posts">		<span class="widget-title "><span>new article</span></span><div class="is-divider small"></div>		<ul>		
 		
 		<li class="recent-blog-posts-li">
 			<div class="flex-row recent-blog-posts align-top pt-half pb-half">
@@ -51,7 +51,7 @@
 					</div>
 				</div>
 				<div class="flex-col flex-grow">
-					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-6/" title="Learn about Panasonic Refrigerator Econavi Mode là gì?">Learn about Panasonic Refrigerator Econavi Mode là gì?</a>
+					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-6/" title="Learn about Panasonic Refrigerator What is Econavi Mode?">Learn about Panasonic Refrigerator What is Econavi Mode?</a>
 				   	  <span class="post_comments op-7 block is-xsmall"><a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-6/#respond"></a></span>
 				</div>
 			</div>
@@ -67,7 +67,7 @@
 					</div>
 				</div>
 				<div class="flex-col flex-grow">
-					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-5/" title="Learn about Panasonic Refrigerator Econavi Mode là gì?">Learn about Panasonic Refrigerator Econavi Mode là gì?</a>
+					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-5/" title="Learn about Panasonic Refrigerator What is Econavi Mode?">Learn about Panasonic Refrigerator What is Econavi Mode?</a>
 				   	  <span class="post_comments op-7 block is-xsmall"><a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-5/#respond"></a></span>
 				</div>
 			</div>
@@ -83,7 +83,7 @@
 					</div>
 				</div>
 				<div class="flex-col flex-grow">
-					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-4/" title="Learn about Panasonic Refrigerator Econavi Mode là gì?">Learn about Panasonic Refrigerator Econavi Mode là gì?</a>
+					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-4/" title="Learn about Panasonic Refrigerator What is Econavi Mode?">Learn about Panasonic Refrigerator What is Econavi Mode?</a>
 				   	  <span class="post_comments op-7 block is-xsmall"><a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-4/#respond"></a></span>
 				</div>
 			</div>
@@ -99,7 +99,7 @@
 					</div>
 				</div>
 				<div class="flex-col flex-grow">
-					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-3/" title="Learn about Panasonic Refrigerator Econavi Mode là gì?">Learn about Panasonic Refrigerator Econavi Mode là gì?</a>
+					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-3/" title="Learn about Panasonic Refrigerator What is Econavi Mode?">Learn about Panasonic Refrigerator What is Econavi Mode?</a>
 				   	  <span class="post_comments op-7 block is-xsmall"><a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-3/#respond"></a></span>
 				</div>
 			</div>
@@ -115,7 +115,7 @@
 					</div>
 				</div>
 				<div class="flex-col flex-grow">
-					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-2/" title="Learn about Panasonic Refrigerator Econavi Mode là gì?">Learn about Panasonic Refrigerator Econavi Mode là gì?</a>
+					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-2/" title="Learn about Panasonic Refrigerator What is Econavi Mode?">Learn about Panasonic Refrigerator What is Econavi Mode?</a>
 				   	  <span class="post_comments op-7 block is-xsmall"><a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-2/#respond"></a></span>
 				</div>
 			</div>
@@ -150,7 +150,7 @@
 <li>
 	
 	<a href="/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2/">
-		<img width="100" height="100" src="/wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-100x100.jpg 100w, /wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-150x150.jpg 150w, /wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" />		<span class="product-title">Dàn nóng điều hòa multi LG A4UW24GFA2 24000BTU 2 way inverter</span>
+		<img width="100" height="100" src="/wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-100x100.jpg 100w, /wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-150x150.jpg 150w, /wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" />		<span class="product-title">Multi air conditioner outdoor unit LG A4UW24GFA2 24000BTU 2 way inverter</span>
 	</a>
 
 			<div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Rated <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 reviews</div></div>	
@@ -159,7 +159,7 @@
 <li>
 	
 	<a href="/dan-lanh-multi-lg-18000btu-2-chieu-inverter-amnw18gskb0/">
-		<img width="100" height="100" src="/wp-content/uploads/2022/11/lg-multi-2-chieu-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/lg-multi-2-chieu-100x100.jpg 100w, /wp-content/uploads/2022/11/lg-multi-2-chieu-150x150.jpg 150w, /wp-content/uploads/2022/11/lg-multi-2-chieu-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" />		<span class="product-title">Dàn lạnh điều hòa multi LG 18000BTU AMNW18GSKB0 2 way inverter</span>
+		<img width="100" height="100" src="/wp-content/uploads/2022/11/lg-multi-2-chieu-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/lg-multi-2-chieu-100x100.jpg 100w, /wp-content/uploads/2022/11/lg-multi-2-chieu-150x150.jpg 150w, /wp-content/uploads/2022/11/lg-multi-2-chieu-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" />		<span class="product-title">LG multi air conditioner indoor unit 18000BTU AMNW18GSKB0 2 way inverter</span>
 	</a>
 
 			<div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Rated <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 reviews</div></div>	
@@ -168,7 +168,7 @@
 </ul></aside><aside id="woocommerce_top_rated_products-2" class="widget woocommerce widget_top_rated_products"><span class="widget-title "><span>Products reviews cao</span></span><div class="is-divider small"></div><ul class="product_list_widget"><li>
 	
 	<a href="/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua0/">
-		<img width="100" height="100" src="/wp-content/uploads/2022/11/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua00-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua00-100x100.jpg 100w, /wp-content/uploads/2022/11/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua00-150x150.jpg 150w, /wp-content/uploads/2022/11/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua00-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" />		<span class="product-title">Dàn lạnh điều hòa multi LG 9.000BTU AMNW09GTUA0 2 way inverter</span>
+		<img width="100" height="100" src="/wp-content/uploads/2022/11/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua00-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua00-100x100.jpg 100w, /wp-content/uploads/2022/11/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua00-150x150.jpg 150w, /wp-content/uploads/2022/11/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua00-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" />		<span class="product-title">LG multi air conditioner indoor unit 9,000BTU AMNW09GTUA0 2 way inverter</span>
 	</a>
 
 			<div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:100%">Rated <strong class="rating">5.00</strong> 5 sao</span></div><div class="count-rating">1 reviews</div></div>	
@@ -186,7 +186,7 @@
 <li>
 	
 	<a href="/air-conditioner-lg-b24end1/">
-		<img width="100" height="100" src="/wp-content/uploads/2022/11/thinh-phat-air-conditioner-lg-b24end1-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/thinh-phat-air-conditioner-lg-b24end1-100x100.jpg 100w, /wp-content/uploads/2022/11/thinh-phat-air-conditioner-lg-b24end1-150x150.jpg 150w, /wp-content/uploads/2022/11/thinh-phat-air-conditioner-lg-b24end1-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" />		<span class="product-title">Air Conditioner LG B24END1 24.000btu 2 Chiều Inverter [2022]</span>
+		<img width="100" height="100" src="/wp-content/uploads/2022/11/thinh-phat-air-conditioner-lg-b24end1-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/thinh-phat-air-conditioner-lg-b24end1-100x100.jpg 100w, /wp-content/uploads/2022/11/thinh-phat-air-conditioner-lg-b24end1-150x150.jpg 150w, /wp-content/uploads/2022/11/thinh-phat-air-conditioner-lg-b24end1-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" />		<span class="product-title">Air Conditioner LG B24END1 24,000btu 2-Way Inverter [2022]</span>
 	</a>
 
 			<div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Rated <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 reviews</div></div>	
@@ -204,7 +204,7 @@
 <li>
 	
 	<a href="/air-conditioner-lg-b18end1/">
-		<img width="100" height="100" src="/wp-content/uploads/2022/11/air-conditioner-lg-b18end1-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/air-conditioner-lg-b18end1-100x100.jpg 100w, /wp-content/uploads/2022/11/air-conditioner-lg-b18end1-150x150.jpg 150w, /wp-content/uploads/2022/11/air-conditioner-lg-b18end1-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" />		<span class="product-title">Air Conditioner LG B18END1 18.000btu 2 Chiều Inverter [2022]</span>
+		<img width="100" height="100" src="/wp-content/uploads/2022/11/air-conditioner-lg-b18end1-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/air-conditioner-lg-b18end1-100x100.jpg 100w, /wp-content/uploads/2022/11/air-conditioner-lg-b18end1-150x150.jpg 150w, /wp-content/uploads/2022/11/air-conditioner-lg-b18end1-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" />		<span class="product-title">Air Conditioner LG B18END1 18,000btu 2-Way Inverter [2022]</span>
 	</a>
 
 			<div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Rated <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 reviews</div></div>	
@@ -231,9 +231,9 @@
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
-										<p class="from_the_blog_excerpt ">Chế độ Econavi của tủ lạnh Panasonic là gì? Chế độ Econavi của tủ lạnh...					</p>
+										<p class="from_the_blog_excerpt ">What is the Econavi mode of Panasonic refrigerators? Econavi mode of the refrigerator...					</p>
 					                    
 					
 					
@@ -254,9 +254,9 @@
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
-										<p class="from_the_blog_excerpt ">Chế độ Econavi của tủ lạnh Panasonic là gì? Chế độ Econavi của tủ lạnh...					</p>
+										<p class="from_the_blog_excerpt ">What is the Econavi mode of Panasonic refrigerators? Econavi mode of the refrigerator...					</p>
 					                    
 					
 					
@@ -277,9 +277,9 @@
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
-										<p class="from_the_blog_excerpt ">Chế độ Econavi của tủ lạnh Panasonic là gì? Chế độ Econavi của tủ lạnh...					</p>
+										<p class="from_the_blog_excerpt ">What is the Econavi mode of Panasonic refrigerators? Econavi mode of the refrigerator...					</p>
 					                    
 					
 					
@@ -300,9 +300,9 @@
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
-										<p class="from_the_blog_excerpt ">Chế độ Econavi của tủ lạnh Panasonic là gì? Chế độ Econavi của tủ lạnh...					</p>
+										<p class="from_the_blog_excerpt ">What is the Econavi mode of Panasonic refrigerators? Econavi mode of the refrigerator...					</p>
 					                    
 					
 					
@@ -323,9 +323,9 @@
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
-										<p class="from_the_blog_excerpt ">Chế độ Econavi của tủ lạnh Panasonic là gì? Chế độ Econavi của tủ lạnh...					</p>
+										<p class="from_the_blog_excerpt ">What is the Econavi mode of Panasonic refrigerators? Econavi mode of the refrigerator...					</p>
 					                    
 					
 					
@@ -346,9 +346,9 @@
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
-										<p class="from_the_blog_excerpt ">Chế độ Econavi của tủ lạnh Panasonic là gì? Chế độ Econavi của tủ lạnh...					</p>
+										<p class="from_the_blog_excerpt ">What is the Econavi mode of Panasonic refrigerators? Econavi mode of the refrigerator...					</p>
 					                    
 					
 					
@@ -369,9 +369,9 @@
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
-										<p class="from_the_blog_excerpt ">Chế độ Econavi của tủ lạnh Panasonic là gì? Chế độ Econavi của tủ lạnh...					</p>
+										<p class="from_the_blog_excerpt ">What is the Econavi mode of Panasonic refrigerators? Econavi mode of the refrigerator...					</p>
 					                    
 					
 					

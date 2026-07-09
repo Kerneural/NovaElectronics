@@ -5,7 +5,7 @@
 
         <div class="container">
 
-            <nav aria-label="breadcrumbs" class="rank-math-breadcrumb"><p><a href="/">Home</a><span class="separator"> &raquo; </span><a href="/air-conditioner-multi-lg/">Air Conditioner Multi</a><span class="separator"> &raquo; </span><span class="last">Dàn lạnh điều hòa multi LG 18000BTU AMNW18GSKB0 2 way inverter</span></p></nav>        </div>
+            <nav aria-label="breadcrumbs" class="rank-math-breadcrumb"><p><a href="/">Home</a><span class="separator"> &raquo; </span><a href="/air-conditioner-multi-lg/">Air Conditioner Multi</a><span class="separator"> &raquo; </span><span class="last">LG multi air conditioner indoor unit 18000BTU AMNW18GSKB0 2 way inverter</span></p></nav>        </div>
 
     </section>
 	<div class="shop-container">
@@ -20,8 +20,8 @@
 		    <div class="product_scroll hide-for-medium">
         <div class="container flex">
             <div class="product_scroll_left flex">
-                <img width="150" height="150" src="/wp-content/uploads/2022/11/lg-multi-2-chieu-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Dàn lạnh điều hòa multi LG 18000BTU AMNW18GSKB0 2 way inverter" decoding="async" loading="lazy" title="Dàn lạnh điều hòa multi LG 18000BTU AMNW18GSKB0 2 way inverter" srcset="/wp-content/uploads/2022/11/lg-multi-2-chieu-150x150.jpg 150w, /wp-content/uploads/2022/11/lg-multi-2-chieu-300x300.jpg 300w, /wp-content/uploads/2022/11/lg-multi-2-chieu-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" />                <div class="product_scroll_content">
-                    <h5>Dàn lạnh điều hòa multi LG 18000BTU AMNW18GSKB0 2 way inverter</h5>
+                <img width="150" height="150" src="/wp-content/uploads/2022/11/lg-multi-2-chieu-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="LG multi air conditioner indoor unit 18000BTU AMNW18GSKB0 2 way inverter" decoding="async" loading="lazy" title="LG multi air conditioner indoor unit 18000BTU AMNW18GSKB0 2 way inverter" srcset="/wp-content/uploads/2022/11/lg-multi-2-chieu-150x150.jpg 150w, /wp-content/uploads/2022/11/lg-multi-2-chieu-300x300.jpg 300w, /wp-content/uploads/2022/11/lg-multi-2-chieu-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" />                <div class="product_scroll_content">
+                    <h5>LG multi air conditioner indoor unit 18000BTU AMNW18GSKB0 2 way inverter</h5>
                    <div class="price-wrapper">
                             <p class="price product-page-price ">
                         <del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>6.980.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>5.970.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins></p>
@@ -129,7 +129,7 @@
 
 
 			<div class="quantity buttons_added form-normal">
-		<input type="button" value="-" class="minus button is-form">				<label class="screen-reader-text" for="quantity_6a4a2aff0e8ab">Dàn lạnh điều hòa multi LG 18000BTU AMNW18GSKB0 2 way inverter Quantity</label>
+		<input type="button" value="-" class="minus button is-form">				<label class="screen-reader-text" for="quantity_6a4a2aff0e8ab">LG multi air conditioner indoor unit 18000BTU AMNW18GSKB0 2 way inverter Quantity</label>
 		<input
 			type="number"
 			id="quantity_6a4a2aff0e8ab"
@@ -148,7 +148,7 @@
 		<button type="submit" name="add-to-cart" value="14" class="single_add_to_cart_button button alt">Add to cart</button>
 
 		    <a href="#khaosat-tuvan" class="btn_product khaosat">
-        <span class="btn_top"> khảo sát - tư vấn lắp đặt tại nhà</span><span class="btn_bottom">Miễn phí 100%</span>
+        <span class="btn_top"> Survey - home installation consultation</span><span class="btn_bottom">100% Free</span>
     </a>
     <button type="button" class="btn_product buy_now_button">
         <span class="btn_top">Buy Now</span>
@@ -246,7 +246,7 @@
     <div data-thumb="/wp-content/uploads/2022/11/lg-multi-2-chieu-100x100.jpg" data-thumb-alt="" class="woocommerce-product-gallery__image slide first"><a href="/wp-content/uploads/2022/11/lg-multi-2-chieu.jpg"><img width="600" height="450" src="/wp-content/uploads/2022/11/lg-multi-2-chieu.jpg" class="wp-post-image skip-lazy" alt="" decoding="async" loading="lazy" title="lg-multi-2 chieu" data-caption="" data-src="/wp-content/uploads/2022/11/lg-multi-2-chieu.jpg" data-large_image="/wp-content/uploads/2022/11/lg-multi-2-chieu.jpg" data-large_image_width="600" data-large_image_height="450" srcset="/wp-content/uploads/2022/11/lg-multi-2-chieu.jpg 600w, /wp-content/uploads/2022/11/lg-multi-2-chieu-300x225.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></div>  </figure>
 
   <div class="image-tools absolute bottom left z-3">
-        <a href="#product-zoom" class="zoom-button button is-outline circle icon tooltip hide-for-small" title="Phóng to">
+        <a href="#product-zoom" class="zoom-button button is-outline circle icon tooltip hide-for-small" title="Enlarge">
       <i class="icon-expand" ></i>    </a>
    </div>
 </div>
@@ -284,12 +284,12 @@
 			
 
 <div class="product-title-container"><h1 class="product-title product_title entry-title">
-	Dàn lạnh điều hòa multi LG 18000BTU AMNW18GSKB0 2 way inverter</h1>
+	LG multi air conditioner indoor unit 18000BTU AMNW18GSKB0 2 way inverter</h1>
 <div class="bottom_title">
 
  
             <div class="title_item">
-        <span>Origin&nbsp;</span> <span class="cl"><b>Thái Lan</b></span>
+        <span>Origin&nbsp;</span> <span class="cl"><b>Thailand</b></span>
     </div>
         <div class="title_item">
         <span>Product Code&nbsp;</span> <span class="cl"><b>	
@@ -329,17 +329,17 @@
 
 <div class="khaosat_content">
 				<div class="khaosat_header">
-					<h3>Register for installation đặt tại nhà</h3>
+					<h3>Register for installation at home</h3>
 				</div>	
 
 				<div class="khaosat_product">
                     <div class="khaosat_product_top">
                         <img width="600" height="450" src="/wp-content/uploads/2022/11/lg-multi-2-chieu.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="/wp-content/uploads/2022/11/lg-multi-2-chieu.jpg 600w, /wp-content/uploads/2022/11/lg-multi-2-chieu-300x225.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />                        <div class="khaosat_product_title">
                             <h1 class="product-title product_title entry-title">
-                                Dàn lạnh điều hòa multi LG 18000BTU AMNW18GSKB0 2 way inverter                            </h1>
+                                LG multi air conditioner indoor unit 18000BTU AMNW18GSKB0 2 way inverter                            </h1>
                             <div class="bottom_title">
                                                                                                                                                                 <div class="title_item">
-                                    <span>Origin&nbsp;</span> <span class="cl"><b>Thái Lan</b></span>
+                                    <span>Origin&nbsp;</span> <span class="cl"><b>Thailand</b></span>
                                 </div>
                                                                 <div class="title_item">
                                     <span>Product Code&nbsp;</span> <span class="cl"><b>	
@@ -352,7 +352,7 @@
                         
 <div class="wpcf7 no-js" id="wpcf7-f1649-p1662-o1" lang="vi" dir="ltr">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-<form action="/dan-lanh-multi-lg-18000btu-2-chieu-inverter-amnw18gskb0/#wpcf7-f1649-p1662-o1" method="post" class="wpcf7-form init" aria-label="Form liên hệ" novalidate="novalidate" data-status="init">
+<form action="/dan-lanh-multi-lg-18000btu-2-chieu-inverter-amnw18gskb0/#wpcf7-f1649-p1662-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1649" />
 <input type="hidden" name="_wpcf7_version" value="5.8.7" />
@@ -363,23 +363,23 @@
 </div>
 <div class="cf-container form_ks">
 	<div class="cf-col-6">
-		<p><label> Họ và tên *<br />
-<span class="wpcf7-form-control-wrap" data-name="ks_ht"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Nhập họ và tên" value="" type="text" name="ks_ht" /></span></label>
+		<p><label> Full name *<br />
+<span class="wpcf7-form-control-wrap" data-name="ks_ht"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Enter first and last name" value="" type="text" name="ks_ht" /></span></label>
 		</p>
 	</div>
 	<div class="cf-col-6">
-		<p><label> Số điện thoại<br />
-<span class="wpcf7-form-control-wrap" data-name="ks_tel"><input size="40" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Nhập số điện thoại" value="" type="tel" name="ks_tel" /></span></label>
+		<p><label> Phone number<br />
+<span class="wpcf7-form-control-wrap" data-name="ks_tel"><input size="40" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Enter phone number" value="" type="tel" name="ks_tel" /></span></label>
 		</p>
 	</div>
 	<div class="cf-col-12 ">
-		<p><label> Địa chỉ *<br />
-<span class="wpcf7-form-control-wrap" data-name="ks_addres"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Nhập địa chỉ" value="" type="text" name="ks_addres" /></span></label><br />
-<label> Lời nhắn cần lưu ý cho Thịnh Phát<br />
-<span class="wpcf7-form-control-wrap" data-name="ks_ly"><textarea cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Nhập lưu ý" name="ks_ly"></textarea></span></label>
+		<p><label> Address *<br />
+<span class="wpcf7-form-control-wrap" data-name="ks_addres"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Enter the address" value="" type="text" name="ks_addres" /></span></label><br />
+<label> Message to note for Thinh Phat<br />
+<span class="wpcf7-form-control-wrap" data-name="ks_ly"><textarea cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Enter note" name="ks_ly"></textarea></span></label>
 		</p>
 		<div class="text-center">
-			<p><input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Nhận tư vấn" />
+			<p><input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Get advice" />
 			</p>
 		</div>
 	</div>
@@ -492,7 +492,7 @@
 
 
 			<div class="quantity buttons_added form-normal">
-		<input type="button" value="-" class="minus button is-form">				<label class="screen-reader-text" for="quantity_6a4a2afeefbaf">Dàn lạnh điều hòa multi LG 18000BTU AMNW18GSKB0 2 way inverter Quantity</label>
+		<input type="button" value="-" class="minus button is-form">				<label class="screen-reader-text" for="quantity_6a4a2afeefbaf">LG multi air conditioner indoor unit 18000BTU AMNW18GSKB0 2 way inverter Quantity</label>
 		<input
 			type="number"
 			id="quantity_6a4a2afeefbaf"
@@ -511,7 +511,7 @@
 		<button type="submit" name="add-to-cart" value="14" class="single_add_to_cart_button button alt">Add to cart</button>
 
 		    <a href="#khaosat-tuvan" class="btn_product khaosat">
-        <span class="btn_top"> khảo sát - tư vấn lắp đặt tại nhà</span><span class="btn_bottom">Miễn phí 100%</span>
+        <span class="btn_top"> Survey - home installation consultation</span><span class="btn_bottom">100% Free</span>
     </a>
     <button type="button" class="btn_product buy_now_button">
         <span class="btn_top">Buy Now</span>
@@ -585,9 +585,9 @@
 			
 
 <div class="product-short-description">
-	<p><strong><img class="alignnone wp-image-10976 size-full entered lazyloaded" src="/wp-content/uploads/2021/01/xem-ngay.gif" alt="xem-ngay" width="25" height="12" data-lazy-src="/wp-content/uploads/2021/01/xem-ngay.gif" data-ll-status="loaded" /> Free Shipping nội thành Hà Nội</strong></p>
-<p><strong><img class="alignnone size-full wp-image-10975 entered lazyloaded" src="/wp-content/uploads/2021/01/xem-ngay.gif" alt="xem-ngay" width="22" height="15" data-lazy-src="/wp-content/uploads/2021/01/xem-ngay.gif" data-ll-status="loaded" /> Bảng báo giá nhân công – vật tư lắp đặt tại Thịnh Phát</strong></p>
-<p><strong><img class="alignnone size-full wp-image-10975 entered lazyloaded" src="/wp-content/uploads/2021/01/xem-ngay.gif" alt="xem-ngay" width="22" height="15" data-lazy-src="/wp-content/uploads/2021/01/xem-ngay.gif" data-ll-status="loaded" /> Góp ý – phản ánh chất lượng dịch vụ</strong></p>
+	<p><strong><img class="alignnone wp-image-10976 size-full entered lazyloaded" src="/wp-content/uploads/2021/01/xem-ngay.gif" alt="xem-ngay" width="25" height="12" data-lazy-src="/wp-content/uploads/2021/01/xem-ngay.gif" data-ll-status="loaded" /> Free Shipping within Hanoi</strong></p>
+<p><strong><img class="alignnone size-full wp-image-10975 entered lazyloaded" src="/wp-content/uploads/2021/01/xem-ngay.gif" alt="xem-ngay" width="22" height="15" data-lazy-src="/wp-content/uploads/2021/01/xem-ngay.gif" data-ll-status="loaded" /> Price list for labor and installation materials at Thinh Phat</strong></p>
+<p><strong><img class="alignnone size-full wp-image-10975 entered lazyloaded" src="/wp-content/uploads/2021/01/xem-ngay.gif" alt="xem-ngay" width="22" height="15" data-lazy-src="/wp-content/uploads/2021/01/xem-ngay.gif" data-ll-status="loaded" /> Feedback - reflects service quality</strong></p>
 </div>
 
 
@@ -613,12 +613,12 @@
 
 
 
-<h4 class="title-ribbon">ưu đãi chỉ có tại Brandshop Thịnh Phát</h4>
+<h4 class="title-ribbon">Offer only available at Brandshop Thinh Phat</h4>
 
 
 <div class="wpcf7 no-js" id="wpcf7-f1294-p1662-o2" lang="vi" dir="ltr">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-<form action="/dan-lanh-multi-lg-18000btu-2-chieu-inverter-amnw18gskb0/#wpcf7-f1294-p1662-o2" method="post" class="wpcf7-form init" aria-label="Form liên hệ" novalidate="novalidate" data-status="init">
+<form action="/dan-lanh-multi-lg-18000btu-2-chieu-inverter-amnw18gskb0/#wpcf7-f1294-p1662-o2" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="1294" />
 <input type="hidden" name="_wpcf7_version" value="5.8.7" />
@@ -627,8 +627,8 @@
 <input type="hidden" name="_wpcf7_container_post" value="14" />
 <input type="hidden" name="_wpcf7_posted_data_hash" value="" />
 </div>
-<p><span class="wpcf7-form-control-wrap" data-name="telkm"><input size="40" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel form_km" aria-required="true" aria-invalid="false" placeholder="Nhập số điện thoại nhận thông tin promotions" value="" type="tel" name="telkm" /></span><br />
-<input class="wpcf7-form-control wpcf7-submit has-spinner form_km" type="submit" value="Đăng ký ngay" />
+<p><span class="wpcf7-form-control-wrap" data-name="telkm"><input size="40" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel form_km" aria-required="true" aria-invalid="false" placeholder="Enter phone number to receive promotion information" value="" type="tel" name="telkm" /></span><br />
+<input class="wpcf7-form-control wpcf7-submit has-spinner form_km" type="submit" value="Register now" />
 </p><div class="wpcf7-response-output" aria-hidden="true"></div>
 </form>
 </div>
@@ -712,7 +712,7 @@
                     </svg>
 
                 </div> 
-            <h3 class="product_icon_title"><span class="relative">tại sao mua hàng ở Thịnh phát</span></h3>
+            <h3 class="product_icon_title"><span class="relative">Why buy at Thinh Phat?</span></h3>
         </div>
                 <ul class="why_product">
                         <li class="why_item">
@@ -727,35 +727,35 @@
                     <img src="/wp-content/uploads/2022/11/item2.png" alt="" srcset="">
                 </div>
                 <div class="why_text">
-                    Nhân viên tư vấn nhiệt tình                </div>
+                    Enthusiastic consulting staff                </div>
             </li>
                         <li class="why_item">
                 <div>
                     <img src="/wp-content/uploads/2022/11/item3.png" alt="" srcset="">
                 </div>
                 <div class="why_text">
-                    Đội ngũ lắp đặt chuyên nghiệp                </div>
+                    Professional installation team                </div>
             </li>
                         <li class="why_item">
                 <div>
                     <img src="/wp-content/uploads/2022/11/item4.png" alt="" srcset="">
                 </div>
                 <div class="why_text">
-                    Policy đổi trả linh hoạt                </div>
+                    Flexible return policy                </div>
             </li>
                         <li class="why_item">
                 <div>
                     <img src="/wp-content/uploads/2022/11/item5.png" alt="" srcset="">
                 </div>
                 <div class="why_text">
-                    Miễn phí vận chuyển nội thành Hà Nội                </div>
+                    Free shipping within Hanoi                </div>
             </li>
                         <li class="why_item">
                 <div>
                     <img src="/wp-content/uploads/2022/11/item7.png" alt="" srcset="">
                 </div>
                 <div class="why_text">
-                    Thanh toán thuận tiện                </div>
+                    Convenient payment                </div>
             </li>
                     </ul>
     
@@ -809,14 +809,14 @@
                 </defs>
                 </svg>
                 </div> 
-            <h3 class="product_icon_title"><span class="relative">Hệ thống kho hàng</span></h3>
+            <h3 class="product_icon_title"><span class="relative">Warehouse system</span></h3>
         </div>
                     <div class="showroom_product">
                                                                                         <div class="showroom_product_item">
-                                <h4 >Trụ sở chính</h4>
+                                <h4 >Headquarters</h4>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/pin.svg" > 
-                                    <span>Số 19A, Đường Bát Khối, Phường Long Biên, Quận Long Biên, Hà Nội</span>
+                                    <span>No. 19A, Bat Khoi Street, Long Bien Ward, Long Bien District, Hanoi</span>
                                 </div>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/phone.svg" > 
@@ -824,10 +824,10 @@
                                 </div>
                             </div>
                                                                                                                 <div class="showroom_product_item">
-                                <h4 >Kho 1:  Cảng Hà Nội</h4>
+                                <h4 >Kho 1:  Hanoi Port</h4>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/pin.svg" > 
-                                    <span>Cảng Hà Nội</span>
+                                    <span>Hanoi Port</span>
                                 </div>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/phone.svg" > 
@@ -835,10 +835,10 @@
                                 </div>
                             </div>
                                                                                                                 <div class="showroom_product_item">
-                                <h4 >Kho 2: Xuân Thủy - Cầu Giấy - Hà Nội</h4>
+                                <h4 >Warehouse 2: Xuan Thuy - Cau Giay - Hanoi</h4>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/pin.svg" > 
-                                    <span>Xuân Thủy - Cầu Giấy - Hà Nội</span>
+                                    <span>Xuan Thuy - Cau Giay - Hanoi</span>
                                 </div>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/phone.svg" > 
@@ -846,10 +846,10 @@
                                 </div>
                             </div>
                                                                                                                 <div class="showroom_product_item">
-                                <h4 >Kho 3: Nguyễn Trãi - Thanh Xuân</h4>
+                                <h4 >Warehouse 3: Nguyen Trai - Thanh Xuan</h4>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/pin.svg" > 
-                                    <span>Nguyễn Trãi - Thanh Xuân</span>
+                                    <span>Nguyen Trai - Thanh Xuan</span>
                                 </div>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/phone.svg" > 
@@ -857,10 +857,10 @@
                                 </div>
                             </div>
                                                                                                                 <div class="showroom_product_item">
-                                <h4 >Kho 4: Tháp Đồng hồ Văn Phú - Hà Đông - Hà Nội</h4>
+                                <h4 >Warehouse 4: Van Phu Clock Tower - Ha Dong - Hanoi</h4>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/pin.svg" > 
-                                    <span>Tháp Đồng hồ Văn Phú - Hà Đông - Hà Nội</span>
+                                    <span>Van Phu Clock Tower - Ha Dong - Hanoi</span>
                                 </div>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/phone.svg" > 
@@ -868,10 +868,10 @@
                                 </div>
                             </div>
                                                                                                                 <div class="showroom_product_item">
-                                <h4 >Chi nhánh Nam Định</h4>
+                                <h4 >Nam Dinh Branch</h4>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/pin.svg" > 
-                                    <span>QL 21B Tân Đình Liêm Hải Trực Ninh Nam Định</span>
+                                    <span>Highway 21B Tan Dinh Liem Hai Truc Ninh Nam Dinh</span>
                                 </div>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/phone.svg" > 
@@ -905,58 +905,58 @@
 
 
 
-<h3 class="single_product_title"><img src="/wp-content/uploads/2022/11/package-info.svg" ><span>Mô tả sản phẩm</span></h3>
+<h3 class="single_product_title"><img src="/wp-content/uploads/2022/11/package-info.svg" ><span>Product description</span></h3>
 
     <div class="content_product content_pr">
-        <p><span style="font-size: 20px; color: #0000ff;">Mặt lạnh điều hòa multi LG 18000BTU AMNW18GSKB0 2 way inverter</span><br />
-– Dàn lạnh điều hòa multi LG 18000BTU AMNW18GSKB0 2 way inverter phù hợp cho những căn phòng nhỏ ấm cúng như phòng ngủ, phòng đọc, phòng chơi với diện tích từ 25 đến 30m2,mang lớp vỏ màu trắng thanh lịch với những đường nét tinh tế đầy tính thẩm mĩ chắc chắn sẽ tô điểm cho căn phòng của bạn.</p>
-<p><span style="font-size: 20px; color: #0000ff;">About Us về nguồn gốc của chiếc multi LG AMNW18GSJB0 18000BTU</span></p>
-<p>– Công ty LG là một Công ty đi đầu trong lĩnh vực đổi mới công nghệ hàng đầu Thế giới về sản xuất công nghệ điện tử. Với 81 công ty con trải rộng trên toàn thế giới. LG có 5 mảng đơn vị kinh doanh: điện thoại di động, sản xuất TV màn hình phẳng, các sản phẩm âm thanh và video, điều hòa không khí và máy giặt hàng đầu thế giới.</p>
+        <p><span style="font-size: 20px; color: #0000ff;">Cold side multi air conditioner LG 18000BTU AMNW18GSKB0 2 way inverter</span><br />
+– LG 18000BTU AMNW18GSKB0 2 way inverter multi air conditioner indoor unit is suitable for small, cozy rooms such as bedrooms, reading rooms, playrooms with an area of ​​25 to 30m2, has an elegant white shell with delicate aesthetic lines that will definitely adorn your room.</p>
+<p><span style="font-size: 20px; color: #0000ff;">About Us about the origin of the LG AMNW18GSJB0 18000BTU multi</span></p>
+<p>– LG Company is a leading company in the field of technological innovation, leading the world in electronic technology production. With 81 subsidiaries spread around the world. LG has five business units: mobile phones, flat screen TV manufacturing, audio and video products, air conditioners and the world's leading washing machines.</p>
 <p>&gt;&gt;&gt; Read More : Multi Air Conditioner LG 18000BTU</p>
-<p>– Nói đến LG không thể không nhắc tới sản phẩm Air Conditioner không khí, một trong những sản phẩm đang được reviews cao trên nhiều phương diện về sự cạnh tranh mẫu mã, chất lượng và giá cả tất cả đều rất phù hợp.</p>
-<p><span style="color: #0000ff; font-size: 20px;">Air Conditioner LG AMNW18GSJB0 thiết kế nhỏ gọn – tinh tế</span></p>
-<p>– Vì vậy khi muốn lựa chọn cho gia đình một chiếc điều hòa không khí bạn không lên bỏ qua sản phẩm của LG. Đến với Điện máy Thịnh Phát bạn sẽ được chúng tôi tư vấn và giới thiệu một cách khái quát nhất về sản phẩm của chiếc Air Conditioner Multi LG này.<br />
-– Được sản xuất tại một đất nước có tốc độ phát triển cao về khoa học công nghệ như Thái Lan chiếc điều hòa multi LG AMMW18GSJBO chắc chắn sẽ đem lại những trải nghiệm đầy bất ngờ cho người sở hữu chúng không chỉ bởi vì thiết kế sang trọng, ấn tượng về cả kiểu dáng mẫu mã và chất lượng.</p>
+<p>- When talking about LG, it is impossible not to mention the Air Conditioner product, one of the products that is being highly reviewed in many aspects in terms of competition, design, quality and price, all of which are very suitable.</p>
+<p><span style="color: #0000ff; font-size: 20px;">Air Conditioner LG AMNW18GSJB0 has a compact and sophisticated design</span></p>
+<p>- So when you want to choose an air conditioner for your family, don't ignore LG products. Coming to Thinh Phat Dien May, you will be consulted and introduced in the most general way about the product of this Air Conditioner Multi LG.<br />
+– Manufactured in a country with a high rate of development in science and technology like Thailand, the LG AMMW18GSJBO multi air conditioner will definitely bring surprising experiences to its owners not only because of its luxurious design, impressive in both design and quality.</p>
 <p><a href="//wp-content/uploads/2022/11/treo-tuong-multi.jpg" target="_blank" rel="noopener"><img decoding="async" loading="lazy" class="wp-image-1664 size-full aligncenter" src="//wp-content/uploads/2022/11/treo-tuong-multi.jpg" alt="" width="780" height="450" srcset="/wp-content/uploads/2022/11/treo-tuong-multi.jpg 780w, /wp-content/uploads/2022/11/treo-tuong-multi-300x173.jpg 300w, /wp-content/uploads/2022/11/treo-tuong-multi-600x346.jpg 600w" sizes="(max-width: 780px) 100vw, 780px" /></a></p>
 <p>&nbsp;</p>
-<p>– Chiếc điều hòa multi LG 2 way AMNW18GSJB0 này thích hợp 2 chức năng làm lạnh và sưởi ấm rất thích hợp với thời tiết 2 mùa nóng, lạnh rõ rệt như ở Miền Bắc nước ta giúp bạn quên đi nỗi lo nóng lạnh thất thường để luôn có cảm giác mát mẻ vào mùa hè và ấm áp vào mùa đông. Bạn sẽ có một giấc ngủ ngon khi chiếc điều hòa có chế độ vận hành khi ngủ.<br />
-&gt;&gt;&gt; Read More : Dàn lạnh điều hòa multi LG 2 way<br />
-– Không chỉ hoạt động êm ái , vân hành ở mức thấp nhất mà máy còn được tích hơp chế độ hẹn giờ tự tắt và khởi động lại máy khi phòng đạt được nhiệt độ ổn định.</p>
-<p><span style="color: #0000ff; font-size: 20px;">LG AMNW18GSKB0 Làm lạnh nhanh</span></p>
-<p>– Multi Air Conditioner LG 2 way AMNW18GSJB0 với khả năng làm lạnh rất nhanh chỉ sau vài phút điều hòa khởi động căn phòng của bạn sẽ được phủ một làn không khí mát lạnh sảng khoái.</p>
+<p>– This LG 2 way AMNW18GSJB0 multi air conditioner is suitable for 2 cooling and heating functions, very suitable for the weather with two distinct hot and cold seasons like in the North of our country, helping you forget the worry of erratic heat and cold to always feel cool in the summer and warm in the winter. You will have a good night's sleep when the air conditioner has a sleep mode.<br />
+&gt;&gt;&gt; Read More: LG 2 way multi air conditioner indoor unit<br />
+– Not only does it operate smoothly, operating at the lowest level, but the machine also has a built-in timer to automatically turn off and restart the machine when the room reaches a stable temperature.</p>
+<p><span style="color: #0000ff; font-size: 20px;">LG AMNW18GSKB0 Fast cooling</span></p>
+<p>– Multi Air Conditioner LG 2 way AMNW18GSJB0 with the ability to cool very quickly, after just a few minutes of starting the air conditioner, your room will be covered with cool, refreshing air.</p>
 <p><a href="//wp-content/uploads/2022/11/treo-tuong-lg-lanh.jpg" target="_blank" rel="noopener"><img decoding="async" loading="lazy" class="size-full wp-image-1665 aligncenter" src="//wp-content/uploads/2022/11/treo-tuong-lg-lanh.jpg" alt="" width="780" height="450" srcset="/wp-content/uploads/2022/11/treo-tuong-lg-lanh.jpg 780w, /wp-content/uploads/2022/11/treo-tuong-lg-lanh-300x173.jpg 300w, /wp-content/uploads/2022/11/treo-tuong-lg-lanh-600x346.jpg 600w" sizes="(max-width: 780px) 100vw, 780px" /></a></p>
-<p><span style="font-size: 20px; color: #0000ff;">Multi Air Conditioner LG tiết kiệm điện với công nghệ inverter</span></p>
-<p>– Air Conditioner LG 18000BTU AMNW18GSKB0 được thiết kế sử dụng công nghệ inverter – một trong những công nghệ tiên tiến nhất chiếc điều hòa Multi LG AMNW18GSJB0 này đảm bảo sẽ giúp gia đình bạn giảm thiểu chi phí tiền điện một cách ngạc nhiên</p>
-<p>– Công nghệ khử mùi, diệt khuẩn hiệu quả được tích hợp lưới lọc 3M có thể loại bỏ hết các vi rút, vi khuẩn đảm bảo mang đến cho gia đình bạn một bầu không khí trong lành .</p>
+<p><span style="font-size: 20px; color: #0000ff;">Multi Air Conditioner LG saves electricity with inverter technology</span></p>
+<p>– Air Conditioner LG 18000BTU AMNW18GSKB0 is designed using inverter technology - one of the most advanced technologies. This Multi LG AMNW18GSJB0 air conditioner is guaranteed to help your family surprisingly reduce electricity costs.</p>
+<p>– Effective deodorizing and disinfecting technology with integrated 3M filter mesh can remove all viruses and bacteria, ensuring to bring your family a fresh atmosphere.</p>
 <p><a href="//wp-content/uploads/2022/11/air-conditioner-multi-lg.jpg" target="_blank" rel="noopener"><img decoding="async" loading="lazy" class="size-full wp-image-1659 aligncenter" src="//wp-content/uploads/2022/11/air-conditioner-multi-lg.jpg" alt="" width="780" height="450" srcset="/wp-content/uploads/2022/11/air-conditioner-multi-lg.jpg 780w, /wp-content/uploads/2022/11/air-conditioner-multi-lg-300x173.jpg 300w, /wp-content/uploads/2022/11/air-conditioner-multi-lg-600x346.jpg 600w" sizes="(max-width: 780px) 100vw, 780px" /></a><br />
-công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
-– Bạn sẽ thực sự tận hưởng được những phút giây thư thái, mát lạnh nhờ chức năng 1 cửa thổi gió 4 hướng trái, phải, trên, dưới với khả năng làm lạnh rất nhanh chỉ sau vài phút điều hòa khởi động căn phòng cuả bạn sẽ được phủ một làn không khí mát lạnh sảng khoái</p>
-<p><span style="font-size: 20px; color: #0000ff;">Gas R410A – Là dòng ga được reviewsthân thiện với môi trường</span></p>
+inverter technology on the multi LG 9,000BTU AMNW09GTUA0<br />
+– You will truly enjoy relaxing, cool moments thanks to the function of 1 door blowing air in 4 directions left, right, top, bottom with the ability to cool very quickly. After just a few minutes of the air conditioner starting up, your room will be covered with a refreshing cool air.</p>
+<p><span style="font-size: 20px; color: #0000ff;">Gas R410A - An environmentally friendly gas line</span></p>
 <p><a href="//wp-content/uploads/2022/11/gas-r410a-than-thien-moi-truong.jpg" target="_blank" rel="noopener"><img decoding="async" loading="lazy" class="size-full wp-image-1661 aligncenter" src="//wp-content/uploads/2022/11/gas-r410a-than-thien-moi-truong.jpg" alt="" width="780" height="450" srcset="/wp-content/uploads/2022/11/gas-r410a-than-thien-moi-truong.jpg 780w, /wp-content/uploads/2022/11/gas-r410a-than-thien-moi-truong-300x173.jpg 300w, /wp-content/uploads/2022/11/gas-r410a-than-thien-moi-truong-600x346.jpg 600w" sizes="(max-width: 780px) 100vw, 780px" /></a><br />
-– Điều hoà Multi LG sử dụng dòng ga Gas R410A, đây là một dòng ga đã được cải tiến mới có hiệu suất làm lạnh cao hơn so với dòng ga cũ R22 gấp 1.6 lần. Sử dụng dòng Ga R410A này căn phòng của bạn sẽ được làm lạnh nhanh và sâu hơn, được biết đến là một dòng ga sạch và thân thiện với môi trường vì vậy bạn sẽ hoàn toàn yên tâm khi sử dụng.</p>
-<p><span style="color: #0000ff; font-size: 20px;">Policy warranty điều hòa multi LG</span><br />
-– Air Conditioner Cassettle Âm trần MultiLG được warranty chính hãng 1 năm cho tổng thể máy tại nhà, hơn thế nữa hệ thống chăm sóc khách hàng 1800.1503 của LG luôn sẵn sàng giải đáp và tiếp thu mọi ý kiến của khách hàng nếu có thắc mắc gì trong quá trình sử dụng. Vì vậy bạn có thể hoàn toàn yên tâm kh sử dụng sản phẩm chính hãng của LG được cung cấp bởi Điện máy Thịnh Phát<br />
+– Multi LG air conditioner uses R410A Gas line, this is a new improved gas line with 1.6 times higher cooling efficiency than the old R22 gas line. Using this R410A gas line, your room will be cooled faster and deeper. It is known to be a clean and environmentally friendly gas line, so you will have complete peace of mind when using it.</p>
+<p><span style="color: #0000ff; font-size: 20px;">Policy warranty for LG multi air conditioner</span><br />
+– MultiLG Ceiling Cassette Air Conditioner comes with a 1-year genuine warranty for the entire machine at home. Furthermore, LG's customer care system 1800.1503 is always ready to answer and receive all customer comments if they have any questions during use. Therefore, you can be completely assured when using genuine LG products provided by Thinh Phat Dien May<br />
 <a href="//wp-content/uploads/2022/11/thinh-phat-Dieu-hoa-lg-bao-hanh-chinh-hang.jpg" target="_blank" rel="noopener"><img decoding="async" loading="lazy" class="size-full wp-image-1572 aligncenter" src="//wp-content/uploads/2022/11/thinh-phat-Dieu-hoa-lg-bao-hanh-chinh-hang.jpg" alt="" width="768" height="431" srcset="/wp-content/uploads/2022/11/thinh-phat-Dieu-hoa-lg-bao-hanh-chinh-hang.jpg 768w, /wp-content/uploads/2022/11/thinh-phat-Dieu-hoa-lg-bao-hanh-chinh-hang-300x168.jpg 300w, /wp-content/uploads/2022/11/thinh-phat-Dieu-hoa-lg-bao-hanh-chinh-hang-600x337.jpg 600w" sizes="(max-width: 768px) 100vw, 768px" /></a></p>
-<p><span style="color: #0000ff; font-size: 20px;">Cam kết của Điện lạnh Thịnh Phát</span><br />
-– Với tất cả các tính năng trên, chiếc Air Conditioner cassettle âm trần multi LG này sẽ là sự lựa chọn hoàn hảo cho gia đình bạn. Chỉ cần nhấc máy và gọi cho chúng tôi 0977 986 038 – 02432 16 13 18. Điện Lạnh Thịnh Phát luôn sẵn sàng phục vụ Bạn với phương châm: Rẻ – Đẹp – Chính hãng – Tận tình- Chu đáo – Chất-lượng.</p>
-<p><strong>&gt;&gt;&gt; Read More : Mặt lạnh điều hòa multi LG inverter</strong></p>
-<p>– Điện Lạnh Thịnh Phát luôn tự hào là đơn vị cung cấp và dịch vụ tốt nhất về nghành điện máy tại Hà Nội với đội ngũ nhân viên chuyên nghiệp sẵn sàng phục vụ khách hàng.</p>
-<p><span style="color: #ed1c24; font-size: 20px;">Điện máy Thịnh Phát cam kết</span><br />
-– Đền bù gấp đôi giá trị hàng hóa nếu bán hàng giả và kém chất lượng<br />
-– Cam kết giá cạnh tranh<br />
-– Cam kết 100% sản phẩm đều có tem chống hàng giả</p>
-<p><span style="color: #ed1c24; font-size: 20px;">Lý do bạn nên mua hàng tại Điện Máy Thịnh Phát</span><br />
-– Đội ngũ tư vấn nhiệt tình , thân thiện với quý khách hàng.<br />
-– Policy chăm sóc khách hàng tận tình chu đáo và luôn đồng hành cùng quý khách hàng.<br />
-– Triển khai nhiều chương trình giảm giá promotions cho khách hàng vào những dịp lễ tết trong năm.<br />
-– Giao hàng và thu tiền tận chân công trình.<br />
-– Thanh toán linh hoạt qua nhiều ngân hàng.<br />
-– Policy hoàn tiền rõ ràng : Cam kết trả lại 100% tiền nếu khách hàng phát hiện hàng giả, kém chất lượng khi sử dụng và mua hàng của Điện máy Thịnh Phát.</p>
+<p><span style="color: #0000ff; font-size: 20px;">Commitment of Thinh Phat Refrigeration</span><br />
+– With all the above features, this LG multi ceiling cassette Air Conditioner will be the perfect choice for your family. Just pick up the phone and call us at 0977 986 038 - 02432 16 13 18. Thinh Phat Refrigeration is always ready to serve you with the motto: Cheap - Beautiful - Genuine - Dedicated - Thoughtful - Quality.</p>
+<p><strong>&gt;&gt;&gt; Read More: LG inverter multi air conditioner cold side</strong></p>
+<p>– Thinh Phat Refrigeration is always proud to be the best supplier and service in the electronics industry in Hanoi with a team of professional staff ready to serve customers.</p>
+<p><span style="color: #ed1c24; font-size: 20px;">Thinh Phat Electronics commits</span><br />
+– Compensate double the value of the goods if selling fake and poor quality goods<br />
+– Commitment to competitive prices<br />
+– Commitment to 100% of products having anti-counterfeit stamps</p>
+<p><span style="color: #ed1c24; font-size: 20px;">Reasons why you should buy at Dien May Thinh Phat</span><br />
+– Enthusiastic and friendly consulting team with customers.<br />
+– Customer care policy is dedicated and thoughtful and always accompanies customers.<br />
+– Implement many promotional discount programs for customers on holidays throughout the year.<br />
+– Delivery and collection of money at the construction site.<br />
+– Flexible payment through many banks.<br />
+– Clear refund policy: Commitment to 100% refund if customers discover fake or poor quality goods when using and purchasing products from Thinh Phat Dien May.</p>
   
     </div>
     <div class="btn_loadmore btn_content">
-            <a href="javascript:void(0)">Read More nội dung</a>
-            <a href="javascript:void(0)">Collapse nội dung</a>
+            <a href="javascript:void(0)">Read More content</a>
+            <a href="javascript:void(0)">Collapse content</a>
         </div> 
         <script>
             (function($) {
@@ -990,17 +990,17 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 <tbody>
 <tr>
 <td colspan="4">
-<h2><span style="font-size: 16px;">điều hòa multi LG dàn lạnh teo tường 2 way</span></h2>
+<h2><span style="font-size: 16px;">Multi air conditioner LG 2 way wall mounted air conditioner</span></h2>
 </td>
 <td style="text-align: center;"><span style="color: #000000;"><a style="color: #000000;" href="/san-pham/dan-lanh-multi-lg-18000btu-2-chieu-inverter-amnw18gskb0/"><span style="font-size: 16px;"><strong>AMNW18GSKB0</strong></span></a></span></td>
 </tr>
 <tr>
-<td colspan="3"><span style="font-size: 16px;">Điện nguồn </span></td>
+<td colspan="3"><span style="font-size: 16px;">Power source </span></td>
 <td><span style="font-size: 16px;">V/Ø/Hz</span></td>
 <td><span style="font-size: 16px;">220-240, 1,50</span></td>
 </tr>
 <tr>
-<td colspan="3" rowspan="2"><span style="font-size: 16px;">Công suất lạnh </span></td>
+<td colspan="3" rowspan="2"><span style="font-size: 16px;">Cooling capacity </span></td>
 <td><span style="font-size: 16px;">kW</span></td>
 <td><span style="font-size: 16px;">5,3</span></td>
 </tr>
@@ -1009,7 +1009,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 <td><span style="font-size: 16px;">18,000</span></td>
 </tr>
 <tr>
-<td colspan="3" rowspan="2"><span style="font-size: 16px;">Công suất sưởi </span></td>
+<td colspan="3" rowspan="2"><span style="font-size: 16px;">Heating capacity </span></td>
 <td><span style="font-size: 16px;">kW</span></td>
 <td><span style="font-size: 16px;">6,3</span></td>
 </tr>
@@ -1018,28 +1018,28 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 <td><span style="font-size: 16px;">21,600</span></td>
 </tr>
 <tr>
-<td colspan="2"><span style="font-size: 16px;">Cường độ dòng điện </span></td>
-<td><span style="font-size: 16px;">Tối Đa/TB/Tối thiểu</span></td>
+<td colspan="2"><span style="font-size: 16px;">Current intensity </span></td>
+<td><span style="font-size: 16px;">Maximum/Mean/Min</span></td>
 <td><span style="font-size: 16px;">A</span></td>
 <td><span style="font-size: 16px;">0.40/0.28/0.22</span></td>
 </tr>
 <tr>
-<td><span style="font-size: 16px;">Kích thước </span></td>
-<td><span style="font-size: 16px;">Thân máy </span></td>
+<td><span style="font-size: 16px;">Size </span></td>
+<td><span style="font-size: 16px;">Machine body </span></td>
 <td><span style="font-size: 16px;">R x C x S</span></td>
 <td><span style="font-size: 16px;">mm</span></td>
 <td><span style="font-size: 16px;">998x 345 x 210</span></td>
 </tr>
 <tr>
-<td><span style="font-size: 16px;">Trọng lượng tịnh </span></td>
-<td><span style="font-size: 16px;">Thân máy </span></td>
+<td><span style="font-size: 16px;">Net weight </span></td>
+<td><span style="font-size: 16px;">Machine body </span></td>
 <td></td>
 <td><span style="font-size: 16px;">kg</span></td>
 <td><span style="font-size: 16px;">12</span></td>
 </tr>
 <tr>
-<td rowspan="3"><span style="font-size: 16px;">Quạt </span></td>
-<td colspan="3"><span style="font-size: 16px;">Loại</span></td>
+<td rowspan="3"><span style="font-size: 16px;">Fan </span></td>
+<td colspan="3"><span style="font-size: 16px;">Type</span></td>
 <td><span style="font-size: 16px;">BLDC</span></td>
 </tr>
 <tr>
@@ -1047,58 +1047,58 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 <td><span style="font-size: 16px;">30 x 1</span></td>
 </tr>
 <tr>
-<td><span style="font-size: 16px;">Lưu lượng </span></td>
-<td><span style="font-size: 16px;">Cao/TB/Thấp</span></td>
+<td><span style="font-size: 16px;">Flow </span></td>
+<td><span style="font-size: 16px;">High/Medium/Low</span></td>
 <td><span style="font-size: 16px;">m3/min</span></td>
 <td><span style="font-size: 16px;">16.9 / 12.8 / 10.4</span></td>
 </tr>
 <tr>
-<td colspan="2"><span style="font-size: 16px;">Độ ổn áp suất </span></td>
-<td><span style="font-size: 16px;">Cao/TB/Thấp</span></td>
+<td colspan="2"><span style="font-size: 16px;">Pressure stability </span></td>
+<td><span style="font-size: 16px;">High/Medium/Low</span></td>
 <td><span style="font-size: 16px;">dB(A)</span></td>
 <td><span style="font-size: 16px;">44 / 38 / 34</span></td>
 </tr>
 <tr>
-<td rowspan="3"><span style="font-size: 16px;">Đường kính ống </span></td>
-<td colspan="2"><span style="font-size: 16px;">Lỏng </span></td>
+<td rowspan="3"><span style="font-size: 16px;">Pipe diameter </span></td>
+<td colspan="2"><span style="font-size: 16px;">Liquid </span></td>
 <td><span style="font-size: 16px;">mm(inch)</span></td>
 <td><span style="font-size: 16px;">Ø6.35 (1/4)</span></td>
 </tr>
 <tr>
-<td colspan="2"><span style="font-size: 16px;">Hơi </span></td>
+<td colspan="2"><span style="font-size: 16px;">Steam </span></td>
 <td><span style="font-size: 16px;">mm(inch)</span></td>
 <td><span style="font-size: 16px;">Ø12.7 (1/2)</span></td>
 </tr>
 <tr>
-<td><span style="font-size: 16px;">Ống nước ngưng </span></td>
+<td><span style="font-size: 16px;">Condensate pipe </span></td>
 <td></td>
 <td><span style="font-size: 16px;">mm</span></td>
 <td><span style="font-size: 16px;">Ø21.5 / 16.0</span></td>
 </tr>
 <tr>
-<td colspan="3" rowspan="2"><span style="font-size: 16px;">Thiết bị bảo vệ </span></td>
+<td colspan="3" rowspan="2"><span style="font-size: 16px;">Protective equipment </span></td>
 <td><span style="font-size: 16px;">–</span></td>
-<td><span style="font-size: 16px;">Cầu chì</span></td>
+<td><span style="font-size: 16px;">Fuse</span></td>
 </tr>
 <tr>
 <td><span style="font-size: 16px;">–</span></td>
-<td><span style="font-size: 16px;">Bảo vệ nhiệt cho động cơ quạt </span></td>
+<td><span style="font-size: 16px;">Thermal protection for fan motor </span></td>
 </tr>
 <tr>
-<td colspan="3"><span style="font-size: 16px;">Dây tín hiệu và dây cấp nguồn ( bao gồm dây nối đất)</span></td>
+<td colspan="3"><span style="font-size: 16px;">Signal wire and power supply wire (including ground wire)</span></td>
 <td><span style="font-size: 16px;">No x mm2</span></td>
 <td><span style="font-size: 16px;">4C x 0.75</span></td>
 </tr>
 <tr>
 <td colspan="4"><span style="font-size: 16px;">Origin</span></td>
-<td><span style="font-size: 16px;">Thái Lan </span></td>
+<td><span style="font-size: 16px;">Thailand </span></td>
 </tr>
 </tbody>
 </table>
     </div>
         <div class="btn_loadmore btn_tskt">
-            <a href="javascript:void(0)">Read More nội dung</a>
-            <a href="javascript:void(0)">Collapse nội dung</a>
+            <a href="javascript:void(0)">Read More content</a>
+            <a href="javascript:void(0)">Collapse content</a>
         </div> 
         <script>
             (function($) {
@@ -1125,13 +1125,13 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 
 
 
-<h3 class="single_product_title"><img src="/wp-content/uploads/2022/11/package-info.svg" ><span>Products tương tự</span></h3>
+<h3 class="single_product_title"><img src="/wp-content/uploads/2022/11/package-info.svg" ><span>Similar products</span></h3>
 
 
 	<div class="related related-products-wrapper product-section">
 
 					<h3 class="product-section-title container-width product-section-title-related pt-half pb-half uppercase">
-				Products tương tự			</h3>
+				Similar products			</h3>
 		
 
 	
@@ -1148,7 +1148,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 	<div class="product-small box ">
 		<div class="box-image">
 			<div class="image-fade_in_back">
-				<a href="/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2/" aria-label="Dàn nóng điều hòa multi LG A4UW24GFA2 24000BTU 2 way inverter">
+				<a href="/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2/" aria-label="Multi air conditioner outdoor unit LG A4UW24GFA2 24000BTU 2 way inverter">
 					<img width="300" height="300" src="/wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-300x300.jpg 300w, /wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-150x150.jpg 150w, /wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />				</a>
 			</div>
 			<div class="image-tools is-small top right show-on-hover">
@@ -1160,7 +1160,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 					</div>
 
 		<div class="box-text box-text-products text-center grid-style-2">
-			<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Dàn nóng điều hòa multi LG A4UW24GFA2 24000BTU 2 way inverter</a></p></div><div class="price-wrapper"><div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Rated <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 reviews</div></div>
+			<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Multi air conditioner outdoor unit LG A4UW24GFA2 24000BTU 2 way inverter</a></p></div><div class="price-wrapper"><div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Rated <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 reviews</div></div>
 	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>28.000.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>24.850.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins></span>
 </div>		</div>
 	</div>
@@ -1174,7 +1174,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 	<div class="product-small box ">
 		<div class="box-image">
 			<div class="image-fade_in_back">
-				<a href="/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua0/" aria-label="Dàn lạnh điều hòa multi LG 9.000BTU AMNW09GTUA0 2 way inverter">
+				<a href="/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua0/" aria-label="LG multi air conditioner indoor unit 9,000BTU AMNW09GTUA0 2 way inverter">
 					<img width="300" height="300" src="/wp-content/uploads/2022/11/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua00-300x300.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua00-300x300.jpg 300w, /wp-content/uploads/2022/11/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua00-150x150.jpg 150w, /wp-content/uploads/2022/11/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua00-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />				</a>
 			</div>
 			<div class="image-tools is-small top right show-on-hover">
@@ -1186,7 +1186,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 					</div>
 
 		<div class="box-text box-text-products text-center grid-style-2">
-			<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua0/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">Dàn lạnh điều hòa multi LG 9.000BTU AMNW09GTUA0 2 way inverter</a></p></div><div class="price-wrapper"><div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:100%">Rated <strong class="rating">5.00</strong> 5 sao</span></div><div class="count-rating">1 reviews</div></div>
+			<div class="title-wrapper"><p class="name product-title woocommerce-loop-product__title"><a href="/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua0/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">LG multi air conditioner indoor unit 9,000BTU AMNW09GTUA0 2 way inverter</a></p></div><div class="price-wrapper"><div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:100%">Rated <strong class="rating">5.00</strong> 5 sao</span></div><div class="count-rating">1 reviews</div></div>
 	<span class="price"><del aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>9.890.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></del> <ins><span class="woocommerce-Price-amount amount"><bdi>7.830.000<span class="woocommerce-Price-currencySymbol">&#8363;</span></bdi></span></ins></span>
 </div>		</div>
 	</div>
@@ -1210,7 +1210,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 
 
 
-<h3 class="single_product_title"><img src="/wp-content/uploads/2022/11/tag-name-2.svg" ><span>Chương trình giảm giá sale up to 50%</span></h3>
+<h3 class="single_product_title"><img src="/wp-content/uploads/2022/11/tag-name-2.svg" ><span>Sale up to 50% discount program</span></h3>
 
 
   
@@ -1228,7 +1228,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
 					                    
 					
@@ -1250,7 +1250,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
 					                    
 					
@@ -1272,7 +1272,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
 					                    
 					
@@ -1294,7 +1294,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
 					                    
 					
@@ -1316,7 +1316,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
 					                    
 					
@@ -1338,7 +1338,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
 					                    
 					
@@ -1360,7 +1360,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 					<div class="box-text-inner blog-post-inner">
 
 					
-										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator Econavi Mode là gì?</h5>
+										<h5 class="post-title is-large ">Learn about Panasonic Refrigerator What is Econavi Mode?</h5>
 										<div class="is-divider"></div>
 					                    
 					
@@ -1385,11 +1385,11 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 
   <div class="product-reviews">
   <h3 class="single_product_title"><img src="/wp-content/uploads/2022/11/review.svg" >
-  <span>Đánh giá (0)</span></h3>
+  <span>Reviews (0)</span></h3>
     <div id="reviews" class="woocommerce-Reviews">
 	<div id="comments">
 		<h2 class="woocommerce-Reviews-title">
-			Review Dàn lạnh điều hòa multi LG 18000BTU AMNW18GSKB0 2 way inverter		</h2>
+			Review LG multi air conditioner indoor unit 18000BTU AMNW18GSKB0 2 way inverter		</h2>
 
         <div class="star_box">
             <div class="star_box_left">
@@ -1444,32 +1444,32 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
                                     </div>
             </div>
                         <div class="star_box_right">
-                <a href="javascript:void(0)" title="Đánh giá ngay" class="btn-reviews-now">Đánh giá ngay</a>
+                <a href="javascript:void(0)" title="Rate now" class="btn-reviews-now">Rate now</a>
             </div>
                     </div>
 
                     <div id="review_form_wrapper" class="mfp-hide">
                 <div id="review_form">
                     	<div id="respond" class="comment-respond">
-		<span id="reply-title" class="comment-reply-title">Đánh giá Dàn lạnh điều hòa multi LG 18000BTU AMNW18GSKB0 2 way inverter <small><a rel="nofollow" id="cancel-comment-reply-link" href="/dan-lanh-multi-lg-18000btu-2-chieu-inverter-amnw18gskb0/#respond" style="display:none;">Hủy</a></small></span><form action="/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><div class="comment-form-comment"><textarea id="comment" name="comment" cols="45" rows="8" minlength="10" required placeholder="Mời bạn chia sẻ thêm một số cảm nhận..."></textarea></div><div class="wrap-attaddsend"><div class="review-attach"><span class="btn-attach devvn_insert_attach">Gửi ảnh thực tế</span></div><span id="countContent">0 ký tự (Tối thiểu 10)</span></div><div class="list_attach"><ul class="devvn_attach_view"></ul><span class="devvn_insert_attach"><i class="devvn-plus">+</i></span></div><div class="comment-form-rating"><label for="rating">Bạn cảm thấy thế nào về sản phẩm? (Chọn sao)</label><select name="rating" id="rating" required>
-						<option value="">Xếp hạng&hellip;</option>
-						<option value="5">Rất tốt</option>
-						<option value="4">Tốt</option>
-						<option value="3">Trung bình</option>
-						<option value="2">Không tệ</option>
-						<option value="1">Rất tệ</option>
-					</select></div><div class="form_row_reviews"><p class="comment-form-author"><input id="author" name="author" type="text" value="" size="30" required placeholder="Họ tên (bắt buộc)"/></p>
-<p class="comment-form-phone"><input id="phone" name="phone" type="text" size="30" required placeholder="Số điện thoại (Bắt buộc)"/></p>
+		<span id="reply-title" class="comment-reply-title">Review LG 18000BTU multi air conditioner indoor unit AMNW18GSKB0 2 way inverter <small><a rel="nofollow" id="cancel-comment-reply-link" href="/dan-lanh-multi-lg-18000btu-2-chieu-inverter-amnw18gskb0/#respond" style="display:none;">Cancel</a></small></span><form action="/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><div class="comment-form-comment"><textarea id="comment" name="comment" cols="45" rows="8" minlength="10" required placeholder="Mời bạn chia sẻ thêm một số cảm nhận..."></textarea></div><div class="wrap-attaddsend"><div class="review-attach"><span class="btn-attach devvn_insert_attach">Send actual photos</span></div><span id="countContent">0 characters (Minimum 10)</span></div><div class="list_attach"><ul class="devvn_attach_view"></ul><span class="devvn_insert_attach"><i class="devvn-plus">+</i></span></div><div class="comment-form-rating"><label for="rating">How do you feel about the product? (Choose star)</label><select name="rating" id="rating" required>
+						<option value="">Rating&hellip;</option>
+						<option value="5">Very good</option>
+						<option value="4">Good</option>
+						<option value="3">Medium</option>
+						<option value="2">Not bad</option>
+						<option value="1">Very bad</option>
+					</select></div><div class="form_row_reviews"><p class="comment-form-author"><input id="author" name="author" type="text" value="" size="30" required placeholder="Full name (required)"/></p>
+<p class="comment-form-phone"><input id="phone" name="phone" type="text" size="30" required placeholder="Phone number (Required)"/></p>
 <p class="comment-form-email"><input id="email" name="email" type="email" value="" size="30" placeholder="Email"/></p></div>
-<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">Lưu tên của tôi, email, và trang web trong trình duyệt này cho lần bình luận kế tiếp của tôi.</label></p>
-<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Gửi reviews" /> <input type='hidden' name='comment_post_ID' value='1662' id='comment_post_ID' />
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
+<p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Send reviews" /> <input type='hidden' name='comment_post_ID' value='1662' id='comment_post_ID' />
 <input type='hidden' name='comment_parent' id='comment_parent' value='0' />
 </p></form>	</div><!-- #respond -->
-	<div class="note_review"><u>Lưu ý:</u> để reviews được phê duyệt, vui lòng tham khảo <a href="" title="" target="_blank"></a></div>                </div>
+	<div class="note_review"><u>Note:</u> For approved reviews, please refer <a href="" title="" target="_blank"></a></div>                </div>
                 <button type="button" data-fancybox-close="" class="fancybox-button fancybox-close-small" title="Close"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 12l5-5-1-1-5 5-5-5-1 1 5 5-5 5 1 1 5-5 5 5 1-1z"></path></svg></button>
             </div>
         
-					<p class="woocommerce-noreviews">Chưa có reviews nào.</p>
+					<p class="woocommerce-noreviews">There are no reviews yet.</p>
 			</div>
 
 	<div class="clear"></div>
@@ -1478,7 +1478,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
     <div class="devvn_cmt_form">
         <form action="" method="post" id="devvn_cmt">
         <div class="devvn_cmt_input">
-            <textarea placeholder="Mời bạn tham gia thảo luận, vui lòng nhập tiếng Việt có dấu." name="devvn_cmt_content" id="devvn_cmt_content" minlength="20"></textarea>
+            <textarea placeholder="Please join the discussion, please enter accented Vietnamese." name="devvn_cmt_content" id="devvn_cmt_content" minlength="20"></textarea>
         </div>
         <div class="devvn_cmt_form_bottom ">
                         <div class="devvn_cmt_radio">
@@ -1488,17 +1488,17 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
                 </label>
                 <label>
                     <input name="devvn_cmt_gender" type="radio" value="female"/>
-                    <span>Chị</span>
+                    <span>Older sister</span>
                 </label>
             </div>
             <div class="devvn_cmt_input">
-                <input name="devvn_cmt_name" type="text" id="devvn_cmt_name" placeholder="Họ tên (bắt buộc)"/>
+                <input name="devvn_cmt_name" type="text" id="devvn_cmt_name" placeholder="Full name (required)"/>
             </div>
             <div class="devvn_cmt_input">
                 <input name="devvn_cmt_email" type="text" id="devvn_cmt_email" placeholder="Email"/>
             </div>
                         <div class="devvn_cmt_submit">
-                <button type="submit" id="devvn_cmt_submit">Gửi</button>
+                <button type="submit" id="devvn_cmt_submit">Send</button>
                 <input type="hidden" value="14" name="post_ID">
                 <input type="hidden" value="" name="cmt_parent_id">
             </div>
@@ -1506,7 +1506,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
         </form>
     </div>
     <div class="devvn_cmt_list">
-                        <p>Chưa có bình luận nào</p>
+                        <p>There are no comments yet</p>
 
                             </div>
 </div>
@@ -1528,7 +1528,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
                     <div class="suport_kh_item">
                 <img src="/wp-content/uploads/2022/11/phone-2.svg"> 
                 <div class="suport_kh_item_content">
-                    <span>Mua hàng</span> 
+                    <span>Sales</span> 
                     <div class="flex items-center">
                         <a href="tel:0989072072">0989072072</a> 
                         <span >&nbsp;(7:00 - 20:00)</span>
@@ -1538,7 +1538,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
                         <div class="suport_kh_item">
                 <img src="/wp-content/uploads/2022/11/phone-2.svg"> 
                 <div class="suport_kh_item_content">
-                    <span>Bảo hành</span> 
+                    <span>Warranty</span> 
                     <div class="flex items-center">
                         <a href="tel:0989072072">0989072072</a> 
                         <span >&nbsp;(8:00 - 20:00)</span>
@@ -1548,7 +1548,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
                         <div class="suport_kh_item">
                 <img src="/wp-content/uploads/2022/11/phone-2.svg"> 
                 <div class="suport_kh_item_content">
-                    <span>Công trình/Đại Lý</span> 
+                    <span>Projects/Dealers</span> 
                     <div class="flex items-center">
                         <a href="tel:0989072072">0989072072</a> 
                         <span >&nbsp;(24/7)</span>
@@ -1609,7 +1609,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
                <a href="/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2/"  rel="next" class="button icon is-outline circle">
                   <i class="icon-angle-left" ></i>              </a>
               <div class="nav-dropdown">
-                <a title="Dàn nóng điều hòa multi LG A4UW24GFA2 24000BTU 2 way inverter" href="/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2/">
+                <a title="Multi air conditioner outdoor unit LG A4UW24GFA2 24000BTU 2 way inverter" href="/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2/">
                 <img width="100" height="100" src="/wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-100x100.jpg 100w, /wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-150x150.jpg 150w, /wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" /></a>
               </div>
           </li>
@@ -1617,7 +1617,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
                <a href="/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua0/" rel="next" class="button icon is-outline circle">
                   <i class="icon-angle-right" ></i>              </a>
               <div class="nav-dropdown">
-                  <a title="Dàn lạnh điều hòa multi LG 9.000BTU AMNW09GTUA0 2 way inverter" href="/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua0/">
+                  <a title="LG multi air conditioner indoor unit 9,000BTU AMNW09GTUA0 2 way inverter" href="/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua0/">
                   <img width="100" height="100" src="/wp-content/uploads/2022/11/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua00-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail wp-post-image" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua00-100x100.jpg 100w, /wp-content/uploads/2022/11/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua00-150x150.jpg 150w, /wp-content/uploads/2022/11/dan-lanh-am-tran-multi-lg-9-000btu-2-chieu-inverter-amnw09gtua00-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" /></a>
               </div>
           </li>
@@ -1641,7 +1641,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 </ul>
 </div>
 </div>
-		</aside><aside id="pwf-woo-filter-2" class="widget pwf-filter"><span class="widget-title shop-sidebar">Filters</span><div class="is-divider small"></div><div class="pwf-filter-container"><div id="filter-id-1904" class="pwf-woo-filter filter-id-1904"><div class="pwf-woo-filter-notes pwf-filter-notes-1904"><div class="pwf-note-list"></div></div><div class="pwf-woo-filter-inner title-toggle-icon-arrow term-toggle-icon-arrow"><div class="pwf-field-item pwf-item-id-0 pwf-field-item-checkboxlist" data-item-key="loai-may"><div class="pwf-field-inner"><div class="pwf-field-item-title"><span class="text-title">Loại Máy</span></div><div class="pwf-field-item-container"><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="1-chieu-inverter" name="loai-may" value="79"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">1 way Inverter</span><span class="pwf-product-counts"><span class="pwf-wrap-count">8</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="2-chieu-inverter" name="loai-may" value="80"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">2 way Inverter</span><span class="pwf-product-counts"><span class="pwf-wrap-count">8</span></span></div></div></div></div></div></div></div><div class="pwf-field-item pwf-item-id-1 pwf-field-item-checkboxlist pwf-items-hierarchical" data-item-key="cong-suat"><div class="pwf-field-inner"><div class="pwf-field-item-title"><span class="text-title">CÔNG SUẤT ĐIỀU HÒA DÂN DỤNG</span></div><div class="pwf-field-item-container"><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="12000btu" name="cong-suat" value="83"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">12000BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="18000btu" name="cong-suat" value="84"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">18000BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">4</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="24000btu" name="cong-suat" value="110"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">24000BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">4</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="30000btu" name="cong-suat" value="117"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">30000BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="32000btu" name="cong-suat" value="157"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">32000BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="36000btu" name="cong-suat" value="107"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">36000BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">3</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="46500btu" name="cong-suat" value="118"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">46500BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="48000btu" name="cong-suat" value="106"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">48000BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="9000btu" name="cong-suat" value="82"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">9000BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div></div></div></div><div class="pwf-field-item pwf-item-id-2 pwf-field-item-checkboxlist pwf-items-hierarchical" data-item-key="cong-nghe"><div class="pwf-field-inner"><div class="pwf-field-item-title"><span class="text-title">CÔNG NGHỆ INVERTER</span></div><div class="pwf-field-item-container"><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="lam-da-tu-dong" name="cong-nghe" value="144"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">Làm đá tự động</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="ngan-da-tren" name="cong-nghe" value="145"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">Ngăn đá trên</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div></div></div></div></div></div></div></aside>		<aside id="flatsome_recent_posts-3" class="widget flatsome_recent_posts">		<span class="widget-title shop-sidebar">Recent Posts</span><div class="is-divider small"></div>		<ul>		
+		</aside><aside id="pwf-woo-filter-2" class="widget pwf-filter"><span class="widget-title shop-sidebar">Filters</span><div class="is-divider small"></div><div class="pwf-filter-container"><div id="filter-id-1904" class="pwf-woo-filter filter-id-1904"><div class="pwf-woo-filter-notes pwf-filter-notes-1904"><div class="pwf-note-list"></div></div><div class="pwf-woo-filter-inner title-toggle-icon-arrow term-toggle-icon-arrow"><div class="pwf-field-item pwf-item-id-0 pwf-field-item-checkboxlist" data-item-key="loai-may"><div class="pwf-field-inner"><div class="pwf-field-item-title"><span class="text-title">Machine Type</span></div><div class="pwf-field-item-container"><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="1-chieu-inverter" name="loai-may" value="79"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">1 way Inverter</span><span class="pwf-product-counts"><span class="pwf-wrap-count">8</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="2-chieu-inverter" name="loai-may" value="80"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">2 way Inverter</span><span class="pwf-product-counts"><span class="pwf-wrap-count">8</span></span></div></div></div></div></div></div></div><div class="pwf-field-item pwf-item-id-1 pwf-field-item-checkboxlist pwf-items-hierarchical" data-item-key="cong-suat"><div class="pwf-field-inner"><div class="pwf-field-item-title"><span class="text-title">CÔNG SUẤT ĐIỀU HÒA DÂN DỤNG</span></div><div class="pwf-field-item-container"><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="12000btu" name="cong-suat" value="83"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">12000BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="18000btu" name="cong-suat" value="84"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">18000BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">4</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="24000btu" name="cong-suat" value="110"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">24000BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">4</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="30000btu" name="cong-suat" value="117"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">30000BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="32000btu" name="cong-suat" value="157"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">32000BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="36000btu" name="cong-suat" value="107"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">36000BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">3</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="46500btu" name="cong-suat" value="118"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">46500BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="48000btu" name="cong-suat" value="106"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">48000BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="9000btu" name="cong-suat" value="82"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">9000BTU</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div></div></div></div><div class="pwf-field-item pwf-item-id-2 pwf-field-item-checkboxlist pwf-items-hierarchical" data-item-key="cong-nghe"><div class="pwf-field-inner"><div class="pwf-field-item-title"><span class="text-title">CÔNG NGHỆ INVERTER</span></div><div class="pwf-field-item-container"><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="lam-da-tu-dong" name="cong-nghe" value="144"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">Make ice automatically</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div><div class="pwf-item pwf-checkboxlist-item"><div class="pwf-item-inner"><div class="pwf-item-label pwf-checkbox-label"><div class="pwf-input-container pwf-checkbox-click-area"><input type="checkbox" class="pwf-input pwf-input-checkbox" data-slug="ngan-da-tren" name="cong-nghe" value="145"></div><div class="pwf-title-container pwf-checkbox-click-area"><span class="text-title">Upper ice compartment</span><span class="pwf-product-counts"><span class="pwf-wrap-count">1</span></span></div></div></div></div></div></div></div></div></div></div></aside>		<aside id="flatsome_recent_posts-3" class="widget flatsome_recent_posts">		<span class="widget-title shop-sidebar">Recent Posts</span><div class="is-divider small"></div>		<ul>		
 		
 		<li class="recent-blog-posts-li">
 			<div class="flex-row recent-blog-posts align-top pt-half pb-half">
@@ -1652,7 +1652,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 					</div>
 				</div>
 				<div class="flex-col flex-grow">
-					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-6/" title="Learn about Panasonic Refrigerator Econavi Mode là gì?">Learn about Panasonic Refrigerator Econavi Mode là gì?</a>
+					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-6/" title="Learn about Panasonic Refrigerator What is Econavi Mode?">Learn about Panasonic Refrigerator What is Econavi Mode?</a>
 				   	  <span class="post_comments op-7 block is-xsmall"><a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-6/#respond"></a></span>
 				</div>
 			</div>
@@ -1668,7 +1668,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 					</div>
 				</div>
 				<div class="flex-col flex-grow">
-					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-5/" title="Learn about Panasonic Refrigerator Econavi Mode là gì?">Learn about Panasonic Refrigerator Econavi Mode là gì?</a>
+					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-5/" title="Learn about Panasonic Refrigerator What is Econavi Mode?">Learn about Panasonic Refrigerator What is Econavi Mode?</a>
 				   	  <span class="post_comments op-7 block is-xsmall"><a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-5/#respond"></a></span>
 				</div>
 			</div>
@@ -1684,7 +1684,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 					</div>
 				</div>
 				<div class="flex-col flex-grow">
-					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-4/" title="Learn about Panasonic Refrigerator Econavi Mode là gì?">Learn about Panasonic Refrigerator Econavi Mode là gì?</a>
+					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-4/" title="Learn about Panasonic Refrigerator What is Econavi Mode?">Learn about Panasonic Refrigerator What is Econavi Mode?</a>
 				   	  <span class="post_comments op-7 block is-xsmall"><a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-4/#respond"></a></span>
 				</div>
 			</div>
@@ -1700,7 +1700,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 					</div>
 				</div>
 				<div class="flex-col flex-grow">
-					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-3/" title="Learn about Panasonic Refrigerator Econavi Mode là gì?">Learn about Panasonic Refrigerator Econavi Mode là gì?</a>
+					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-3/" title="Learn about Panasonic Refrigerator What is Econavi Mode?">Learn about Panasonic Refrigerator What is Econavi Mode?</a>
 				   	  <span class="post_comments op-7 block is-xsmall"><a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-3/#respond"></a></span>
 				</div>
 			</div>
@@ -1716,7 +1716,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 					</div>
 				</div>
 				<div class="flex-col flex-grow">
-					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-2/" title="Learn about Panasonic Refrigerator Econavi Mode là gì?">Learn about Panasonic Refrigerator Econavi Mode là gì?</a>
+					  <a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-2/" title="Learn about Panasonic Refrigerator What is Econavi Mode?">Learn about Panasonic Refrigerator What is Econavi Mode?</a>
 				   	  <span class="post_comments op-7 block is-xsmall"><a href="/tim-hieu-che-do-econavi-cua-refrigerator-panasonic-la-gi-copy-2/#respond"></a></span>
 				</div>
 			</div>
@@ -1751,7 +1751,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 <li>
 	
 	<a href="/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2/">
-		<img width="100" height="100" src="/wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-100x100.jpg 100w, /wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-150x150.jpg 150w, /wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" />		<span class="product-title">Dàn nóng điều hòa multi LG A4UW24GFA2 24000BTU 2 way inverter</span>
+		<img width="100" height="100" src="/wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-100x100.jpg 100w, /wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-150x150.jpg 150w, /wp-content/uploads/2022/11/dan-nong-multi-lg-24000btu-2-chieu-inverter-a4uw24gfa2-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" />		<span class="product-title">Multi air conditioner outdoor unit LG A4UW24GFA2 24000BTU 2 way inverter</span>
 	</a>
 
 			<div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Rated <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 reviews</div></div>	
@@ -1760,7 +1760,7 @@ công nghệ inverter trên chiếc multi LG 9.000BTU AMNW09GTUA0<br />
 <li>
 	
 	<a href="/dan-lanh-multi-lg-18000btu-2-chieu-inverter-amnw18gskb0/">
-		<img width="100" height="100" src="/wp-content/uploads/2022/11/lg-multi-2-chieu-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/lg-multi-2-chieu-100x100.jpg 100w, /wp-content/uploads/2022/11/lg-multi-2-chieu-150x150.jpg 150w, /wp-content/uploads/2022/11/lg-multi-2-chieu-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" />		<span class="product-title">Dàn lạnh điều hòa multi LG 18000BTU AMNW18GSKB0 2 way inverter</span>
+		<img width="100" height="100" src="/wp-content/uploads/2022/11/lg-multi-2-chieu-100x100.jpg" class="attachment-woocommerce_gallery_thumbnail size-woocommerce_gallery_thumbnail" alt="" decoding="async" loading="lazy" srcset="/wp-content/uploads/2022/11/lg-multi-2-chieu-100x100.jpg 100w, /wp-content/uploads/2022/11/lg-multi-2-chieu-150x150.jpg 150w, /wp-content/uploads/2022/11/lg-multi-2-chieu-300x300.jpg 300w" sizes="(max-width: 100px) 100vw, 100px" />		<span class="product-title">LG multi air conditioner indoor unit 18000BTU AMNW18GSKB0 2 way inverter</span>
 	</a>
 
 			<div class="brand-img"><img src="/wp-content/uploads/2022/11/lg.png" /></div><div class="content_rating"><div class="star-rating"><span style="width:0%">Rated <strong class="rating">0</strong> 5 sao</span></div><div class="count-rating">0 reviews</div></div>	

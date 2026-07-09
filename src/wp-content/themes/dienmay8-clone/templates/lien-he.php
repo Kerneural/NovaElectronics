@@ -35,7 +35,7 @@
                     <div class="suport_kh_item">
                 <img src="/wp-content/uploads/2022/11/phone-2.svg"> 
                 <div class="suport_kh_item_content">
-                    <span>Mua hàng</span> 
+                    <span>Sales</span> 
                     <div class="flex items-center">
                         <a href="tel:0989072072">0989072072</a> 
                         <span >&nbsp;(7:00 - 20:00)</span>
@@ -45,7 +45,7 @@
                         <div class="suport_kh_item">
                 <img src="/wp-content/uploads/2022/11/phone-2.svg"> 
                 <div class="suport_kh_item_content">
-                    <span>Bảo hành</span> 
+                    <span>Warranty</span> 
                     <div class="flex items-center">
                         <a href="tel:0989072072">0989072072</a> 
                         <span >&nbsp;(8:00 - 20:00)</span>
@@ -55,7 +55,7 @@
                         <div class="suport_kh_item">
                 <img src="/wp-content/uploads/2022/11/phone-2.svg"> 
                 <div class="suport_kh_item_content">
-                    <span>Công trình/Đại Lý</span> 
+                    <span>Projects/Dealers</span> 
                     <div class="flex items-center">
                         <a href="tel:0989072072">0989072072</a> 
                         <span >&nbsp;(24/7)</span>
@@ -133,7 +133,7 @@
 			
 			
 <div class="title_lienhe">
-Quý Khách Cần Giải Đáp Thắc Mắc Hoặc Cần Hỗ Trợ? <span>Chúng Tôi Sẵn Sàng</span>
+Quý Khách Cần Giải Đáp Thắc Mắc Hoặc Cần Hỗ Trợ? <span>We Are Ready</span>
           </div>
 		</div>
 					</div>
@@ -190,7 +190,7 @@ Quý Khách Cần Giải Đáp Thắc Mắc Hoặc Cần Hỗ Trợ? <span>Chún
 
 <div class="wpcf7 no-js" id="wpcf7-f12-p1178-o1" lang="vi" dir="ltr">
 <div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
-<form action="/lien-he/#wpcf7-f12-p1178-o1" method="post" class="wpcf7-form init" aria-label="Form liên hệ" novalidate="novalidate" data-status="init">
+<form action="/lien-he/#wpcf7-f12-p1178-o1" method="post" class="wpcf7-form init" aria-label="Contact form" novalidate="novalidate" data-status="init">
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="12" />
 <input type="hidden" name="_wpcf7_version" value="5.8.7" />
@@ -199,18 +199,18 @@ Quý Khách Cần Giải Đáp Thắc Mắc Hoặc Cần Hỗ Trợ? <span>Chún
 <input type="hidden" name="_wpcf7_container_post" value="1178" />
 <input type="hidden" name="_wpcf7_posted_data_hash" value="" />
 </div>
-<p><label> Họ và tên *<br />
-<span class="wpcf7-form-control-wrap" data-name="ho-ten"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Nhập họ và tên" value="" type="text" name="ho-ten" /></span> </label>
+<p><label> Full name *<br />
+<span class="wpcf7-form-control-wrap" data-name="ho-ten"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Enter first and last name" value="" type="text" name="ho-ten" /></span> </label>
 </p>
-<p><label> Số điện thoại *<br />
-<span class="wpcf7-form-control-wrap" data-name="tel-lh"><input size="40" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Nhập số điện thoại" value="" type="tel" name="tel-lh" /></span> </label>
+<p><label> Phone number *<br />
+<span class="wpcf7-form-control-wrap" data-name="tel-lh"><input size="40" class="wpcf7-form-control wpcf7-tel wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Enter phone number" value="" type="tel" name="tel-lh" /></span> </label>
 </p>
 <p><label> Email *<br />
 <span class="wpcf7-form-control-wrap" data-name="email-lh"><input size="40" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Nhập email" value="" type="email" name="email-lh" /></span> </label>
 </p>
-<p><label> Nội dung cần hỗ trợ *<br />
-<span class="wpcf7-form-control-wrap" data-name="textarea-ht"><textarea cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Nhập nội dung cần hỗ trợ" name="textarea-ht"></textarea></span><br />
-<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Tư vấn ngay" /></label>
+<p><label> Content that needs support *<br />
+<span class="wpcf7-form-control-wrap" data-name="textarea-ht"><textarea cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Enter the content that needs support" name="textarea-ht"></textarea></span><br />
+<input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Consult now" /></label>
 </p><div class="wpcf7-response-output" aria-hidden="true"></div>
 </form>
 </div>
