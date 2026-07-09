@@ -44,18 +44,11 @@
                                                         <img
                                                             width="1280"
                                                             height="700"
-                                                            src="/wp-content/uploads/2022/11/thinh-phat-uu-dai-mua-tv-lg.jpg"
+                                                            src="https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=1280&h=700&auto=format&fit=crop"
                                                             class="attachment-original size-original"
-                                                            alt=""
+                                                            alt="Electronics Sale Event"
                                                             decoding="async"
-                                                            loading="lazy"
-                                                            srcset="
-                                                                /wp-content/uploads/2022/11/thinh-phat-uu-dai-mua-tv-lg.jpg          1280w,
-                                                                /wp-content/uploads/2022/11/thinh-phat-uu-dai-mua-tv-lg-300x164.jpg   300w,
-                                                                /wp-content/uploads/2022/11/thinh-phat-uu-dai-mua-tv-lg-1024x560.jpg 1024w,
-                                                                /wp-content/uploads/2022/11/thinh-phat-uu-dai-mua-tv-lg-600x328.jpg   600w
-                                                            "
-                                                            sizes="(max-width: 1280px) 100vw, 1280px"
+                                                            loading="eager"
                                                         />
                                                     </div>
 
@@ -74,18 +67,11 @@
                                                         <img
                                                             width="1280"
                                                             height="700"
-                                                            src="/wp-content/uploads/2022/11/thinh-phat-world-cup.jpg"
+                                                            src="https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=1280&h=700&auto=format&fit=crop"
                                                             class="attachment-original size-original"
-                                                            alt=""
+                                                            alt="Smart Home Deals"
                                                             decoding="async"
-                                                            loading="lazy"
-                                                            srcset="
-                                                                /wp-content/uploads/2022/11/thinh-phat-world-cup.jpg          1280w,
-                                                                /wp-content/uploads/2022/11/thinh-phat-world-cup-300x164.jpg   300w,
-                                                                /wp-content/uploads/2022/11/thinh-phat-world-cup-1024x560.jpg 1024w,
-                                                                /wp-content/uploads/2022/11/thinh-phat-world-cup-600x328.jpg   600w
-                                                            "
-                                                            sizes="(max-width: 1280px) 100vw, 1280px"
+                                                            loading="eager"
                                                         />
                                                     </div>
 
@@ -104,18 +90,11 @@
                                                         <img
                                                             width="1280"
                                                             height="700"
-                                                            src="/wp-content/uploads/2022/11/thinh-phat-mien-phi-lap-dat.jpg"
+                                                            src="https://images.unsplash.com/photo-1498049794561-7780e7231661?w=1280&h=700&auto=format&fit=crop"
                                                             class="attachment-original size-original"
-                                                            alt=""
+                                                            alt="Free Installation Service"
                                                             decoding="async"
-                                                            loading="lazy"
-                                                            srcset="
-                                                                /wp-content/uploads/2022/11/thinh-phat-mien-phi-lap-dat.jpg          1280w,
-                                                                /wp-content/uploads/2022/11/thinh-phat-mien-phi-lap-dat-300x164.jpg   300w,
-                                                                /wp-content/uploads/2022/11/thinh-phat-mien-phi-lap-dat-1024x560.jpg 1024w,
-                                                                /wp-content/uploads/2022/11/thinh-phat-mien-phi-lap-dat-600x328.jpg   600w
-                                                            "
-                                                            sizes="(max-width: 1280px) 100vw, 1280px"
+                                                            loading="eager"
                                                         />
                                                     </div>
 
@@ -148,18 +127,11 @@
                                                 <img
                                                     width="1440"
                                                     height="73"
-                                                    src="/wp-content/uploads/2022/11/banner-ngang.webp"
-                                                    class="attachment-original size-original"
-                                                    alt=""
-                                                    decoding="async"
-                                                    loading="lazy"
-                                                    srcset="
-                                                        /wp-content/uploads/2022/11/banner-ngang.webp         1440w,
-                                                        /wp-content/uploads/2022/11/banner-ngang-300x15.webp   300w,
-                                                        /wp-content/uploads/2022/11/banner-ngang-1024x52.webp 1024w,
-                                                        /wp-content/uploads/2022/11/banner-ngang-600x30.webp   600w
-                                                    "
-                                                    sizes="(max-width: 1440px) 100vw, 1440px"
+                                                    src="https://images.unsplash.com/photo-1556761175-4b46a572b786?w=1440&h=73&auto=format&fit=crop"
+                                                            class="attachment-original size-original"
+                                                            alt="Nova Electronics Special Promotions"
+                                                            decoding="async"
+                                                            loading="eager"
                                                 />
                                             </div>
 
@@ -208,7 +180,7 @@
                                     <div class="col-inner text-center">
                                         <div class="giasoc">
                                             <div class="title_giasoc">
-                                                <img decoding="async" src="/wp-content/uploads/2022/11/lighting.svg" />
+                                                <img decoding="async" src="https://api.iconify.design/mdi:lightning-bolt.svg" />
                                                 <p></p>
                                                 <h1>SALES PRODUCTS</h1>
                                             </div>
@@ -234,7 +206,7 @@
                                                             $product = wc_get_product( get_the_ID() );
                                                         }
                                                         $image_id  = $product ? $product->get_image_id() : 0;
-                                                        $image_url = $image_id ? wp_get_attachment_image_url( $image_id, 'large' ) : '/wp-content/uploads/2022/11/lighting.svg';
+                                                        $image_url = $image_id ? wp_get_attachment_image_url( $image_id, 'large' ) : 'https://api.iconify.design/mdi:lightning-bolt.svg';
                                                         $slug      = $product ? $product->get_slug() : get_post_field( 'post_name', get_the_ID() );
                                                         $pretty_link = home_url( '/go/' . sanitize_title( $slug ) );
                                                         $button_text = $product ? $product->get_button_text() : 'Check Latest Price';
@@ -271,7 +243,7 @@
                                                                         </div>
                                                                         <div class="price-wrapper">
                                                                             <div class="brand-img">
-                                                                                <img src="/wp-content/uploads/2022/11/lg.png" />
+                                                                                <img src="https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=200&h=200&auto=format&fit=crop" />
                                                                             </div>
                                                                             <div class="content_rating">
                                                                                 <div class="star-rating">
@@ -370,7 +342,7 @@
                                                             <div class="box-image">
                                                                 <div class="">
                                                                     <img
-                                                                        src="/wp-content/uploads/2022/11/dh.jpg"
+                                                                        src="https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=200&h=200&auto=format&fit=crop"
                                                                         alt="Air Conditioner"
                                                                         width="300"
                                                                         height="300"
@@ -396,7 +368,7 @@
                                                             <div class="box-image">
                                                                 <div class="">
                                                                     <img
-                                                                        src="/wp-content/uploads/2022/11/dh1.jpg"
+                                                                        src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=200&h=200&auto=format&fit=crop"
                                                                         alt="Cassette Air Conditioner cassette"
                                                                         width="300"
                                                                         height="300"
@@ -424,7 +396,7 @@
                                                             <div class="box-image">
                                                                 <div class="">
                                                                     <img
-                                                                        src="/wp-content/uploads/2022/11/dhc.jpg"
+                                                                        src="https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=200&h=200&auto=format&fit=crop"
                                                                         alt="Floor Standing Air Conditioner"
                                                                         width="300"
                                                                         height="300"
@@ -450,7 +422,7 @@
                                                             <div class="box-image">
                                                                 <div class="">
                                                                     <img
-                                                                        src="/wp-content/uploads/2022/11/images.jpg"
+                                                                        src="https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?w=200&h=200&auto=format&fit=crop"
                                                                         alt="Air Conditioner Multi"
                                                                         width="300"
                                                                         height="300"
@@ -478,7 +450,7 @@
                                                             <div class="box-image">
                                                                 <div class="">
                                                                     <img
-                                                                        src="/wp-content/uploads/2022/11/washing-machine-electrolux-ewf1042bdwa-10-kg-inverter.jpg"
+                                                                        src="https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?w=200&h=200&auto=format&fit=crop"
                                                                         alt="Washing Machine"
                                                                         width="300"
                                                                         height="300"
@@ -504,7 +476,7 @@
                                                             <div class="box-image">
                                                                 <div class="">
                                                                     <img
-                                                                        src="/wp-content/uploads/2022/11/dhng.jpg"
+                                                                        src="https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=200&h=200&auto=format&fit=crop"
                                                                         alt="Duct Connected Air Conditioner"
                                                                         width="300"
                                                                         height="300"
@@ -529,7 +501,7 @@
                                                             <div class="box-image">
                                                                 <div class="">
                                                                     <img
-                                                                        src="/wp-content/uploads/2022/11/tv.jpg"
+                                                                        src="https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=200&h=200&auto=format&fit=crop"
                                                                         alt="TV"
                                                                         width="300"
                                                                         height="300"
@@ -552,7 +524,7 @@
                                                             <div class="box-image">
                                                                 <div class="">
                                                                     <img
-                                                                        src="/wp-content/uploads/2022/11/large_refrigerator-bosch-kad90vi20x500x500x4.webp"
+                                                                        src="https://images.unsplash.com/photo-1571175443880-49e1d25b2bc5?w=200&h=200&auto=format&fit=crop"
                                                                         alt="Refrigerators"
                                                                         width="300"
                                                                         height="300"
@@ -787,7 +759,10 @@
 								</div>
 							</div>
 							
-							<div class="row" id="row-articles-section">
+							<div class="row" id="row-236408439">
+								<div class="row" id="row-236408439">
+									<div class="row" id="row-236408439">
+										<div class="row" id="row-articles-section">
                                             <div id="col-589062485" class="col small-12 large-12">
                                                 <div class="col-inner">
                                                     <div class="container section-title-container">
@@ -957,7 +932,9 @@
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
+									</div>
+								</div>
+							</div>
 
                                     <style>
                                         #section_873236097 {
@@ -1014,16 +991,12 @@
                                                                     <img
                                                                         width="253"
                                                                         height="253"
-                                                                        src="/wp-content/uploads/2022/11/hoang-thuy-trang.jpg"
+                                                                        src="https://ui-avatars.com/api/?name=Hoang+Thuy+Trang&background=c41230&color=fff&size=253"
                                                                         class="attachment- size-"
                                                                         alt=""
                                                                         decoding="async"
                                                                         loading="lazy"
-                                                                        srcset="
-                                                                            /wp-content/uploads/2022/11/hoang-thuy-trang.jpg         253w,
-                                                                            /wp-content/uploads/2022/11/hoang-thuy-trang-150x150.jpg 150w,
-                                                                            /wp-content/uploads/2022/11/hoang-thuy-trang-100x100.jpg 100w
-                                                                        "
+                                                                        
                                                                         sizes="(max-width: 253px) 100vw, 253px"
                                                                     />
                                                                     <div
@@ -1076,16 +1049,12 @@
                                                                     <img
                                                                         width="253"
                                                                         height="253"
-                                                                        src="/wp-content/uploads/2022/11/nguyen-hoang-anh.jpg"
+                                                                        src="https://ui-avatars.com/api/?name=Nguyen+Hoang+Anh&background=1a73e8&color=fff&size=253"
                                                                         class="attachment- size-"
                                                                         alt=""
                                                                         decoding="async"
                                                                         loading="lazy"
-                                                                        srcset="
-                                                                            /wp-content/uploads/2022/11/nguyen-hoang-anh.jpg         253w,
-                                                                            /wp-content/uploads/2022/11/nguyen-hoang-anh-150x150.jpg 150w,
-                                                                            /wp-content/uploads/2022/11/nguyen-hoang-anh-100x100.jpg 100w
-                                                                        "
+                                                                        
                                                                         sizes="(max-width: 253px) 100vw, 253px"
                                                                     />
                                                                     <div
@@ -1138,16 +1107,12 @@
                                                                     <img
                                                                         width="253"
                                                                         height="253"
-                                                                        src="/wp-content/uploads/2022/11/pham-anh-nguyet.jpg"
+                                                                        src="https://ui-avatars.com/api/?name=Pham+Anh+Nguyet&background=0f9d58&color=fff&size=253"
                                                                         class="attachment- size-"
                                                                         alt=""
                                                                         decoding="async"
                                                                         loading="lazy"
-                                                                        srcset="
-                                                                            /wp-content/uploads/2022/11/pham-anh-nguyet.jpg         253w,
-                                                                            /wp-content/uploads/2022/11/pham-anh-nguyet-150x150.jpg 150w,
-                                                                            /wp-content/uploads/2022/11/pham-anh-nguyet-100x100.jpg 100w
-                                                                        "
+                                                                        
                                                                         sizes="(max-width: 253px) 100vw, 253px"
                                                                     />
                                                                     <div
@@ -1192,7 +1157,7 @@
                                                 padding-bottom: 30px;
                                             }
                                             #section_628288226 .section-bg.bg-loaded {
-                                                background-image: url(/wp-content/uploads/2022/11/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall_1258-28312.webp);
+                                                background-image: url(https://images.unsplash.com/photo-1557683316-973673baf926?w=1920&auto=format&fit=crop);
                                             }
                                             #section_628288226 .ux-shape-divider--top svg {
                                                 height: 150px;
@@ -1238,11 +1203,11 @@
                                                                             rel="noopener"
                                                                         >
                                                                             <img
-                                                                                src="/wp-content/uploads/2022/11/hqdefault.webp"
+                                                                                src="https://images.unsplash.com/photo-1593508512255-86ab42a8e620?w=480&h=360&auto=format&fit=crop"
                                                                             />
                                                                             <button>
                                                                                 <img
-                                                                                    src="/wp-content/uploads/2022/11/play.png"
+                                                                                    src="https://img.icons8.com/material-rounded/96/ffffff/play--v1.png"
                                                                                     alt=""
                                                                                 />
                                                                             </button>
@@ -1262,11 +1227,11 @@
                                                                             rel="noopener"
                                                                         >
                                                                             <img
-                                                                                src="/wp-content/uploads/2022/11/hqdefaul12t.webp"
+                                                                                src="https://images.unsplash.com/photo-1498049794561-7780e7231661?w=480&h=360&auto=format&fit=crop"
                                                                             />
                                                                             <button>
                                                                                 <img
-                                                                                    src="/wp-content/uploads/2022/11/play.png"
+                                                                                    src="https://img.icons8.com/material-rounded/96/ffffff/play--v1.png"
                                                                                     alt=""
                                                                                 />
                                                                             </button>
@@ -1286,11 +1251,11 @@
                                                                             rel="noopener"
                                                                         >
                                                                             <img
-                                                                                src="/wp-content/uploads/2022/11/hqdefaul121t.webp"
+                                                                                src="https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=480&h=360&auto=format&fit=crop"
                                                                             />
                                                                             <button>
                                                                                 <img
-                                                                                    src="/wp-content/uploads/2022/11/play.png"
+                                                                                    src="https://img.icons8.com/material-rounded/96/ffffff/play--v1.png"
                                                                                     alt=""
                                                                                 />
                                                                             </button>
@@ -1310,11 +1275,11 @@
                                                                             rel="noopener"
                                                                         >
                                                                             <img
-                                                                                src="/wp-content/uploads/2022/11/hqdefault.webp"
+                                                                                src="https://images.unsplash.com/photo-1593508512255-86ab42a8e620?w=480&h=360&auto=format&fit=crop"
                                                                             />
                                                                             <button>
                                                                                 <img
-                                                                                    src="/wp-content/uploads/2022/11/play.png"
+                                                                                    src="https://img.icons8.com/material-rounded/96/ffffff/play--v1.png"
                                                                                     alt=""
                                                                                 />
                                                                             </button>
@@ -1342,8 +1307,10 @@
                                                 --divider-width: 100%;
                                             }
                                         </style>
-                                    </section>
-                                </div>
+                                     </section>
+                                 </div>
+                            </div>
+                    </section>
+                </div>
 
-                                
 <?php get_footer(); ?>
