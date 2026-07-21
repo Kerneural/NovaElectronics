@@ -65,12 +65,12 @@
 <p>Website: novaelectronics.local</p>
 <p>Warehouse system:</p>
 <ul>
-<li>Office address: No. 19A, Bat Khoi Street, Long Bien Ward, Long Bien District, Hanoi</li>
-<li>Warehouse 1: Hanoi Port</li>
-<li>Warehouse 2: Xuan Thuy - Cau Giay - Hanoi</li>
-<li>Warehouse 3: Nguyen Trai - Thanh Xuan</li>
-<li>Warehouse 4: Van Phu Clock Tower - Ha Dong - Hanoi</li>
-<li>Nam Dinh Branch: Highway 21B Tan Dinh Liem Hai Truc Ninh Nam Dinh</li>
+<li>Office address: 10 Collyer Quay, Ocean Financial Centre, Singapore 049315</li>
+<li>Warehouse 1: Jurong Port</li>
+<li>Warehouse 2: Orchard Road</li>
+<li>Warehouse 3: Changi Airport</li>
+<li>Warehouse 4: HarbourFront</li>
+<li>Singapore East Branch: 10 Bedok North Drive, Singapore 469274</li>
 </ul>
 
 						

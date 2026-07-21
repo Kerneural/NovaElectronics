@@ -810,7 +810,7 @@
                                 <h4 >Headquarters</h4>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/pin.svg" > 
-                                    <span>No. 19A, Bat Khoi Street, Long Bien Ward, Long Bien District, Hanoi</span>
+                                    <span>10 Collyer Quay, Ocean Financial Centre, Singapore 049315</span>
                                 </div>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/phone.svg" > 
@@ -818,10 +818,10 @@
                                 </div>
                             </div>
                                                                                                                 <div class="showroom_product_item">
-                                <h4 >Kho 1:  Hanoi Port</h4>
+                                <h4 >Kho 1:  Jurong Port, Singapore</h4>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/pin.svg" > 
-                                    <span>Hanoi Port</span>
+                                    <span>Jurong Port, Singapore</span>
                                 </div>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/phone.svg" > 
@@ -829,10 +829,10 @@
                                 </div>
                             </div>
                                                                                                                 <div class="showroom_product_item">
-                                <h4 >Warehouse 2: Xuan Thuy - Cau Giay - Hanoi</h4>
+                                <h4 >Warehouse 2: Orchard Road</h4>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/pin.svg" > 
-                                    <span>Xuan Thuy - Cau Giay - Hanoi</span>
+                                    <span>437 Orchard Rd, Singapore 238878</span>
                                 </div>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/phone.svg" > 
@@ -840,10 +840,10 @@
                                 </div>
                             </div>
                                                                                                                 <div class="showroom_product_item">
-                                <h4 >Warehouse 3: Nguyen Trai - Thanh Xuan</h4>
+                                <h4 >Warehouse 3: Changi Airport</h4>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/pin.svg" > 
-                                    <span>Nguyen Trai - Thanh Xuan</span>
+                                    <span>81 Airport Blvd., Singapore 819642</span>
                                 </div>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/phone.svg" > 
@@ -851,10 +851,10 @@
                                 </div>
                             </div>
                                                                                                                 <div class="showroom_product_item">
-                                <h4 >Warehouse 4: Van Phu Clock Tower - Ha Dong - Hanoi</h4>
+                                <h4 >Warehouse 4: HarbourFront</h4>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/pin.svg" > 
-                                    <span>Van Phu Clock Tower - Ha Dong - Hanoi</span>
+                                    <span>1 HarbourFront Place, Singapore 098633</span>
                                 </div>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/phone.svg" > 
@@ -862,10 +862,10 @@
                                 </div>
                             </div>
                                                                                                                 <div class="showroom_product_item">
-                                <h4 >Nam Dinh Branch</h4>
+                                <h4 >Singapore East Branch</h4>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/pin.svg" > 
-                                    <span>Highway 21B Tan Dinh Liem Hai Truc Ninh Nam Dinh</span>
+                                    <span>10 Bedok North Drive, Singapore 469274</span>
                                 </div>
                                 <div class="showroom_tt">
                                     <img src="/wp-content/uploads/2022/11/phone.svg" > 

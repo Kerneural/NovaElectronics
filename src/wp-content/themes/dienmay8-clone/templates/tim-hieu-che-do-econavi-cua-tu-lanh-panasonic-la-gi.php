@@ -271,12 +271,12 @@
 ???? Website: /<br />
 ???? Email : info@dailysmartlife.com<br />
 ???? Warehouse system:<br />
-✜ Warehouse 1: Hanoi Port<br />
+✜ Warehouse 1: Jurong Port<br />
 ✜ Warehouse 2: Xuan Thuy – Cau Giay – Hanoi<br />
 ✜ Warehouse 3: Nguyen Trai – Thanh Xuan<br />
-✜ Warehouse 4: Van Phu Clock Tower - Ha Dong - Hanoi<br />
-✜ Head office: No. 19A, Bat Khoi Street, Long Bien Ward, Long Bien District, Hanoi<br />
-✜ Nam Dinh Branch: Highway 21B Tan Dinh Liem Hai Truc Ninh Nam Dinh - Hotline: 0978791088<br />
+✜ Warehouse 4: HarbourFront<br />
+✜ Head office: 10 Collyer Quay, Ocean Financial Centre, Singapore 049315<br />
+✜ Singapore East Branch: 10 Bedok North Drive, Singapore 469274 - Hotline: +65 6701 1188<br />
 ????Free Shipping within Hanoi.<br />
 ????Support transportation to provinces</p>
 

@@ -85,7 +85,7 @@
 						<h4>Headquarters</h4>
 						<div class="showroom_tt">
 							<img src="/wp-content/uploads/2022/11/pin.svg"> 
-							<span>No. 19A, Bat Khoi Street, Long Bien Ward, Long Bien District, Hanoi</span>
+							<span>10 Collyer Quay, Ocean Financial Centre, Singapore 049315</span>
 						</div>
 						<div class="showroom_tt">
 							<img src="/wp-content/uploads/2022/11/phone.svg"> 
@@ -93,10 +93,10 @@
 						</div>
 					</div>
 					<div class="showroom_product_item">
-						<h4>Warehouse 1: Hanoi Port</h4>
+						<h4>Warehouse 1: Jurong Port</h4>
 						<div class="showroom_tt">
 							<img src="/wp-content/uploads/2022/11/pin.svg"> 
-							<span>Hanoi Port</span>
+							<span>Jurong Port, Singapore</span>
 						</div>
 						<div class="showroom_tt">
 							<img src="/wp-content/uploads/2022/11/phone.svg"> 
@@ -104,10 +104,10 @@
 						</div>
 					</div>
 					<div class="showroom_product_item">
-						<h4>Warehouse 2: Xuan Thuy - Cau Giay - Hanoi</h4>
+						<h4>Warehouse 2: Orchard Road</h4>
 						<div class="showroom_tt">
 							<img src="/wp-content/uploads/2022/11/pin.svg"> 
-							<span>Xuan Thuy - Cau Giay - Hanoi</span>
+							<span>437 Orchard Rd, Singapore 238878</span>
 						</div>
 						<div class="showroom_tt">
 							<img src="/wp-content/uploads/2022/11/phone.svg"> 

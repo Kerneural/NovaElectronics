@@ -30,8 +30,7 @@
                                                                                     src="/wp-content/uploads/2022/11/pin.svg"
                                                                                 />
                                                                                 <span
-                                                                                    >No. 19A, Bat Khoi Road, Long
-                                                                                    Bien, Long Bien District, Hanoi</span
+                                                                                    >10 Collyer Quay, Ocean Financial Centre, Singapore 049315</span
                                                                                 >
                                                                             </div>
                                                                             <div class="showroom_tt">
@@ -54,12 +53,12 @@
                                                                 <li class="tab has-icon" role="presentation">
                                                                     <a href="#tab_2">
                                                                         <div class="showroom_product_item">
-                                                                            <h4>Warehouse 1: Hanoi Port</h4>
+                                                                            <h4>Warehouse 1: Jurong Port</h4>
                                                                             <div class="showroom_tt">
                                                                                 <img
                                                                                     src="/wp-content/uploads/2022/11/pin.svg"
                                                                                 />
-                                                                                <span>Hanoi Port</span>
+                                                                                <span>Jurong Port, Singapore</span>
                                                                             </div>
                                                                             <div class="showroom_tt">
                                                                                 <img
@@ -82,14 +81,14 @@
                                                                     <a href="#tab_3">
                                                                         <div class="showroom_product_item">
                                                                             <h4>
-                                                                                Warehouse 2: Xuan Thuy - Cau Giay - Hanoi
+                                                                                Warehouse 2: Orchard Road
                                                                             </h4>
                                                                             <div class="showroom_tt">
                                                                                 <img
                                                                                     src="/wp-content/uploads/2022/11/pin.svg"
                                                                                 />
                                                                                 <span
-                                                                                    >Xuan Thuy - Cau Giay - Hanoi</span
+                                                                                    >437 Orchard Rd, Singapore 238878</span
                                                                                 >
                                                                             </div>
                                                                             <div class="showroom_tt">
@@ -112,12 +111,12 @@
                                                                 <li class="tab has-icon" role="presentation">
                                                                     <a href="#tab_4">
                                                                         <div class="showroom_product_item">
-                                                                            <h4>Warehouse 3: Nguyen Trai - Thanh Xuan</h4>
+                                                                            <h4>Warehouse 3: Changi Airport</h4>
                                                                             <div class="showroom_tt">
                                                                                 <img
                                                                                     src="/wp-content/uploads/2022/11/pin.svg"
                                                                                 />
-                                                                                <span>Nguyen Trai - Thanh Xuan</span>
+                                                                                <span>81 Airport Blvd., Singapore 819642</span>
                                                                             </div>
                                                                             <div class="showroom_tt">
                                                                                 <img
@@ -140,8 +139,7 @@
                                                                     <a href="#tab_5">
                                                                         <div class="showroom_product_item">
                                                                             <h4>
-                                                                                Warehouse 4: Van Phu Clock Tower - Ha Dong -
-                                                                                Hanoi
+                                                                                Warehouse 4: 1 HarbourFront Place, Singapore 098633
                                                                             </h4>
                                                                             <div class="showroom_tt">
                                                                                 <img
@@ -172,14 +170,13 @@
                                                                 <li class="tab has-icon" role="presentation">
                                                                     <a href="#tab_6">
                                                                         <div class="showroom_product_item">
-                                                                            <h4>Nam Dinh Branch</h4>
+                                                                            <h4>Singapore East Branch</h4>
                                                                             <div class="showroom_tt">
                                                                                 <img
                                                                                     src="/wp-content/uploads/2022/11/pin.svg"
                                                                                 />
                                                                                 <span
-                                                                                    >Highway 21B Tan Dinh, Liem Hai, Truc Ninh,
-                                                                                    Nam Dinh</span
+                                                                                    >10 Bedok North Drive, Singapore 469274</span
                                                                                 >
                                                                             </div>
                                                                             <div class="showroom_tt">
@@ -206,7 +203,7 @@
                                                                     role="tabpanel"
                                                                 >
                                                                     <iframe
-                                                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.130531518073!2d105.8807237153721!3d21.02746249319743!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135a95df66cb255%3A0x4e9e13bfb78e99d!2zMTkgxJAuIELDoXQgS2jhu5FpLCBMb25nIEJpw6puLCBIw6AgTuG7mWksIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1667967429802!5m2!1svi!2s"
+                                                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.819917392683!2d103.85040131533036!3d1.2818629990650746!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da190ec31c504b%3A0x6bcfd35b1129b0a!2sOcean%20Financial%20Centre!5e0!3m2!1sen!2ssg!4v1689000000000!5m2!1sen!2ssg"
                                                                         width="600"
                                                                         height="450"
                                                                         style="border: 0"
@@ -217,7 +214,7 @@
                                                                 </div>
                                                                 <div id="2" class="panel entry-content" role="tabpanel">
                                                                     <iframe
-                                                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d953541.7596563939!2d104.75945363125!3d21.001754700000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ac005bc3ca7d%3A0x300819b092a5e8b8!2zQ-G6o25nIEjDoCBO4buZaQ!5e0!3m2!1svi!2s!4v1667967287270!5m2!1svi!2s"
+                                                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.790938459461!2d103.73145451533038!3d1.3060009990474637!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1a4231b2680f%3A0xb35b46e3000b0370!2sJurong%20Port!5e0!3m2!1sen!2ssg!4v1689000000000!5m2!1sen!2ssg"
                                                                         width="600"
                                                                         height="450"
                                                                         style="border: 0"
@@ -229,7 +226,7 @@
 
                                                                 <div id="3" class="panel entry-content" role="tabpanel">
                                                                     <iframe
-                                                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3723.9045017478074!2d105.78332211537234!3d21.036506792888698!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab358396c7a7%3A0x8c0029a430be510!2zWHXDom4gVGjhu6d5LCBD4bqndSBHaeG6pXksIEjDoCBO4buZaSwgVmnhu4d0IE5hbQ!5e0!3m2!1svi!2s!4v1667967457941!5m2!1svi!2s"
+                                                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.785002014166!2d103.83294331533039!3d1.3040339990488975!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1994b21609ff%3A0x33446059d0ef3a06!2sOrchard%20Rd!5e0!3m2!1sen!2ssg!4v1689000000000!5m2!1sen!2ssg"
                                                                         width="600"
                                                                         height="450"
                                                                         style="border: 0"
@@ -241,7 +238,7 @@
 
                                                                 <div id="4" class="panel entry-content" role="tabpanel">
                                                                     <iframe
-                                                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.978787940038!2d105.80419481537182!3d20.993487394356368!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ac90c642fc01%3A0x6aab5a22f55b82bd!2zxJAuIE5ndXnhu4VuIFRyw6NpLCBUaGFuaCBYdcOibiwgSMOgIE7hu5lpLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1667967477292!5m2!1svi!2s"
+                                                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7561853610996!2d103.98730991533044!3d1.3644201989974577!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da17d174665479%3A0xe54eb89e6eb7b9b1!2sSingapore%20Changi%20Airport!5e0!3m2!1sen!2ssg!4v1689000000000!5m2!1sen!2ssg"
                                                                         width="600"
                                                                         height="450"
                                                                         style="border: 0"
@@ -253,7 +250,7 @@
 
                                                                 <div id="5" class="panel entry-content" role="tabpanel">
                                                                     <iframe
-                                                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3725.877792270008!2d105.76653591537159!3d20.957422295584678!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3134538596b08dd9%3A0x1aa0daa8d416a834!2zVGjDoXAgxJDhu5NuZyBo4buTIFbEg24gUGjDug!5e0!3m2!1svi!2s!4v1667967502699!5m2!1svi!2s"
+                                                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8252033621453!2d103.81744111533036!3d1.2647898990775056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1955bf09b0b1%3A0xf67300d867c42732!2sHarbourFront%20Centre!5e0!3m2!1sen!2ssg!4v1689000000000!5m2!1sen!2ssg"
                                                                         width="600"
                                                                         height="450"
                                                                         style="border: 0"
@@ -265,7 +262,7 @@
 
                                                                 <div id="6" class="panel entry-content" role="tabpanel">
                                                                     <iframe
-                                                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d239175.82870001774!2d105.90886092782745!3d20.50121116672497!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3136090c6daac681%3A0x1eced6812d208d01!2zxJBJ4buGTiBNw4FZIFRI4buKTkggUEjDgVQ!5e0!3m2!1svi!2s!4v1667967568112!5m2!1svi!2s"
+                                                                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7758362630594!2d103.92984111533038!3d1.3210339990356193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da17f694e0e5ab%3A0x6b4459f8160037a!2sBedok%20Mall!5e0!3m2!1sen!2ssg!4v1689000000000!5m2!1sen!2ssg"
                                                                         width="600"
                                                                         height="450"
                                                                         style="border: 0"
@@ -368,16 +365,15 @@
                                                         <div><strong>DailySmartLife - LG BRANDSHOP</strong></div>
                                                         <div>
                                                             <span style="color: #011530"
-                                                                ><strong>Headquarters in Hanoi:</strong></span
+                                                                ><strong>Headquarters in Singapore:</strong></span
                                                             ><br /><span style="color: #011530"
-                                                                >Address: 19A Bat Khoi Road, Long Bien Ward, District
-                                                                Long Bien, Hanoi</span
+                                                                >Address: 10 Collyer Quay, Ocean Financial Centre, Singapore 049315</span
                                                             ><br /><span style="color: #011530"
-                                                                >Hotline, zalo: 0977.986.xxx</span
+                                                                >Hotline: +65 6701 1188</span
                                                             ><br /><span style="color: #011530"
                                                                 >Email: info@dailysmartlife.com.</span
                                                             ><br /><span style="color: #011530"
-                                                                ><strong>Nam Dinh Branch:</strong></span
+                                                                ><strong>Singapore East Branch:</strong></span
                                                             ><br /><span style="color: #011530"
                                                                 >Address: Highway 21B Tan Dinh, Liem Hai, Truc Ninh, Nam
                                                                 Dinh</span
