@@ -25,7 +25,7 @@
 
 ---
 
-## 🚀 VPS Deployment Steps (Skipped - Local Dev Only)
+## 🚀 VPS Deployment Steps
 
 To release these changes to the live VPS:
 1. Log in to the 1Panel terminal on the VPS.
